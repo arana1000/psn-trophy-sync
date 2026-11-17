@@ -1,0 +1,44 @@
+name: Sync PSN trophies
+
+on:
+  schedule:
+    - cron: "23 * * * *" # every hour at :23 (UTC). GitHub may start it a few minutes late.
+  workflow_dispatch: # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trophy-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Sync trophies
+        run: node sync.mjs
+        env:
+          PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "trophy-sync-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "No trophy changes."
+          else
+            git commit -m "Trophy update $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
