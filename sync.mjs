@@ -1,9 +1,13 @@
 // PSN trophy sync
-// Reads one PSN user's trophies for the games listed in config.json and writes
-// spoiler-safe snapshots to data/. Only EARNED trophies are written with names
-// and descriptions; unearned trophies are reduced to counts.
+// Tracks EVERY game on one PSN account automatically and writes spoiler-safe
+// snapshots to data/. Only EARNED trophies are written with names and
+// descriptions; unearned trophies are reduced to counts.
+//
+// To stay well inside PSN's rate limits it only re-reads games whose trophy
+// data changed since the last run, and at most MAX_TITLES_PER_RUN per run.
+// The first runs fill in the backlog a batch at a time.
 
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import {
   exchangeNpssoForAccessCode,
   exchangeAccessCodeForAuthTokens,
@@ -14,28 +18,32 @@ import {
 } from "psn-api";
 
 const DATA_DIR = "data";
+const GAMES_DIR = `${DATA_DIR}/games`;
+const DEFAULT_MAX_TITLES_PER_RUN = 40;
+const PAUSE_BETWEEN_GAMES_MS = 400;
+const STOP_AFTER_CONSECUTIVE_FAILURES = 3;
 
-// "Grand Theft Auto VI™" -> "grandtheftautovi"
-// Exact match on this form, so "Grand Theft Auto V" never matches "VI".
-const normalise = (name) =>
-  name
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+const slugify = (text) =>
+  text
     .normalize("NFKD")
-    .toLowerCase()
-    .replace(/[^a-z0-9]/g, "");
-
-const slugify = (name, platform) =>
-  `${name}-${platform}`
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-|-$/g, "");
 
+// One file per trophy list. The PSN id keeps regional versions apart.
+const fileFor = (title) =>
+  `${GAMES_DIR}/${slugify(title.trophyTitleName)}-${title.trophyTitlePlatform.toLowerCase()}-${title.npCommunicationId.toLowerCase()}.json`;
+
 async function loadConfig() {
   const config = JSON.parse(await readFile("config.json", "utf8"));
   if (!config.psnUser) throw new Error("config.json is missing psnUser");
-  if (!Array.isArray(config.games) || config.games.length === 0) {
-    throw new Error("config.json needs at least one entry in games");
-  }
-  return { language: "en-GB", ...config };
+  return {
+    language: "en-GB",
+    maxTitlesPerRun: DEFAULT_MAX_TITLES_PER_RUN,
+    ...config
+  };
 }
 
 async function authenticate() {
@@ -59,6 +67,15 @@ async function authenticate() {
   }
 }
 
+async function getAccountId(auth, psnUser) {
+  try {
+    const { profile } = await getProfileFromUserName(auth, psnUser);
+    return profile.accountId;
+  } catch (err) {
+    throw new Error(`Could not find PSN user "${psnUser}" (${err.message}). Check psnUser in config.json.`);
+  }
+}
+
 async function getAllTitles(auth, accountId) {
   const titles = [];
   let offset = 0;
@@ -77,6 +94,42 @@ async function getAllTitles(auth, accountId) {
   return titles;
 }
 
+// Existing snapshots, keyed by PSN id, so unchanged games are skipped.
+async function loadSnapshots() {
+  const snapshots = new Map();
+  let files = [];
+  try {
+    files = await readdir(GAMES_DIR);
+  } catch {
+    return snapshots;
+  }
+  for (const file of files.filter((f) => f.endsWith(".json"))) {
+    try {
+      const snap = JSON.parse(await readFile(`${GAMES_DIR}/${file}`, "utf8"));
+      if (snap.npCommunicationId) snapshots.set(snap.npCommunicationId, snap);
+    } catch {
+      // A broken file is simply re-synced.
+    }
+  }
+  return snapshots;
+}
+
+// Files from the first version of this script lived directly in data/.
+async function removeLegacyFiles() {
+  let files = [];
+  try {
+    files = await readdir(DATA_DIR);
+  } catch {
+    return;
+  }
+  for (const file of files) {
+    if (file.endsWith(".json") && file !== "titles.json") {
+      await rm(`${DATA_DIR}/${file}`);
+      console.log(`Removed old-format file data/${file}`);
+    }
+  }
+}
+
 async function snapshotTitle(auth, accountId, title, language) {
   const options = { npServiceName: title.npServiceName };
 
@@ -89,7 +142,7 @@ async function snapshotTitle(auth, accountId, title, language) {
   ]);
 
   if (!earnedRes?.trophies || !definedRes?.trophies) {
-    throw new Error(`Could not read trophies for ${title.trophyTitleName}`);
+    throw new Error(`unexpected response ${JSON.stringify(earnedRes?.error ?? definedRes?.error ?? "")}`);
   }
 
   const definitions = new Map(definedRes.trophies.map((t) => [t.trophyId, t]));
@@ -130,30 +183,38 @@ async function snapshotTitle(auth, accountId, title, language) {
   };
 }
 
-function summaryMarkdown(user, snapshots, missing) {
+function summaryMarkdown(user, titles, snapshots, pendingCount) {
   const lines = [`# Trophy sync: ${user}`, ""];
-  for (const s of snapshots) {
-    lines.push(`## ${s.game} (${s.platform})`, "");
+
+  if (pendingCount > 0) {
     lines.push(
-      `${s.earnedTotal} earned, ${s.unearnedTotal} remaining, ${s.progressPercent}% progress. ` +
-        `PSN last updated ${s.psnLastUpdated}.`,
+      `Still filling in: ${pendingCount} of ${titles.length} games not synced yet. They'll be added over the next few hourly runs.`,
       ""
     );
-    if (s.earned.length > 0) {
-      lines.push("| Earned (UTC) | Trophy | Type |", "|---|---|---|");
-      for (const t of [...s.earned].reverse()) {
-        lines.push(`| ${t.earnedDateTime ?? ""} | ${t.name ?? `#${t.id}`} | ${t.type} |`);
-      }
-      lines.push("");
-    }
   }
-  if (missing.length > 0) {
-    lines.push(
-      "## Not found yet",
-      "",
-      ...missing.map((g) => `- ${g} (no trophies earned yet, or the name in config.json doesn't match; see titles.json)`),
-      ""
-    );
+
+  const recent = [];
+  for (const snap of snapshots.values()) {
+    for (const t of snap.earned) recent.push({ ...t, game: snap.game, platform: snap.platform });
+  }
+  recent.sort((a, b) => String(b.earnedDateTime).localeCompare(String(a.earnedDateTime)));
+
+  lines.push("## Recently earned", "", "| Earned (UTC) | Trophy | Type | Game |", "|---|---|---|---|");
+  for (const t of recent.slice(0, 25)) {
+    lines.push(`| ${t.earnedDateTime ?? ""} | ${t.name ?? `#${t.id}`} | ${t.type} | ${t.game} (${t.platform}) |`);
+  }
+  lines.push("");
+
+  lines.push("## All games", "", "| Game | Platform | Progress | Earned | Platinum |", "|---|---|---|---|---|");
+  const sorted = [...titles].sort((a, b) =>
+    String(b.lastUpdatedDateTime).localeCompare(String(a.lastUpdatedDateTime))
+  );
+  for (const t of sorted) {
+    const snap = snapshots.get(t.npCommunicationId);
+    const earned = snap ? `${snap.earnedTotal} / ${snap.earnedTotal + snap.unearnedTotal}` : "not synced yet";
+    const hasPlatinum = (t.definedTrophies?.platinum ?? 0) > 0;
+    const platinum = !hasPlatinum ? "n/a" : (t.earnedTrophies?.platinum ?? 0) > 0 ? "Yes" : "No";
+    lines.push(`| ${t.trophyTitleName} | ${t.trophyTitlePlatform} | ${t.progress}% | ${earned} | ${platinum} |`);
   }
   return lines.join("\n");
 }
@@ -161,42 +222,55 @@ function summaryMarkdown(user, snapshots, missing) {
 async function main() {
   const config = await loadConfig();
   const auth = await authenticate();
-
-  let accountId;
-  try {
-    const { profile } = await getProfileFromUserName(auth, config.psnUser);
-    accountId = profile.accountId;
-  } catch (err) {
-    throw new Error(`Could not find PSN user "${config.psnUser}" (${err.message}). Check psnUser in config.json.`);
-  }
-
+  const accountId = await getAccountId(auth, config.psnUser);
   const titles = await getAllTitles(auth, accountId);
-  await mkdir(DATA_DIR, { recursive: true });
 
-  // Recent titles with their exact PSN names, to copy into config.json.
-  const recent = titles
-    .slice()
+  await mkdir(GAMES_DIR, { recursive: true });
+  await removeLegacyFiles();
+
+  // Every title with its exact PSN name, most recent first.
+  const allTitles = [...titles]
     .sort((a, b) => String(b.lastUpdatedDateTime).localeCompare(String(a.lastUpdatedDateTime)))
-    .slice(0, 30)
-    .map((t) => ({ name: t.trophyTitleName, platform: t.trophyTitlePlatform }));
-  await writeFile(`${DATA_DIR}/titles.json`, JSON.stringify(recent, null, 2) + "\n");
+    .map((t) => ({ name: t.trophyTitleName, platform: t.trophyTitlePlatform, progressPercent: t.progress }));
+  await writeFile(`${DATA_DIR}/titles.json`, JSON.stringify(allTitles, null, 2) + "\n");
 
-  const wanted = new Map(config.games.map((g) => [normalise(g), g]));
-  const matches = titles.filter((t) => wanted.has(normalise(t.trophyTitleName)));
-  const foundKeys = new Set(matches.map((t) => normalise(t.trophyTitleName)));
-  const missing = [...wanted].filter(([key]) => !foundKeys.has(key)).map(([, name]) => name);
+  const snapshots = await loadSnapshots();
 
-  const snapshots = [];
-  for (const title of matches) {
-    const snap = await snapshotTitle(auth, accountId, title, config.language);
-    snapshots.push(snap);
-    const file = `${DATA_DIR}/${slugify(title.trophyTitleName, title.trophyTitlePlatform)}.json`;
-    await writeFile(file, JSON.stringify(snap, null, 2) + "\n");
-    console.log(`${snap.game} (${snap.platform}): ${snap.earnedTotal} earned, ${snap.unearnedTotal} remaining`);
+  // New or changed games, most recently played first.
+  const stale = titles
+    .filter((t) => snapshots.get(t.npCommunicationId)?.psnLastUpdated !== t.lastUpdatedDateTime)
+    .sort((a, b) => String(b.lastUpdatedDateTime).localeCompare(String(a.lastUpdatedDateTime)));
+  const batch = stale.slice(0, config.maxTitlesPerRun);
+  console.log(`${titles.length} games on the account, ${stale.length} new or changed, syncing ${batch.length} this run.`);
+
+  let synced = 0;
+  let consecutiveFailures = 0;
+  for (const title of batch) {
+    try {
+      const snap = await snapshotTitle(auth, accountId, title, config.language);
+      await writeFile(fileFor(title), JSON.stringify(snap, null, 2) + "\n");
+      snapshots.set(title.npCommunicationId, snap);
+      synced += 1;
+      consecutiveFailures = 0;
+      console.log(`Synced ${snap.game} (${snap.platform}): ${snap.earnedTotal} earned, ${snap.unearnedTotal} remaining`);
+    } catch (err) {
+      consecutiveFailures += 1;
+      console.log(`Skipped ${title.trophyTitleName} (${title.trophyTitlePlatform}) for now: ${err.message}`);
+      if (consecutiveFailures >= STOP_AFTER_CONSECUTIVE_FAILURES) {
+        console.log("Several failures in a row, probably a PSN rate limit. Stopping; the next run carries on.");
+        break;
+      }
+    }
+    await sleep(PAUSE_BETWEEN_GAMES_MS);
   }
 
-  await writeFile(`${DATA_DIR}/summary.md`, summaryMarkdown(config.psnUser, snapshots, missing) + "\n");
-  for (const g of missing) console.log(`Not found: ${g}`);
+  const pendingCount = titles.filter((t) => !snapshots.has(t.npCommunicationId)).length;
+  await writeFile(`${DATA_DIR}/summary.md`, summaryMarkdown(config.psnUser, titles, snapshots, pendingCount) + "\n");
+  console.log(`Done: ${synced} synced this run, ${pendingCount} still to fill in.`);
+
+  if (batch.length > 0 && synced === 0) {
+    throw new Error("No games could be synced this run. See the messages above.");
+  }
 }
 
 main().catch((err) => {
