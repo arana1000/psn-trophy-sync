@@ -1,0 +1,11 @@
+{
+  "name": "psn-trophy-sync",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node sync.mjs"
+  },
+  "dependencies": {
+    "psn-api": "2.18.1"
+  }
+}
