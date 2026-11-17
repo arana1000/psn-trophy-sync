@@ -1,7 +1,5 @@
 # Trophy sync: abz_r100
 
-Still filling in: 3 of 203 games not synced yet. They'll be added over the next few hourly runs.
-
 ## Recently earned
 
 | Earned (UTC) | Trophy | Type | Game |
@@ -236,6 +234,6 @@ Still filling in: 3 of 203 games not synced yet. They'll be added over the next 
 | Uncharted 2: Among Thieves™ Remastered | PS4 | 20% | 15 / 53 | No |
 | Injustice: Gods Among Us Ultimate Edition | PS4 | 17% | 12 / 51 | No |
 | DRIVECLUB™ | PS4 | 2% | 6 / 128 | No |
-| inFAMOUS First Light™ | PS4 | 21% | not synced yet | No |
-| The Crew™ | PS4 | 1% | not synced yet | No |
-| THE PLAYROOM | PS4 | 0% | not synced yet | n/a |
+| inFAMOUS First Light™ | PS4 | 21% | 4 / 25 | No |
+| The Crew™ | PS4 | 1% | 1 / 51 | No |
+| THE PLAYROOM | PS4 | 0% | 0 / 24 | n/a |
