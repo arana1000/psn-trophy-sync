@@ -1,0 +1,61 @@
+{
+  "game": "EA SPORTS FC™ 24 Trophies",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR35517_00",
+  "progressPercent": 8,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 26,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2023-12-10T23:40:06Z",
+  "earnedTotal": 4,
+  "unearnedTotal": 37,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 8,
+    "bronze": 24
+  },
+  "earned": [
+    {
+      "id": 28,
+      "name": "First of Many",
+      "detail": "Win your first Clubs League Match",
+      "type": "bronze",
+      "earnedDateTime": "2023-11-30T01:09:16Z",
+      "rarityPercent": 9.3
+    },
+    {
+      "id": 26,
+      "name": "We're Going Up",
+      "detail": "Earn a Clubs League Promotion with your Club",
+      "type": "bronze",
+      "earnedDateTime": "2023-11-30T01:43:14Z",
+      "rarityPercent": 7.4
+    },
+    {
+      "id": 12,
+      "name": "PlayStyles+",
+      "detail": "Score a goal with an active PlayStyle+",
+      "type": "silver",
+      "earnedDateTime": "2023-11-30T03:59:04Z",
+      "rarityPercent": 48.5
+    },
+    {
+      "id": 5,
+      "name": "On the way up",
+      "detail": "Reach Level 7 in a Season in Volta Football or Clubs",
+      "type": "silver",
+      "earnedDateTime": "2023-12-10T23:40:05Z",
+      "rarityPercent": 5.9
+    }
+  ]
+}

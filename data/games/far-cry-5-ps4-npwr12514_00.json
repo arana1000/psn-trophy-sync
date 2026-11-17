@@ -1,0 +1,101 @@
+{
+  "game": "Far Cry® 5",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR12514_00",
+  "progressPercent": 9,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 53,
+    "silver": 14,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-03-28T01:49:37Z",
+  "earnedTotal": 9,
+  "unearnedTotal": 64,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 12,
+    "bronze": 46
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Spark",
+      "detail": "Complete the game intro by liberating Dutch’s island (Solo Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2020-03-26T17:12:22Z",
+      "rarityPercent": 86.8
+    },
+    {
+      "id": 42,
+      "name": "Road Gunner",
+      "detail": "While driving or leaning out of a vehicle, kill 25 enemies (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2020-03-26T18:15:04Z",
+      "rarityPercent": 69.1
+    },
+    {
+      "id": 46,
+      "name": "Hitting it Off",
+      "detail": "Play 3 quests with a friend (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2020-03-26T18:19:43Z",
+      "rarityPercent": 18.3
+    },
+    {
+      "id": 19,
+      "name": "A Wing And A Prayer",
+      "detail": "Fly Nick's plane. Hopefully you're not afraid of heights (Solo Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2020-03-26T18:46:30Z",
+      "rarityPercent": 57
+    },
+    {
+      "id": 2,
+      "name": "You Are Wrath",
+      "detail": "Be deemed the Sin of Wrath (Solo Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2020-03-28T18:30:56Z",
+      "rarityPercent": 55.2
+    },
+    {
+      "id": 14,
+      "name": "Liberator",
+      "detail": "Liberate 5 locations from the Project at Eden's Gate (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2020-03-28T18:43:07Z",
+      "rarityPercent": 60.4
+    },
+    {
+      "id": 5,
+      "name": "Walk The Path",
+      "detail": "Discover the Bliss (Solo Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-26T02:56:59Z",
+      "rarityPercent": 51.1
+    },
+    {
+      "id": 21,
+      "name": "Sewer Rat",
+      "detail": "Destroy a cult water treatment pump and make them thirst for revenge (Solo Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-28T01:37:08Z",
+      "rarityPercent": 46.7
+    },
+    {
+      "id": 8,
+      "name": "Blissful",
+      "detail": "Save the Marshal from the Bliss (Solo Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2025-03-28T01:49:35Z",
+      "rarityPercent": 44.7
+    }
+  ]
+}

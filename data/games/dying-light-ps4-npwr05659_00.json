@@ -1,0 +1,485 @@
+{
+  "game": "Dying Light",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR05659_00",
+  "progressPercent": 79,
+  "earnedCounts": {
+    "bronze": 42,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 50,
+    "silver": 15,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-08-08T19:04:51Z",
+  "earnedTotal": 57,
+  "unearnedTotal": 12,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 3,
+    "bronze": 8
+  },
+  "earned": [
+    {
+      "id": 23,
+      "name": "Is It Really Necessary?",
+      "detail": "Kill your first Infected",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-23T13:31:15Z",
+      "rarityPercent": 94
+    },
+    {
+      "id": 38,
+      "name": "Little Craftsman",
+      "detail": "Craft your first item",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-23T13:34:32Z",
+      "rarityPercent": 92.6
+    },
+    {
+      "id": 1,
+      "name": "Flight of the Crane",
+      "detail": "Jump from the Crane",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-23T13:40:36Z",
+      "rarityPercent": 90.3
+    },
+    {
+      "id": 46,
+      "name": "I've Got Your Back",
+      "detail": "Complete 1 quest in a co-op game",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-23T14:23:58Z",
+      "rarityPercent": 37
+    },
+    {
+      "id": 2,
+      "name": "My left or your left?",
+      "detail": "Meet with Rais",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-23T15:36:46Z",
+      "rarityPercent": 66.1
+    },
+    {
+      "id": 29,
+      "name": "BBQ",
+      "detail": "Stick a burning zombie on spikes",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-24T20:39:49Z",
+      "rarityPercent": 24.8
+    },
+    {
+      "id": 36,
+      "name": "Prom Night",
+      "detail": "Survive night pursuit of level two or higher",
+      "type": "silver",
+      "earnedDateTime": "2024-05-26T19:03:53Z",
+      "rarityPercent": 59
+    },
+    {
+      "id": 27,
+      "name": "Mouths Wide Open",
+      "detail": "Kill a Volatile",
+      "type": "silver",
+      "earnedDateTime": "2024-05-26T19:09:21Z",
+      "rarityPercent": 51.1
+    },
+    {
+      "id": 40,
+      "name": "Open Sesame",
+      "detail": "Perform 10 successful Lockpicks",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-26T21:14:49Z",
+      "rarityPercent": 58
+    },
+    {
+      "id": 21,
+      "name": "Pheidippides",
+      "detail": "Run (move or sprint) at least 42,195 m",
+      "type": "silver",
+      "earnedDateTime": "2024-05-27T20:54:41Z",
+      "rarityPercent": 52.3
+    },
+    {
+      "id": 47,
+      "name": "Polyamory",
+      "detail": "Complete 5 quests in a single co-op game with the same 3 partners",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-27T21:48:40Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 18,
+      "name": "Trade Company",
+      "detail": "Sell items worth 10,000 dollars",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-27T22:16:52Z",
+      "rarityPercent": 47.1
+    },
+    {
+      "id": 43,
+      "name": "Agile",
+      "detail": "Reach Agility Prof. Lvl 10",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-27T23:03:02Z",
+      "rarityPercent": 46.5
+    },
+    {
+      "id": 3,
+      "name": "Snake in the grass",
+      "detail": "Escape the arena",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-27T23:33:38Z",
+      "rarityPercent": 46.8
+    },
+    {
+      "id": 41,
+      "name": "Everybody Knows Kyle",
+      "detail": "Reach Survivor Rank lvl 12",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-27T23:33:38Z",
+      "rarityPercent": 43.6
+    },
+    {
+      "id": 4,
+      "name": "Sightseeing",
+      "detail": "Reach the Old Town",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-28T00:34:18Z",
+      "rarityPercent": 45
+    },
+    {
+      "id": 44,
+      "name": "Strong",
+      "detail": "Reach Power Prof. Lvl 10",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-28T20:28:06Z",
+      "rarityPercent": 49.7
+    },
+    {
+      "id": 11,
+      "name": "Disaster Recovery",
+      "detail": "Get 15 Relief Packages",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-28T20:56:18Z",
+      "rarityPercent": 32.5
+    },
+    {
+      "id": 28,
+      "name": "Hush, Hush Now",
+      "detail": "Quiet a Screamer",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-28T22:23:18Z",
+      "rarityPercent": 42.2
+    },
+    {
+      "id": 5,
+      "name": "Making Faces",
+      "detail": "Show the outside world that you're still alive",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-28T22:29:08Z",
+      "rarityPercent": 41.9
+    },
+    {
+      "id": 31,
+      "name": "Harran Shooting Club",
+      "detail": "Kill 50 enemies with shooting weapons",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-29T12:49:37Z",
+      "rarityPercent": 48.2
+    },
+    {
+      "id": 6,
+      "name": "Tied loose end",
+      "detail": "Deal with Tahir",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-30T22:09:33Z",
+      "rarityPercent": 40.1
+    },
+    {
+      "id": 22,
+      "name": "Mount Everest",
+      "detail": "Climb at least 8848 meters on various objects.",
+      "type": "silver",
+      "earnedDateTime": "2024-05-30T22:57:53Z",
+      "rarityPercent": 27.2
+    },
+    {
+      "id": 8,
+      "name": "Vertigo",
+      "detail": "Activate the Amplifier",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-30T23:33:37Z",
+      "rarityPercent": 38.6
+    },
+    {
+      "id": 7,
+      "name": "Now You Can Come In",
+      "detail": "Find Camden",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-30T23:49:42Z",
+      "rarityPercent": 38
+    },
+    {
+      "id": 9,
+      "name": "Bittersweet",
+      "detail": "Complete the game",
+      "type": "gold",
+      "earnedDateTime": "2024-06-07T23:45:28Z",
+      "rarityPercent": 35.1
+    },
+    {
+      "id": 59,
+      "name": "Afraid to get wet?",
+      "detail": "Reach the end of the cliff",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-07T00:30:16Z",
+      "rarityPercent": 22.1
+    },
+    {
+      "id": 42,
+      "name": "The Legend of Harran",
+      "detail": "Reach Survivor Rank lvl 18",
+      "type": "silver",
+      "earnedDateTime": "2024-07-10T00:14:46Z",
+      "rarityPercent": 27.2
+    },
+    {
+      "id": 65,
+      "name": "I Felt Your Presence",
+      "detail": "Witness the cult's meeting",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-12T21:10:44Z",
+      "rarityPercent": 15.3
+    },
+    {
+      "id": 61,
+      "name": "I was waiting for you for so long",
+      "detail": "Reach the inner circle",
+      "type": "silver",
+      "earnedDateTime": "2024-07-18T01:31:42Z",
+      "rarityPercent": 13
+    },
+    {
+      "id": 60,
+      "name": "And you liked him, didn't you?",
+      "detail": "Meet your old friend  again",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-18T01:53:07Z",
+      "rarityPercent": 9.9
+    },
+    {
+      "id": 64,
+      "name": "What If You Picked The Other One?",
+      "detail": "Make the call",
+      "type": "silver",
+      "earnedDateTime": "2024-07-18T02:14:53Z",
+      "rarityPercent": 9.4
+    },
+    {
+      "id": 25,
+      "name": "Can't Touch This",
+      "detail": "Kill 20 enemies in a row without taking damage.",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-18T02:18:33Z",
+      "rarityPercent": 48
+    },
+    {
+      "id": 50,
+      "name": "A Long Way Down",
+      "detail": "Jump to the water from the Infamy Bridge (Slums) at night",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-28T22:36:16Z",
+      "rarityPercent": 15
+    },
+    {
+      "id": 17,
+      "name": "Harran Athletics",
+      "detail": "Take part in 10 coop competitions",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-31T17:55:34Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 16,
+      "name": "Lucky 7",
+      "detail": "Win 7 coop competitions",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-31T18:02:37Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 24,
+      "name": "Everybody Dance Now",
+      "detail": "Simultaneously shock 5 monsters with electricity",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-31T18:02:58Z",
+      "rarityPercent": 25.6
+    },
+    {
+      "id": 12,
+      "name": "We're All In This Together",
+      "detail": "Save 15 survivors from zombies",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-01T18:44:40Z",
+      "rarityPercent": 24.1
+    },
+    {
+      "id": 15,
+      "name": "I'm a Runner and a fighter",
+      "detail": "Complete 15 Agility or Power Challenges",
+      "type": "silver",
+      "earnedDateTime": "2024-08-04T20:56:29Z",
+      "rarityPercent": 5
+    },
+    {
+      "id": 20,
+      "name": "Now It's Safe",
+      "detail": "Capture all Safe Zones",
+      "type": "silver",
+      "earnedDateTime": "2024-08-04T21:17:22Z",
+      "rarityPercent": 17.4
+    },
+    {
+      "id": 53,
+      "name": "Pearls in the Mud",
+      "detail": "Open 5 GRE chests in Quarantine Zones",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T14:53:45Z",
+      "rarityPercent": 16.9
+    },
+    {
+      "id": 19,
+      "name": "Trespassing",
+      "detail": "Complete all Quarantine Zones",
+      "type": "silver",
+      "earnedDateTime": "2024-08-05T16:34:29Z",
+      "rarityPercent": 2.7
+    },
+    {
+      "id": 10,
+      "name": "The Whole Story",
+      "detail": "Finish all side quests",
+      "type": "gold",
+      "earnedDateTime": "2024-08-05T18:05:16Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 34,
+      "name": "High Flyer",
+      "detail": "Kill 25 enemies using Ground Pound or Drop Attack",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T18:09:20Z",
+      "rarityPercent": 16.8
+    },
+    {
+      "id": 49,
+      "name": "Gabriel's Sword",
+      "detail": "Add a fire elemental effect to a sword or a khopesh",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T18:10:35Z",
+      "rarityPercent": 18.5
+    },
+    {
+      "id": 14,
+      "name": "Bolter Hunting",
+      "detail": "Catch 5 Bolters",
+      "type": "silver",
+      "earnedDateTime": "2024-08-05T20:35:41Z",
+      "rarityPercent": 14
+    },
+    {
+      "id": 32,
+      "name": "Electrified!",
+      "detail": "Catch 25 enemies in the Electric Fence trap",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T20:42:41Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 35,
+      "name": "Judo Master",
+      "detail": "Throw 50 enemies with Grapple",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T20:46:47Z",
+      "rarityPercent": 13.5
+    },
+    {
+      "id": 48,
+      "name": "Italian Plumber",
+      "detail": "Kill an enemy with a wrench, using Vault followed by Drop Attack",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T20:49:29Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 37,
+      "name": "Enlightened!",
+      "detail": "Blind 25 enemies in the Light Trap",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T21:25:01Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 33,
+      "name": "Blinded by the Lights",
+      "detail": "Blind 25 Volatiles with flares or a flashlight",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T21:28:00Z",
+      "rarityPercent": 16
+    },
+    {
+      "id": 26,
+      "name": "This is Harraaaaan!",
+      "detail": "Kill 100 enemies by kicking them off the rooftops/cliffs.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T21:48:15Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 30,
+      "name": "A Game of Catch",
+      "detail": "Kill 50 enemies with throwing weapons",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-05T21:59:30Z",
+      "rarityPercent": 23.2
+    },
+    {
+      "id": 13,
+      "name": "Homo Homini Lupus Est",
+      "detail": "Save 15 survivors from Rais's men",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-07T21:53:40Z",
+      "rarityPercent": 5.3
+    },
+    {
+      "id": 39,
+      "name": "Master Crafter",
+      "detail": "Use Blueprints at least 100 times",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-07T21:58:52Z",
+      "rarityPercent": 31.9
+    },
+    {
+      "id": 0,
+      "name": "We’ll talk about it next time I see you",
+      "detail": "Get all game trophies",
+      "type": "platinum",
+      "earnedDateTime": "2024-08-08T19:04:49Z",
+      "rarityPercent": 0.8
+    },
+    {
+      "id": 45,
+      "name": "It's All In the Writing",
+      "detail": "Find all text collectibles",
+      "type": "silver",
+      "earnedDateTime": "2024-08-08T19:04:49Z",
+      "rarityPercent": 1.3
+    }
+  ]
+}

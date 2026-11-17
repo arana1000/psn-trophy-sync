@@ -1,0 +1,61 @@
+{
+  "game": "Ghostrunner 2",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR32407_00",
+  "progressPercent": 5,
+  "earnedCounts": {
+    "bronze": 4,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 15,
+    "silver": 14,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-07-28T00:23:56Z",
+  "earnedTotal": 4,
+  "unearnedTotal": 30,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 14,
+    "bronze": 11
+  },
+  "earned": [
+    {
+      "id": 23,
+      "name": "First Time?",
+      "detail": "Die for the first time",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-26T00:32:39Z",
+      "rarityPercent": 92.6
+    },
+    {
+      "id": 9,
+      "name": "The Quarterback",
+      "detail": "Defeat Ahriman the Destroyer",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-26T00:54:08Z",
+      "rarityPercent": 31.1
+    },
+    {
+      "id": 24,
+      "name": "The Old-School Way",
+      "detail": "Finish any level without blocking",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-26T00:54:08Z",
+      "rarityPercent": 10.3
+    },
+    {
+      "id": 16,
+      "name": "Baby Steps",
+      "detail": "Buy your first Upgrade Chip",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-28T00:23:56Z",
+      "rarityPercent": 28.5
+    }
+  ]
+}

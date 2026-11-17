@@ -1,0 +1,437 @@
+{
+  "game": "Call of Duty®: Modern Warfare® Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR11068_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 34,
+    "silver": 15,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 15,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-02-18T03:53:33Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Earn a Winged Dagger",
+      "detail": "Complete 'F.N.G.'.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-06T20:22:17Z",
+      "rarityPercent": 50.5
+    },
+    {
+      "id": 2,
+      "name": "Make the Jump",
+      "detail": "Infiltrate a cargo ship.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-06T20:31:48Z",
+      "rarityPercent": 45.8
+    },
+    {
+      "id": 3,
+      "name": "Dancing in the Dark",
+      "detail": "Kill the power.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T18:00:58Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 14,
+      "name": "Rescue Roycewicz",
+      "detail": "Save Pvt. Roycewicz on the stairs.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:04:55Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 4,
+      "name": "Save the Bacon",
+      "detail": "Protect 'War Pig', the Abrams tank.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:18:00Z",
+      "rarityPercent": 31.2
+    },
+    {
+      "id": 33,
+      "name": "Daredevil",
+      "detail": "Kill an enemy while blinded by a flashbang in the single player campaign.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:24:33Z",
+      "rarityPercent": 27.6
+    },
+    {
+      "id": 20,
+      "name": "No Rest for the Weary",
+      "detail": "Stab an injured crawling enemy.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:26:35Z",
+      "rarityPercent": 17.4
+    },
+    {
+      "id": 17,
+      "name": "Straight Flush",
+      "detail": "Kill 5 enemies with one shot while in the AC-130 gunship.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:36:13Z",
+      "rarityPercent": 27.4
+    },
+    {
+      "id": 5,
+      "name": "Death From Above",
+      "detail": "Operate an AC-130 gun ship.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:43:09Z",
+      "rarityPercent": 28
+    },
+    {
+      "id": 35,
+      "name": "Bird on the Ground",
+      "detail": "Shoot down an enemy helicopter with an RPG in the single player campaign.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:46:21Z",
+      "rarityPercent": 5
+    },
+    {
+      "id": 36,
+      "name": "Four of a Kind",
+      "detail": "Kill 4 enemies in a row with headshots in the single player campaign.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T20:48:29Z",
+      "rarityPercent": 31.5
+    },
+    {
+      "id": 50,
+      "name": "Explosion Man",
+      "detail": "Kill 20 enemies with explosives in a single level.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T21:19:38Z",
+      "rarityPercent": 24.4
+    },
+    {
+      "id": 12,
+      "name": "Down Boy Down",
+      "detail": "Survive a dog attack.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T21:30:57Z",
+      "rarityPercent": 23.6
+    },
+    {
+      "id": 6,
+      "name": "Wrong Number",
+      "detail": "Find Al-Asad's safehouse.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-07T21:45:41Z",
+      "rarityPercent": 24.3
+    },
+    {
+      "id": 49,
+      "name": "Reinforcement Denied",
+      "detail": "Kill at least 3 rappelling enemies in a single rope.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-08T20:58:37Z",
+      "rarityPercent": 21.1
+    },
+    {
+      "id": 7,
+      "name": "Piggyback Ride",
+      "detail": "Carry Cpt. MacMillan to safety.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-08T21:02:37Z",
+      "rarityPercent": 22.1
+    },
+    {
+      "id": 8,
+      "name": "Desperate Measures",
+      "detail": "Corner Zakhaev's Son.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-11T18:01:56Z",
+      "rarityPercent": 20.7
+    },
+    {
+      "id": 10,
+      "name": "Look Sharp",
+      "detail": "Find 15 enemy intel items.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-11T18:14:22Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 9,
+      "name": "Win the War",
+      "detail": "Complete the game on any difficulty.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-11T19:26:03Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 13,
+      "name": "New Squadron Record",
+      "detail": "Complete the cargo ship mockup in less than 19 seconds.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-16T04:44:32Z",
+      "rarityPercent": 5.4
+    },
+    {
+      "id": 47,
+      "name": "Best of the Best",
+      "detail": "Beat IW best time on the Ship Training course in 'F.N.G.' (15.1 sec).",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T04:49:05Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 22,
+      "name": "The Package",
+      "detail": "Complete 'Crew Expendable' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T05:11:44Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 23,
+      "name": "The Rescue",
+      "detail": "Complete 'Blackout' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T16:28:16Z",
+      "rarityPercent": 4.6
+    },
+    {
+      "id": 34,
+      "name": "Roadkill",
+      "detail": "Kill 2 enemies by blowing up a car in the single player campaign.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-16T17:27:09Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 24,
+      "name": "The Search",
+      "detail": "Complete 'Charlie Don't Surf' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T17:30:14Z",
+      "rarityPercent": 3.5
+    },
+    {
+      "id": 45,
+      "name": "Feel the Heat",
+      "detail": "Kill all 4 tanks on the overpass with the Javelin missile in 'The Bog'.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-16T17:42:39Z",
+      "rarityPercent": 11.3
+    },
+    {
+      "id": 26,
+      "name": "The Escape",
+      "detail": "Complete 'Hunted' and 'Death From Above' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T19:58:15Z",
+      "rarityPercent": 2.7
+    },
+    {
+      "id": 25,
+      "name": "The Bog",
+      "detail": "Complete 'The Bog' and 'War Pig' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T21:10:57Z",
+      "rarityPercent": 2.6
+    },
+    {
+      "id": 27,
+      "name": "The First Horseman",
+      "detail": "Complete 'Shock and Awe' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T21:31:23Z",
+      "rarityPercent": 2.6
+    },
+    {
+      "id": 28,
+      "name": "The Second Horseman",
+      "detail": "Complete 'Safehouse' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-17T01:05:06Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 18,
+      "name": "Ghillies In The Mist",
+      "detail": "Complete 'All Ghillied Up' without alerting any enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-17T01:34:57Z",
+      "rarityPercent": 8.9
+    },
+    {
+      "id": 38,
+      "name": "Time Paradox",
+      "detail": "Kill Makarov and complete your mission",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-17T01:44:26Z",
+      "rarityPercent": 2.7
+    },
+    {
+      "id": 29,
+      "name": "The Shot",
+      "detail": "Complete 'All Ghillied Up' and 'One Shot, One Kill' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-17T02:18:21Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 44,
+      "name": "The Man in the High Tower",
+      "detail": "Find and use the hidden cache in 'Heat'.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-17T02:20:35Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 30,
+      "name": "The Third Horseman",
+      "detail": "Complete 'Heat' and 'The Sins of the Father' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-17T03:48:17Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 31,
+      "name": "The Ultimatum",
+      "detail": "Complete 'Ultimatum', 'All In', and 'No Fighting in the War Room' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-17T05:26:55Z",
+      "rarityPercent": 1.7
+    },
+    {
+      "id": 21,
+      "name": "Deep and Hard",
+      "detail": "Complete the game on Hardened or Veteran difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-17T05:38:29Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 32,
+      "name": "The Fourth Horseman",
+      "detail": "Complete 'Game Over' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-17T05:38:29Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 19,
+      "name": "Mile High Club",
+      "detail": "Sky dive to safety on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-17T05:58:45Z",
+      "rarityPercent": 1.1
+    },
+    {
+      "id": 15,
+      "name": "Your Show Sucks",
+      "detail": "Destroy all the TVs showing Al-Asad's speech.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T00:31:19Z",
+      "rarityPercent": 1.4
+    },
+    {
+      "id": 16,
+      "name": "Man of the People",
+      "detail": "Save the farmer.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T00:36:25Z",
+      "rarityPercent": 15.3
+    },
+    {
+      "id": 37,
+      "name": "Three of a Kind",
+      "detail": "Kill 3 enemies in a row with your knife in the single player campaign.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T00:38:14Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 41,
+      "name": "Desert Storm",
+      "detail": "Find the Desert Eagle in 'Crew Expendable' and kill 5 enemies with it.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T00:43:06Z",
+      "rarityPercent": 2.6
+    },
+    {
+      "id": 42,
+      "name": "Master Ninja",
+      "detail": "Complete any level using only the knife to kill enemies.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-18T00:54:01Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 46,
+      "name": "Retro Shooter",
+      "detail": "Complete any level without reloading your weapon (excluding 'The Coup' and 'Aftermath').",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T00:54:01Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 43,
+      "name": "Dogs. I Hate Dogs.",
+      "detail": "Kill 20 attack dogs with a knife.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T00:56:59Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 48,
+      "name": "Man versus Machine",
+      "detail": "Alert the enemy helicopter in 'All Ghillied Up' and take it down.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T01:05:11Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 11,
+      "name": "Eyes and Ears",
+      "detail": "Find 30 enemy intel items.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T02:57:30Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 40,
+      "name": "Flyswatter",
+      "detail": "Destroy 8 enemy helicopters in 'Heat'.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T03:12:40Z",
+      "rarityPercent": 1.3
+    },
+    {
+      "id": 0,
+      "name": "Just another day at the office",
+      "detail": "Earn all available trophies for Call of Duty®: Modern Warfare® Remastered.",
+      "type": "platinum",
+      "earnedDateTime": "2025-02-18T03:53:31Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 39,
+      "name": "Weapon Master",
+      "detail": "Get a kill with each type of handheld gun, explosive and launcher in the single player campaign.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-18T03:53:31Z",
+      "rarityPercent": 1.1
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "game": "The Last of Us™ Part I",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR26546_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 14,
+    "silver": 7,
+    "gold": 7,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-11-22T20:51:10Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 28,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 7,
+    "silver": 7,
+    "bronze": 13
+  },
+  "earned": [
+    {
+      "id": 15,
+      "name": "Fallen Firefly",
+      "detail": "Find a Firefly pendant",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-22T20:43:17Z",
+      "rarityPercent": 61.7
+    }
+  ]
+}

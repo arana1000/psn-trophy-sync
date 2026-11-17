@@ -1,0 +1,37 @@
+{
+  "game": "Hello Neighbor 2",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR31483_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 1,
+    "silver": 3,
+    "gold": 10,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-03-23T15:28:40Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 14,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 10,
+    "silver": 3,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Welcome to Raven Brooks",
+      "detail": "Complete Tutorial",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-23T15:28:40Z",
+      "rarityPercent": 76.8
+    }
+  ]
+}

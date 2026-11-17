@@ -1,0 +1,485 @@
+{
+  "game": "Need for Speed™ Hot Pursuit Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR21460_00",
+  "progressPercent": 88,
+  "earnedCounts": {
+    "bronze": 41,
+    "silver": 13,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 51,
+    "silver": 13,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-03-28T15:32:35Z",
+  "earnedTotal": 57,
+  "unearnedTotal": 10,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 10
+  },
+  "earned": [
+    {
+      "id": 3,
+      "name": "Gotcha!",
+      "detail": "Bust a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:19:34Z",
+      "rarityPercent": 57.4
+    },
+    {
+      "id": 1,
+      "name": "Settling the Score",
+      "detail": "Select a Friend Autolog Recommendation and beat it",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:19:52Z",
+      "rarityPercent": 17.5
+    },
+    {
+      "id": 31,
+      "name": "Wall of Steel",
+      "detail": "Deploy a Road Block which then gets hit by a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:24:46Z",
+      "rarityPercent": 28.4
+    },
+    {
+      "id": 30,
+      "name": "Burnout",
+      "detail": "Fill the Nitrous bar then use it all in one go without hitting anything",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:26:49Z",
+      "rarityPercent": 64.8
+    },
+    {
+      "id": 33,
+      "name": "Hit Confirmed",
+      "detail": "Get a hit with a Spike Strip",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:33:05Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 4,
+      "name": "Officer",
+      "detail": "Reach rank (3) Officer as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:37:09Z",
+      "rarityPercent": 18.8
+    },
+    {
+      "id": 17,
+      "name": "Suspect",
+      "detail": "Reach wanted level (2) Suspect as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:41:46Z",
+      "rarityPercent": 58
+    },
+    {
+      "id": 32,
+      "name": "Shock to the System",
+      "detail": "Get a hit with an EMP",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-23T00:44:44Z",
+      "rarityPercent": 20.4
+    },
+    {
+      "id": 39,
+      "name": "Imprezive",
+      "detail": "Accumulate 2,000 yds of drift in a single event using the Subaru Impreza WRX STI",
+      "type": "silver",
+      "earnedDateTime": "2025-02-23T00:55:28Z",
+      "rarityPercent": 3.7
+    },
+    {
+      "id": 34,
+      "name": "Aerial Assistance",
+      "detail": "Call in a Helicopter which then hits a Racer with a Spike Strip",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-25T00:28:22Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 5,
+      "name": "Patrolman",
+      "detail": "Reach rank (5) Patrolman as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-25T00:41:25Z",
+      "rarityPercent": 8.6
+    },
+    {
+      "id": 16,
+      "name": "Vengeance is Mine",
+      "detail": "Wreck a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-25T21:33:27Z",
+      "rarityPercent": 50.4
+    },
+    {
+      "id": 18,
+      "name": "Target",
+      "detail": "Reach wanted level (4) Target as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-25T21:34:43Z",
+      "rarityPercent": 22
+    },
+    {
+      "id": 38,
+      "name": "Eye of the Needle",
+      "detail": "As a Racer, drive through an undamaged Road Block without hitting it",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-26T15:10:41Z",
+      "rarityPercent": 27.4
+    },
+    {
+      "id": 37,
+      "name": "Power Spike",
+      "detail": "Spike strip a car that is targeting you with an EMP",
+      "type": "silver",
+      "earnedDateTime": "2025-02-26T15:19:27Z",
+      "rarityPercent": 10
+    },
+    {
+      "id": 35,
+      "name": "Denied",
+      "detail": "First Jammer use that affects a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-01T19:44:39Z",
+      "rarityPercent": 13.8
+    },
+    {
+      "id": 19,
+      "name": "Felon",
+      "detail": "Reach wanted level (6) Felon as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-01T20:18:06Z",
+      "rarityPercent": 11.4
+    },
+    {
+      "id": 36,
+      "name": "In the Zone",
+      "detail": "Use a full Turbo without hitting anything",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-01T20:54:18Z",
+      "rarityPercent": 9.4
+    },
+    {
+      "id": 6,
+      "name": "Trooper",
+      "detail": "Reach rank (8) Trooper as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-01T22:10:52Z",
+      "rarityPercent": 5
+    },
+    {
+      "id": 20,
+      "name": "Offender",
+      "detail": "Reach wanted level (8) Offender as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-05T21:21:45Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 61,
+      "name": "Flame Grilled",
+      "detail": "Use a full bar of nitrous in one go in the Lamborghini Sesto Elemento",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-06T00:24:40Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 7,
+      "name": "Sergeant",
+      "detail": "Reach rank (11) Sergeant as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-06T01:17:35Z",
+      "rarityPercent": 3.8
+    },
+    {
+      "id": 21,
+      "name": "Outlaw",
+      "detail": "Reach wanted level (11) Outlaw as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-06T21:36:33Z",
+      "rarityPercent": 6
+    },
+    {
+      "id": 60,
+      "name": "The Diablo You Know",
+      "detail": "Reach top speed in a Lamborghini Diablo on a coastal road",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-07T15:37:03Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 66,
+      "name": "Masterpieces",
+      "detail": "Get Gold or Distinction in all Lamborghini Pack events",
+      "type": "silver",
+      "earnedDateTime": "2025-03-07T15:39:20Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 65,
+      "name": "The Porsche Principle",
+      "detail": "Get Gold or Distinction in all Porsche Pack events",
+      "type": "silver",
+      "earnedDateTime": "2025-03-07T16:16:01Z",
+      "rarityPercent": 1.7
+    },
+    {
+      "id": 22,
+      "name": "Wanted",
+      "detail": "Reach wanted level (14) Wanted as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-08T02:49:05Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 51,
+      "name": "Land Speed Record",
+      "detail": "Hold the Bugatti Veyron 16.4 Super Sport at top speed for 2 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-09T02:21:58Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 48,
+      "name": "Biteback",
+      "detail": "Beat a friends recommendation in the Bugatti Veyron 16.4 Super Sport",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-09T02:23:53Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 8,
+      "name": "Lieutenant",
+      "detail": "Reach rank (14) Lieutenant as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-09T02:48:22Z",
+      "rarityPercent": 2.6
+    },
+    {
+      "id": 13,
+      "name": "True Blue",
+      "detail": "Earn a Distinction in every single-player Cop event",
+      "type": "gold",
+      "earnedDateTime": "2025-03-09T02:52:12Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 56,
+      "name": "Swift Justice",
+      "detail": "Get distinction in all the Super Sports Cop events",
+      "type": "silver",
+      "earnedDateTime": "2025-03-09T02:52:12Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 55,
+      "name": "Untouchable",
+      "detail": "Get gold in all the Super Sports Racer events",
+      "type": "silver",
+      "earnedDateTime": "2025-03-09T03:27:12Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 2,
+      "name": "Tour de Seacrest",
+      "detail": "Complete the race \"Seacrest Tour\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-09T03:41:16Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 26,
+      "name": "Golddigger",
+      "detail": "Earn a Gold Medal in every single-player Racer event",
+      "type": "gold",
+      "earnedDateTime": "2025-03-09T03:41:16Z",
+      "rarityPercent": 1.7
+    },
+    {
+      "id": 40,
+      "name": "Flight of the Bumblebee",
+      "detail": "Win the 'Muscle Reflex' race in a Bee Yellow Chevrolet Camaro SS",
+      "type": "silver",
+      "earnedDateTime": "2025-03-09T03:46:40Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 43,
+      "name": "Godzilla",
+      "detail": "Get any medal in 'Run to the Hills' driving the Nissan GT-R SpecV without using any weapons",
+      "type": "silver",
+      "earnedDateTime": "2025-03-09T04:00:26Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 45,
+      "name": "Electrically Charged",
+      "detail": "Bust the 918 Spyder using an EMP in 'Porsche Patrol'",
+      "type": "silver",
+      "earnedDateTime": "2025-03-09T04:09:37Z",
+      "rarityPercent": 2.8
+    },
+    {
+      "id": 41,
+      "name": "Shaken, Not Stirred",
+      "detail": "Win any Hot Pursuit in an Aston Martin",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-10T00:07:35Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 42,
+      "name": "Wet in the Vette",
+      "detail": "Drive any Corvette in the wet",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-11T00:31:22Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 44,
+      "name": "Iron Man",
+      "detail": "Get Distinction in a Hot Pursuit, Interceptor and Rapid Response using the Audi R8",
+      "type": "silver",
+      "earnedDateTime": "2025-03-11T00:44:56Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 46,
+      "name": "Snakebite in Black",
+      "detail": "Spike a cop while driving a Black Dodge Viper SRT10 ACR or Ford Shelby GT500 Supersnake",
+      "type": "silver",
+      "earnedDateTime": "2025-03-11T00:51:14Z",
+      "rarityPercent": 1.4
+    },
+    {
+      "id": 23,
+      "name": "Fugitive",
+      "detail": "Reach wanted level (17) Fugitive as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-11T01:30:34Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 14,
+      "name": "Chase",
+      "detail": "Play 10 Online Hot Pursuits as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-11T02:45:25Z",
+      "rarityPercent": 1.6
+    },
+    {
+      "id": 28,
+      "name": "Race",
+      "detail": "Play 10 Online Hot Pursuits as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-11T22:40:16Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 47,
+      "name": "Fender Bender",
+      "detail": "Wreck 5 cops in the GUMPERT apollo s",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-18T19:26:03Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 27,
+      "name": "Festival of Speed",
+      "detail": "Play 10 Online Races",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T15:50:26Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 15,
+      "name": "Bounty Hunter",
+      "detail": "Play 10 Online Interceptors as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T17:30:28Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 24,
+      "name": "Notorious",
+      "detail": "Reach wanted level (19) Notorious as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T17:34:08Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 29,
+      "name": "Escapologist",
+      "detail": "Play 10 Online Interceptors as a Racer",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T17:40:55Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 53,
+      "name": "Sting in the Tail",
+      "detail": "Get 5 spike strip hits with the Porsche 911 GT2 RS Interceptor",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T17:51:38Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 9,
+      "name": "Undercover",
+      "detail": "Reach rank (17) Undercover as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T19:36:55Z",
+      "rarityPercent": 1.4
+    },
+    {
+      "id": 10,
+      "name": "Captain",
+      "detail": "Reach rank (18) Captain as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T23:05:28Z",
+      "rarityPercent": 1.2
+    },
+    {
+      "id": 11,
+      "name": "Pursuit Agent",
+      "detail": "Reach rank (19) Pursuit Agent as a Cop",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-27T22:51:07Z",
+      "rarityPercent": 1.1
+    },
+    {
+      "id": 12,
+      "name": "Ultimate Enforcer",
+      "detail": "Reach rank (20) Ultimate Enforcer as a Cop",
+      "type": "silver",
+      "earnedDateTime": "2025-03-28T00:45:01Z",
+      "rarityPercent": 1.1
+    },
+    {
+      "id": 0,
+      "name": "NFS Hot Pursuit Elite",
+      "detail": "Awarded for successfully collecting all Need for Speed™ Hot Pursuit Remastered trophies",
+      "type": "platinum",
+      "earnedDateTime": "2025-03-28T15:32:32Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 25,
+      "name": "Most Wanted",
+      "detail": "Reach wanted level (20) Most Wanted as a Racer",
+      "type": "silver",
+      "earnedDateTime": "2025-03-28T15:32:32Z",
+      "rarityPercent": 2
+    }
+  ]
+}

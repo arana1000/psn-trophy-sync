@@ -1,0 +1,301 @@
+{
+  "game": "Burnout Paradise Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR14842_00",
+  "progressPercent": 34,
+  "earnedCounts": {
+    "bronze": 28,
+    "silver": 6,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 80,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-06-08T18:44:00Z",
+  "earnedTotal": 34,
+  "unearnedTotal": 61,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 6,
+    "bronze": 52
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Repair your car",
+      "detail": "Awarded for driving through any Auto Repair",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:33:23Z",
+      "rarityPercent": 87.7
+    },
+    {
+      "id": 22,
+      "name": "Successfully land your first Super Jump",
+      "detail": "Awarded when you successfully land your 1st Super Jump.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:34:59Z",
+      "rarityPercent": 75.5
+    },
+    {
+      "id": 4,
+      "name": "Win a race",
+      "detail": "Awarded for winning any Offline Race",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:35:59Z",
+      "rarityPercent": 64.5
+    },
+    {
+      "id": 31,
+      "name": "Drive on the wrong side of the road for 547 yards",
+      "detail": "Awarded for driving a distance of 547 yards in Oncoming Traffic in one go.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:37:27Z",
+      "rarityPercent": 79.7
+    },
+    {
+      "id": 11,
+      "name": "Earn your 'D' Class License",
+      "detail": "Awarded when you receive your 'D' Class License",
+      "type": "silver",
+      "earnedDateTime": "2024-04-10T15:38:21Z",
+      "rarityPercent": 66.6
+    },
+    {
+      "id": 19,
+      "name": "Perform 3 Takedowns",
+      "detail": "Awarded for performing your third Takedowns.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:41:53Z",
+      "rarityPercent": 72.9
+    },
+    {
+      "id": 8,
+      "name": "Drive through 10 sets of Yellow Smash Gates",
+      "detail": "Awarded when you drive through your 10th set of Yellow Smash Gates",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:45:47Z",
+      "rarityPercent": 69.5
+    },
+    {
+      "id": 45,
+      "name": "Jump Dead Man's Edge",
+      "detail": "Awarded when you first jump over Dead Man's Edge in White Mountain.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:46:09Z",
+      "rarityPercent": 36.9
+    },
+    {
+      "id": 16,
+      "name": "Shutdown the Nakamura SI-7",
+      "detail": "Awarded when you Shutdown the Nakamura SI-7",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:47:34Z",
+      "rarityPercent": 54
+    },
+    {
+      "id": 5,
+      "name": "Smash 3 Burnout Billboards",
+      "detail": "Awarded when you smash through your 3rd pristine Burnout Billboard",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T15:48:08Z",
+      "rarityPercent": 64.8
+    },
+    {
+      "id": 26,
+      "name": "Beat the target score in Stunt Run",
+      "detail": "Awarded for winning any Offline Stunt Run.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:13:49Z",
+      "rarityPercent": 46.6
+    },
+    {
+      "id": 33,
+      "name": "Score over 50,000 in a Stunt Run",
+      "detail": "Awarded for scoring over 50,000 in any Offline Stunt Run.",
+      "type": "silver",
+      "earnedDateTime": "2024-04-10T17:13:49Z",
+      "rarityPercent": 33.2
+    },
+    {
+      "id": 21,
+      "name": "Perform a 180 degree Flatspin",
+      "detail": "Awarded for performing a \"Flatspin\" of at least 180 degrees.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:14:22Z",
+      "rarityPercent": 25.2
+    },
+    {
+      "id": 35,
+      "name": "Land a Barrel Roll jump",
+      "detail": "Awarded for successfully landing a Barrel Roll jump.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:15:34Z",
+      "rarityPercent": 44.9
+    },
+    {
+      "id": 34,
+      "name": "Successfully land 10 Super Jumps",
+      "detail": "Awarded when you successfully land your 10th Super Jump.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:19:21Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 9,
+      "name": "Drive through 50 sets of Yellow Smash Gates",
+      "detail": "Awarded when you drive through your 50th set of Yellow Smash Gates",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:20:03Z",
+      "rarityPercent": 45.4
+    },
+    {
+      "id": 17,
+      "name": "Score a x3 Multiplier in Showtime",
+      "detail": "Awarded for reaching a x3 Multiplier in Showtime",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:23:14Z",
+      "rarityPercent": 15.3
+    },
+    {
+      "id": 3,
+      "name": "Set a Showtime Road Rule on any road",
+      "detail": "Awarded for beating any of the original Showtime Road Rule scores",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:23:49Z",
+      "rarityPercent": 14.5
+    },
+    {
+      "id": 25,
+      "name": "Survive a Marked Man",
+      "detail": "Awarded for winning any Offline Marked Man.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T17:26:38Z",
+      "rarityPercent": 49.5
+    },
+    {
+      "id": 12,
+      "name": "Earn your 'C' Class License",
+      "detail": "Awarded when you receive your 'C' Class License",
+      "type": "silver",
+      "earnedDateTime": "2024-04-11T12:10:31Z",
+      "rarityPercent": 38.6
+    },
+    {
+      "id": 40,
+      "name": "Visit a Gas Station during a Race",
+      "detail": "Awarded for driving through a Gas Station during any Offline Race.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T12:15:12Z",
+      "rarityPercent": 32.7
+    },
+    {
+      "id": 41,
+      "name": "Visit a Paint shop to change your vehicle color",
+      "detail": "Awarded for driving through any Paint Shop to change your vehicle color.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T14:17:16Z",
+      "rarityPercent": 48.7
+    },
+    {
+      "id": 20,
+      "name": "Drive through a Repair Shop during a Road Rage",
+      "detail": "Awarded for driving through an Auto Repair during any Offline Road Rage.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T14:25:52Z",
+      "rarityPercent": 24.5
+    },
+    {
+      "id": 13,
+      "name": "Earn your 'B' Class License",
+      "detail": "Awarded when you receive your 'B' Class License",
+      "type": "silver",
+      "earnedDateTime": "2024-04-11T14:26:28Z",
+      "rarityPercent": 23.9
+    },
+    {
+      "id": 23,
+      "name": "Score a Burnout Chain of x2",
+      "detail": "Awarded for achieving your first Boost Chain of x2.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T14:32:35Z",
+      "rarityPercent": 35.9
+    },
+    {
+      "id": 2,
+      "name": "Set a Time Road Rule on any Road",
+      "detail": "Awarded for beating any of the original Time Road Rule scores",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T14:47:55Z",
+      "rarityPercent": 39.7
+    },
+    {
+      "id": 89,
+      "name": "4.5 seconds of Crash TV Air Time",
+      "detail": "Successfully land the Island Mega jump from the Crash TV Ski Jump and get at least 4.5 seconds of Air Time",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T21:17:02Z",
+      "rarityPercent": 7.4
+    },
+    {
+      "id": 85,
+      "name": "Drive through 20 Island Smash gates",
+      "detail": "Awarded when you drive through your 20th set of Orange Island Smash Gates",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T21:34:31Z",
+      "rarityPercent": 17.6
+    },
+    {
+      "id": 29,
+      "name": "Set 10 Time Road Rules",
+      "detail": "Awarded when you set your 10th Time Road Rule.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-11T21:37:05Z",
+      "rarityPercent": 12.3
+    },
+    {
+      "id": 6,
+      "name": "Smash 30 Burnout Billboards",
+      "detail": "Awarded when you smash through your 30th pristine Burnout Billboard",
+      "type": "silver",
+      "earnedDateTime": "2024-04-14T23:57:19Z",
+      "rarityPercent": 20.1
+    },
+    {
+      "id": 24,
+      "name": "Score a Burnout Chain of x4",
+      "detail": "Awarded for achieving your first Boost Chain of x4.",
+      "type": "silver",
+      "earnedDateTime": "2024-04-16T23:04:47Z",
+      "rarityPercent": 18.2
+    },
+    {
+      "id": 43,
+      "name": "Visit the Airfield",
+      "detail": "Awarded for visiting the Airfield in Silver Lake.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-03T22:50:50Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 87,
+      "name": "Land 5 Island Mega Jumps",
+      "detail": "Awarded when you successfully land your 5th Island Mega Jump",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-03T23:16:56Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 44,
+      "name": "Visit the Quarry",
+      "detail": "Awarded for visiting the Quarry in White Mountain.",
+      "type": "bronze",
+      "earnedDateTime": "2024-06-08T18:43:46Z",
+      "rarityPercent": 27.7
+    }
+  ]
+}

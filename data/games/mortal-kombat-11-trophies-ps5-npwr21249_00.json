@@ -1,0 +1,28 @@
+{
+  "game": "Mortal Kombat 11 Trophies",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR21249_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 50,
+    "silver": 7,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-07-25T22:56:44Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 59,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 7,
+    "bronze": 50
+  },
+  "earned": []
+}

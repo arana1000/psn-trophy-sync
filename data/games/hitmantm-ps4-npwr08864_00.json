@@ -1,0 +1,85 @@
+{
+  "game": "HITMAN™",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08864_00",
+  "progressPercent": 6,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 52,
+    "silver": 11,
+    "gold": 6,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2023-08-27T17:56:47Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 62,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 6,
+    "silver": 11,
+    "bronze": 45
+  },
+  "earned": [
+    {
+      "id": 9,
+      "name": "Chameleon",
+      "detail": "Change your disguise during The Final Test.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-01T22:06:24Z",
+      "rarityPercent": 63.6
+    },
+    {
+      "id": 14,
+      "name": "Shhhh",
+      "detail": "Pacify any individual.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-01T22:07:53Z",
+      "rarityPercent": 92.6
+    },
+    {
+      "id": 2,
+      "name": "Seizing the Opportunity",
+      "detail": "Complete any Opportunity on the Final Test.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-01T22:08:32Z",
+      "rarityPercent": 53.4
+    },
+    {
+      "id": 5,
+      "name": "K-36D",
+      "detail": "Assassinate Jasper Knight with a sabotaged ejector seat.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-01T22:11:12Z",
+      "rarityPercent": 33.5
+    },
+    {
+      "id": 1,
+      "name": "Cleared for Field Duty",
+      "detail": "Complete The Final Test in the Prologue.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-01T22:11:54Z",
+      "rarityPercent": 54.4
+    },
+    {
+      "id": 16,
+      "name": "Unseen Assassin",
+      "detail": "Assassinate a Target without getting spotted.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-01T22:11:54Z",
+      "rarityPercent": 55.5
+    },
+    {
+      "id": 0,
+      "name": "The Result of Previous Training",
+      "detail": "Complete Freeform Training in the Prologue.",
+      "type": "bronze",
+      "earnedDateTime": "2023-08-27T17:56:45Z",
+      "rarityPercent": 42.2
+    }
+  ]
+}

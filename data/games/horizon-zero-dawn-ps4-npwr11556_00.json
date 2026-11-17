@@ -1,0 +1,37 @@
+{
+  "game": "Horizon Zero Dawn",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR11556_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 65,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-09-20T23:41:40Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 78,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 11,
+    "bronze": 64
+  },
+  "earned": [
+    {
+      "id": 41,
+      "name": "Followed Rost's teachings",
+      "detail": "Learned to hunt and fight alongside Rost.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-20T23:41:38Z",
+      "rarityPercent": 88.5
+    }
+  ]
+}

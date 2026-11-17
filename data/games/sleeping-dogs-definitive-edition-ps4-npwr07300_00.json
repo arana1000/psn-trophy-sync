@@ -1,0 +1,437 @@
+{
+  "game": "Sleeping Dogs: Definitive Edition",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07300_00",
+  "progressPercent": 75,
+  "earnedCounts": {
+    "bronze": 41,
+    "silver": 7,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 45,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-05-21T16:45:47Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 9,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 2,
+    "silver": 3,
+    "bronze": 4
+  },
+  "earned": [
+    {
+      "id": 14,
+      "name": "Environmentalist",
+      "detail": "Perform 5 unique environmental kills.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-13T22:24:42Z",
+      "rarityPercent": 81.9
+    },
+    {
+      "id": 1,
+      "name": "In With the Gang",
+      "detail": "Complete Night Market Chase.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-13T22:29:02Z",
+      "rarityPercent": 83.9
+    },
+    {
+      "id": 43,
+      "name": "Strike Gold",
+      "detail": "Achieve 1 Gold Stat Award.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T13:43:03Z",
+      "rarityPercent": 68.4
+    },
+    {
+      "id": 5,
+      "name": "Minor Face",
+      "detail": "Achieve Face Level 2.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T13:53:26Z",
+      "rarityPercent": 53.4
+    },
+    {
+      "id": 47,
+      "name": "Rookie",
+      "detail": "Complete 10% of all missions, cases, favors, events, jobs and races.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T14:27:22Z",
+      "rarityPercent": 54.6
+    },
+    {
+      "id": 40,
+      "name": "Slight Silver",
+      "detail": "Achieve 5 Silver Stat Awards.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T14:34:17Z",
+      "rarityPercent": 57.9
+    },
+    {
+      "id": 11,
+      "name": "Take A Bite Out Of Crime",
+      "detail": "Complete a Case.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T18:03:05Z",
+      "rarityPercent": 57.5
+    },
+    {
+      "id": 9,
+      "name": "Stuntman",
+      "detail": "Successfully perform an action hijack.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T18:58:11Z",
+      "rarityPercent": 59
+    },
+    {
+      "id": 2,
+      "name": "That'll Show 'em",
+      "detail": "Complete Payback.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-14T19:23:45Z",
+      "rarityPercent": 50.9
+    },
+    {
+      "id": 19,
+      "name": "Tourist",
+      "detail": "Win a bet on a cockfight.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-17T21:32:59Z",
+      "rarityPercent": 24.1
+    },
+    {
+      "id": 12,
+      "name": "Man Around Town",
+      "detail": "Visit Aberdeen, Central, Kennedy Town and North Point.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-17T21:36:56Z",
+      "rarityPercent": 55.6
+    },
+    {
+      "id": 48,
+      "name": "Officer",
+      "detail": "Complete 25% of all missions, cases, favors, events, jobs and races.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-19T17:06:36Z",
+      "rarityPercent": 38.8
+    },
+    {
+      "id": 6,
+      "name": "Gaining Face",
+      "detail": "Achieve Face Level 5.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-19T20:43:52Z",
+      "rarityPercent": 28.9
+    },
+    {
+      "id": 15,
+      "name": "Gadgetman",
+      "detail": "Pick a lock, plant a bug, trace a phone, crack a safe, and take over a spy camera.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-20T19:02:34Z",
+      "rarityPercent": 41.9
+    },
+    {
+      "id": 44,
+      "name": "Gold Rush",
+      "detail": "Achieve 5 Gold Stat Awards.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-23T14:00:02Z",
+      "rarityPercent": 49.2
+    },
+    {
+      "id": 27,
+      "name": "Martial Law",
+      "detail": "Defeat all 4 Martial Arts Clubs",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-23T14:58:50Z",
+      "rarityPercent": 13
+    },
+    {
+      "id": 41,
+      "name": "Substantial Silver",
+      "detail": "Achieve 15 Silver Stat Awards.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-23T14:59:55Z",
+      "rarityPercent": 36.6
+    },
+    {
+      "id": 16,
+      "name": "Safe Driver",
+      "detail": "Cruise for 2 minutes over 60 Km/h without damaging your car.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-23T15:14:29Z",
+      "rarityPercent": 7.6
+    },
+    {
+      "id": 8,
+      "name": "Fashion Statement",
+      "detail": "Change all your clothes in your wardrobe or a clothing store.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-24T21:24:38Z",
+      "rarityPercent": 48.6
+    },
+    {
+      "id": 3,
+      "name": "A Big Betrayal",
+      "detail": "Complete Dockyard Heist.",
+      "type": "silver",
+      "earnedDateTime": "2019-08-25T21:05:02Z",
+      "rarityPercent": 38.6
+    },
+    {
+      "id": 22,
+      "name": "Sharpshooter",
+      "detail": "Shoot out a cop's tires while fleeing in a police chase.",
+      "type": "bronze",
+      "earnedDateTime": "2019-08-25T21:16:15Z",
+      "rarityPercent": 21.6
+    },
+    {
+      "id": 49,
+      "name": "Detective",
+      "detail": "Complete 50% of all missions, cases, favors, events, jobs and races.",
+      "type": "silver",
+      "earnedDateTime": "2019-08-29T19:08:59Z",
+      "rarityPercent": 20.8
+    },
+    {
+      "id": 25,
+      "name": "Event Driven",
+      "detail": "Complete half of the open world events.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-04T16:24:25Z",
+      "rarityPercent": 16.1
+    },
+    {
+      "id": 34,
+      "name": "Bounty Hunter",
+      "detail": "Complete all of Roland's Jobs.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-04T16:29:30Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 20,
+      "name": "Infowlable",
+      "detail": "Win 50,000 on a single cockfight.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-04T17:09:41Z",
+      "rarityPercent": 13.5
+    },
+    {
+      "id": 17,
+      "name": "Gun Nut",
+      "detail": "Use 10 different firearms to defeat enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-04T18:00:26Z",
+      "rarityPercent": 28.6
+    },
+    {
+      "id": 7,
+      "name": "Great Face",
+      "detail": "Achieve Face Level 10.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-04T18:20:56Z",
+      "rarityPercent": 13.6
+    },
+    {
+      "id": 45,
+      "name": "Golden Touch",
+      "detail": "Achieve 15 Gold Stat Awards.",
+      "type": "silver",
+      "earnedDateTime": "2019-09-06T23:57:26Z",
+      "rarityPercent": 17.5
+    },
+    {
+      "id": 30,
+      "name": "Super Cop",
+      "detail": "Unlock ten Cop Upgrades.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-09T15:49:32Z",
+      "rarityPercent": 14.9
+    },
+    {
+      "id": 23,
+      "name": "Case Closed",
+      "detail": "Complete all cases.",
+      "type": "silver",
+      "earnedDateTime": "2019-09-14T11:59:00Z",
+      "rarityPercent": 24.6
+    },
+    {
+      "id": 35,
+      "name": "Karaoke Superstar",
+      "detail": "Achieving 90% and above for all songs at the Karaoke Bars in HK.",
+      "type": "bronze",
+      "earnedDateTime": "2019-09-14T13:10:33Z",
+      "rarityPercent": 5.7
+    },
+    {
+      "id": 29,
+      "name": "Ultimate Fighter",
+      "detail": "Unlock ten Triad Upgrades.",
+      "type": "bronze",
+      "earnedDateTime": "2019-12-28T16:54:13Z",
+      "rarityPercent": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Big Smiles All Around",
+      "detail": "Complete Big Smile Lee.",
+      "type": "silver",
+      "earnedDateTime": "2019-12-28T16:54:19Z",
+      "rarityPercent": 30.8
+    },
+    {
+      "id": 21,
+      "name": "Kleptomaniac",
+      "detail": "Hijack 5 trucks and collect their cargo.",
+      "type": "bronze",
+      "earnedDateTime": "2019-12-29T20:51:01Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 28,
+      "name": "Wei of the Road",
+      "detail": "Complete all Street Races.",
+      "type": "bronze",
+      "earnedDateTime": "2019-12-29T21:27:40Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 10,
+      "name": "A Slap in the Face",
+      "detail": "Kill someone with a fish.",
+      "type": "bronze",
+      "earnedDateTime": "2019-12-30T16:50:12Z",
+      "rarityPercent": 26.1
+    },
+    {
+      "id": 24,
+      "name": "Mr. Nice Guy",
+      "detail": "Complete all Favors.",
+      "type": "silver",
+      "earnedDateTime": "2019-12-30T17:04:59Z",
+      "rarityPercent": 8.2
+    },
+    {
+      "id": 33,
+      "name": "West End Scavenger",
+      "detail": "Unlock every lockbox in Kennedy Town and Aberdeen.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T01:27:55Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 36,
+      "name": "Hong Kong Super Hacker",
+      "detail": "Hack every Security Camera in the game.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T01:35:26Z",
+      "rarityPercent": 6.4
+    },
+    {
+      "id": 32,
+      "name": "Central Scavenger",
+      "detail": "Unlock every lockbox in Central.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T01:47:55Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 38,
+      "name": "Spiritual Healing",
+      "detail": "Pray at all of the Health Shrines.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T01:54:08Z",
+      "rarityPercent": 7.5
+    },
+    {
+      "id": 31,
+      "name": "North Point Scavenger",
+      "detail": "Unlock every lockbox in North Point.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T02:01:32Z",
+      "rarityPercent": 5.6
+    },
+    {
+      "id": 18,
+      "name": "Whatever's Handy",
+      "detail": "Use 10 different melee weapons to defeat enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T02:25:57Z",
+      "rarityPercent": 14.9
+    },
+    {
+      "id": 26,
+      "name": "Event Planner",
+      "detail": "Complete all of the open world Events.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T02:28:25Z",
+      "rarityPercent": 3.8
+    },
+    {
+      "id": 50,
+      "name": "Chief Inspector",
+      "detail": "Complete 100% of all missions, cases, favors, events, jobs and races.",
+      "type": "gold",
+      "earnedDateTime": "2024-05-21T02:21:16Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 42,
+      "name": "Solid Silver",
+      "detail": "Achieve 30 Silver Stat Awards.",
+      "type": "silver",
+      "earnedDateTime": "2024-05-21T14:53:49Z",
+      "rarityPercent": 3.8
+    },
+    {
+      "id": 46,
+      "name": "Pure Gold",
+      "detail": "Achieve 30 Gold Stat Awards.",
+      "type": "gold",
+      "earnedDateTime": "2024-05-21T16:07:06Z",
+      "rarityPercent": 3.5
+    },
+    {
+      "id": 39,
+      "name": "Auto Enthusiast",
+      "detail": "Purchase all vehicles.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-21T16:26:04Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 13,
+      "name": "Foodie",
+      "detail": "Try 10 different foods or drinks.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-21T16:42:43Z",
+      "rarityPercent": 8.5
+    },
+    {
+      "id": 0,
+      "name": "Hong Kong Legend",
+      "detail": "Earn all the Sleeping Dogs: Definitive Edition trophies to unlock this platinum trophy.",
+      "type": "platinum",
+      "earnedDateTime": "2024-05-21T16:45:44Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 37,
+      "name": "Fashion Victim",
+      "detail": "Purchase all clothing.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-21T16:45:44Z",
+      "rarityPercent": 4.3
+    }
+  ]
+}

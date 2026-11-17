@@ -1,0 +1,69 @@
+{
+  "game": "Slender: The Arrival",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08594_00",
+  "progressPercent": 23,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 19,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2023-10-27T16:59:55Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 15,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 14
+  },
+  "earned": [
+    {
+      "id": 5,
+      "name": "Fearless Fun",
+      "detail": "Riding a slide in a horror game",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-11T18:46:01Z",
+      "rarityPercent": 43.5
+    },
+    {
+      "id": 10,
+      "name": "Master Pianist",
+      "detail": "Play the piano until the first notes from \"No Friends\" is played",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-11T18:54:14Z",
+      "rarityPercent": 26.9
+    },
+    {
+      "id": 19,
+      "name": "I'll just take this..I guess?",
+      "detail": "Pick up an oversized sign and somehow manage to fit it in your scrapbook",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-11T19:11:38Z",
+      "rarityPercent": 21.3
+    },
+    {
+      "id": 9,
+      "name": "I Love Radio",
+      "detail": "Listen to all of the radio tracks in the house",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-11T22:37:36Z",
+      "rarityPercent": 13.6
+    },
+    {
+      "id": 17,
+      "name": "Walking Simulator",
+      "detail": "Surpass 10,000 total steps taken",
+      "type": "bronze",
+      "earnedDateTime": "2023-10-27T16:59:53Z",
+      "rarityPercent": 33.8
+    }
+  ]
+}

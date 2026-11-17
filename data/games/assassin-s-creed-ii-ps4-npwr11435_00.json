@@ -1,0 +1,437 @@
+{
+  "game": "Assassin's Creed® II",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR11435_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 34,
+    "silver": 15,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 15,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-05-20T00:19:54Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Birth of an Assassin",
+      "detail": "Be reborn as Ezio Auditore Da Firenze.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-06T20:42:06Z",
+      "rarityPercent": 92.2
+    },
+    {
+      "id": 2,
+      "name": "Arrivederci Abstergo",
+      "detail": "Break out of Abstergo.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-06T20:46:36Z",
+      "rarityPercent": 89.3
+    },
+    {
+      "id": 3,
+      "name": "Welcome to the Animus 2.0",
+      "detail": "Enter the Animus 2.0.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-06T20:52:31Z",
+      "rarityPercent": 84.4
+    },
+    {
+      "id": 35,
+      "name": "Macho Man",
+      "detail": "Defend a woman's honor.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-10T15:08:09Z",
+      "rarityPercent": 40.3
+    },
+    {
+      "id": 4,
+      "name": "The Pain of Betrayal",
+      "detail": "Complete DNA Sequence 1.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-10T15:27:04Z",
+      "rarityPercent": 61.8
+    },
+    {
+      "id": 42,
+      "name": "Tip of the Iceberg",
+      "detail": "Use your Eagle Vision to scan a Glyph in the environment.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-10T15:32:35Z",
+      "rarityPercent": 46.7
+    },
+    {
+      "id": 43,
+      "name": "A Piece of the Puzzle",
+      "detail": "Unlock a piece of Subject 16's video.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-10T15:37:17Z",
+      "rarityPercent": 41.2
+    },
+    {
+      "id": 27,
+      "name": "Lightning Strike",
+      "detail": "Sprint for 100 meters.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-10T16:32:02Z",
+      "rarityPercent": 57.2
+    },
+    {
+      "id": 5,
+      "name": "Vengeance",
+      "detail": "Complete DNA Sequence 2.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-10T16:32:20Z",
+      "rarityPercent": 55.6
+    },
+    {
+      "id": 6,
+      "name": "Exit the Son",
+      "detail": "Complete DNA Sequence 3.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-10T17:22:03Z",
+      "rarityPercent": 51.5
+    },
+    {
+      "id": 38,
+      "name": "Handy Man",
+      "detail": "Upgrade a building in the Stronghold.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-10T17:28:31Z",
+      "rarityPercent": 49.5
+    },
+    {
+      "id": 41,
+      "name": "Mailman",
+      "detail": "Intercept a Borgia Courrier.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-10T18:09:31Z",
+      "rarityPercent": 43.2
+    },
+    {
+      "id": 39,
+      "name": "I like the view",
+      "detail": "Synchronize 10 View Points.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-11T14:29:39Z",
+      "rarityPercent": 42.5
+    },
+    {
+      "id": 8,
+      "name": "Undertaker",
+      "detail": "Discover the Assassin's Tomb inside the catacombs under Santa Maria Novella.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-11T15:02:37Z",
+      "rarityPercent": 48.7
+    },
+    {
+      "id": 25,
+      "name": "No-hitter",
+      "detail": "Kill 10 enemies while remaining in conflict without being hit.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-11T15:12:36Z",
+      "rarityPercent": 18.3
+    },
+    {
+      "id": 7,
+      "name": "Bloody Sunday",
+      "detail": "Complete DNA Sequence 4.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-11T15:24:44Z",
+      "rarityPercent": 47.3
+    },
+    {
+      "id": 33,
+      "name": "Choir Boy",
+      "detail": "Discover the Assassin's Tomb inside Santa Maria del Fiore (The Duomo).",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-11T15:41:02Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 34,
+      "name": "Assassin For Hire",
+      "detail": "Complete your first assassination mission for Lorenzo Il Magnifico.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-11T16:54:59Z",
+      "rarityPercent": 29.4
+    },
+    {
+      "id": 40,
+      "name": "High Dive",
+      "detail": "Perform a Leap of Faith from the Top of Florence's Giotto's Campanile.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-12T20:36:10Z",
+      "rarityPercent": 41.3
+    },
+    {
+      "id": 49,
+      "name": "Man of the People",
+      "detail": "Toss more than 300 florins on the ground.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-12T20:41:29Z",
+      "rarityPercent": 15.3
+    },
+    {
+      "id": 9,
+      "name": "The Conspirators",
+      "detail": "Complete DNA Sequence 5.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-13T19:08:45Z",
+      "rarityPercent": 42.5
+    },
+    {
+      "id": 32,
+      "name": "Prison Escape",
+      "detail": "Discover the Assassin's Tomb inside the Rocca di Ravaldino fortress.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-16T16:43:17Z",
+      "rarityPercent": 33.5
+    },
+    {
+      "id": 10,
+      "name": "An Unexpected Journey",
+      "detail": "Complete DNA Sequence 6.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-16T16:55:26Z",
+      "rarityPercent": 41.1
+    },
+    {
+      "id": 11,
+      "name": "Bleeding Effect",
+      "detail": "Complete training and reenter the Animus.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-16T17:14:55Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 12,
+      "name": "The Merchant of Venice",
+      "detail": "Complete DNA Sequence 7.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-23T19:30:25Z",
+      "rarityPercent": 37.8
+    },
+    {
+      "id": 22,
+      "name": "Fly Swatter",
+      "detail": "Kick a Guard while using the Flying Machine.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-25T18:18:12Z",
+      "rarityPercent": 19.8
+    },
+    {
+      "id": 13,
+      "name": "The Impenetrable Palazzo",
+      "detail": "Complete DNA Sequence 8.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-25T18:28:14Z",
+      "rarityPercent": 36.2
+    },
+    {
+      "id": 31,
+      "name": "Hallowed be thy name",
+      "detail": "Discover the Assassin's Tomb inside the Basilica di San Marco.",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-25T19:02:30Z",
+      "rarityPercent": 30.1
+    },
+    {
+      "id": 14,
+      "name": "Masquerade",
+      "detail": "Complete DNA Sequence 9.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-28T20:28:22Z",
+      "rarityPercent": 34.7
+    },
+    {
+      "id": 15,
+      "name": "Bianca's Man",
+      "detail": "Complete DNA Sequence 10.",
+      "type": "silver",
+      "earnedDateTime": "2017-05-05T21:58:45Z",
+      "rarityPercent": 33.5
+    },
+    {
+      "id": 16,
+      "name": "The Prophet",
+      "detail": "Complete DNA Sequence 11.",
+      "type": "silver",
+      "earnedDateTime": "2017-05-05T22:30:12Z",
+      "rarityPercent": 33
+    },
+    {
+      "id": 17,
+      "name": "The Vault",
+      "detail": "Complete DNA Sequence 14.",
+      "type": "silver",
+      "earnedDateTime": "2017-05-07T00:23:28Z",
+      "rarityPercent": 28.9
+    },
+    {
+      "id": 18,
+      "name": "An Old Friend Returns",
+      "detail": "Escape the hideout.",
+      "type": "gold",
+      "earnedDateTime": "2017-05-07T00:37:57Z",
+      "rarityPercent": 28
+    },
+    {
+      "id": 19,
+      "name": "Myth Maker",
+      "detail": "Find the 8 statuettes in Monteriggioni.",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-07T00:58:39Z",
+      "rarityPercent": 16.8
+    },
+    {
+      "id": 26,
+      "name": "Kleptomaniac",
+      "detail": "Pickpocket 1000 Florins.",
+      "type": "bronze",
+      "earnedDateTime": "2019-04-13T18:08:07Z",
+      "rarityPercent": 18.4
+    },
+    {
+      "id": 50,
+      "name": "Victory lies in preparation",
+      "detail": "Get all Hidden Blades, Item Pouches and Armor upgrades for Ezio.",
+      "type": "bronze",
+      "earnedDateTime": "2019-04-13T18:09:32Z",
+      "rarityPercent": 19.2
+    },
+    {
+      "id": 24,
+      "name": "Doctor",
+      "detail": "Perform an Air Assassination on a Poisoned NPC.",
+      "type": "bronze",
+      "earnedDateTime": "2019-04-13T18:21:12Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 44,
+      "name": "Art Connoisseur",
+      "detail": "Buy a Painting from Florence and Venice.",
+      "type": "bronze",
+      "earnedDateTime": "2019-04-15T14:00:19Z",
+      "rarityPercent": 20.1
+    },
+    {
+      "id": 29,
+      "name": "Venetian Gladiator",
+      "detail": "Discover the Assassin's Tomb inside Santa Maria della Visitazione.",
+      "type": "bronze",
+      "earnedDateTime": "2019-04-15T14:33:19Z",
+      "rarityPercent": 29.3
+    },
+    {
+      "id": 30,
+      "name": "I can see your house from here!",
+      "detail": "Discover the Assassin's Tomb inside the Torre Grossa.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-19T15:01:11Z",
+      "rarityPercent": 36.3
+    },
+    {
+      "id": 21,
+      "name": "Street Cleaner",
+      "detail": "Hide 5 dead bodies in a Bale of Hay.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-22T18:35:08Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 23,
+      "name": "Messer Sandman",
+      "detail": "Stun 4 guards at once by throwing sand in their face.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-22T18:36:28Z",
+      "rarityPercent": 7.2
+    },
+    {
+      "id": 45,
+      "name": "Podestà of Monteriggioni",
+      "detail": "Reach 80% of your stronghold's total value.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-22T18:51:21Z",
+      "rarityPercent": 26.4
+    },
+    {
+      "id": 36,
+      "name": "Steal Home",
+      "detail": "Win a race against thieves.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-22T19:39:54Z",
+      "rarityPercent": 21.1
+    },
+    {
+      "id": 28,
+      "name": "Sweeper",
+      "detail": "Sweep 5 guards at once by using a Long Weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-22T19:43:57Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 46,
+      "name": "Perfect Harmony",
+      "detail": "Tint your clothes with those colors: Wetland Ebony and Wetland Ivory.",
+      "type": "bronze",
+      "earnedDateTime": "2019-05-22T21:04:20Z",
+      "rarityPercent": 9.8
+    },
+    {
+      "id": 48,
+      "name": "Red Light Addict",
+      "detail": "Spend 5000 florins on Courtesans.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-23T15:15:00Z",
+      "rarityPercent": 9.9
+    },
+    {
+      "id": 20,
+      "name": "Vitruvian Man",
+      "detail": "Unlock all 20 pieces of Subject 16's video.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-23T16:01:00Z",
+      "rarityPercent": 10.4
+    },
+    {
+      "id": 47,
+      "name": "In Memory of Petruccio",
+      "detail": "Collect all the Feathers.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T00:08:33Z",
+      "rarityPercent": 6.8
+    },
+    {
+      "id": 0,
+      "name": "Master Assassin",
+      "detail": "Unlock all trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2024-05-20T00:19:50Z",
+      "rarityPercent": 5.7
+    },
+    {
+      "id": 37,
+      "name": "Show your Colors",
+      "detail": "Wear the Auditore cape in each city.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-20T00:19:50Z",
+      "rarityPercent": 6
+    }
+  ]
+}

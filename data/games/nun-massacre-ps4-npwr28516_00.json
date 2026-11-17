@@ -1,0 +1,53 @@
+{
+  "game": "NUN MASSACRE",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR28516_00",
+  "progressPercent": 7,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 4,
+    "silver": 12,
+    "gold": 6,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2023-10-24T23:29:42Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 20,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 6,
+    "silver": 10,
+    "bronze": 3
+  },
+  "earned": [
+    {
+      "id": 7,
+      "name": "You Died",
+      "detail": "Die for the first time",
+      "type": "bronze",
+      "earnedDateTime": "2023-10-24T22:54:09Z",
+      "rarityPercent": 88.6
+    },
+    {
+      "id": 13,
+      "name": "Spelunker",
+      "detail": "Climb through the vent exhaust fan",
+      "type": "silver",
+      "earnedDateTime": "2023-10-24T23:02:18Z",
+      "rarityPercent": 39.4
+    },
+    {
+      "id": 1,
+      "name": "Whispers",
+      "detail": "Fall into the barbed wire pit (bad ending)",
+      "type": "silver",
+      "earnedDateTime": "2023-10-24T23:29:40Z",
+      "rarityPercent": 79.1
+    }
+  ]
+}

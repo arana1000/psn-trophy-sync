@@ -1,0 +1,141 @@
+{
+  "game": "EA SPORTS FC™ 24 Trophies",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR35518_00",
+  "progressPercent": 25,
+  "earnedCounts": {
+    "bronze": 10,
+    "silver": 4,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 26,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-07-30T22:52:09Z",
+  "earnedTotal": 14,
+  "unearnedTotal": 27,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 6,
+    "bronze": 16
+  },
+  "earned": [
+    {
+      "id": 28,
+      "name": "First of Many",
+      "detail": "Win your first Clubs League Match",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-03T00:44:19Z",
+      "rarityPercent": 11.4
+    },
+    {
+      "id": 21,
+      "name": "We're in the Game!",
+      "detail": "Play a match in UT with a squad that has players from both male and female leagues",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-03T04:48:53Z",
+      "rarityPercent": 33.8
+    },
+    {
+      "id": 12,
+      "name": "PlayStyles+",
+      "detail": "Score a goal with an active PlayStyle+",
+      "type": "silver",
+      "earnedDateTime": "2023-12-03T05:35:53Z",
+      "rarityPercent": 49.9
+    },
+    {
+      "id": 5,
+      "name": "On the way up",
+      "detail": "Reach Level 7 in a Season in Volta Football or Clubs",
+      "type": "silver",
+      "earnedDateTime": "2023-12-11T01:57:51Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 8,
+      "name": "Power Shot",
+      "detail": "Score a goal using the power shot mechanic",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-13T12:03:17Z",
+      "rarityPercent": 45.7
+    },
+    {
+      "id": 29,
+      "name": "Walk the Walk",
+      "detail": "Win your first Clubs Playoff Match",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-18T23:45:55Z",
+      "rarityPercent": 6.5
+    },
+    {
+      "id": 2,
+      "name": "Teamwork works",
+      "detail": "Win a Volta Squads match with 3 friends",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-19T01:00:34Z",
+      "rarityPercent": 3.9
+    },
+    {
+      "id": 26,
+      "name": "We're Going Up",
+      "detail": "Earn a Clubs League Promotion with your Club",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-25T02:27:24Z",
+      "rarityPercent": 9.3
+    },
+    {
+      "id": 30,
+      "name": "Make the Grade",
+      "detail": "Receive an A grade in a Clubs Skill Game",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-29T05:40:27Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 6,
+      "name": "Dead-ball specialist",
+      "detail": "Score a goal from a Free Kick",
+      "type": "bronze",
+      "earnedDateTime": "2024-01-02T19:09:52Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 39,
+      "name": "Best of Five",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2024-01-02T19:59:47Z",
+      "rarityPercent": 23.9
+    },
+    {
+      "id": 27,
+      "name": "Top of the Pyramid",
+      "detail": "Reach Elite Division with your Club in a Clubs League Season",
+      "type": "silver",
+      "earnedDateTime": "2024-01-02T23:16:51Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 25,
+      "name": "Campeones",
+      "detail": "Finish as the Champion of your Clubs Playoff table",
+      "type": "silver",
+      "earnedDateTime": "2024-05-25T01:46:39Z",
+      "rarityPercent": 1.6
+    },
+    {
+      "id": 4,
+      "name": "Shop till you drop",
+      "detail": "Purchase an item in the Volta Shop using Volta Coins",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-30T22:52:06Z",
+      "rarityPercent": 5.3
+    }
+  ]
+}

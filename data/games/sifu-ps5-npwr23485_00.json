@@ -1,0 +1,69 @@
+{
+  "game": "Sifu",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR23485_00",
+  "progressPercent": 5,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 36,
+    "silver": 21,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-03-18T01:54:47Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 56,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 21,
+    "bronze": 31
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Old Grandmaster",
+      "detail": "Clear the prologue.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-17T22:38:06Z",
+      "rarityPercent": 88
+    },
+    {
+      "id": 27,
+      "name": "Qi Gong: Essence",
+      "detail": "Receive the highest age-based shrine reward for the first time.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-18T01:36:39Z",
+      "rarityPercent": 34.1
+    },
+    {
+      "id": 25,
+      "name": "Qi Gong: Mind",
+      "detail": "Receive the highest XP-based shrine reward for the first time.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-18T01:42:47Z",
+      "rarityPercent": 22.8
+    },
+    {
+      "id": 34,
+      "name": "Lightning Hands",
+      "detail": "Perform 3 takedowns within 12 seconds. (Ignored in introduction level.)",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-18T01:43:33Z",
+      "rarityPercent": 65
+    },
+    {
+      "id": 37,
+      "name": "Rumble in the Hangar",
+      "detail": "In the Squats, clear the hangar in less than 1 minute 20 seconds after being detected by the main group.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-18T01:44:04Z",
+      "rarityPercent": 28.7
+    }
+  ]
+}

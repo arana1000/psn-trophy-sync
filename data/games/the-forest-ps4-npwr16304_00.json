@@ -1,0 +1,117 @@
+{
+  "game": "The Forest",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR16304_00",
+  "progressPercent": 23,
+  "earnedCounts": {
+    "bronze": 10,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 22,
+    "silver": 11,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-11-03T23:18:22Z",
+  "earnedTotal": 11,
+  "unearnedTotal": 27,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 11,
+    "bronze": 12
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Camp Out",
+      "detail": "Sleep with another player (group sleep)",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-23T01:06:08Z",
+      "rarityPercent": 67.4
+    },
+    {
+      "id": 4,
+      "name": "Be Nice",
+      "detail": "Share a food or drink item in MP",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-23T16:56:02Z",
+      "rarityPercent": 39.4
+    },
+    {
+      "id": 13,
+      "name": "Medic",
+      "detail": "Revive 10 co-op players\n",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-23T18:53:52Z",
+      "rarityPercent": 9.2
+    },
+    {
+      "id": 7,
+      "name": "Boy Scout",
+      "detail": "Use the compass",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-24T17:33:23Z",
+      "rarityPercent": 42.9
+    },
+    {
+      "id": 20,
+      "name": "Gabe Fan",
+      "detail": "Collect all cassette tapes!",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-27T18:28:01Z",
+      "rarityPercent": 7.5
+    },
+    {
+      "id": 14,
+      "name": "Be Extremely Nice",
+      "detail": "Share a weapon in MP",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-11T16:19:59Z",
+      "rarityPercent": 17.7
+    },
+    {
+      "id": 10,
+      "name": "Fisherman",
+      "detail": "Catch a fish with a spear",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-11T18:25:50Z",
+      "rarityPercent": 46.3
+    },
+    {
+      "id": 18,
+      "name": "Daily Grind",
+      "detail": "Drink from coffee machine",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-10T01:22:34Z",
+      "rarityPercent": 22.5
+    },
+    {
+      "id": 17,
+      "name": "Big Spender",
+      "detail": "Buy a soda and candy from vending machine",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-10T01:23:32Z",
+      "rarityPercent": 23.5
+    },
+    {
+      "id": 15,
+      "name": "Survive The Forest",
+      "detail": "Finish Game",
+      "type": "gold",
+      "earnedDateTime": "2022-09-10T02:07:39Z",
+      "rarityPercent": 18.7
+    },
+    {
+      "id": 6,
+      "name": "5 Star Hotel",
+      "detail": "Sleep on yacht",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-03T23:18:20Z",
+      "rarityPercent": 39
+    }
+  ]
+}

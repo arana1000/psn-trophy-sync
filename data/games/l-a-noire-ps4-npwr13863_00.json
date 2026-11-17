@@ -1,0 +1,117 @@
+{
+  "game": "L.A. Noire",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR13863_00",
+  "progressPercent": 11,
+  "earnedCounts": {
+    "bronze": 9,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 44,
+    "silver": 10,
+    "gold": 8,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-09-14T23:25:28Z",
+  "earnedTotal": 11,
+  "unearnedTotal": 52,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 8,
+    "silver": 8,
+    "bronze": 35
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Police Academy",
+      "detail": "Complete all cases on the Patrol desk.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-08T00:28:21Z",
+      "rarityPercent": 77.2
+    },
+    {
+      "id": 6,
+      "name": "A Cop On Every Corner",
+      "detail": "Complete a single street crime case.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-09T21:37:21Z",
+      "rarityPercent": 67.3
+    },
+    {
+      "id": 17,
+      "name": "One For The File",
+      "detail": "Find and inspect a clue as an LAPD Detective or Investigator.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-09T21:41:43Z",
+      "rarityPercent": 73.4
+    },
+    {
+      "id": 19,
+      "name": "The Plot Thickens",
+      "detail": "Find and solve an inspection puzzle.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-09T22:05:25Z",
+      "rarityPercent": 70.7
+    },
+    {
+      "id": 16,
+      "name": "The Straight Dope",
+      "detail": "Use evidence to prove a lie as an LAPD Detective or Investigator.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-09T22:15:02Z",
+      "rarityPercent": 63.8
+    },
+    {
+      "id": 18,
+      "name": "Golden Boy",
+      "detail": "Clear a case finding every clue as an LAPD Detective or Investigator.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-09T22:29:02Z",
+      "rarityPercent": 54.3
+    },
+    {
+      "id": 10,
+      "name": "The Up And Up",
+      "detail": "Complete a story case with a five star rating.",
+      "type": "silver",
+      "earnedDateTime": "2024-09-09T22:29:14Z",
+      "rarityPercent": 41.4
+    },
+    {
+      "id": 36,
+      "name": "Keep A Lid On",
+      "detail": "Complete a brawl without losing your hat as an LAPD Detective or Investigator.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-10T15:38:10Z",
+      "rarityPercent": 38.8
+    },
+    {
+      "id": 31,
+      "name": "The Third Degree",
+      "detail": "Correctly branch every question in every interview in a single story case.",
+      "type": "silver",
+      "earnedDateTime": "2024-09-10T16:34:32Z",
+      "rarityPercent": 36.2
+    },
+    {
+      "id": 13,
+      "name": "Not So Hasty",
+      "detail": "Stop a fleeing suspect with a warning shot as an LAPD Detective.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-12T22:11:05Z",
+      "rarityPercent": 19.6
+    },
+    {
+      "id": 37,
+      "name": "Auto Enthusiast",
+      "detail": "Drive 5 different vehicles.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-14T23:25:25Z",
+      "rarityPercent": 50.1
+    }
+  ]
+}

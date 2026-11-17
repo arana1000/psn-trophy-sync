@@ -1,6 +1,6 @@
 # Trophy sync: abz_r100
 
-Still filling in: 163 of 203 games not synced yet. They'll be added over the next few hourly runs.
+Still filling in: 123 of 203 games not synced yet. They'll be added over the next few hourly runs.
 
 ## Recently earned
 
@@ -76,46 +76,46 @@ Still filling in: 163 of 203 games not synced yet. They'll be added over the nex
 | STAR WARS Jedi: Survivor™ | PS5 | 100% | 54 / 54 | Yes |
 | STAR WARS Jedi: Fallen Order | PS5 | 100% | 40 / 40 | Yes |
 | EA SPORTS FC™ 25 Trophies | PS4 | 17% | 10 / 40 | No |
-| EA SPORTS™ UFC® 5 | PS5 | 100% | not synced yet | Yes |
-| Need for Speed™ Hot Pursuit Remastered | PS4 | 88% | not synced yet | Yes |
-| Far Cry® 5 | PS4 | 9% | not synced yet | No |
-| PAYDAY 3 | PS5 | 6% | not synced yet | No |
-| Call of Duty® Modern Warfare® | PS4 | 98% | not synced yet | Yes |
-| Call of Duty®: Modern Warfare® Remastered | PS4 | 100% | not synced yet | Yes |
-| Call of Duty®: Modern Warfare® 2 Campaign Remastered | PS4 | 100% | not synced yet | Yes |
-| Grand Theft Auto V | PS4 | 85% | not synced yet | Yes |
-| Resident Evil 7: Biohazard | PS4 | 6% | not synced yet | No |
-| Grand Theft Auto: San Andreas – The Definitive Edition | PS5 | 100% | not synced yet | Yes |
-| Call of Duty® Modern Warfare® II | PS5 | 19% | not synced yet | No |
-| Call of Duty® Black Ops 6 | PS4 | 0% | not synced yet | No |
-| The Last of Us™ Part I | PS5 | 1% | not synced yet | No |
-| Marvel's Spider-Man 2 | PS5,PSPC | 97% | not synced yet | Yes |
-| The Forest | PS4 | 23% | not synced yet | No |
-| Red Dead Redemption 2 | PS4 | 100% | not synced yet | Yes |
-| Bloodborne | PS4 | 0% | not synced yet | No |
-| Horizon Zero Dawn | PS4 | 1% | not synced yet | No |
-| L.A. Noire | PS4 | 11% | not synced yet | No |
-| Dying Light | PS4 | 79% | not synced yet | Yes |
-| EA SPORTS FC™ 24 Trophies | PS4 | 25% | not synced yet | No |
-| Ghostrunner 2 | PS5 | 5% | not synced yet | No |
-| Mortal Kombat 11 Trophies | PS5 | 0% | not synced yet | No |
-| Burnout Paradise Remastered | PS4 | 34% | not synced yet | No |
-| Sleeping Dogs: Definitive Edition | PS4 | 75% | not synced yet | Yes |
-| Assassin's Creed® II | PS4 | 100% | not synced yet | Yes |
-| Tom Clancy’s Rainbow Six® Extraction | PS4 | 1% | not synced yet | No |
-| Hello Neighbor 2 | PS5 | 1% | not synced yet | No |
-| Sifu | PS5 | 5% | not synced yet | No |
-| BATMAN™: ARKHAM KNIGHT | PS4 | 60% | not synced yet | Yes |
-| God of War Ragnarök | PS5,PSPC | 85% | not synced yet | Yes |
-| DETROIT: BECOME HUMAN | PS4 | 66% | not synced yet | No |
-| EA SPORTS FC™ 24 Trophies | PS5 | 8% | not synced yet | No |
-| Teardown | PS5 | 0% | not synced yet | No |
-| Among Us | PS5 | 76% | not synced yet | No |
-| Slender: The Arrival | PS4 | 23% | not synced yet | n/a |
-| NUN MASSACRE | PS4 | 7% | not synced yet | No |
-| KINGDOM HEARTS III | PS4 | 12% | not synced yet | No |
-| KINGDOM HEARTS II FINAL MIX | PS4 | 27% | not synced yet | No |
-| HITMAN™ | PS4 | 6% | not synced yet | n/a |
+| EA SPORTS™ UFC® 5 | PS5 | 100% | 32 / 32 | Yes |
+| Need for Speed™ Hot Pursuit Remastered | PS4 | 88% | 57 / 67 | Yes |
+| Far Cry® 5 | PS4 | 9% | 9 / 73 | No |
+| PAYDAY 3 | PS5 | 6% | 3 / 23 | No |
+| Call of Duty® Modern Warfare® | PS4 | 98% | 27 / 28 | Yes |
+| Call of Duty®: Modern Warfare® Remastered | PS4 | 100% | 51 / 51 | Yes |
+| Call of Duty®: Modern Warfare® 2 Campaign Remastered | PS4 | 100% | 51 / 51 | Yes |
+| Grand Theft Auto V | PS4 | 85% | 68 / 78 | Yes |
+| Resident Evil 7: Biohazard | PS4 | 6% | 7 / 59 | No |
+| Grand Theft Auto: San Andreas – The Definitive Edition | PS5 | 100% | 35 / 35 | Yes |
+| Call of Duty® Modern Warfare® II | PS5 | 19% | 23 / 176 | No |
+| Call of Duty® Black Ops 6 | PS4 | 0% | 0 / 45 | No |
+| The Last of Us™ Part I | PS5 | 1% | 1 / 29 | No |
+| Marvel's Spider-Man 2 | PS5,PSPC | 97% | 42 / 43 | Yes |
+| The Forest | PS4 | 23% | 11 / 38 | No |
+| Red Dead Redemption 2 | PS4 | 100% | 52 / 52 | Yes |
+| Bloodborne | PS4 | 0% | 0 / 40 | No |
+| Horizon Zero Dawn | PS4 | 1% | 1 / 79 | No |
+| L.A. Noire | PS4 | 11% | 11 / 63 | No |
+| Dying Light | PS4 | 79% | 57 / 69 | Yes |
+| EA SPORTS FC™ 24 Trophies | PS4 | 25% | 14 / 41 | No |
+| Ghostrunner 2 | PS5 | 5% | 4 / 34 | No |
+| Mortal Kombat 11 Trophies | PS5 | 0% | 0 / 59 | No |
+| Burnout Paradise Remastered | PS4 | 34% | 34 / 95 | No |
+| Sleeping Dogs: Definitive Edition | PS4 | 75% | 51 / 60 | Yes |
+| Assassin's Creed® II | PS4 | 100% | 51 / 51 | Yes |
+| Tom Clancy’s Rainbow Six® Extraction | PS4 | 1% | 1 / 43 | No |
+| Hello Neighbor 2 | PS5 | 1% | 1 / 15 | No |
+| Sifu | PS5 | 5% | 5 / 61 | No |
+| BATMAN™: ARKHAM KNIGHT | PS4 | 60% | 78 / 110 | Yes |
+| God of War Ragnarök | PS5,PSPC | 85% | 37 / 48 | Yes |
+| DETROIT: BECOME HUMAN | PS4 | 66% | 32 / 49 | No |
+| EA SPORTS FC™ 24 Trophies | PS5 | 8% | 4 / 41 | No |
+| Teardown | PS5 | 0% | 0 / 27 | No |
+| Among Us | PS5 | 76% | 25 / 34 | No |
+| Slender: The Arrival | PS4 | 23% | 5 / 20 | n/a |
+| NUN MASSACRE | PS4 | 7% | 3 / 23 | No |
+| KINGDOM HEARTS III | PS4 | 12% | 10 / 52 | No |
+| KINGDOM HEARTS II FINAL MIX | PS4 | 27% | 18 / 51 | No |
+| HITMAN™ | PS4 | 6% | 7 / 69 | n/a |
 | FIFA 23 | PS4 | 45% | not synced yet | No |
 | Golf With Your Friends | PS4 | 13% | not synced yet | No |
 | PAYDAY 2: CRIMEWAVE EDITION | PS4 | 1% | not synced yet | No |

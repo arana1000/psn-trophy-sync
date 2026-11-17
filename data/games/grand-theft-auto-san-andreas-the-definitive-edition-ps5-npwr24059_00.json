@@ -1,0 +1,309 @@
+{
+  "game": "Grand Theft Auto: San Andreas – The Definitive Edition",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR24059_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 21,
+    "silver": 8,
+    "gold": 5,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 21,
+    "silver": 8,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-12-20T21:45:11Z",
+  "earnedTotal": 35,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Getting Started",
+      "detail": "Complete \"Big Smoke\".",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-08T15:37:26Z",
+      "rarityPercent": 67.3
+    },
+    {
+      "id": 8,
+      "name": "Pay 'n' Spray",
+      "detail": "Use a Pay 'n' Spray with wanted level.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-08T16:19:57Z",
+      "rarityPercent": 33.9
+    },
+    {
+      "id": 29,
+      "name": "Today Was a Good Day",
+      "detail": "Go 24 hours (in game) without breaking the law, being wanted, killing or harming anyone.",
+      "type": "gold",
+      "earnedDateTime": "2024-03-08T18:41:43Z",
+      "rarityPercent": 15.4
+    },
+    {
+      "id": 27,
+      "name": "Assassin",
+      "detail": "Stealth kill all enemies in the mission \"Madd Dogg's Rhymes\".",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-09T01:36:59Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 23,
+      "name": "All Dressed Up for San Fierro",
+      "detail": "Complete \"The Green Sabre\".",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-09T17:27:19Z",
+      "rarityPercent": 14
+    },
+    {
+      "id": 2,
+      "name": "With Extra Dip",
+      "detail": "Buy 8 meals from Cluckin' Bell throughout the game.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-09T17:35:24Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 13,
+      "name": "School's Out",
+      "detail": "Fully complete a vehicle school.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-10T00:19:00Z",
+      "rarityPercent": 9.7
+    },
+    {
+      "id": 6,
+      "name": "I’ll Have Two Number 9s",
+      "detail": "Reach maximum weight.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-10T00:50:33Z",
+      "rarityPercent": 2.5
+    },
+    {
+      "id": 10,
+      "name": "Who Needs Directions?",
+      "detail": "Find Mike Toreno without any of the referenced locations during \"Mike Toreno\".",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-22T23:14:38Z",
+      "rarityPercent": 2.5
+    },
+    {
+      "id": 9,
+      "name": "Bike or Biker",
+      "detail": "Complete BMX or NRG challenge.",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-23T04:17:22Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 16,
+      "name": "Smooth Moves",
+      "detail": "Perform a perfect dance routine.",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-23T05:16:32Z",
+      "rarityPercent": 10.3
+    },
+    {
+      "id": 14,
+      "name": "Horror of the Santa Maria",
+      "detail": "Drown.",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-23T15:49:39Z",
+      "rarityPercent": 11.5
+    },
+    {
+      "id": 18,
+      "name": "Saviour",
+      "detail": "Complete 12 levels of Paramedic.",
+      "type": "silver",
+      "earnedDateTime": "2024-11-23T16:48:41Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 22,
+      "name": "What happens in Las Venturas...",
+      "detail": "Complete \"Yay Ka-Boom-Boom\".",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-23T17:04:15Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 19,
+      "name": "Rescue a Kitten Too?",
+      "detail": "Complete 12 levels of Firefighter.",
+      "type": "silver",
+      "earnedDateTime": "2024-11-24T02:08:09Z",
+      "rarityPercent": 3.1
+    },
+    {
+      "id": 15,
+      "name": "They Can’t Stop All of Us",
+      "detail": "Sneak into the underground base without setting off the alarm above ground during \"Black Project\".",
+      "type": "gold",
+      "earnedDateTime": "2024-11-28T02:22:31Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 17,
+      "name": "What the City Needs",
+      "detail": "Complete 12 levels of Vigilante.",
+      "type": "silver",
+      "earnedDateTime": "2024-11-29T23:03:45Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 26,
+      "name": "Double or Nothin'",
+      "detail": "Put all your money or the maximum bet on red or black and win.",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-30T00:54:18Z",
+      "rarityPercent": 2.7
+    },
+    {
+      "id": 21,
+      "name": "Lucky Spinner",
+      "detail": "Win at least $1,000 in a single spin of the Wheel of Fortune.",
+      "type": "bronze",
+      "earnedDateTime": "2024-11-30T01:01:37Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 20,
+      "name": "Yes I Speak English",
+      "detail": "Reach 50 fares in Taxi Mode.",
+      "type": "silver",
+      "earnedDateTime": "2024-11-30T03:22:08Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 11,
+      "name": "Liberty City State of Mind",
+      "detail": "Complete the \"Saint Mark's Bistro\" mission.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-14T00:30:55Z",
+      "rarityPercent": 5.9
+    },
+    {
+      "id": 7,
+      "name": "The American Dream",
+      "detail": "Purchase any house.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-14T01:48:54Z",
+      "rarityPercent": 10.9
+    },
+    {
+      "id": 24,
+      "name": "Not a Player",
+      "detail": "Go on at least one date with every potential girlfriend.",
+      "type": "silver",
+      "earnedDateTime": "2024-12-14T04:09:39Z",
+      "rarityPercent": 1.3
+    },
+    {
+      "id": 31,
+      "name": "Chick Magnet",
+      "detail": "Achieve maximum sex appeal.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-15T00:09:37Z",
+      "rarityPercent": 1.4
+    },
+    {
+      "id": 28,
+      "name": "Original Gangster",
+      "detail": "Reach maximum respect.",
+      "type": "silver",
+      "earnedDateTime": "2024-12-15T05:17:27Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 32,
+      "name": "Ain’t Nothing But a G Thing",
+      "detail": "Own all gang warfare turfs, properties and have $1,000,000.",
+      "type": "gold",
+      "earnedDateTime": "2024-12-15T08:00:41Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 3,
+      "name": "The End of the Line",
+      "detail": "Complete \"End of the Line\".",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-15T08:33:54Z",
+      "rarityPercent": 4.8
+    },
+    {
+      "id": 30,
+      "name": "Public Enemy No. 1",
+      "detail": "Reach 6 wanted stars.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-15T14:32:58Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 12,
+      "name": "Swiss Army Strife",
+      "detail": "Max all weapon skills.",
+      "type": "gold",
+      "earnedDateTime": "2024-12-15T18:34:45Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 25,
+      "name": "What are the Odds",
+      "detail": "Win a race in Inside Track Betting.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T01:23:51Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 4,
+      "name": "Hoopin' it Up",
+      "detail": "Score at least 30 points in the basketball mini-game.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T01:32:25Z",
+      "rarityPercent": 2.1
+    },
+    {
+      "id": 5,
+      "name": "A Legitimate Business",
+      "detail": "Export all three car lists.",
+      "type": "silver",
+      "earnedDateTime": "2024-12-20T21:20:08Z",
+      "rarityPercent": 1.6
+    },
+    {
+      "id": 33,
+      "name": "Remastered",
+      "detail": "Earn 100% completion.",
+      "type": "gold",
+      "earnedDateTime": "2024-12-20T21:43:16Z",
+      "rarityPercent": 1.1
+    },
+    {
+      "id": 0,
+      "name": "I Ain't No Buster",
+      "detail": "Unlock all trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2024-12-20T21:45:11Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 34,
+      "name": "...Here we go again",
+      "detail": "Start a new game after getting 100% on a save file.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-20T21:45:11Z",
+      "rarityPercent": 1.1
+    }
+  ]
+}

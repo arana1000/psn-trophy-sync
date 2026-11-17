@@ -1,0 +1,213 @@
+{
+  "game": "Call of Duty® Modern Warfare® II",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR24223_00",
+  "progressPercent": 19,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 10,
+    "gold": 7,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 102,
+    "silver": 49,
+    "gold": 24,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-12-15T22:30:44Z",
+  "earnedTotal": 23,
+  "unearnedTotal": 153,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 17,
+    "silver": 39,
+    "bronze": 96
+  },
+  "earned": [
+    {
+      "id": 18,
+      "name": "Nobody was There",
+      "detail": "Never trigger the alarm in 'Recon by Fire'.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-20T22:57:00Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 17,
+      "name": "Time for Pints",
+      "detail": "Finish the Campaign on any difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2022-10-21T14:38:25Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 1,
+      "name": "Crocodile",
+      "detail": "Shoot three enemies while underwater in 'Wetwork'.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-21T18:45:40Z",
+      "rarityPercent": 0.7
+    },
+    {
+      "id": 13,
+      "name": "Nessie",
+      "detail": "Reach the barge without being seen in 'Wetwork'.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-21T18:56:42Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 2,
+      "name": "Must be Wind",
+      "detail": "Rescue the hostages in 'Countdown' without the enemies firing their weapons.",
+      "type": "gold",
+      "earnedDateTime": "2022-10-21T19:11:30Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 7,
+      "name": "Keeping this One",
+      "detail": "Reach Price using the first vehicle you hijack.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-21T19:30:17Z",
+      "rarityPercent": 0.4
+    },
+    {
+      "id": 5,
+      "name": "Ghost-in-Training",
+      "detail": "Reach the penthouse in 'El Sin Nombre' without killing anyone or triggering the alarm.",
+      "type": "gold",
+      "earnedDateTime": "2022-10-21T20:08:47Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 12,
+      "name": "A Crappy Way to Die",
+      "detail": "Kill the enemy in the porta-potty.",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-22T12:08:16Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 6,
+      "name": "Don’t touch the deck!",
+      "detail": "In 'Dark Water' advance 90 meters towards the front of the ship without touching the deck.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-22T12:56:11Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 8,
+      "name": "Gentleman Thief",
+      "detail": "Open three safes in the Campaign.",
+      "type": "gold",
+      "earnedDateTime": "2022-10-22T14:06:29Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 3,
+      "name": "Gunless",
+      "detail": "Finish 'Alone' without firing a gun.",
+      "type": "gold",
+      "earnedDateTime": "2022-10-22T14:30:34Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 9,
+      "name": "Wall of Duty",
+      "detail": "Kill three Enemies with the Riot Shield in the Campaign or in Co-op.",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-23T17:28:33Z",
+      "rarityPercent": 1.3
+    },
+    {
+      "id": 11,
+      "name": "Practice makes Perfect",
+      "detail": "Shoot all the targets in the training area in 'Ghost Team'.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-23T18:13:34Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 10,
+      "name": "Daredevil",
+      "detail": "While affected by one Flashbang, kill two enemies in the Campaign or in Co-op.",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-23T18:18:32Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 4,
+      "name": "Test Drive",
+      "detail": "Drive five vehicle types in 'Violence and Timing'.",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-24T23:18:47Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 14,
+      "name": "No time to lose",
+      "detail": "Complete the CCTV sequence in four minutes.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-27T21:01:20Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 16,
+      "name": "Cutting Heads off Snakes",
+      "detail": "Finish all Campaign missions on Veteran or Realism difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2022-10-27T21:29:30Z",
+      "rarityPercent": 0.4
+    },
+    {
+      "id": 23,
+      "name": "Only the Beginning",
+      "detail": "Earn at least one Star in Co-op.",
+      "type": "silver",
+      "earnedDateTime": "2022-10-27T23:45:34Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 53,
+      "name": "Death Row",
+      "detail": "Kill 12 enemies while descending in the panopticon in 'Operation 627'",
+      "type": "bronze",
+      "earnedDateTime": "2023-11-15T23:29:59Z",
+      "rarityPercent": 6.3
+    },
+    {
+      "id": 51,
+      "name": "Never Bury Your Enemies Alive",
+      "detail": "Complete the campaign",
+      "type": "gold",
+      "earnedDateTime": "2023-11-17T18:40:36Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 91,
+      "name": "The Pale Horse Arrives",
+      "detail": "Get 500 Eliminations in Multiplayer",
+      "type": "silver",
+      "earnedDateTime": "2024-12-13T23:09:48Z",
+      "rarityPercent": 18.1
+    },
+    {
+      "id": 98,
+      "name": "Stylish Kill",
+      "detail": "Get 75 Eliminations while having an active Combat Speciality Perk in Multiplayer",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-13T23:25:35Z",
+      "rarityPercent": 15.5
+    },
+    {
+      "id": 89,
+      "name": "Show Off",
+      "detail": "Earn a Mastery Badge with any weapon",
+      "type": "silver",
+      "earnedDateTime": "2024-12-15T22:30:43Z",
+      "rarityPercent": 17.4
+    }
+  ]
+}

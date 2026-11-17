@@ -1,0 +1,285 @@
+{
+  "game": "EA SPORTS™ UFC® 5",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR24071_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 16,
+    "silver": 9,
+    "gold": 6,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 16,
+    "silver": 9,
+    "gold": 6,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-04-11T23:00:06Z",
+  "earnedTotal": 32,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 12,
+      "name": "Headshot...Bang!",
+      "detail": "Knockout an opponent on the same side they are damaged on.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-22T23:53:25Z",
+      "rarityPercent": 63.9
+    },
+    {
+      "id": 1,
+      "name": "Slice vs. Dreads",
+      "detail": "Enter the Backyard in Career Mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-23T00:09:54Z",
+      "rarityPercent": 43.1
+    },
+    {
+      "id": 20,
+      "name": "Come Back to Bed",
+      "detail": "Perform 5 successful takedowns in a fight.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-23T00:29:05Z",
+      "rarityPercent": 32.5
+    },
+    {
+      "id": 13,
+      "name": "The Best There Is",
+      "detail": "Upgrade a move during a fight or training in Career Mode.",
+      "type": "silver",
+      "earnedDateTime": "2025-03-23T00:31:27Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 3,
+      "name": "No Rizz",
+      "detail": "Get your first UFC Contract in Career Mode.",
+      "type": "gold",
+      "earnedDateTime": "2025-03-23T00:47:15Z",
+      "rarityPercent": 35.1
+    },
+    {
+      "id": 2,
+      "name": "Showtime",
+      "detail": "Start your Contender Series Training Camp in Career Mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-23T00:48:31Z",
+      "rarityPercent": 34.8
+    },
+    {
+      "id": 6,
+      "name": "Nerrrd",
+      "detail": "Achieve an A Grade in a Training Drill in Career Mode.",
+      "type": "silver",
+      "earnedDateTime": "2025-03-23T22:53:47Z",
+      "rarityPercent": 29.2
+    },
+    {
+      "id": 30,
+      "name": "Block This",
+      "detail": "Use a Guard Breaking strike to break your opponents block.",
+      "type": "silver",
+      "earnedDateTime": "2025-03-23T23:38:04Z",
+      "rarityPercent": 55.2
+    },
+    {
+      "id": 17,
+      "name": "Relentless",
+      "detail": "Finish a fight by ground and pound.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-24T00:11:47Z",
+      "rarityPercent": 59.7
+    },
+    {
+      "id": 7,
+      "name": "Look At Me Now",
+      "detail": "Become a ranked fighter in any UFC weightclass in Career Mode.",
+      "type": "gold",
+      "earnedDateTime": "2025-03-24T00:59:57Z",
+      "rarityPercent": 19.8
+    },
+    {
+      "id": 11,
+      "name": "Spinning Shh...",
+      "detail": "Land a spinning attack on your opponent.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-24T22:51:38Z",
+      "rarityPercent": 49.1
+    },
+    {
+      "id": 14,
+      "name": "The Best There Was",
+      "detail": "Prestige a move in Career Mode.",
+      "type": "gold",
+      "earnedDateTime": "2025-03-24T23:22:59Z",
+      "rarityPercent": 10
+    },
+    {
+      "id": 22,
+      "name": "Let me Tell You a Secret",
+      "detail": "KO your opponent from clinch.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-24T23:32:41Z",
+      "rarityPercent": 14.2
+    },
+    {
+      "id": 21,
+      "name": "Fine Collection",
+      "detail": "Acquire a Legendary Item.",
+      "type": "silver",
+      "earnedDateTime": "2025-03-25T01:26:14Z",
+      "rarityPercent": 24.2
+    },
+    {
+      "id": 16,
+      "name": "The Best There Ever Will Be",
+      "detail": "Become the GOAT in Career Mode.",
+      "type": "gold",
+      "earnedDateTime": "2025-03-25T01:58:13Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 15,
+      "name": "Shape Shifter",
+      "detail": "Acquire an Alter Ego Fighter.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T02:18:08Z",
+      "rarityPercent": 27.8
+    },
+    {
+      "id": 10,
+      "name": "Just Bleed",
+      "detail": "Have a Doctor enter the cage to check out a cut.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-25T02:25:54Z",
+      "rarityPercent": 53.7
+    },
+    {
+      "id": 28,
+      "name": "A Quick Round",
+      "detail": "Enter a Blitz Battle.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-04T21:03:23Z",
+      "rarityPercent": 3.7
+    },
+    {
+      "id": 29,
+      "name": "Blitz Battler",
+      "detail": "Get to Round 3 of a Blitz Battle.",
+      "type": "silver",
+      "earnedDateTime": "2025-04-04T21:12:20Z",
+      "rarityPercent": 1.7
+    },
+    {
+      "id": 26,
+      "name": "Road to Gold",
+      "detail": "Start a season in Online Career.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-04T21:22:57Z",
+      "rarityPercent": 11.1
+    },
+    {
+      "id": 27,
+      "name": "Never Skip Leg Day",
+      "detail": "Upgrade a fighter in Online Career.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-04T21:24:03Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 31,
+      "name": "And Still",
+      "detail": "Become champion and defend the title once in Ranked Championship or Online Career.",
+      "type": "silver",
+      "earnedDateTime": "2025-04-05T14:56:06Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 8,
+      "name": "What Could Go Wrong?",
+      "detail": "Make picks for a Fight Week.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-08T17:21:36Z",
+      "rarityPercent": 12.4
+    },
+    {
+      "id": 4,
+      "name": "You Have My Attention",
+      "detail": "Unlock a challenge during Fight Week.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-08T17:26:22Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 5,
+      "name": "Easy Work",
+      "detail": "Unlock all challenges during a Fight Week.",
+      "type": "gold",
+      "earnedDateTime": "2025-04-09T00:43:33Z",
+      "rarityPercent": 1.1
+    },
+    {
+      "id": 23,
+      "name": "Don't Judge Me",
+      "detail": "Edit all categories from your Player Card.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-09T01:25:03Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 24,
+      "name": "I Did That",
+      "detail": "Equip 5 accolades in your Player Card.",
+      "type": "silver",
+      "earnedDateTime": "2025-04-09T01:25:04Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 25,
+      "name": "Pound for Pound",
+      "detail": "Prestige a fighter in Online Career.",
+      "type": "gold",
+      "earnedDateTime": "2025-04-11T22:35:00Z",
+      "rarityPercent": 2.8
+    },
+    {
+      "id": 18,
+      "name": "You Either Win or Learn",
+      "detail": "Finish a fight by choke submission.",
+      "type": "silver",
+      "earnedDateTime": "2025-04-11T22:49:27Z",
+      "rarityPercent": 28.6
+    },
+    {
+      "id": 19,
+      "name": "Joint Venture",
+      "detail": "Finish a fight by Joint Submission.",
+      "type": "silver",
+      "earnedDateTime": "2025-04-11T22:57:31Z",
+      "rarityPercent": 21.8
+    },
+    {
+      "id": 0,
+      "name": "G.O.A.T.",
+      "detail": "Unlock all other trophies in EA SPORTS™ UFC® 5.",
+      "type": "platinum",
+      "earnedDateTime": "2025-04-11T23:00:05Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 9,
+      "name": "Position Over Submission",
+      "detail": "Release a Submission to advance your position.",
+      "type": "bronze",
+      "earnedDateTime": "2025-04-11T23:00:05Z",
+      "rarityPercent": 52.8
+    }
+  ]
+}

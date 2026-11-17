@@ -1,0 +1,53 @@
+{
+  "game": "PAYDAY 3",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR37099_00",
+  "progressPercent": 6,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 7,
+    "silver": 8,
+    "gold": 7,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-03-12T01:19:30Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 20,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 7,
+    "silver": 7,
+    "bronze": 5
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "No One Cared Who I Was...",
+      "detail": "Until I put on the mask.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-10T01:03:03Z",
+      "rarityPercent": 49.9
+    },
+    {
+      "id": 12,
+      "name": "Just... One... More...",
+      "detail": "Complete No Rest For The Wicked having opened all deposit boxes.",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-10T01:29:43Z",
+      "rarityPercent": 21.6
+    },
+    {
+      "id": 11,
+      "name": "Color Me Surprised",
+      "detail": "Complete No Rest For The Wicked without letting a dye pack explode on Very Hard or above.",
+      "type": "silver",
+      "earnedDateTime": "2025-03-12T01:19:31Z",
+      "rarityPercent": 3.3
+    }
+  ]
+}

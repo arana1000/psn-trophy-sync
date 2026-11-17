@@ -1,0 +1,37 @@
+{
+  "game": "Tom Clancy’s Rainbow Six® Extraction",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR19073_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 26,
+    "silver": 13,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-04-10T09:12:11Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 42,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 13,
+    "bronze": 25
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Slap Fight",
+      "detail": "Hit 3 enemies with melee attacks.",
+      "type": "bronze",
+      "earnedDateTime": "2024-04-10T09:12:09Z",
+      "rarityPercent": 42.3
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "game": "Resident Evil 7: Biohazard",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR10751_00",
+  "progressPercent": 6,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 19,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-12-28T21:33:30Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 52,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 19,
+    "bronze": 27
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "She's Alive",
+      "detail": "Travel to Louisiana.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-26T01:50:07Z",
+      "rarityPercent": 89.5
+    },
+    {
+      "id": 14,
+      "name": "A-ha!",
+      "detail": "Obtain something by closely examining an item.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-26T01:52:56Z",
+      "rarityPercent": 79.1
+    },
+    {
+      "id": 12,
+      "name": "Behind Closed Doors",
+      "detail": "Close an open door by yourself.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-26T01:54:01Z",
+      "rarityPercent": 72.2
+    },
+    {
+      "id": 2,
+      "name": "Welcome to the Family, Son",
+      "detail": "Escape from the guest house.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-26T02:26:40Z",
+      "rarityPercent": 70.6
+    },
+    {
+      "id": 15,
+      "name": "Master of Unlocking",
+      "detail": "Use a lock pick to open something.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-28T20:57:07Z",
+      "rarityPercent": 57.3
+    },
+    {
+      "id": 16,
+      "name": "Nice Try",
+      "detail": "Put an unrelated object on a shadow plinth.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-28T21:18:37Z",
+      "rarityPercent": 49.4
+    },
+    {
+      "id": 27,
+      "name": "Can't Catch Me",
+      "detail": "Complete the \"Mia\" videotape without being spotted by Marguerite.",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-28T21:33:28Z",
+      "rarityPercent": 49.6
+    }
+  ]
+}

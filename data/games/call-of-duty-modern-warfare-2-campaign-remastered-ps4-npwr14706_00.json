@@ -1,0 +1,437 @@
+{
+  "game": "Call of Duty®: Modern Warfare® 2 Campaign Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR14706_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-02-16T04:17:45Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Back in the Saddle",
+      "detail": "Help train the local militia.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-29T23:29:00Z",
+      "rarityPercent": 81.3
+    },
+    {
+      "id": 29,
+      "name": "Two Birds with One Stone",
+      "detail": "Kill 2 enemies with a single bullet.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-29T23:30:51Z",
+      "rarityPercent": 69.6
+    },
+    {
+      "id": 37,
+      "name": "Three-some",
+      "detail": "Kill at least 3 enemies with a single shot from a grenade launcher.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-29T23:31:50Z",
+      "rarityPercent": 68.8
+    },
+    {
+      "id": 2,
+      "name": "Danger Close",
+      "detail": "Get hand picked for Shepherd's elite squad.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-29T23:42:50Z",
+      "rarityPercent": 73.8
+    },
+    {
+      "id": 3,
+      "name": "Cold Shoulder",
+      "detail": "Infiltrate the snowy mountain side base.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T00:00:08Z",
+      "rarityPercent": 67.1
+    },
+    {
+      "id": 33,
+      "name": "The Harder They Fall",
+      "detail": "Kill 2 rappelling enemies in a row before they land on their feet.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T00:06:51Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 4,
+      "name": "Tag 'em and bag 'em",
+      "detail": "Find Rojas in the Favelas.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T01:59:06Z",
+      "rarityPercent": 57
+    },
+    {
+      "id": 28,
+      "name": "Some Like it Hot",
+      "detail": "Kill 6 enemies in a row using a thermal weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T02:09:42Z",
+      "rarityPercent": 41.7
+    },
+    {
+      "id": 25,
+      "name": "Ten plus foot-mobiles",
+      "detail": "Kill at least 10 enemies with one Predator Missile.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T02:19:20Z",
+      "rarityPercent": 49
+    },
+    {
+      "id": 5,
+      "name": "Royale with Cheese",
+      "detail": "Defend Burger Town.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T02:37:55Z",
+      "rarityPercent": 51.5
+    },
+    {
+      "id": 27,
+      "name": "Knock-knock",
+      "detail": "Kill 4 enemies with 4 shots during a slow-mo breach.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T15:19:13Z",
+      "rarityPercent": 19.2
+    },
+    {
+      "id": 26,
+      "name": "Unnecessary Roughness",
+      "detail": "Use a Riot shield to beat down an enemy.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T15:46:51Z",
+      "rarityPercent": 39.8
+    },
+    {
+      "id": 6,
+      "name": "Soap on a Rope",
+      "detail": "Storm the gulag.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T16:00:57Z",
+      "rarityPercent": 43.2
+    },
+    {
+      "id": 17,
+      "name": "Prisoner 627",
+      "detail": "Complete 'The Only Easy Day... Was Yesterday' and 'The Gulag' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2020-07-30T16:00:58Z",
+      "rarityPercent": 5.2
+    },
+    {
+      "id": 39,
+      "name": "Angel Savior",
+      "detail": "Do not get your Predator Drone destroyed in 'Contingency'.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T22:13:09Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 7,
+      "name": "Desperate Times",
+      "detail": "Execute the plan to help the Americans.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T22:49:50Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 18,
+      "name": "Ends Justify the Means",
+      "detail": "Complete 'Contingency' on Veteran difficulty.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-30T22:49:51Z",
+      "rarityPercent": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Whiskey Hotel",
+      "detail": "Take back Whiskey Hotel.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-07T02:37:58Z",
+      "rarityPercent": 39.3
+    },
+    {
+      "id": 19,
+      "name": "Homecoming",
+      "detail": "Complete 'Of Their Own Accord', 'Second Sun', and 'Whiskey Hotel' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2020-08-07T02:37:59Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 9,
+      "name": "The Pawn",
+      "detail": "Assault Makarov's safehouse.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-07T14:31:18Z",
+      "rarityPercent": 38.1
+    },
+    {
+      "id": 10,
+      "name": "Out of the Frying Pan...",
+      "detail": "Complete the mission in the airplane graveyard.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-07T15:06:38Z",
+      "rarityPercent": 37.5
+    },
+    {
+      "id": 20,
+      "name": "Queen takes Rook",
+      "detail": "Complete 'Loose Ends' and 'The Enemy of My Enemy' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2020-08-07T15:06:39Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 14,
+      "name": "Black Diamond",
+      "detail": "Complete 'Cliffhanger' on Veteran difficulty.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-07T23:55:26Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 24,
+      "name": "Colonel Sanderson",
+      "detail": "Kill 7 chickens in under 10 seconds in 'The Hornet's Nest'.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-08T03:15:33Z",
+      "rarityPercent": 5
+    },
+    {
+      "id": 15,
+      "name": "Turistas",
+      "detail": "Complete 'Takedown' and 'The Hornet's Nest' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2020-08-08T03:19:35Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 38,
+      "name": "Target Confirmed",
+      "detail": "Instruct the Honey Badger to kill 80 enemies in 'Exodus'.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-08T14:25:16Z",
+      "rarityPercent": 6
+    },
+    {
+      "id": 16,
+      "name": "Red Dawn",
+      "detail": "Complete 'Wolverines!' and 'Exodus' on Veteran difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2020-08-08T14:37:34Z",
+      "rarityPercent": 5.2
+    },
+    {
+      "id": 11,
+      "name": "For the Record",
+      "detail": "Complete the single player campaign on any difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2020-08-08T15:10:54Z",
+      "rarityPercent": 36.6
+    },
+    {
+      "id": 21,
+      "name": "Off the Grid",
+      "detail": "Complete 'Just Like Old Times' and 'Endgame' on Veteran difficulty.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-08T15:11:02Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 12,
+      "name": "The Price of War",
+      "detail": "Complete the single player campaign on Hardened or Veteran difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2020-08-08T15:11:08Z",
+      "rarityPercent": 8.1
+    },
+    {
+      "id": 43,
+      "name": "Precognitive Paranoia",
+      "detail": "Kill Shepherd.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-08T15:50:40Z",
+      "rarityPercent": 15.5
+    },
+    {
+      "id": 13,
+      "name": "First Day of School",
+      "detail": "Complete 'S.S.D.D.' and 'Team Player' on Veteran difficulty.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-08T15:55:37Z",
+      "rarityPercent": 8.9
+    },
+    {
+      "id": 35,
+      "name": "Look Ma Two Hands",
+      "detail": "Kill 10 enemies in a row using akimbo weapons.",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-08T16:00:54Z",
+      "rarityPercent": 7.2
+    },
+    {
+      "id": 40,
+      "name": "Do NOT push this button",
+      "detail": "Ring the red bell in both rooms and survive the attack.",
+      "type": "silver",
+      "earnedDateTime": "2020-08-08T16:02:36Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 22,
+      "name": "Pit Boss",
+      "detail": "Run The Pit in 'S.S.D.D.' and finish with a final time under 30 seconds.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T16:59:06Z",
+      "rarityPercent": 6.4
+    },
+    {
+      "id": 41,
+      "name": "The Student Surpasses the Master",
+      "detail": "Beat BX time in 'S.S.D.D.'.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-14T18:35:35Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 49,
+      "name": "Clown in Training",
+      "detail": "The U.S. Army Rangers ain’t no place for clowns.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T19:14:09Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 23,
+      "name": "Ghost",
+      "detail": "Plant the C4 in 'Cliffhanger' without alerting or injuring anyone in the blizzard.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T19:56:10Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 36,
+      "name": "No Rest For the Wary",
+      "detail": "Knife an enemy without him ever knowing you were there.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T20:10:04Z",
+      "rarityPercent": 15
+    },
+    {
+      "id": 42,
+      "name": "The Real Gun Game",
+      "detail": "Complete any mission but 'S.S.D.D.' and 'Endgame' without reloading weapons or using melee attacks.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-14T23:26:42Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 45,
+      "name": "Silent Skies",
+      "detail": "Destroy both BTRs without using Predator Drones in 'Wolverines!'",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T23:56:27Z",
+      "rarityPercent": 7.6
+    },
+    {
+      "id": 50,
+      "name": "Headbanger",
+      "detail": "Kill an enemy with the impact damage from a frag grenade to the head.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T23:58:12Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 48,
+      "name": "Hot Potato",
+      "detail": "Destroy the helicopter using frag grenades in 'The Only Easy Day... Was Yesterday'.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-15T00:38:36Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 34,
+      "name": "Desperado",
+      "detail": "Kill 5 enemies in a row using 5 different weapons or attachments.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-15T01:53:44Z",
+      "rarityPercent": 13.9
+    },
+    {
+      "id": 46,
+      "name": "Clay-more",
+      "detail": "Kill 11 enemies using Claymores in 'Loose Ends'.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-15T03:57:32Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 32,
+      "name": "Drive By",
+      "detail": "Kill 20 enemies in a row while driving a vehicle.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-15T04:32:55Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 44,
+      "name": "Immortal",
+      "detail": "Complete every missions without dying or reloading to a checkpoint at any difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-15T04:39:11Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 47,
+      "name": "Bird Hunter",
+      "detail": "Destroy 10 choppers using the Javelin Launcher in 'Of Their Own Accord'.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-16T01:25:08Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 30,
+      "name": "The Road Less Traveled",
+      "detail": "Collect 22 enemy intel items.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-16T02:46:37Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 0,
+      "name": "Is That All You Got?",
+      "detail": "Earn all available trophies for Call of Duty®: Modern Warfare® 2 Campaign Remastered.",
+      "type": "platinum",
+      "earnedDateTime": "2025-02-16T04:17:42Z",
+      "rarityPercent": 1.4
+    },
+    {
+      "id": 31,
+      "name": "Leave No Stone Unturned",
+      "detail": "Collect 45 enemy intel items.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-16T04:17:42Z",
+      "rarityPercent": 3.1
+    }
+  ]
+}

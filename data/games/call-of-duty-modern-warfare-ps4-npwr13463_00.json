@@ -1,0 +1,245 @@
+{
+  "game": "Call of Duty® Modern Warfare®",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR13463_00",
+  "progressPercent": 98,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 15,
+    "gold": 5,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 7,
+    "silver": 15,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-02-21T03:22:34Z",
+  "earnedTotal": 27,
+  "unearnedTotal": 1,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1
+  },
+  "earned": [
+    {
+      "id": 17,
+      "name": "Pit Stop",
+      "detail": "Stop three APCs with Hadir's sniper rifle.",
+      "type": "silver",
+      "earnedDateTime": "2019-11-03T14:22:37Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 24,
+      "name": "Lights Out",
+      "detail": "Shut off the power to 4 buildings in 'Going Dark'.",
+      "type": "bronze",
+      "earnedDateTime": "2019-11-06T19:03:26Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 8,
+      "name": "Tea Time",
+      "detail": "Complete the single player Campaign on any difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2019-11-29T22:58:09Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 9,
+      "name": "Nothing but Net",
+      "detail": "Neutralize the 'Fog of War' machine gun with a frag grenade.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T04:22:55Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 15,
+      "name": "Circus Tour",
+      "detail": "Kill at least one enemy while inside The Reading Place, Aural Chic and both Subway undergrounds.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-18T04:37:13Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 10,
+      "name": "Trigger Discipline",
+      "detail": "Do not injure any civilians in 'Piccadilly'.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-18T04:39:46Z",
+      "rarityPercent": 8.7
+    },
+    {
+      "id": 11,
+      "name": "Play Dead",
+      "detail": "Kill all the enemies in the 'Embedded' field of dead bodies.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-18T04:55:58Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 12,
+      "name": "Companion Block",
+      "detail": "Only use one cinder block and bring it to the end of 'Embedded'.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-18T04:57:56Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 4,
+      "name": "Long Way Down",
+      "detail": "Crash a helicopter by shooting the pilot.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T00:27:05Z",
+      "rarityPercent": 6.8
+    },
+    {
+      "id": 5,
+      "name": "Wild Fire",
+      "detail": "Take down a flying Helicopter with a molotov.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-19T00:27:57Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 2,
+      "name": "Ashes to Ashes",
+      "detail": "Burn 4 enemies with a single molotov.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T00:48:32Z",
+      "rarityPercent": 3.1
+    },
+    {
+      "id": 14,
+      "name": "Golden Path",
+      "detail": "Complete 'Clean House' without being hit using one bullet per threat.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-19T01:05:34Z",
+      "rarityPercent": 0.4
+    },
+    {
+      "id": 1,
+      "name": "Press [BOOM] to Defuse",
+      "detail": "Blow up 3 tripwires with explosives.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-19T01:38:02Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 16,
+      "name": "Love from Above",
+      "detail": "Destroy 4 trucks with 4 drone strikes before they reach the end of their path in 'The Embassy'.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T03:29:33Z",
+      "rarityPercent": 12
+    },
+    {
+      "id": 18,
+      "name": "Driver's Ed",
+      "detail": "Shoot the driver of the suicide truck.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T04:12:10Z",
+      "rarityPercent": 10
+    },
+    {
+      "id": 19,
+      "name": "Two Birds",
+      "detail": "Kill both soldiers with one shot in 'Hometown'.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T04:57:41Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 20,
+      "name": "Tunnel Rat",
+      "detail": "Complete 'The Wolf's Den' tunnels using only the 1911.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T05:36:38Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 22,
+      "name": "Got Something on Your Face",
+      "detail": "Spit on Barkov.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T05:42:43Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 21,
+      "name": "Dodged a Bullet",
+      "detail": "Never get hit by the sniper while escaping captivity.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T14:41:09Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 23,
+      "name": "Hot Swap",
+      "detail": "Get at least one kill with eight different weapons when completing 'Old Comrades'.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-19T14:58:17Z",
+      "rarityPercent": 0.8
+    },
+    {
+      "id": 7,
+      "name": "Out of the Fire",
+      "detail": "Complete every single player mission on Veteran or Realism difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-21T02:08:15Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 26,
+      "name": "Warheads on Foreheads",
+      "detail": "Reach Barkov's lab entrance using only drone strikes.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-21T02:16:45Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 13,
+      "name": "Wall Hax",
+      "detail": "Save Alpha 3-2 from being downed.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-21T02:30:39Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 6,
+      "name": "Good Effect on Target",
+      "detail": "Kill an enemy with a direct hit from a smoke grenade.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-21T02:38:43Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 25,
+      "name": "We Own the Night",
+      "detail": "Kill all enemies at the Church, Clocktower, and Pool without anyone calling for backup.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-21T03:09:34Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 0,
+      "name": "Tier 1",
+      "detail": "Unlock all Trophies",
+      "type": "platinum",
+      "earnedDateTime": "2025-02-21T03:22:32Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 3,
+      "name": "Hang Time",
+      "detail": "Kill 3 Enemies while you are on a ladder.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-21T03:22:32Z",
+      "rarityPercent": 3.4
+    }
+  ]
+}

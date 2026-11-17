@@ -1,0 +1,28 @@
+{
+  "game": "Call of Duty® Black Ops 6",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR44674_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 31,
+    "silver": 10,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-12-04T23:54:37Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 45,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 10,
+    "bronze": 31
+  },
+  "earned": []
+}

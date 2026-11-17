@@ -1,0 +1,325 @@
+{
+  "game": "God of War Ragnarök",
+  "platform": "PS5,PSPC",
+  "npCommunicationId": "NPWR22392_00",
+  "progressPercent": 85,
+  "earnedCounts": {
+    "bronze": 17,
+    "silver": 15,
+    "gold": 4,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 27,
+    "silver": 16,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2024-01-19T14:51:02Z",
+  "earnedTotal": 37,
+  "unearnedTotal": 11,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 10
+  },
+  "earned": [
+    {
+      "id": 9,
+      "name": "A Grizzly Encounter",
+      "detail": "Battle the Bear",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-09T01:21:49Z",
+      "rarityPercent": 79.7
+    },
+    {
+      "id": 10,
+      "name": "Blood Debt",
+      "detail": "Battle the God of Thunder",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-09T01:45:03Z",
+      "rarityPercent": 75.9
+    },
+    {
+      "id": 5,
+      "name": "Spit Shine",
+      "detail": "Upgrade one piece of armour",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-09T22:11:27Z",
+      "rarityPercent": 63.9
+    },
+    {
+      "id": 25,
+      "name": "Making Amends",
+      "detail": "Free the Lyngbakr",
+      "type": "silver",
+      "earnedDateTime": "2022-11-09T23:47:09Z",
+      "rarityPercent": 35.5
+    },
+    {
+      "id": 8,
+      "name": "Knock off the Rust",
+      "detail": "Purchase a Skill",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-10T11:10:44Z",
+      "rarityPercent": 66.4
+    },
+    {
+      "id": 13,
+      "name": "The Cauldron",
+      "detail": "Destroy Grýla's cauldron",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-10T17:12:57Z",
+      "rarityPercent": 51
+    },
+    {
+      "id": 11,
+      "name": "Backyard Brawl",
+      "detail": "Battle the Mysterious Valkyrie",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-10T23:39:02Z",
+      "rarityPercent": 50.8
+    },
+    {
+      "id": 4,
+      "name": "How it Started",
+      "detail": "Equip an Enchantment",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-11T01:18:32Z",
+      "rarityPercent": 49.3
+    },
+    {
+      "id": 12,
+      "name": "Root of the Problem",
+      "detail": "Battle Níðhögg",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-11T01:18:49Z",
+      "rarityPercent": 49.3
+    },
+    {
+      "id": 26,
+      "name": "It Was a Good Day",
+      "detail": "Retrieve Mardöll",
+      "type": "silver",
+      "earnedDateTime": "2022-11-11T13:31:51Z",
+      "rarityPercent": 32.5
+    },
+    {
+      "id": 23,
+      "name": "New Friends",
+      "detail": "Fetch Lúnda's orb",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-11T14:45:54Z",
+      "rarityPercent": 33.8
+    },
+    {
+      "id": 24,
+      "name": "Full Gufa",
+      "detail": "Free the Hafgufas",
+      "type": "silver",
+      "earnedDateTime": "2022-11-11T19:10:54Z",
+      "rarityPercent": 29.8
+    },
+    {
+      "id": 6,
+      "name": "Spartan Ways",
+      "detail": "Remember the Spartan teachings",
+      "type": "silver",
+      "earnedDateTime": "2022-11-14T00:06:20Z",
+      "rarityPercent": 43.9
+    },
+    {
+      "id": 14,
+      "name": "Off the Leash",
+      "detail": "Battle Garm",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-14T00:49:47Z",
+      "rarityPercent": 43.6
+    },
+    {
+      "id": 15,
+      "name": "Comeuppance",
+      "detail": "Battle Heimdall",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-15T14:04:13Z",
+      "rarityPercent": 42.5
+    },
+    {
+      "id": 20,
+      "name": "How it's Going",
+      "detail": "Fully repair the Amulet of Yggdrasil",
+      "type": "silver",
+      "earnedDateTime": "2022-11-16T21:40:41Z",
+      "rarityPercent": 19.2
+    },
+    {
+      "id": 16,
+      "name": "Better Together",
+      "detail": "Battle Hrist and Mist",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-16T23:50:55Z",
+      "rarityPercent": 41.3
+    },
+    {
+      "id": 33,
+      "name": "Ragnarök",
+      "detail": "Battle the All-Father",
+      "type": "gold",
+      "earnedDateTime": "2022-11-17T01:53:10Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 28,
+      "name": "Besties",
+      "detail": "Pet Speki and Svanna",
+      "type": "silver",
+      "earnedDateTime": "2022-11-17T14:01:31Z",
+      "rarityPercent": 31.2
+    },
+    {
+      "id": 21,
+      "name": "Funeral for a Friend",
+      "detail": "Attend the funeral",
+      "type": "silver",
+      "earnedDateTime": "2022-11-17T14:28:51Z",
+      "rarityPercent": 25.5
+    },
+    {
+      "id": 22,
+      "name": "Rebel Leader",
+      "detail": "Return the Hammer of the Rebellion",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-17T15:43:49Z",
+      "rarityPercent": 28.9
+    },
+    {
+      "id": 30,
+      "name": "Pure of Hart",
+      "detail": "Return the Stags of the Four Seasons",
+      "type": "silver",
+      "earnedDateTime": "2022-11-25T17:24:20Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 27,
+      "name": "Invasive Species",
+      "detail": "Complete all of the Crater Hunts",
+      "type": "silver",
+      "earnedDateTime": "2022-11-25T18:35:46Z",
+      "rarityPercent": 17.8
+    },
+    {
+      "id": 32,
+      "name": "Ready for Commitment",
+      "detail": "Fully upgrade one armour set",
+      "type": "gold",
+      "earnedDateTime": "2022-11-27T20:58:42Z",
+      "rarityPercent": 14.4
+    },
+    {
+      "id": 19,
+      "name": "Dragon Slayer",
+      "detail": "Craft the Dragon Scaled Armour Set",
+      "type": "silver",
+      "earnedDateTime": "2022-11-27T20:59:27Z",
+      "rarityPercent": 17.3
+    },
+    {
+      "id": 17,
+      "name": "Phalanx",
+      "detail": "Obtain all Shields",
+      "type": "silver",
+      "earnedDateTime": "2022-11-27T21:01:03Z",
+      "rarityPercent": 18.9
+    },
+    {
+      "id": 31,
+      "name": "Trials by Fire",
+      "detail": "Complete the Trials of Muspelheim",
+      "type": "silver",
+      "earnedDateTime": "2022-11-27T21:25:27Z",
+      "rarityPercent": 13.2
+    },
+    {
+      "id": 29,
+      "name": "Rightful Place",
+      "detail": "Return all the Lindwyrms to Ratatoskr",
+      "type": "silver",
+      "earnedDateTime": "2022-11-27T23:15:43Z",
+      "rarityPercent": 17.8
+    },
+    {
+      "id": 34,
+      "name": "Grave Mistake",
+      "detail": "Battle King Hrólf",
+      "type": "gold",
+      "earnedDateTime": "2022-11-30T00:46:07Z",
+      "rarityPercent": 12.6
+    },
+    {
+      "id": 1,
+      "name": "The Florist",
+      "detail": "Collect one flower from each of the nine realms",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-30T01:30:51Z",
+      "rarityPercent": 11.3
+    },
+    {
+      "id": 2,
+      "name": "The Librarian",
+      "detail": "Collect all of the Books",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-30T03:10:17Z",
+      "rarityPercent": 11.1
+    },
+    {
+      "id": 3,
+      "name": "The Curator",
+      "detail": "Collect all of the Artefacts",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-30T03:16:45Z",
+      "rarityPercent": 9.9
+    },
+    {
+      "id": 35,
+      "name": "The True Queen",
+      "detail": "Battle Gná",
+      "type": "gold",
+      "earnedDateTime": "2022-11-30T18:16:47Z",
+      "rarityPercent": 12.1
+    },
+    {
+      "id": 7,
+      "name": "Full Belly",
+      "detail": "Obtain all of the Apples of Iðunn and Horns of Blood Mead",
+      "type": "silver",
+      "earnedDateTime": "2022-12-02T16:08:36Z",
+      "rarityPercent": 16.1
+    },
+    {
+      "id": 0,
+      "name": "The Bear and the Wolf",
+      "detail": "Collect all Trophies",
+      "type": "platinum",
+      "earnedDateTime": "2022-12-02T16:45:52Z",
+      "rarityPercent": 7.8
+    },
+    {
+      "id": 18,
+      "name": "Collector",
+      "detail": "Obtain all Relics and Sword Hilts",
+      "type": "silver",
+      "earnedDateTime": "2022-12-02T16:45:52Z",
+      "rarityPercent": 8.5
+    },
+    {
+      "id": 37,
+      "name": "Invitation Accepted",
+      "detail": "Discover the secret of Valhalla",
+      "type": "bronze",
+      "earnedDateTime": "2024-01-19T14:51:02Z",
+      "rarityPercent": 20.7
+    }
+  ]
+}
