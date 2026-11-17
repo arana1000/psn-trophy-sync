@@ -1,0 +1,437 @@
+{
+  "game": "Far Cry® 4",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR06804_00",
+  "progressPercent": 84,
+  "earnedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 43,
+    "silver": 11,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-10-09T18:51:28Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 7,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 1,
+    "bronze": 5
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Welcome To Kyrat",
+      "detail": "Join the Golden Path (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-12T20:08:38Z",
+      "rarityPercent": 69.2
+    },
+    {
+      "id": 46,
+      "name": "Like A Bird",
+      "detail": "Fly 5000m total in the Wingsuit (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-14T15:40:21Z",
+      "rarityPercent": 19.9
+    },
+    {
+      "id": 31,
+      "name": "Tricked Out",
+      "detail": "Craft 5 upgrades for your equipment (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-14T16:04:04Z",
+      "rarityPercent": 54.4
+    },
+    {
+      "id": 9,
+      "name": "Tread Lightly",
+      "detail": "Liberate any Outpost without triggering an alarm in any mode (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-15T18:59:12Z",
+      "rarityPercent": 55.8
+    },
+    {
+      "id": 38,
+      "name": "Shutterbug",
+      "detail": "Tag 25 enemies using the camera (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-15T19:14:44Z",
+      "rarityPercent": 46.7
+    },
+    {
+      "id": 29,
+      "name": "Quick Learner",
+      "detail": "Learn 10 skills (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-16T21:43:52Z",
+      "rarityPercent": 55
+    },
+    {
+      "id": 50,
+      "name": "Community Surprise",
+      "detail": "Play a Top Rated map in the Map Browser (Map Browser only).",
+      "type": "silver",
+      "earnedDateTime": "2015-04-24T16:26:25Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 10,
+      "name": "End Transmission",
+      "detail": "Liberate 8 Bell Towers (Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2015-04-29T18:06:45Z",
+      "rarityPercent": 42.2
+    },
+    {
+      "id": 36,
+      "name": "Quad Kill",
+      "detail": "Kill 4 enemies simultaneously with a single explosion (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-28T13:53:33Z",
+      "rarityPercent": 42.8
+    },
+    {
+      "id": 7,
+      "name": "Deliver Us From Evil",
+      "detail": "Liberate 12 Outposts (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-28T14:29:26Z",
+      "rarityPercent": 34.1
+    },
+    {
+      "id": 33,
+      "name": "Make It Rain",
+      "detail": "Spend 500,000 rupees total at Trading Posts (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-29T15:12:54Z",
+      "rarityPercent": 53.8
+    },
+    {
+      "id": 28,
+      "name": "Well Read",
+      "detail": "Read 10 notes (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-29T15:59:43Z",
+      "rarityPercent": 47.1
+    },
+    {
+      "id": 16,
+      "name": "Defender",
+      "detail": "Repel 3 Outpost Retaliation Parties (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-29T16:23:59Z",
+      "rarityPercent": 35.3
+    },
+    {
+      "id": 3,
+      "name": "Overdose",
+      "detail": "Discover Shangri-La (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-30T15:47:34Z",
+      "rarityPercent": 42
+    },
+    {
+      "id": 19,
+      "name": "Brother In Arms",
+      "detail": "Liberate 1 Outpost playing as Hurk (Campaign Co-op only).",
+      "type": "bronze",
+      "earnedDateTime": "2015-08-31T14:12:05Z",
+      "rarityPercent": 9
+    },
+    {
+      "id": 11,
+      "name": "Display Of Fortitude",
+      "detail": "Conquer 2 Fortresses (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2016-05-03T17:11:34Z",
+      "rarityPercent": 34.1
+    },
+    {
+      "id": 41,
+      "name": "Two Birds",
+      "detail": "Using a sniper rifle, kill 2 targets with a single shot (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2016-05-04T15:32:50Z",
+      "rarityPercent": 33.1
+    },
+    {
+      "id": 24,
+      "name": "Rewriting History",
+      "detail": "Remove 30 Propaganda Posters (Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2016-05-06T15:01:09Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 2,
+      "name": "One Down",
+      "detail": "Decide De Pleur's fate (Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2016-05-06T15:51:18Z",
+      "rarityPercent": 38.7
+    },
+    {
+      "id": 13,
+      "name": "Trigger-Man",
+      "detail": "Complete 3 Assassination or Eye for an Eye quests (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2016-05-06T18:59:39Z",
+      "rarityPercent": 31.1
+    },
+    {
+      "id": 4,
+      "name": "Two Down",
+      "detail": "Decide Noore's fate (Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2016-05-06T19:15:54Z",
+      "rarityPercent": 36.9
+    },
+    {
+      "id": 48,
+      "name": "The People's Champ",
+      "detail": "Reach Arena Rank 5 (Campaign Arena only).",
+      "type": "silver",
+      "earnedDateTime": "2016-05-06T19:40:22Z",
+      "rarityPercent": 12.2
+    },
+    {
+      "id": 47,
+      "name": "Roadkill",
+      "detail": "Run over 25 people (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2016-05-08T12:55:32Z",
+      "rarityPercent": 20.3
+    },
+    {
+      "id": 17,
+      "name": "Robin Hood",
+      "detail": "Hijack 3 Royal Cargo Trucks and return them to a liberated Outpost (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2016-05-08T13:00:18Z",
+      "rarityPercent": 19.4
+    },
+    {
+      "id": 44,
+      "name": "Drive-By",
+      "detail": "Kill 25 enemies while shooting and driving (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-29T18:09:45Z",
+      "rarityPercent": 30.1
+    },
+    {
+      "id": 27,
+      "name": "The Rarest Game",
+      "detail": "Complete 3 Kyrat Fashion Week quests (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2017-06-28T16:47:50Z",
+      "rarityPercent": 27.3
+    },
+    {
+      "id": 8,
+      "name": "All Clear",
+      "detail": "Liberate all Outposts (Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2017-06-29T15:40:14Z",
+      "rarityPercent": 21.8
+    },
+    {
+      "id": 5,
+      "name": "Hat-Trick",
+      "detail": "Decide Yuma's fate (Campaign only).",
+      "type": "silver",
+      "earnedDateTime": "2017-06-29T18:15:00Z",
+      "rarityPercent": 31.6
+    },
+    {
+      "id": 6,
+      "name": "The King Is Dead",
+      "detail": "Decide Pagan Min's fate (Campaign only).",
+      "type": "gold",
+      "earnedDateTime": "2017-06-30T21:52:41Z",
+      "rarityPercent": 28.5
+    },
+    {
+      "id": 22,
+      "name": "Fixer-Upper",
+      "detail": "Purchase 3 items for the Ghale Homestead (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2017-06-30T21:56:18Z",
+      "rarityPercent": 29.4
+    },
+    {
+      "id": 40,
+      "name": "From A Distance",
+      "detail": "Kill a target from 60m or more with an arrow or bolt (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T23:34:54Z",
+      "rarityPercent": 26.1
+    },
+    {
+      "id": 34,
+      "name": "Custom-Fitted",
+      "detail": "Buy all attachments and paint schemes for a single weapon (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T23:38:36Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 32,
+      "name": "Dr. Feelgood",
+      "detail": "Craft 15 syringes (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T23:41:11Z",
+      "rarityPercent": 30.1
+    },
+    {
+      "id": 45,
+      "name": "The Good Fight",
+      "detail": "Reach Karma Level 2, and purchase any Guns For Hire upgrade (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T23:43:37Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 42,
+      "name": "The Sky Is Falling",
+      "detail": "Perform a takedown from a Buzzer (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T23:45:55Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 35,
+      "name": "Tusker",
+      "detail": "Kill 30 enemies with an elephant (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T00:26:07Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 23,
+      "name": "Exorcist",
+      "detail": "Remove or destroy 15 Masks of Yalung (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T00:30:28Z",
+      "rarityPercent": 15.5
+    },
+    {
+      "id": 26,
+      "name": "Right Tributes",
+      "detail": "Spin 10 Mani Wheels (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T20:14:16Z",
+      "rarityPercent": 20.3
+    },
+    {
+      "id": 25,
+      "name": "Caretaker Of Memory",
+      "detail": "Find 10 Lost Letters (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T20:31:31Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 15,
+      "name": "Gearhead",
+      "detail": "Complete 3 Kyrati Films: Racing or Kyrati Films: Survival activities (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T20:39:13Z",
+      "rarityPercent": 11.9
+    },
+    {
+      "id": 20,
+      "name": "Defuser",
+      "detail": "Complete 3 Bomb Defusal quests (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T21:50:17Z",
+      "rarityPercent": 11.8
+    },
+    {
+      "id": 14,
+      "name": "No One Left Behind",
+      "detail": "Rescue 15 hostages in Hostage Rescue quests (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T23:02:55Z",
+      "rarityPercent": 28.8
+    },
+    {
+      "id": 12,
+      "name": "Well-Rounded",
+      "detail": "Complete any 6 Hunting quests (Supplies, Control, Survival) (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T23:24:27Z",
+      "rarityPercent": 14.6
+    },
+    {
+      "id": 18,
+      "name": "Hand Of Justice",
+      "detail": "Eliminate 3 Pagan's Wrath convoys (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-07T23:48:41Z",
+      "rarityPercent": 28
+    },
+    {
+      "id": 39,
+      "name": "Reign Of Death",
+      "detail": "Kill 30 enemies with Mortar rounds (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-08T00:07:16Z",
+      "rarityPercent": 7.4
+    },
+    {
+      "id": 43,
+      "name": "Flame On!",
+      "detail": "Kill 50 enemies with fire (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-08T00:12:21Z",
+      "rarityPercent": 8.1
+    },
+    {
+      "id": 37,
+      "name": "Misdirection",
+      "detail": "Distract 15 enemies with rocks (Campaign only).",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-08T00:22:21Z",
+      "rarityPercent": 5.9
+    },
+    {
+      "id": 30,
+      "name": "Fully Loaded",
+      "detail": "Learn all skills (Campaign only).",
+      "type": "gold",
+      "earnedDateTime": "2026-10-08T20:57:08Z",
+      "rarityPercent": 8.8
+    },
+    {
+      "id": 49,
+      "name": "Renaissance Man",
+      "detail": "Finish a public match of each game type in the Battles of Kyrat game mode (Battles of Kyrat only).",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T18:07:10Z",
+      "rarityPercent": 3.3
+    },
+    {
+      "id": 0,
+      "name": "Master Of Kyrat",
+      "detail": "Obtain all the Trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2026-10-09T18:51:28Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 21,
+      "name": "Changing Lanes",
+      "detail": "Perform a Vehicle Takedown from the passenger seat of a vehicle (Campaign Co-op only).",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T18:51:28Z",
+      "rarityPercent": 2.4
+    }
+  ]
+}

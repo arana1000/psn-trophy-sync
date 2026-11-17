@@ -1,0 +1,85 @@
+{
+  "game": "ASTRO’s PLAYROOM",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR20188_00",
+  "progressPercent": 10,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 31,
+    "silver": 14,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-10-29T20:39:28Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 44,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 12,
+    "bronze": 26
+  },
+  "earned": [
+    {
+      "id": 11,
+      "name": "One Down, Lots More to Go!",
+      "detail": "Got your first puzzle piece.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-26T02:40:03Z",
+      "rarityPercent": 78.5
+    },
+    {
+      "id": 41,
+      "name": "It's All in the Mind",
+      "detail": "Beat 3 enemies quickly by punching them.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-26T02:42:59Z",
+      "rarityPercent": 60.8
+    },
+    {
+      "id": 5,
+      "name": "In Mint Condition",
+      "detail": "Got your first artefact!",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-26T02:43:08Z",
+      "rarityPercent": 67
+    },
+    {
+      "id": 34,
+      "name": "Pain!",
+      "detail": "Got hit by flying rubbish in Memory Meadow.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-29T20:18:41Z",
+      "rarityPercent": 47.6
+    },
+    {
+      "id": 35,
+      "name": "Wipeout!",
+      "detail": "Got a strike in Memory Meadow.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-29T20:21:57Z",
+      "rarityPercent": 19.1
+    },
+    {
+      "id": 15,
+      "name": "Ico-nic",
+      "detail": "Got all puzzle pieces in Memory Meadow.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-29T20:36:44Z",
+      "rarityPercent": 11
+    },
+    {
+      "id": 1,
+      "name": "Do it!",
+      "detail": "Cleared Memory Meadow.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-29T20:39:27Z",
+      "rarityPercent": 34.9
+    }
+  ]
+}

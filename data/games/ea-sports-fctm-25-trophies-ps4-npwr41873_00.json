@@ -1,0 +1,109 @@
+{
+  "game": "EA SPORTS FC™ 25 Trophies",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR41873_00",
+  "progressPercent": 17,
+  "earnedCounts": {
+    "bronze": 8,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 24,
+    "silver": 11,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-05-11T20:01:07Z",
+  "earnedTotal": 10,
+  "unearnedTotal": 30,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 9,
+    "bronze": 16
+  },
+  "earned": [
+    {
+      "id": 37,
+      "name": "Best of Five",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-02T22:03:06Z",
+      "rarityPercent": 20.8
+    },
+    {
+      "id": 12,
+      "name": "Walk the Walk",
+      "detail": "Win your first Clubs Playoff Match",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-07T02:31:16Z",
+      "rarityPercent": 3.9
+    },
+    {
+      "id": 8,
+      "name": "Campeones",
+      "detail": "Finish as the Champion of your Clubs Playoff table",
+      "type": "silver",
+      "earnedDateTime": "2025-03-15T02:04:05Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 11,
+      "name": "First of Many",
+      "detail": "Win your first Clubs League Match",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-15T02:23:21Z",
+      "rarityPercent": 6.8
+    },
+    {
+      "id": 9,
+      "name": "We're Going Up",
+      "detail": "Earn a Clubs League Promotion with your Club",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-15T03:06:50Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 13,
+      "name": "Make the Grade",
+      "detail": "Receive an A grade in a Clubs Skill Game",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-16T04:27:58Z",
+      "rarityPercent": 3.9
+    },
+    {
+      "id": 10,
+      "name": "Top of the Pyramid",
+      "detail": "Reach Elite Division with your Club in a Clubs League Season",
+      "type": "silver",
+      "earnedDateTime": "2025-03-19T03:05:53Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 22,
+      "name": "Surgical Aim",
+      "detail": "Complete 25 Precision Passes",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-11T17:20:02Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 28,
+      "name": "Chemistry Degree",
+      "detail": "Build a squad with 33 Chemistry Points in Football Ultimate Team. Excludes Concept Players and SBCs",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-11T20:00:17Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 27,
+      "name": "Equal Footing",
+      "detail": "Play a match in UT with a squad that has players from both male and female leagues",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-11T20:01:05Z",
+      "rarityPercent": 29.9
+    }
+  ]
+}

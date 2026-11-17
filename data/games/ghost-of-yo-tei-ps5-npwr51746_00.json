@@ -1,0 +1,461 @@
+{
+  "game": "Ghost of Yōtei",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR51746_00",
+  "progressPercent": 63,
+  "earnedCounts": {
+    "bronze": 44,
+    "silver": 7,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 69,
+    "silver": 12,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-10-26T02:11:56Z",
+  "earnedTotal": 54,
+  "unearnedTotal": 31,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 5,
+    "bronze": 25
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Snake",
+      "detail": "Cross the first name off your sash.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-04T18:43:24Z",
+      "rarityPercent": 95.3
+    },
+    {
+      "id": 51,
+      "name": "Fireside Performance",
+      "detail": "Play a shamisen song while camping.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-04T19:14:00Z",
+      "rarityPercent": 79.4
+    },
+    {
+      "id": 41,
+      "name": "Memento",
+      "detail": "Personalise a scene in Photo Mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-04T19:20:29Z",
+      "rarityPercent": 72.4
+    },
+    {
+      "id": 19,
+      "name": "Naming a Friend",
+      "detail": "Pick a name for your horse.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-04T22:32:46Z",
+      "rarityPercent": 76.5
+    },
+    {
+      "id": 26,
+      "name": "Two as One",
+      "detail": "Complete a successful Standoff or Assassination with a companion.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-05T12:03:45Z",
+      "rarityPercent": 82.4
+    },
+    {
+      "id": 25,
+      "name": "Wolf Bait",
+      "detail": "Use an empty Sake jar to trigger a Wolf kill.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-05T12:31:56Z",
+      "rarityPercent": 66.4
+    },
+    {
+      "id": 37,
+      "name": "Inheritance",
+      "detail": "Acquire your parents’ charms from the peak of Mount Yōtei.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-06T11:42:08Z",
+      "rarityPercent": 65.3
+    },
+    {
+      "id": 27,
+      "name": "Brush Fire",
+      "detail": "Kill an enemy by catching grass on fire.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-06T11:59:21Z",
+      "rarityPercent": 69.6
+    },
+    {
+      "id": 23,
+      "name": "You Dropped This",
+      "detail": "Disarm and kill an enemy with their own weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-06T14:06:16Z",
+      "rarityPercent": 62.2
+    },
+    {
+      "id": 14,
+      "name": "Sitturaynu",
+      "detail": "Share a meal with huci.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-08T21:01:05Z",
+      "rarityPercent": 57.6
+    },
+    {
+      "id": 29,
+      "name": "Very Persuasive",
+      "detail": "Interrogate 10 enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-08T21:29:26Z",
+      "rarityPercent": 75.1
+    },
+    {
+      "id": 8,
+      "name": "Twin Wolves",
+      "detail": "Reunite with a ghost from the past.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-09T13:17:35Z",
+      "rarityPercent": 79.3
+    },
+    {
+      "id": 24,
+      "name": "The Horror",
+      "detail": "Make 20 enemies collapse in fear using Onryō’s Howl.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-09T14:47:41Z",
+      "rarityPercent": 53.9
+    },
+    {
+      "id": 21,
+      "name": "The Owl’s Talon",
+      "detail": "Use a Kusarigama Assassination to kill an enemy from a distance.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-09T16:20:08Z",
+      "rarityPercent": 62.3
+    },
+    {
+      "id": 11,
+      "name": "Way of the Kusarigama",
+      "detail": "Help Master Enomoto confront his grandson.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-09T16:27:44Z",
+      "rarityPercent": 57.3
+    },
+    {
+      "id": 28,
+      "name": "Sake Flight",
+      "detail": "Collect 10 full jars of Sake.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-09T17:23:37Z",
+      "rarityPercent": 67.3
+    },
+    {
+      "id": 12,
+      "name": "Way of the Odachi",
+      "detail": "Help defend Master Yoshida’s dojo in the final battle.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-09T18:02:41Z",
+      "rarityPercent": 61.3
+    },
+    {
+      "id": 34,
+      "name": "Tools of a Warrior",
+      "detail": "Acquire all Melee weapons.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-10T01:07:09Z",
+      "rarityPercent": 65.8
+    },
+    {
+      "id": 18,
+      "name": "Gift for Destruction",
+      "detail": "Help Ina fend off the Oni Raiders.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-10T01:15:38Z",
+      "rarityPercent": 64.2
+    },
+    {
+      "id": 17,
+      "name": "Kunai Defender",
+      "detail": "Help Hana protect her farms.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-10T13:26:55Z",
+      "rarityPercent": 58.1
+    },
+    {
+      "id": 48,
+      "name": "Moments of Reflection",
+      "detail": "Find 30 Altars of Reflection.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-10T14:12:14Z",
+      "rarityPercent": 59.3
+    },
+    {
+      "id": 10,
+      "name": "Way of the Yari",
+      "detail": "Help Sensei Takahashi defend his dojo.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-10T15:12:28Z",
+      "rarityPercent": 63.5
+    },
+    {
+      "id": 30,
+      "name": "Charming",
+      "detail": "Upgrade 10 charms at least once.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-14T21:38:45Z",
+      "rarityPercent": 58.6
+    },
+    {
+      "id": 7,
+      "name": "The Woman Behind the Mask",
+      "detail": "Show mercy to the innkeeper’s daughter.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-15T20:41:12Z",
+      "rarityPercent": 66.7
+    },
+    {
+      "id": 3,
+      "name": "The Kitsune",
+      "detail": "Send Saito’s spymaster back to the shadows.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-17T17:16:55Z",
+      "rarityPercent": 65.9
+    },
+    {
+      "id": 50,
+      "name": "Good with Coins",
+      "detail": "Win a charm from playing zeni hajiki.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-17T17:33:26Z",
+      "rarityPercent": 59.8
+    },
+    {
+      "id": 32,
+      "name": "Purely Decorative",
+      "detail": "Acquire 30 pieces of Vanity Gear.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-18T14:48:04Z",
+      "rarityPercent": 73.9
+    },
+    {
+      "id": 22,
+      "name": "Sayonara",
+      "detail": "Shoulder Charge or Typhoon Kick an enemy off a cliff to their death.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-18T16:15:22Z",
+      "rarityPercent": 29.9
+    },
+    {
+      "id": 2,
+      "name": "The Oni",
+      "detail": "Extinguish the fire of a cruel warlord.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-18T20:57:41Z",
+      "rarityPercent": 71.2
+    },
+    {
+      "id": 35,
+      "name": "Take Aim",
+      "detail": "Acquire all Ranged weapons.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-18T22:17:10Z",
+      "rarityPercent": 56
+    },
+    {
+      "id": 31,
+      "name": "Like Father, Like Daughter",
+      "detail": "Fully upgrade the Wolf Blade.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-19T15:37:44Z",
+      "rarityPercent": 59.7
+    },
+    {
+      "id": 36,
+      "name": "Quick Draw",
+      "detail": "Acquire all Quickfire weapons.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-19T15:42:27Z",
+      "rarityPercent": 56.3
+    },
+    {
+      "id": 44,
+      "name": "Wolves of Ezo",
+      "detail": "Complete all the Wolf Dens.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-19T15:49:48Z",
+      "rarityPercent": 39.3
+    },
+    {
+      "id": 9,
+      "name": "Wrath of the Onryō",
+      "detail": "Relive the Night of the Burning Tree.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-20T10:24:28Z",
+      "rarityPercent": 60.4
+    },
+    {
+      "id": 13,
+      "name": "From One Ghost to Another",
+      "detail": "Acquire the blade of a legendary hero.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-20T10:50:07Z",
+      "rarityPercent": 51.2
+    },
+    {
+      "id": 20,
+      "name": "From the Hip",
+      "detail": "Perform a Pistol Parry during a Standoff.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-20T13:02:07Z",
+      "rarityPercent": 43.6
+    },
+    {
+      "id": 4,
+      "name": "The Dragon",
+      "detail": "Cut down the favoured firstborn.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-20T20:58:31Z",
+      "rarityPercent": 59.3
+    },
+    {
+      "id": 5,
+      "name": "The Spider",
+      "detail": "Defeat the son of a tyrant.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-20T21:46:13Z",
+      "rarityPercent": 58.8
+    },
+    {
+      "id": 6,
+      "name": "The Onryō Rests",
+      "detail": "Find a future beyond the hunt.",
+      "type": "gold",
+      "earnedDateTime": "2025-10-21T22:20:31Z",
+      "rarityPercent": 56.7
+    },
+    {
+      "id": 38,
+      "name": "Gifts for a Ghost",
+      "detail": "Collect 8 offerings left for the onryō.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-23T20:20:31Z",
+      "rarityPercent": 45.9
+    },
+    {
+      "id": 16,
+      "name": "Unrivalled",
+      "detail": "Defeat Takezo the Unrivalled on the peak of Mount Yōtei.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-25T13:18:32Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 46,
+      "name": "Spear Fishing",
+      "detail": "Spear 5 fish with the yari.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-25T14:37:22Z",
+      "rarityPercent": 33.2
+    },
+    {
+      "id": 15,
+      "name": "A Moment to Breathe",
+      "detail": "Get a perfect score in ku-e-shinok.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-25T15:04:32Z",
+      "rarityPercent": 21.5
+    },
+    {
+      "id": 53,
+      "name": "For the Living",
+      "detail": "Rid Ezo of all Yōtei Six Camps.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-25T15:56:52Z",
+      "rarityPercent": 39.8
+    },
+    {
+      "id": 33,
+      "name": "For All Occasions",
+      "detail": "Acquire all Armour.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-25T16:11:42Z",
+      "rarityPercent": 35.7
+    },
+    {
+      "id": 52,
+      "name": "Speaking with the Land",
+      "detail": "Bow or play your shamisen at 10 special places throughout Ezo.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-25T18:15:34Z",
+      "rarityPercent": 16
+    },
+    {
+      "id": 40,
+      "name": "An Artist’s Eye",
+      "detail": "Complete all sumi-e paintings.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-25T22:42:41Z",
+      "rarityPercent": 15.1
+    },
+    {
+      "id": 45,
+      "name": "Body, Mind, and Spirit",
+      "detail": "Complete all Bamboo Strikes, Shrine Climbs, and Hot Springs.",
+      "type": "silver",
+      "earnedDateTime": "2025-10-25T23:22:41Z",
+      "rarityPercent": 20.5
+    },
+    {
+      "id": 49,
+      "name": "Child of the Mountain",
+      "detail": "Solve all Mountain Reliquary puzzles.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-25T23:29:47Z",
+      "rarityPercent": 28.6
+    },
+    {
+      "id": 42,
+      "name": "Guardian of Inari",
+      "detail": "Receive the Fox Mask after completing all Fox Dens.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-26T00:38:07Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 43,
+      "name": "Like Mother, Like Daughter",
+      "detail": "Learn all shamisen songs.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-26T00:45:35Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 39,
+      "name": "Trickster Fox",
+      "detail": "Solve all the Nine Tails’ puzzle boxes.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-26T00:58:04Z",
+      "rarityPercent": 15.1
+    },
+    {
+      "id": 0,
+      "name": "Legendary Onryō",
+      "detail": "Obtain all trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2025-10-26T02:11:56Z",
+      "rarityPercent": 13.3
+    },
+    {
+      "id": 47,
+      "name": "Master Bounty Hunter",
+      "detail": "Complete all Bounties.",
+      "type": "gold",
+      "earnedDateTime": "2025-10-26T02:11:56Z",
+      "rarityPercent": 26.3
+    }
+  ]
+}

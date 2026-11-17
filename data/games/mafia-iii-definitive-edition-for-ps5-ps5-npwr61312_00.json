@@ -1,0 +1,485 @@
+{
+  "game": "Mafia III: Definitive Edition for PS5®",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR61312_00",
+  "progressPercent": 67,
+  "earnedCounts": {
+    "bronze": 51,
+    "silver": 4,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 77,
+    "silver": 7,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-10-18T18:45:24Z",
+  "earnedTotal": 57,
+  "unearnedTotal": 29,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 3,
+    "bronze": 26
+  },
+  "earned": [
+    {
+      "id": 12,
+      "name": "Somethin' I've Gotta Do",
+      "detail": "You collected your things from Sammy's",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T16:25:46Z",
+      "rarityPercent": 54.9
+    },
+    {
+      "id": 13,
+      "name": "For Old Time's Sake",
+      "detail": "Cassandra agreed to help you kill Marcano",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T16:39:04Z",
+      "rarityPercent": 52.7
+    },
+    {
+      "id": 41,
+      "name": "Softened 'Em Up",
+      "detail": "Completely weakened a racket by killing all of its Enforcers",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T21:32:35Z",
+      "rarityPercent": 44.8
+    },
+    {
+      "id": 43,
+      "name": "Standard Communication Grid",
+      "detail": "Wiretapped the Delray Hollow Smack Racket",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T22:01:32Z",
+      "rarityPercent": 46.9
+    },
+    {
+      "id": 36,
+      "name": "One Good Turn",
+      "detail": "Made a 180 degree turn at high speed without hitting anything",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T22:30:35Z",
+      "rarityPercent": 27.4
+    },
+    {
+      "id": 2,
+      "name": "Pray on the Way Up",
+      "detail": "You hung Ritchie Doucet from a Ferris wheel",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T19:04:27Z",
+      "rarityPercent": 41.5
+    },
+    {
+      "id": 22,
+      "name": "Racketeer",
+      "detail": "Got the maximum earn from one of your Rackets",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T19:29:30Z",
+      "rarityPercent": 24.3
+    },
+    {
+      "id": 15,
+      "name": "We Partners Now",
+      "detail": "Vito agreed to help you kill Marcano",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T19:43:57Z",
+      "rarityPercent": 37.1
+    },
+    {
+      "id": 14,
+      "name": "Cut & Run",
+      "detail": "Burke agreed to help you kill Marcano",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T19:53:44Z",
+      "rarityPercent": 34.6
+    },
+    {
+      "id": 42,
+      "name": "I'm Goin' In!",
+      "detail": "Attacked a Racket without killing any Enforcers",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T20:39:22Z",
+      "rarityPercent": 8.2
+    },
+    {
+      "id": 3,
+      "name": "It's a Brave New World",
+      "detail": "You turned the Butcher over to Burke",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T22:35:24Z",
+      "rarityPercent": 28.9
+    },
+    {
+      "id": 4,
+      "name": "Fish Gotta Eat",
+      "detail": "You helped Vito capture Michael Grecco",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-11T23:56:12Z",
+      "rarityPercent": 31.5
+    },
+    {
+      "id": 45,
+      "name": "Bon Appétit!",
+      "detail": "Fed a body to an alligator",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T16:03:56Z",
+      "rarityPercent": 32.7
+    },
+    {
+      "id": 37,
+      "name": "Wrecker",
+      "detail": "Executed 10 Vehicle Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T16:19:15Z",
+      "rarityPercent": 19.8
+    },
+    {
+      "id": 39,
+      "name": "Shh, shh",
+      "detail": "Performed 100 Stealth Takedowns on enemies",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T18:08:00Z",
+      "rarityPercent": 15.7
+    },
+    {
+      "id": 53,
+      "name": "The Connection to Cuba",
+      "detail": "You chased down and killed Frank Pagani",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T18:41:41Z",
+      "rarityPercent": 16.7
+    },
+    {
+      "id": 16,
+      "name": "Sure Thing, Boss",
+      "detail": "Unlocked all Associates",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T19:21:59Z",
+      "rarityPercent": 19.6
+    },
+    {
+      "id": 47,
+      "name": "Sending A Message",
+      "detail": "Chained together 3 or more Brutal Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T21:00:13Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 20,
+      "name": "Cash in Hand",
+      "detail": "Saved $150,000 between your wallet and the bank",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T21:56:57Z",
+      "rarityPercent": 8.7
+    },
+    {
+      "id": 5,
+      "name": "Everyone Will Notice",
+      "detail": "You tossed Derazio out his penthouse window",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T23:10:35Z",
+      "rarityPercent": 16.7
+    },
+    {
+      "id": 7,
+      "name": "Little Late for That",
+      "detail": "You helped Enzo escape",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-12T23:36:24Z",
+      "rarityPercent": 17.6
+    },
+    {
+      "id": 66,
+      "name": "Creature of Habit",
+      "detail": "You investigated the scene",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T12:33:12Z",
+      "rarityPercent": 15.7
+    },
+    {
+      "id": 48,
+      "name": "Code 112",
+      "detail": "Stole a Police car",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T14:57:03Z",
+      "rarityPercent": 25.7
+    },
+    {
+      "id": 54,
+      "name": "There's a War Goin' On",
+      "detail": "You burned Remy Duvall on a cross",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T17:10:40Z",
+      "rarityPercent": 13.6
+    },
+    {
+      "id": 50,
+      "name": "Never Saw it Coming",
+      "detail": "Killed an enemy within 2 seconds of kicking open a door",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T17:32:04Z",
+      "rarityPercent": 18.3
+    },
+    {
+      "id": 10,
+      "name": "Certainly Was Exciting",
+      "detail": "You left Olivia Marcano to her fate",
+      "type": "silver",
+      "earnedDateTime": "2026-10-13T17:45:46Z",
+      "rarityPercent": 13.3
+    },
+    {
+      "id": 33,
+      "name": "Custom 358",
+      "detail": "Drove at 120 mph or faster for 20 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T17:56:36Z",
+      "rarityPercent": 11.8
+    },
+    {
+      "id": 19,
+      "name": ".45 in My Hand",
+      "detail": "Completed all of Cassandra's side-missions",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T18:15:19Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 25,
+      "name": "Trust",
+      "detail": "Reached the Loyal state with one Underboss",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T18:15:19Z",
+      "rarityPercent": 10.4
+    },
+    {
+      "id": 30,
+      "name": "Live Another Day",
+      "detail": "Recruited 15 Racket Informants",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-13T19:37:11Z",
+      "rarityPercent": 8.2
+    },
+    {
+      "id": 29,
+      "name": "The New Boss",
+      "detail": "Flipped 16 Racket Bosses",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T01:28:49Z",
+      "rarityPercent": 2.6
+    },
+    {
+      "id": 8,
+      "name": "The Poor Sumb****",
+      "detail": "You killed Judge Holden",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T01:38:50Z",
+      "rarityPercent": 13.7
+    },
+    {
+      "id": 52,
+      "name": "Real Nice Time",
+      "detail": "You gutted Lou Marcano like a catfish",
+      "type": "silver",
+      "earnedDateTime": "2026-10-14T02:07:12Z",
+      "rarityPercent": 13.4
+    },
+    {
+      "id": 55,
+      "name": "Jesuit in New Mexico",
+      "detail": "You helped Alvarez escape",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T02:28:44Z",
+      "rarityPercent": 13.4
+    },
+    {
+      "id": 18,
+      "name": "I Need a Favor",
+      "detail": "Completed all of Vito's side-missions",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T02:53:52Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 9,
+      "name": "Burn Like Napalm",
+      "detail": "Tommy Marcano was burned beyond recognition",
+      "type": "silver",
+      "earnedDateTime": "2026-10-14T03:13:55Z",
+      "rarityPercent": 13
+    },
+    {
+      "id": 23,
+      "name": "We're in This Together",
+      "detail": "Kept all Underbosses alive until \"Yet Here We Are\"",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T03:16:06Z",
+      "rarityPercent": 9.6
+    },
+    {
+      "id": 6,
+      "name": "My Name is Lincoln Clay",
+      "detail": "You jammed a knife through Santangelo's head",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T03:25:20Z",
+      "rarityPercent": 12.5
+    },
+    {
+      "id": 17,
+      "name": "IRA Don't Ask",
+      "detail": "Completed all of Burke's side-missions",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T18:06:21Z",
+      "rarityPercent": 4.8
+    },
+    {
+      "id": 26,
+      "name": "Family",
+      "detail": "Reached the Loyal state with all three Underbosses",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T18:06:21Z",
+      "rarityPercent": 4.3
+    },
+    {
+      "id": 11,
+      "name": "Yet Here We Are",
+      "detail": "You have avenged Sammy and Ellis",
+      "type": "silver",
+      "earnedDateTime": "2026-10-14T19:37:07Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 1,
+      "name": "Before They Bury You",
+      "detail": "Decided Lincoln's fate",
+      "type": "gold",
+      "earnedDateTime": "2026-10-14T22:44:24Z",
+      "rarityPercent": 8.6
+    },
+    {
+      "id": 46,
+      "name": "Next Time Swim Faster",
+      "detail": "Got eaten by an alligator",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T22:53:18Z",
+      "rarityPercent": 11.1
+    },
+    {
+      "id": 49,
+      "name": "Insurance Risk",
+      "detail": "Escaped a Police Zone after being chased for 2 minutes",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T22:58:53Z",
+      "rarityPercent": 27.6
+    },
+    {
+      "id": 35,
+      "name": "New Bordeaux Drifter",
+      "detail": "While driving, drifted for at least 5 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T23:17:27Z",
+      "rarityPercent": 10.4
+    },
+    {
+      "id": 34,
+      "name": "Testing the Shocks",
+      "detail": "While driving, performed a 50-meter jump and landed on your wheels",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-14T23:28:05Z",
+      "rarityPercent": 16.3
+    },
+    {
+      "id": 38,
+      "name": "Combat Specialist",
+      "detail": "Killed 300 enemies via Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-15T02:25:20Z",
+      "rarityPercent": 8.7
+    },
+    {
+      "id": 40,
+      "name": "Closed Casket",
+      "detail": "Performed 50 Brutal Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-16T20:52:26Z",
+      "rarityPercent": 7.5
+    },
+    {
+      "id": 44,
+      "name": "Recruited to 5th SFG",
+      "detail": "Performed 5 headshots in 5 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-16T21:19:22Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 51,
+      "name": "Flambé",
+      "detail": "Made 10 enemies kill themselves with their own Molotovs",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-16T22:21:00Z",
+      "rarityPercent": 4.2
+    },
+    {
+      "id": 21,
+      "name": "Baby, You're a Rich Man",
+      "detail": "Earned $500,000",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-17T01:04:28Z",
+      "rarityPercent": 9.6
+    },
+    {
+      "id": 27,
+      "name": "Hole in Your Pocket",
+      "detail": "Spent at least $500,000",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-17T01:29:06Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 32,
+      "name": "Can't Trust a Rat",
+      "detail": "Killed 15 Racket Informants",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-18T00:06:21Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 31,
+      "name": "No Loose Ends",
+      "detail": "Killed all of the Racket Bosses",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-18T16:11:56Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 28,
+      "name": "Big Earner",
+      "detail": "Received $10,000 in earn from one Underboss",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-18T17:21:26Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 0,
+      "name": "Let the Good Times Roll",
+      "detail": "Obtained All Mafia III: Definitive Edition Trophies",
+      "type": "platinum",
+      "earnedDateTime": "2026-10-18T18:45:24Z",
+      "rarityPercent": 1.2
+    },
+    {
+      "id": 24,
+      "name": "Just You and Me",
+      "detail": "Kept only one Underboss alive until \"Yet Here We Are\"",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-18T18:45:24Z",
+      "rarityPercent": 1.6
+    }
+  ]
+}

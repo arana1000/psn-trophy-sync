@@ -1,0 +1,53 @@
+{
+  "game": "Outlast",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR05889_00",
+  "progressPercent": 9,
+  "earnedCounts": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 7,
+    "silver": 4,
+    "gold": 3,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2026-04-08T00:29:05Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 11,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 3,
+    "silver": 4,
+    "bronze": 4
+  },
+  "earned": [
+    {
+      "id": 0,
+      "name": "ILLUMINATED",
+      "detail": "Restore power to the Administrative Block",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-05T00:21:06Z",
+      "rarityPercent": 56.9
+    },
+    {
+      "id": 1,
+      "name": "FLUSHED",
+      "detail": "Drain the Sewers",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-07T00:14:32Z",
+      "rarityPercent": 45.2
+    },
+    {
+      "id": 2,
+      "name": "SOAKED",
+      "detail": "Activate the sprinklers in the Male Ward",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-08T00:29:02Z",
+      "rarityPercent": 36
+    }
+  ]
+}

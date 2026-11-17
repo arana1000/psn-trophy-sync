@@ -1,0 +1,221 @@
+{
+  "game": "Dying Light 2: Stay Human",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR24587_00",
+  "progressPercent": 34,
+  "earnedCounts": {
+    "bronze": 23,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 55,
+    "silver": 8,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-11-06T23:35:51Z",
+  "earnedTotal": 24,
+  "unearnedTotal": 42,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 8,
+    "bronze": 32
+  },
+  "earned": [
+    {
+      "id": 27,
+      "name": "You Never Forget Your First...",
+      "detail": "Craft your first item.",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-23T21:22:41Z",
+      "rarityPercent": 84.7
+    },
+    {
+      "id": 1,
+      "name": "Into the Unknown",
+      "detail": "Reach Villedor.",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-24T22:56:22Z",
+      "rarityPercent": 78.8
+    },
+    {
+      "id": 2,
+      "name": "First Shot",
+      "detail": "Use an Inhibitor for the first time.",
+      "type": "bronze",
+      "earnedDateTime": "2024-07-24T22:59:00Z",
+      "rarityPercent": 78.2
+    },
+    {
+      "id": 44,
+      "name": "Being All Social",
+      "detail": "Join a co-op session.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-04T22:40:11Z",
+      "rarityPercent": 38.5
+    },
+    {
+      "id": 18,
+      "name": "Sancho Panza",
+      "detail": "Activate your first Windmill.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-04T22:53:45Z",
+      "rarityPercent": 49.8
+    },
+    {
+      "id": 37,
+      "name": "Good Night & Good Luck",
+      "detail": "Survive your first night.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-04T23:08:33Z",
+      "rarityPercent": 55.8
+    },
+    {
+      "id": 3,
+      "name": "Herzlich Wilkommen!",
+      "detail": "Enter the Bazaar.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-07T22:52:36Z",
+      "rarityPercent": 56.8
+    },
+    {
+      "id": 43,
+      "name": "Slowpoke!",
+      "detail": "Lose the maximum level of Chase.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-15T22:40:42Z",
+      "rarityPercent": 17.3
+    },
+    {
+      "id": 25,
+      "name": "Flag Burning",
+      "detail": "Clear your first Bandit Camp.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-15T23:19:59Z",
+      "rarityPercent": 39.1
+    },
+    {
+      "id": 4,
+      "name": "Under Pressure",
+      "detail": "Activate your first Water Tower.",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-16T00:16:50Z",
+      "rarityPercent": 37.6
+    },
+    {
+      "id": 5,
+      "name": "On the Trail of the Enemy",
+      "detail": "Learn Waltz's location.",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-20T01:39:28Z",
+      "rarityPercent": 34.8
+    },
+    {
+      "id": 6,
+      "name": "Light in the Darkness",
+      "detail": "Activate your first Electrical Substation.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-07T22:42:19Z",
+      "rarityPercent": 33.6
+    },
+    {
+      "id": 7,
+      "name": "Get Outta My House!",
+      "detail": "Defeat the Renegades attacking the Fish Eye.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-07T23:17:03Z",
+      "rarityPercent": 29.4
+    },
+    {
+      "id": 45,
+      "name": "That's Teamwork!",
+      "detail": "Kill 100 enemies while playing with at least 2 other players.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-08T22:20:48Z",
+      "rarityPercent": 6.5
+    },
+    {
+      "id": 16,
+      "name": "Tunnel Entrance",
+      "detail": "Activate your first Metro Station.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-08T23:01:53Z",
+      "rarityPercent": 23.3
+    },
+    {
+      "id": 39,
+      "name": "Night Hunter",
+      "detail": "Kill a Volatile.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-08T23:17:41Z",
+      "rarityPercent": 32.4
+    },
+    {
+      "id": 36,
+      "name": "After the Fall",
+      "detail": "Fall from a combined height of at least 10,994 meters.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-09T23:42:38Z",
+      "rarityPercent": 25.5
+    },
+    {
+      "id": 9,
+      "name": "We Will Be Heard!",
+      "detail": "Restore the radio broadcast tower.",
+      "type": "bronze",
+      "earnedDateTime": "2025-10-27T19:45:46Z",
+      "rarityPercent": 24.7
+    },
+    {
+      "id": 10,
+      "name": "Known Associate",
+      "detail": "Learn the whereabouts of Veronika Ryan.",
+      "type": "bronze",
+      "earnedDateTime": "2025-11-05T23:35:57Z",
+      "rarityPercent": 22.7
+    },
+    {
+      "id": 8,
+      "name": "Debris and Ashes",
+      "detail": "Reach the Observatory.",
+      "type": "bronze",
+      "earnedDateTime": "2025-11-06T00:03:41Z",
+      "rarityPercent": 21.7
+    },
+    {
+      "id": 11,
+      "name": "Brush with Death",
+      "detail": "Wake up after the missile strike.",
+      "type": "bronze",
+      "earnedDateTime": "2025-11-06T00:47:04Z",
+      "rarityPercent": 21.7
+    },
+    {
+      "id": 12,
+      "name": "Going Down",
+      "detail": "Enter the X-13 elevator.",
+      "type": "bronze",
+      "earnedDateTime": "2025-11-06T23:00:29Z",
+      "rarityPercent": 20.2
+    },
+    {
+      "id": 13,
+      "name": "Family First",
+      "detail": "Find your sister.",
+      "type": "bronze",
+      "earnedDateTime": "2025-11-06T23:16:52Z",
+      "rarityPercent": 20.1
+    },
+    {
+      "id": 14,
+      "name": "Your World, Your Rules",
+      "detail": "Complete the game with any ending.",
+      "type": "gold",
+      "earnedDateTime": "2025-11-06T23:35:52Z",
+      "rarityPercent": 19.9
+    }
+  ]
+}

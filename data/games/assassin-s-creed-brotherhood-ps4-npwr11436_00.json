@@ -1,0 +1,437 @@
+{
+  "game": "Assassin's Creed® Brotherhood",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR11436_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 36,
+    "silver": 13,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 36,
+    "silver": 13,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-08-22T00:52:22Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Technical Difficulties",
+      "detail": "Attempt to access DNA Sequence 9 for the first time.",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-08T16:17:26Z",
+      "rarityPercent": 93.4
+    },
+    {
+      "id": 2,
+      "name": "Battle Wounds",
+      "detail": "Complete DNA Sequence 1.",
+      "type": "silver",
+      "earnedDateTime": "2017-05-08T16:56:14Z",
+      "rarityPercent": 77.5
+    },
+    {
+      "id": 3,
+      "name": "Sanctuary! Sanctuary!",
+      "detail": "Find a secure place to hide and re-enter the Animus.",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-08T17:18:28Z",
+      "rarityPercent": 74
+    },
+    {
+      "id": 16,
+      "name": "Golden Boy",
+      "detail": "Discover the Shrine in the Terme di Traiano.",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-08T18:33:16Z",
+      "rarityPercent": 66.7
+    },
+    {
+      "id": 4,
+      "name": "Rome in Ruins",
+      "detail": "Complete DNA Sequence 2.",
+      "type": "silver",
+      "earnedDateTime": "2017-05-08T18:37:55Z",
+      "rarityPercent": 66.2
+    },
+    {
+      "id": 35,
+      "name": "Serial Killer",
+      "detail": "Perform an Execution Streak of 10 kills.",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-08T19:06:22Z",
+      "rarityPercent": 28.7
+    },
+    {
+      "id": 5,
+      "name": "Fixer-Upper",
+      "detail": "Complete DNA Sequence 3.",
+      "type": "silver",
+      "earnedDateTime": "2017-05-11T16:22:30Z",
+      "rarityPercent": 58.2
+    },
+    {
+      "id": 30,
+      "name": "Brotherhood",
+      "detail": "Recruit 3 Assassins.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-12T13:32:44Z",
+      "rarityPercent": 55.2
+    },
+    {
+      "id": 14,
+      "name": "Déjà Vu",
+      "detail": "Replay a Memory.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-29T01:48:15Z",
+      "rarityPercent": 23
+    },
+    {
+      "id": 13,
+      "name": "Perfect Recall",
+      "detail": "Achieve 100% Synchronization in any Sequence other than Sequence 1.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-29T02:18:34Z",
+      "rarityPercent": 35.5
+    },
+    {
+      "id": 34,
+      "name": "Dust to Dust",
+      "detail": "Find 1 Artifact in 2012.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-29T02:20:43Z",
+      "rarityPercent": 16.6
+    },
+    {
+      "id": 40,
+      "name": "Mailer Daemon",
+      "detail": "Access your email in 2012.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-29T02:21:40Z",
+      "rarityPercent": 28.7
+    },
+    {
+      "id": 29,
+      "name": "Perfectionist",
+      "detail": "Earn 3 gold medals in the Animus Virtual Training Program.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-29T03:17:50Z",
+      "rarityPercent": 10.3
+    },
+    {
+      "id": 25,
+      "name": "Home Improvement",
+      "detail": "Renovate 5 buildings in the Antico district.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-02T00:04:47Z",
+      "rarityPercent": 44.9
+    },
+    {
+      "id": 50,
+      "name": "Easy Come, Easy Go",
+      "detail": "Pay 500 florins to an orator, then pickpocket him afterward.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-02T02:21:11Z",
+      "rarityPercent": 16.9
+    },
+    {
+      "id": 37,
+      "name": "Your Wish is Granted",
+      "detail": "Throw money in a well.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-02T15:35:42Z",
+      "rarityPercent": 13.9
+    },
+    {
+      "id": 45,
+      "name": "GPS",
+      "detail": "Complete the Da Vinci Disappearance.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-02T23:06:43Z",
+      "rarityPercent": 26.9
+    },
+    {
+      "id": 21,
+      "name": "Bang!",
+      "detail": "Destroy the Machine Gun.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-02T23:32:28Z",
+      "rarityPercent": 54.1
+    },
+    {
+      "id": 6,
+      "name": "Principessa in Another Castello",
+      "detail": "Complete DNA Sequence 4.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-02T23:47:19Z",
+      "rarityPercent": 53.6
+    },
+    {
+      "id": 7,
+      "name": "Fundraiser",
+      "detail": "Complete DNA Sequence 5.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-03T01:03:49Z",
+      "rarityPercent": 51.5
+    },
+    {
+      "id": 22,
+      "name": "Splash!",
+      "detail": "Destroy the Naval Cannon.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-03T01:40:36Z",
+      "rarityPercent": 35.8
+    },
+    {
+      "id": 24,
+      "name": "Kaboom!",
+      "detail": "Destroy the Tank.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-03T17:50:25Z",
+      "rarityPercent": 31.8
+    },
+    {
+      "id": 8,
+      "name": "Forget Paris",
+      "detail": "Complete DNA Sequence 6.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-03T18:07:28Z",
+      "rarityPercent": 49.9
+    },
+    {
+      "id": 23,
+      "name": "Boom!",
+      "detail": "Destroy the Bomber.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-04T00:13:19Z",
+      "rarityPercent": 31.3
+    },
+    {
+      "id": 31,
+      "name": "Welcome to the Brotherhood",
+      "detail": "Train a recruit up to the Rank of Assassin.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-04T00:20:37Z",
+      "rarityPercent": 26.3
+    },
+    {
+      "id": 44,
+      "name": "Airstrike",
+      "detail": "Kill 10 guards with a single arrow storm.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-04T00:33:19Z",
+      "rarityPercent": 19.5
+    },
+    {
+      "id": 26,
+      "name": "Tower Offense",
+      "detail": "Burn All Borgia Towers.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-04T00:43:57Z",
+      "rarityPercent": 34
+    },
+    {
+      "id": 49,
+      "name": "Going Up",
+      "detail": "Kill a guard with the bag that drops from a lift.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-04T13:26:20Z",
+      "rarityPercent": 24.5
+    },
+    {
+      "id": 9,
+      "name": "Bloody Sunday",
+      "detail": "Complete DNA Sequence 7.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-12T12:01:51Z",
+      "rarityPercent": 47.8
+    },
+    {
+      "id": 27,
+      "name": "Show Off",
+      "detail": "Complete 10 Guild Challenges.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-12T12:14:29Z",
+      "rarityPercent": 24
+    },
+    {
+      "id": 15,
+      "name": "Undertaker 2.0",
+      "detail": "Discover the Shrine in the Catacombe di Roma.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-12T13:52:57Z",
+      "rarityPercent": 42
+    },
+    {
+      "id": 19,
+      "name": "One-Man Wrecking Crew",
+      "detail": "Discover the Shrine in Palazzo Laterano.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-13T13:00:42Z",
+      "rarityPercent": 32.5
+    },
+    {
+      "id": 18,
+      "name": "Plumber",
+      "detail": "Discover the Shrine in the Cloaca Maxima.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-13T13:25:22Z",
+      "rarityPercent": 28.2
+    },
+    {
+      "id": 20,
+      "name": "Amen",
+      "detail": "Discover the Shrine in the Basilica di San Pietro.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-13T13:40:30Z",
+      "rarityPercent": 28.1
+    },
+    {
+      "id": 10,
+      "name": "Vittoria Agli Assassini",
+      "detail": "Complete DNA Sequence 8.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-13T14:31:14Z",
+      "rarityPercent": 46.2
+    },
+    {
+      "id": 11,
+      "name": "Requiescat In Pace",
+      "detail": "Complete DNA Sequence 9.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-13T14:41:30Z",
+      "rarityPercent": 46
+    },
+    {
+      "id": 12,
+      "name": "A Knife to the Heart",
+      "detail": "Secure the Apple of Eden.",
+      "type": "gold",
+      "earnedDateTime": "2025-07-13T15:22:08Z",
+      "rarityPercent": 36.8
+    },
+    {
+      "id": 17,
+      "name": "Gladiator",
+      "detail": "Discover the Shrine in Il Colosseo.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-16T21:28:32Z",
+      "rarityPercent": 42.3
+    },
+    {
+      "id": 39,
+      "name": "The Gloves Come Off",
+      "detail": "Win the highest bet at the Fights.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-16T21:48:59Z",
+      "rarityPercent": 9
+    },
+    {
+      "id": 42,
+      "name": "High Roller",
+      "detail": "Win 10000 florins playing Hazard.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-16T21:51:49Z",
+      "rarityPercent": 11.1
+    },
+    {
+      "id": 36,
+      "name": "Spring Cleaning",
+      "detail": "Kill a guard with a broom.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-21T20:43:14Z",
+      "rarityPercent": 10.6
+    },
+    {
+      "id": 48,
+      "name": "Grand Theft Dressage",
+      "detail": "Steal 5 horses from their riders, while remaining on horseback.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-21T20:59:31Z",
+      "rarityPercent": 8.9
+    },
+    {
+      "id": 43,
+      "name": "il Principe",
+      "detail": "Receive 100% synch in ACB and full synch in all missions of the Da Vinci Disappearance.",
+      "type": "silver",
+      "earnedDateTime": "2025-07-21T21:04:04Z",
+      "rarityPercent": 6.3
+    },
+    {
+      "id": 47,
+      "name": "Special Delivery",
+      "detail": "Double Assassinate from a parachute.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-21T21:52:29Z",
+      "rarityPercent": 8.9
+    },
+    {
+      "id": 38,
+      "name": "Fly Like an Eagle",
+      "detail": "Jump with the parachute off the top of Castel Sant'Angelo.",
+      "type": "bronze",
+      "earnedDateTime": "2025-07-21T22:41:30Z",
+      "rarityPercent": 9.4
+    },
+    {
+      "id": 32,
+      "name": "Capture the Flag",
+      "detail": "Remove All Borgia Flags in Rome.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-19T21:55:10Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 33,
+      "name": "In Memoriam",
+      "detail": "Collect All Feathers.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-19T22:24:06Z",
+      "rarityPercent": 13.6
+    },
+    {
+      "id": 28,
+      "name": " ..   .- --   .- .-.. .. ...- .",
+      "detail": "Solve all of Subject 16’s puzzles.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-22T00:16:20Z",
+      "rarityPercent": 9.9
+    },
+    {
+      "id": 41,
+      "name": "Strong-Arm",
+      "detail": "Throw a Long Weapon, Heavy Weapon, and Smoke bomb more than 10 m at a guard.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-22T00:40:00Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 0,
+      "name": "Julius Caesar",
+      "detail": "Win every trophy.",
+      "type": "platinum",
+      "earnedDateTime": "2025-08-22T00:52:20Z",
+      "rarityPercent": 5.9
+    },
+    {
+      "id": 46,
+      "name": "Clowning Around",
+      "detail": "Beat up the 5 thirsty harlequins.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-22T00:52:20Z",
+      "rarityPercent": 7.4
+    }
+  ]
+}

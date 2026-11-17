@@ -1,0 +1,61 @@
+{
+  "game": "RV There Yet?",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR58335_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 4,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 96,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-11-15T03:34:49Z",
+  "earnedTotal": 4,
+  "unearnedTotal": 93,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 92
+  },
+  "earned": [
+    {
+      "id": 18,
+      "name": "Baby Steps",
+      "detail": "Reach checkpoint 1 in Mabutts Valley",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-15T01:01:14Z",
+      "rarityPercent": 76.4
+    },
+    {
+      "id": 19,
+      "name": "This is going well!",
+      "detail": "Reach checkpoint 2 in Mabutts Valley",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-15T02:05:54Z",
+      "rarityPercent": 59.8
+    },
+    {
+      "id": 20,
+      "name": "Can RVs swim?",
+      "detail": "Reach checkpoint 3 in Mabutts Valley",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-15T03:04:53Z",
+      "rarityPercent": 47.2
+    },
+    {
+      "id": 21,
+      "name": "Not even a scratch!",
+      "detail": "Reach checkpoint 4 in Mabutts Valley",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-15T03:34:48Z",
+      "rarityPercent": 40.5
+    }
+  ]
+}

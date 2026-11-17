@@ -1,0 +1,349 @@
+{
+  "game": "STAR WARS Jedi: Fallen Order",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR23631_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 25,
+    "silver": 11,
+    "gold": 3,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 25,
+    "silver": 11,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-05-17T16:18:46Z",
+  "earnedTotal": 40,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 7,
+      "name": "The Mantis",
+      "detail": "Join the crew",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-25T23:25:29Z",
+      "rarityPercent": 79.3
+    },
+    {
+      "id": 8,
+      "name": "A Long Time Ago",
+      "detail": "Discover the Bogano Vault",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-26T16:28:08Z",
+      "rarityPercent": 64.7
+    },
+    {
+      "id": 35,
+      "name": "Sabersmith",
+      "detail": "Fully customize your lightsaber",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-26T16:38:50Z",
+      "rarityPercent": 54.8
+    },
+    {
+      "id": 18,
+      "name": "Back At You",
+      "detail": "Defeat 50 enemies with reflected blaster bolts",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-26T22:25:18Z",
+      "rarityPercent": 43.9
+    },
+    {
+      "id": 9,
+      "name": "The Obstacle is the Way",
+      "detail": "Complete the Tomb of Eilram",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-26T23:14:40Z",
+      "rarityPercent": 47.6
+    },
+    {
+      "id": 19,
+      "name": "Perfect Timing",
+      "detail": "Parry 100 enemies",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-26T23:50:06Z",
+      "rarityPercent": 30.6
+    },
+    {
+      "id": 1,
+      "name": "Kicking Back",
+      "detail": "Kick a phillak that has kicked you",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-27T11:50:29Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 12,
+      "name": "Happy Go Wookiee",
+      "detail": "Free the Wookiees from Imperial imprisonment",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-27T17:37:51Z",
+      "rarityPercent": 41.3
+    },
+    {
+      "id": 20,
+      "name": "Kickoff",
+      "detail": "Defeat an enemy using only kicks",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-29T16:51:45Z",
+      "rarityPercent": 5.3
+    },
+    {
+      "id": 28,
+      "name": "Bank Shot",
+      "detail": "Defeat an enemy by colliding them with another enemy",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-29T18:01:55Z",
+      "rarityPercent": 33.3
+    },
+    {
+      "id": 10,
+      "name": "Everything is Connected",
+      "detail": "Complete the Tomb of Miktrull",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-29T21:54:44Z",
+      "rarityPercent": 35.7
+    },
+    {
+      "id": 24,
+      "name": "Don't Mess With BD-1",
+      "detail": "Defeat an enemy with a hacked droid",
+      "type": "bronze",
+      "earnedDateTime": "2024-08-29T22:08:48Z",
+      "rarityPercent": 25.1
+    },
+    {
+      "id": 38,
+      "name": "Scum and Villainy",
+      "detail": "Defeat each type of Bounty Hunter",
+      "type": "silver",
+      "earnedDateTime": "2024-08-30T00:13:33Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 13,
+      "name": "Her Name Was Masana Tide",
+      "detail": "Defeat the Ninth Sister",
+      "type": "silver",
+      "earnedDateTime": "2024-08-31T17:11:59Z",
+      "rarityPercent": 33.3
+    },
+    {
+      "id": 15,
+      "name": "Gorgara Falls",
+      "detail": "Defeat the winged terror on Dathomir",
+      "type": "silver",
+      "earnedDateTime": "2024-09-02T01:11:53Z",
+      "rarityPercent": 31.5
+    },
+    {
+      "id": 16,
+      "name": "For A More Civilized Age",
+      "detail": "Craft a lightsaber of your own",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-02T22:10:11Z",
+      "rarityPercent": 30.8
+    },
+    {
+      "id": 29,
+      "name": "Blade Master",
+      "detail": "Hit a single enemy with all lightsaber types",
+      "type": "silver",
+      "earnedDateTime": "2024-09-03T01:34:09Z",
+      "rarityPercent": 24.2
+    },
+    {
+      "id": 39,
+      "name": "Echo Location",
+      "detail": "Discover 75 Force Echoes",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-03T21:47:35Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 36,
+      "name": "The Full Glow-Up",
+      "detail": "Customize the look of Cal, BD-1, and the Mantis",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-03T21:59:26Z",
+      "rarityPercent": 28.7
+    },
+    {
+      "id": 14,
+      "name": "Visiting Alderaan Places",
+      "detail": "Explore the crashed Venator",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-03T21:59:48Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 3,
+      "name": "Legendary Beasts",
+      "detail": "Defeat four mysterious creatures",
+      "type": "silver",
+      "earnedDateTime": "2024-09-03T22:33:57Z",
+      "rarityPercent": 12.9
+    },
+    {
+      "id": 17,
+      "name": "I Knew He Was No Good",
+      "detail": "Defeat a former Jedi Master",
+      "type": "silver",
+      "earnedDateTime": "2024-09-03T22:58:31Z",
+      "rarityPercent": 30
+    },
+    {
+      "id": 33,
+      "name": "Full House",
+      "detail": "Recruit all possible crew members for the Mantis",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-04T02:21:02Z",
+      "rarityPercent": 21.8
+    },
+    {
+      "id": 11,
+      "name": "The Holocron Awaits",
+      "detail": "Open the Vault",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-05T01:41:09Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 26,
+      "name": "Look Out Below",
+      "detail": "Send 25 enemies over the edge",
+      "type": "bronze",
+      "earnedDateTime": "2024-09-06T01:01:00Z",
+      "rarityPercent": 26.6
+    },
+    {
+      "id": 6,
+      "name": "Trust Only In The Force",
+      "detail": "Complete the story",
+      "type": "gold",
+      "earnedDateTime": "2024-09-06T01:25:34Z",
+      "rarityPercent": 28.8
+    },
+    {
+      "id": 22,
+      "name": "What Goes Around...",
+      "detail": "Defeat an enemy with their own Slowed blaster bolt",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-28T23:58:22Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 21,
+      "name": "Triple Take",
+      "detail": "Defeat 3 enemies using a single lightsaber throw",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-29T00:08:11Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 23,
+      "name": "Big Bang",
+      "detail": "Defeat 20 enemies with explosives",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-29T00:12:30Z",
+      "rarityPercent": 6.9
+    },
+    {
+      "id": 27,
+      "name": "Not So Fast",
+      "detail": "Defeat 25 enemies while they are under the effect of Empowered Slow",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-29T00:19:00Z",
+      "rarityPercent": 3.9
+    },
+    {
+      "id": 30,
+      "name": "Cal Got Your Tongue?",
+      "detail": "Slice an oggdo's tongue",
+      "type": "bronze",
+      "earnedDateTime": "2025-03-29T00:21:16Z",
+      "rarityPercent": 9.9
+    },
+    {
+      "id": 25,
+      "name": "Can't Touch This",
+      "detail": "Precision Evade 100 attacks",
+      "type": "silver",
+      "earnedDateTime": "2025-03-29T01:51:04Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 4,
+      "name": "Feel the Force",
+      "detail": "Unlock all Jedi skills",
+      "type": "gold",
+      "earnedDateTime": "2025-05-15T13:40:46Z",
+      "rarityPercent": 6
+    },
+    {
+      "id": 31,
+      "name": "Medical Droid",
+      "detail": "Find all of BD-1's stim canisters",
+      "type": "silver",
+      "earnedDateTime": "2025-05-15T17:40:50Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 32,
+      "name": "Green Thumb",
+      "detail": "Have a fully grown terrarium",
+      "type": "silver",
+      "earnedDateTime": "2025-05-16T00:31:56Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 2,
+      "name": "Collector",
+      "detail": "Collect all chests and secrets",
+      "type": "gold",
+      "earnedDateTime": "2025-05-16T00:49:37Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 5,
+      "name": "A Galaxy Far, Far Away",
+      "detail": "Complete all of BD-1's holomaps",
+      "type": "silver",
+      "earnedDateTime": "2025-05-17T15:18:26Z",
+      "rarityPercent": 4.3
+    },
+    {
+      "id": 34,
+      "name": "Data Disk",
+      "detail": "Find all of BD-1's encrypted logs",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-17T16:01:20Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 0,
+      "name": "A New Hope",
+      "detail": "Earn all trophies",
+      "type": "platinum",
+      "earnedDateTime": "2025-05-17T16:18:45Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 37,
+      "name": "Data Collector",
+      "detail": "Scan all enemy types",
+      "type": "silver",
+      "earnedDateTime": "2025-05-17T16:18:45Z",
+      "rarityPercent": 6.4
+    }
+  ]
+}

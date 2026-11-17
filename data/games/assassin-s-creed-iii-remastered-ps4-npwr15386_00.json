@@ -1,0 +1,53 @@
+{
+  "game": "Assassin's Creed® III Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR15386_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 46,
+    "silver": 7,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-09-25T22:44:04Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 52,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 7,
+    "bronze": 43
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Rude Awakening",
+      "detail": "Re-Enter the Animus.",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-19T21:01:37Z",
+      "rarityPercent": 88.9
+    },
+    {
+      "id": 39,
+      "name": "Whit's fur ye'll no go by ye!",
+      "detail": "Block a firing line 5 times by using a human shield.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-20T20:58:23Z",
+      "rarityPercent": 25.3
+    },
+    {
+      "id": 6,
+      "name": "Mystery Guest",
+      "detail": "Complete Sequence 1 & 2.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-25T22:44:02Z",
+      "rarityPercent": 52.9
+    }
+  ]
+}

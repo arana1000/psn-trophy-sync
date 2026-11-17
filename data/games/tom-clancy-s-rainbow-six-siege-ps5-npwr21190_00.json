@@ -1,0 +1,349 @@
+{
+  "game": "Tom Clancy’s Rainbow Six® Siege",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR21190_00",
+  "progressPercent": 78,
+  "earnedCounts": {
+    "bronze": 29,
+    "silver": 10,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-06-13T00:17:33Z",
+  "earnedTotal": 40,
+  "unearnedTotal": 9,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 5
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Back in the Day ATK",
+      "detail": "Play 10 rounds with a Pathfinder Attacker in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 43.9
+    },
+    {
+      "id": 2,
+      "name": "First Class Defense",
+      "detail": "Play 10 rounds with a Pathfinder Defender in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 44.7
+    },
+    {
+      "id": 7,
+      "name": "Designer",
+      "detail": "Customize a weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 65.9
+    },
+    {
+      "id": 8,
+      "name": "Collector",
+      "detail": "Collect and save 5000 Renown.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 54.1
+    },
+    {
+      "id": 12,
+      "name": "Coming Through!",
+      "detail": "Breach and rappel through a window in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 50.8
+    },
+    {
+      "id": 19,
+      "name": "Speed Round",
+      "detail": "Win a round in Quick Match/Ranked Multiplayer in under 2 minutes.",
+      "type": "silver",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 56.3
+    },
+    {
+      "id": 22,
+      "name": "Drone Destruction",
+      "detail": "Destroy 5 drones in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 47.4
+    },
+    {
+      "id": 27,
+      "name": "Woodworker",
+      "detail": "Place 5 barricades as a Defender in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 45.7
+    },
+    {
+      "id": 36,
+      "name": "Full Auto",
+      "detail": "Get 5 kills with an AR.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 64.2
+    },
+    {
+      "id": 37,
+      "name": "Greaser",
+      "detail": "Get 5 kills with an SMG.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 55.4
+    },
+    {
+      "id": 45,
+      "name": "Perimeter Secured",
+      "detail": "Win a match of Secure Area in Quick Match Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T14:15:39Z",
+      "rarityPercent": 29.4
+    },
+    {
+      "id": 17,
+      "name": "It Begins...",
+      "detail": "Complete 10 matches in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2023-07-14T15:13:34Z",
+      "rarityPercent": 45.7
+    },
+    {
+      "id": 35,
+      "name": "Ride Shotgun",
+      "detail": "Get 5 kills with a shotgun.",
+      "type": "bronze",
+      "earnedDateTime": "2023-07-14T15:19:02Z",
+      "rarityPercent": 48.5
+    },
+    {
+      "id": 40,
+      "name": "Bang!",
+      "detail": "Get 5 kills with a handgun.",
+      "type": "silver",
+      "earnedDateTime": "2024-02-12T02:01:38Z",
+      "rarityPercent": 42
+    },
+    {
+      "id": 14,
+      "name": "Camera Shy",
+      "detail": "Destroy 10 cameras as an Attacker.",
+      "type": "bronze",
+      "earnedDateTime": "2024-02-12T22:58:05Z",
+      "rarityPercent": 41.4
+    },
+    {
+      "id": 13,
+      "name": "Fortress",
+      "detail": "Reinforce 2 breakable walls in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-02-26T19:40:49Z",
+      "rarityPercent": 52
+    },
+    {
+      "id": 6,
+      "name": "To the Top",
+      "detail": "Reach Clearance Level 50.",
+      "type": "gold",
+      "earnedDateTime": "2024-02-26T20:08:03Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 47,
+      "name": "One Mind",
+      "detail": "Win 1 match without losing a single round in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-02-26T20:26:19Z",
+      "rarityPercent": 45.1
+    },
+    {
+      "id": 33,
+      "name": "Asset Protection",
+      "detail": "Destroy 20 gadgets in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-02-26T21:41:54Z",
+      "rarityPercent": 42.3
+    },
+    {
+      "id": 30,
+      "name": "Strength in Numbers",
+      "detail": "Win 10 games as a Squad in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-02-26T21:59:47Z",
+      "rarityPercent": 33.5
+    },
+    {
+      "id": 42,
+      "name": "Objective Driven",
+      "detail": "Win 50 rounds in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-03T01:59:05Z",
+      "rarityPercent": 39.7
+    },
+    {
+      "id": 41,
+      "name": "That Was Fast!",
+      "detail": "Find a bomb within 15 seconds of the Preparation Phase in Unranked/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-03T02:36:51Z",
+      "rarityPercent": 39.1
+    },
+    {
+      "id": 9,
+      "name": "Just Getting Started",
+      "detail": "Get 100 kills in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-07T01:21:24Z",
+      "rarityPercent": 36.4
+    },
+    {
+      "id": 15,
+      "name": "Boomshakalaka",
+      "detail": "Win 10 matches of Bomb in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-07T01:51:02Z",
+      "rarityPercent": 39.6
+    },
+    {
+      "id": 43,
+      "name": "Specialist",
+      "detail": "Complete all Operator Specialties.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-07T01:51:13Z",
+      "rarityPercent": 28
+    },
+    {
+      "id": 46,
+      "name": "That Bullet Pen...",
+      "detail": "Get 10 kills through bullet penetration in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-07T23:40:36Z",
+      "rarityPercent": 32.3
+    },
+    {
+      "id": 18,
+      "name": "Brain Surgeon",
+      "detail": "Get 50 headshots in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-08T02:10:30Z",
+      "rarityPercent": 34.6
+    },
+    {
+      "id": 25,
+      "name": "Don't Go in There!",
+      "detail": "Kill an Attacker caught inside Barbed Wire in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-10T03:09:01Z",
+      "rarityPercent": 33.9
+    },
+    {
+      "id": 38,
+      "name": "Perfectionist",
+      "detail": "Get 5 Flawless Victories in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-11T03:22:55Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 31,
+      "name": "That Was Close",
+      "detail": "Plant the defuser in 10 Bomb rounds in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-11T04:10:42Z",
+      "rarityPercent": 24.5
+    },
+    {
+      "id": 48,
+      "name": "To the Rescue",
+      "detail": "Revive injured teammates 10 times in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-15T01:55:19Z",
+      "rarityPercent": 27.8
+    },
+    {
+      "id": 24,
+      "name": "Oh Yeah!",
+      "detail": "Destroy a reinforced wall with Thermite's Exothermic Charge in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-17T23:24:26Z",
+      "rarityPercent": 34.3
+    },
+    {
+      "id": 44,
+      "name": "Accessorizing",
+      "detail": "Equip 50 weapon attachments.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-17T23:27:23Z",
+      "rarityPercent": 40.8
+    },
+    {
+      "id": 16,
+      "name": "Can't Breach This",
+      "detail": "Win 100 rounds as a Defender in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-22T00:44:46Z",
+      "rarityPercent": 29.2
+    },
+    {
+      "id": 39,
+      "name": "Overachiever",
+      "detail": "Win 100 rounds as an Attacker in Quick Match/Ranked Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2024-03-30T16:25:46Z",
+      "rarityPercent": 29
+    },
+    {
+      "id": 21,
+      "name": "Senseless",
+      "detail": "Kill 10 enemies blinded by Stun Grenades in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-03-30T17:49:14Z",
+      "rarityPercent": 19.2
+    },
+    {
+      "id": 32,
+      "name": "Close, but No Cigar",
+      "detail": "Deactivate the defuser in 5 Bomb matches in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-05T00:29:46Z",
+      "rarityPercent": 18.2
+    },
+    {
+      "id": 20,
+      "name": "Globetrotter",
+      "detail": "Play 10 Multiplayer Matches on 10 different maps.",
+      "type": "silver",
+      "earnedDateTime": "2024-05-05T02:29:29Z",
+      "rarityPercent": 36.4
+    },
+    {
+      "id": 34,
+      "name": "Sureshot",
+      "detail": "Get 5 kills with a DMR.",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-25T23:06:22Z",
+      "rarityPercent": 35.5
+    },
+    {
+      "id": 11,
+      "name": "Death From Above",
+      "detail": "Destroy a floor with a Breach Charge in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-13T00:17:32Z",
+      "rarityPercent": 32.4
+    }
+  ]
+}

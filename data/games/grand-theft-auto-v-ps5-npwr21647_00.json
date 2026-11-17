@@ -1,0 +1,573 @@
+{
+  "game": "Grand Theft Auto V",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR21647_00",
+  "progressPercent": 85,
+  "earnedCounts": {
+    "bronze": 54,
+    "silver": 10,
+    "gold": 3,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 59,
+    "silver": 15,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-06-22T20:13:48Z",
+  "earnedTotal": 68,
+  "unearnedTotal": 10,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 5,
+    "bronze": 5
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Welcome to Los Santos",
+      "detail": "You repo'd a car and raced it through the heart of a sun-soaked metropolis.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-17T14:58:21Z",
+      "rarityPercent": 43.2
+    },
+    {
+      "id": 29,
+      "name": "Pimp My Sidearm",
+      "detail": "Fully mod a weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 29.1
+    },
+    {
+      "id": 31,
+      "name": "Los Santos Customs",
+      "detail": "Fully mod a vehicle.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 15.5
+    },
+    {
+      "id": 33,
+      "name": "Off the Plane",
+      "detail": "GTA Online: Complete the Introduction.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 65
+    },
+    {
+      "id": 34,
+      "name": "Three-Bit Gangster",
+      "detail": "GTA Online: Reach Rank 25.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 31.9
+    },
+    {
+      "id": 35,
+      "name": "Making Moves",
+      "detail": "GTA Online: Reach Rank 50.",
+      "type": "silver",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 23.4
+    },
+    {
+      "id": 36,
+      "name": "Above the Law",
+      "detail": "GTA Online: Reach Rank 100.",
+      "type": "gold",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 13.9
+    },
+    {
+      "id": 38,
+      "name": "The Midnight Club",
+      "detail": "GTA Online: Use custom vehicles to win 5 races.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 41,
+      "name": "Run Like The Wind",
+      "detail": "GTA Online: Survive with a Bounty on your head.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 24.8
+    },
+    {
+      "id": 42,
+      "name": "Clean Sweep",
+      "detail": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 16.2
+    },
+    {
+      "id": 43,
+      "name": "Decorated",
+      "detail": "GTA Online: Earn 30 Platinum Awards.",
+      "type": "silver",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 19.4
+    },
+    {
+      "id": 44,
+      "name": "Stick Up Kid",
+      "detail": "GTA Online: Hold up all 20 Stores.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 5.3
+    },
+    {
+      "id": 45,
+      "name": "Enjoy Your Stay",
+      "detail": "GTA Online: Participate in everything Los Santos has to offer.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 46,
+      "name": "Crew Cut",
+      "detail": "GTA Online: Complete a Job as a member of a Crew.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 13.9
+    },
+    {
+      "id": 47,
+      "name": "Full Refund",
+      "detail": "GTA Online: Kill the thief that mugged you.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:32Z",
+      "rarityPercent": 11.5
+    },
+    {
+      "id": 48,
+      "name": "Dialling Digits",
+      "detail": "GTA Online: Call for a Backup Helicopter for the first time.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 12.4
+    },
+    {
+      "id": 49,
+      "name": "American Dream",
+      "detail": "GTA Online: Own an Apartment, Garage and an Insured Vehicle",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 64.5
+    },
+    {
+      "id": 50,
+      "name": "A New Perspective",
+      "detail": "You played GTA V in first person mode for 15 hours.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 51,
+      "name": "Be Prepared",
+      "detail": "GTA Online: You completed a Heist Setup mission.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 31
+    },
+    {
+      "id": 52,
+      "name": "In the Name of Science",
+      "detail": "GTA Online: You completed The Humane Labs Raid and Series A Funding as Heist Leader or Crew.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 53,
+      "name": "Dead Presidents",
+      "detail": "GTA Online: You completed The Fleeca Job and The Pacific Standard Job as Heist Leader or Crew.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 7.5
+    },
+    {
+      "id": 54,
+      "name": "Parole Day",
+      "detail": "GTA Online: You completed The Prison Break as Heist Leader or Crew.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 12.5
+    },
+    {
+      "id": 55,
+      "name": "Shot Caller",
+      "detail": "GTA Online: Invest your hard earned cash to set up a Heist.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 15.2
+    },
+    {
+      "id": 58,
+      "name": "Can't Touch This",
+      "detail": "GTA Online: Complete a Heist finale without taking any damage.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 11.9
+    },
+    {
+      "id": 59,
+      "name": "Mastermind",
+      "detail": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales.",
+      "type": "silver",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 60,
+      "name": "Vinewood Visionary",
+      "detail": "Create and export a video using the Rockstar Editor or enter Director Mode 5 times.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 3.9
+    },
+    {
+      "id": 68,
+      "name": "Method Actor",
+      "detail": "Enter Director Mode using any of your own GTA Online characters.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 6.5
+    },
+    {
+      "id": 70,
+      "name": "Getting Started",
+      "detail": "GTA Online: Set up The Doomsday Heist.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 11.6
+    },
+    {
+      "id": 71,
+      "name": "The Data Breaches",
+      "detail": "GTA Online: You completed Act I of The Doomsday Heist as Leader or Crew.",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 13.1
+    },
+    {
+      "id": 72,
+      "name": "The Bogdan Problem",
+      "detail": "GTA Online: You completed Act II of The Doomsday Heist as Leader or Crew.",
+      "type": "silver",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 14.2
+    },
+    {
+      "id": 73,
+      "name": "The Doomsday Scenario",
+      "detail": "GTA Online: You completed Act III of The Doomsday Heist as Leader or Crew.",
+      "type": "silver",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 8.2
+    },
+    {
+      "id": 74,
+      "name": "A World Worth Saving",
+      "detail": "GTA Online: You completed The Doomsday Heist as Leader or Crew.",
+      "type": "silver",
+      "earnedDateTime": "2022-05-23T16:23:33Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 63,
+      "name": "First Time Director",
+      "detail": "Enter Director Mode for the first time as an unlocked actor.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-05T15:40:53Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 6,
+      "name": "Diamond Hard",
+      "detail": "You cleaned out Vangelico to pay back Martin Madrazo.",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-06T00:59:22Z",
+      "rarityPercent": 19.2
+    },
+    {
+      "id": 2,
+      "name": "A Friendship Resurrected",
+      "detail": "With friends like this who needs enemies?",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-09T23:57:42Z",
+      "rarityPercent": 17.8
+    },
+    {
+      "id": 28,
+      "name": "Trading Pure Alpha",
+      "detail": "Make a profit over your total investments in the stock market.",
+      "type": "bronze",
+      "earnedDateTime": "2023-12-10T21:54:13Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 3,
+      "name": "A Fair Day's Pay",
+      "detail": "It's time for a little getaway.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 11.4
+    },
+    {
+      "id": 4,
+      "name": "The Moment of Truth",
+      "detail": "You have uncovered the truth about Brad.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 8.1
+    },
+    {
+      "id": 5,
+      "name": "To Live or Die in Los Santos",
+      "detail": "Completed the final mission.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 8.6
+    },
+    {
+      "id": 7,
+      "name": "Subversive",
+      "detail": "You stole an experimental super weapon from Merryweather... and gave it back.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 12.3
+    },
+    {
+      "id": 8,
+      "name": "Blitzed",
+      "detail": "You performed a classic blitz play.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 12.2
+    },
+    {
+      "id": 9,
+      "name": "Small Town, Big Job",
+      "detail": "You made a big impression at the Paleto Bay Chicken Festival.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 11
+    },
+    {
+      "id": 10,
+      "name": "The Government Gimps",
+      "detail": "You recovered sensitive information from a highly defended federal building.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 9.3
+    },
+    {
+      "id": 11,
+      "name": "The Big One!",
+      "detail": "This ain't no dream no more.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 12,
+      "name": "Solid Gold, Baby!",
+      "detail": "Earn any 70 Gold Medals on Missions, Strangers and Freaks.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 13,
+      "name": "Career Criminal",
+      "detail": "Attain 100% Game Completion.",
+      "type": "gold",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 14,
+      "name": "San Andreas Sightseer",
+      "detail": "Explore all of Los Santos and Blaine County",
+      "type": "silver",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 15,
+      "name": "All's Fare in Love and War",
+      "detail": "Purchase Downtown Cab Co. and complete a private fare.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 16,
+      "name": "TP Industries Arms Race",
+      "detail": "Purchase McKenzie Field Hangar and win the arms race.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 17,
+      "name": "Multi-Disciplined",
+      "detail": "Attain a gold medal in all applicable hobbies and pastimes.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 18,
+      "name": "From Beyond the Stars",
+      "detail": "Collect and return all spaceship parts.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 19,
+      "name": "A Mystery, Solved",
+      "detail": "Solve the mystery of Leonora Johnson.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.4
+    },
+    {
+      "id": 20,
+      "name": "Waste Management",
+      "detail": "Purchase the old dock and collect all nuclear waste.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 21,
+      "name": "Red Mist",
+      "detail": "Complete all Rampages.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 3.8
+    },
+    {
+      "id": 22,
+      "name": "Show Off",
+      "detail": "Complete all Stunt Jumps.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 1.1
+    },
+    {
+      "id": 23,
+      "name": "Kifflom!",
+      "detail": "Complete your path to enlightenment... or not.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 24,
+      "name": "Three Man Army",
+      "detail": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.7
+    },
+    {
+      "id": 25,
+      "name": "Out of Your Depth",
+      "detail": "You're gonna need a bigger boat...",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 26,
+      "name": "Altruist Acolyte",
+      "detail": "Deliver an unsuspecting victim to the Altruist Cult.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 2.7
+    },
+    {
+      "id": 27,
+      "name": "A Lot of Cheddar",
+      "detail": "Spend a total of $200 million across all three characters.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 30,
+      "name": "Wanted: Alive or Alive",
+      "detail": "Deliver a bail bond target alive.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 32,
+      "name": "Close Shave",
+      "detail": "Complete all Under the Bridge and Knife Flight challenges.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 64,
+      "name": "Animal Lover",
+      "detail": "Enter Director Mode as an unlocked animal actor for the first time.",
+      "type": "bronze",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.8
+    },
+    {
+      "id": 65,
+      "name": "Ensemble Piece",
+      "detail": "Unlock all Story Characters and enter Director Mode as an actor from this category.",
+      "type": "silver",
+      "earnedDateTime": "2025-02-14T14:32:26Z",
+      "rarityPercent": 0.2
+    },
+    {
+      "id": 0,
+      "name": "Los Santos Legend",
+      "detail": "Congratulations! You're Vinewood's biggest star!",
+      "type": "platinum",
+      "earnedDateTime": "2025-06-22T20:13:48Z",
+      "rarityPercent": 0.1
+    },
+    {
+      "id": 37,
+      "name": "Numero Uno",
+      "detail": "GTA Online: Obtain first place in all competitive game types.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-22T20:13:48Z",
+      "rarityPercent": 1.2
+    },
+    {
+      "id": 39,
+      "name": "Unnatural Selection",
+      "detail": "GTA Online: Complete all 10 waves of a Survival.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-22T20:13:48Z",
+      "rarityPercent": 6.8
+    },
+    {
+      "id": 40,
+      "name": "Backseat Driver",
+      "detail": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-22T20:13:48Z",
+      "rarityPercent": 1.3
+    }
+  ]
+}

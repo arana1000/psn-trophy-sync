@@ -1,0 +1,125 @@
+{
+  "game": "PEAK",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR59188_00",
+  "progressPercent": 24,
+  "earnedCounts": {
+    "bronze": 11,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 62,
+    "silver": 1,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-11-15T00:15:30Z",
+  "earnedTotal": 12,
+  "unearnedTotal": 53,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 51
+  },
+  "earned": [
+    {
+      "id": 11,
+      "name": "Esoterica Badge",
+      "detail": "Obtain a mystical item.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-13T21:52:51Z",
+      "rarityPercent": 79.4
+    },
+    {
+      "id": 2,
+      "name": "Beachcomber Badge",
+      "detail": "Climb past the SHORE.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-13T22:04:34Z",
+      "rarityPercent": 84.2
+    },
+    {
+      "id": 46,
+      "name": "Web Security Badge",
+      "detail": "Escape a spider's web and survive.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-13T23:38:14Z",
+      "rarityPercent": 30.2
+    },
+    {
+      "id": 14,
+      "name": "Clutch Badge",
+      "detail": "Resurrect 3 scouts in a single expedition.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-13T23:58:11Z",
+      "rarityPercent": 13.9
+    },
+    {
+      "id": 44,
+      "name": "Forestry Badge",
+      "detail": "Climb past the ROOTS.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T00:00:15Z",
+      "rarityPercent": 41.3
+    },
+    {
+      "id": 30,
+      "name": "Plunderer Badge",
+      "detail": "Open 15 luggages in a single expedition.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T00:05:10Z",
+      "rarityPercent": 31.6
+    },
+    {
+      "id": 7,
+      "name": "Happy Camper Badge",
+      "detail": "Receive 5 Morale Boosts from campfires.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T23:12:23Z",
+      "rarityPercent": 51.8
+    },
+    {
+      "id": 3,
+      "name": "Trailblazer Badge",
+      "detail": "Climb past the TROPICS.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T23:12:31Z",
+      "rarityPercent": 47
+    },
+    {
+      "id": 4,
+      "name": "Alpinist Badge",
+      "detail": "Climb past the ALPINE.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T23:34:06Z",
+      "rarityPercent": 29.8
+    },
+    {
+      "id": 10,
+      "name": "Foraging Badge",
+      "detail": "Eat 5 different berries in a single expedition.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T23:47:12Z",
+      "rarityPercent": 27.6
+    },
+    {
+      "id": 5,
+      "name": "Volcanology Badge",
+      "detail": "Climb past the CALDERA.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-14T23:50:27Z",
+      "rarityPercent": 26.7
+    },
+    {
+      "id": 12,
+      "name": "Peak Badge",
+      "detail": "Reach the PEAK.",
+      "type": "gold",
+      "earnedDateTime": "2026-11-15T00:15:31Z",
+      "rarityPercent": 22.7
+    }
+  ]
+}

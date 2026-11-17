@@ -1,0 +1,28 @@
+{
+  "game": "EA SPORTS FC™ 27 Trophies",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR57637_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 9,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-09-27T11:39:39Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 47,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 9,
+    "bronze": 34
+  },
+  "earned": []
+}

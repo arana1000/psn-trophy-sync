@@ -1,0 +1,69 @@
+{
+  "game": "EA SPORTS FC™ 26 Trophies",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR49547_00",
+  "progressPercent": 8,
+  "earnedCounts": {
+    "bronze": 4,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 28,
+    "silver": 12,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-06-20T00:24:14Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 39,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 11,
+    "bronze": 24
+  },
+  "earned": [
+    {
+      "id": 15,
+      "name": "Gold Standard",
+      "detail": "Reach Gold level with an Archetype",
+      "type": "silver",
+      "earnedDateTime": "2026-05-31T21:57:07Z",
+      "rarityPercent": 12.1
+    },
+    {
+      "id": 11,
+      "name": "First of Many",
+      "detail": "Win your first Clubs League Match",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-05T00:26:44Z",
+      "rarityPercent": 11.8
+    },
+    {
+      "id": 13,
+      "name": "Very Particular Set of Skills",
+      "detail": "Unlock and equip a Specialization with an Archetype",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-05T00:49:10Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 9,
+      "name": "We're Going Up",
+      "detail": "Earn a Clubs League Promotion with your Club",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-05T01:30:49Z",
+      "rarityPercent": 9.4
+    },
+    {
+      "id": 40,
+      "name": "Best of Five",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-20T00:24:13Z",
+      "rarityPercent": 20.1
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "game": "Call of Duty®: Black Ops II",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR59721_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 78,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-07-10T01:02:42Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 89,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 10,
+    "bronze": 76
+  },
+  "earned": [
+    {
+      "id": 36,
+      "name": "Welcome to the Club",
+      "detail": "Reach Sergeant (Level 10) in multiplayer Public Match.",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-09T23:28:57Z",
+      "rarityPercent": 53
+    },
+    {
+      "id": 45,
+      "name": "Dance On My Grave",
+      "detail": "In Green Run, acquire your Tombstone.",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-10T01:02:42Z",
+      "rarityPercent": 8.5
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "game": "LIMBO",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07770_00",
+  "progressPercent": 33,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 9,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2026-03-16T14:46:36Z",
+  "earnedTotal": 6,
+  "unearnedTotal": 7,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 4
+  },
+  "earned": [
+    {
+      "id": 3,
+      "name": "Urban Exploration",
+      "detail": "Involves heavy lifting",
+      "type": "bronze",
+      "earnedDateTime": "2015-08-25T19:40:39Z",
+      "rarityPercent": 11.9
+    },
+    {
+      "id": 4,
+      "name": "Alone in the Dark",
+      "detail": "Beneath the arthropod",
+      "type": "bronze",
+      "earnedDateTime": "2015-08-25T20:44:11Z",
+      "rarityPercent": 16.1
+    },
+    {
+      "id": 8,
+      "name": "Under Ground",
+      "detail": "Vertical passageway",
+      "type": "bronze",
+      "earnedDateTime": "2015-08-27T20:20:42Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 10,
+      "name": "Where Credit is Due",
+      "detail": "Perseverance has its own reward",
+      "type": "silver",
+      "earnedDateTime": "2015-08-28T21:15:45Z",
+      "rarityPercent": 24.3
+    },
+    {
+      "id": 0,
+      "name": "Wrong Way",
+      "detail": "That's not right",
+      "type": "bronze",
+      "earnedDateTime": "2026-03-16T14:40:56Z",
+      "rarityPercent": 35.1
+    },
+    {
+      "id": 1,
+      "name": "Altitude is Attitude",
+      "detail": "Exploration off the ground",
+      "type": "bronze",
+      "earnedDateTime": "2026-03-16T14:46:34Z",
+      "rarityPercent": 41
+    }
+  ]
+}

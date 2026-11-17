@@ -1,0 +1,101 @@
+{
+  "game": "skate.",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR35812_00",
+  "progressPercent": 25,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 3,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 8,
+    "silver": 5,
+    "gold": 8,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-10-18T23:16:22Z",
+  "earnedTotal": 9,
+  "unearnedTotal": 13,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 7,
+    "silver": 2,
+    "bronze": 3
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Put On For My City",
+      "detail": "Made it to San Vansterdam.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-16T19:42:20Z",
+      "rarityPercent": 74
+    },
+    {
+      "id": 2,
+      "name": "Fully Pulled",
+      "detail": "Levelled up your first Neighborhood.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-16T20:18:34Z",
+      "rarityPercent": 52.5
+    },
+    {
+      "id": 16,
+      "name": "Spot Hunter",
+      "detail": "Discovered 15 unique blocks in Downtown San Van.",
+      "type": "silver",
+      "earnedDateTime": "2025-09-20T22:52:40Z",
+      "rarityPercent": 49.3
+    },
+    {
+      "id": 9,
+      "name": "Full Half Circle",
+      "detail": "Reached 250 total Rip score.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-21T12:54:04Z",
+      "rarityPercent": 34
+    },
+    {
+      "id": 18,
+      "name": "You're Changing Their Hearts",
+      "detail": "Completed every Goal in 10 Amateur Challenges.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-27T18:09:14Z",
+      "rarityPercent": 18.5
+    },
+    {
+      "id": 6,
+      "name": "Skaterized",
+      "detail": "Completed 9 Missions.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-27T18:32:51Z",
+      "rarityPercent": 15.5
+    },
+    {
+      "id": 7,
+      "name": "14 Missions Capped",
+      "detail": "Completed 14 Missions.",
+      "type": "silver",
+      "earnedDateTime": "2025-09-28T03:15:39Z",
+      "rarityPercent": 8.6
+    },
+    {
+      "id": 19,
+      "name": "You'll Make It, We Swear",
+      "detail": "Completed every Goal in 20 Semi-Pro Challenges.",
+      "type": "silver",
+      "earnedDateTime": "2025-09-28T03:26:22Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 8,
+      "name": "Very Local",
+      "detail": "Completed 19 Missions.",
+      "type": "gold",
+      "earnedDateTime": "2025-10-04T11:52:32Z",
+      "rarityPercent": 5.5
+    }
+  ]
+}

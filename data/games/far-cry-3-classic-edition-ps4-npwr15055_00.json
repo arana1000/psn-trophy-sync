@@ -1,0 +1,381 @@
+{
+  "game": "Far Cry® 3 Classic Edition",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR15055_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 30,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 30,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-10-06T18:18:14Z",
+  "earnedTotal": 44,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "First Blood",
+      "detail": "Escape the pirates and survive in the wilderness.",
+      "type": "bronze",
+      "earnedDateTime": "2020-07-14T14:44:42Z",
+      "rarityPercent": 86.1
+    },
+    {
+      "id": 28,
+      "name": "In Cold Blood",
+      "detail": "Complete a WANTED Dead quest.",
+      "type": "bronze",
+      "earnedDateTime": "2024-05-09T00:34:36Z",
+      "rarityPercent": 42.7
+    },
+    {
+      "id": 27,
+      "name": "Road Trip",
+      "detail": "Complete a Supply Drop quest.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-30T23:38:32Z",
+      "rarityPercent": 35.1
+    },
+    {
+      "id": 30,
+      "name": "Hunter Hunted",
+      "detail": "Lure and kill a predator.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-30T23:51:43Z",
+      "rarityPercent": 57.4
+    },
+    {
+      "id": 32,
+      "name": "Artsy Craftsy",
+      "detail": "Craft 5 upgrades for your equipment.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-30T23:53:34Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 2,
+      "name": "Magic Mushroom",
+      "detail": "Return to the doctor with the cave mushrooms.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T00:17:41Z",
+      "rarityPercent": 53.4
+    },
+    {
+      "id": 14,
+      "name": "Inked Up",
+      "detail": "Earn 5 skill tattoos.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T00:21:28Z",
+      "rarityPercent": 47.2
+    },
+    {
+      "id": 20,
+      "name": "Unheard",
+      "detail": "Liberate an outpost without triggering an alarm.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T13:35:02Z",
+      "rarityPercent": 43.2
+    },
+    {
+      "id": 18,
+      "name": "Rebel With a Cause",
+      "detail": "Liberate 3 outposts.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T13:48:28Z",
+      "rarityPercent": 39.3
+    },
+    {
+      "id": 42,
+      "name": "Island Paparazzi",
+      "detail": "Tag 25 enemies using the camera.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T15:27:06Z",
+      "rarityPercent": 36.6
+    },
+    {
+      "id": 25,
+      "name": "Jungle Journal",
+      "detail": "Unlock 50 entries in the Survivor Guide.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-01T16:04:49Z",
+      "rarityPercent": 40.5
+    },
+    {
+      "id": 21,
+      "name": "Full Bars",
+      "detail": "Activate 9 radio towers.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-01T17:08:29Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 16,
+      "name": "Money to Burn",
+      "detail": "Spend $5000 at the shop.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T18:16:33Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 3,
+      "name": "Worst Date Ever",
+      "detail": "Rescue Liza from the burning building.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T20:15:11Z",
+      "rarityPercent": 41.1
+    },
+    {
+      "id": 4,
+      "name": "One of Us",
+      "detail": "Complete the Rakyat initiation.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-01T23:03:34Z",
+      "rarityPercent": 37.9
+    },
+    {
+      "id": 5,
+      "name": "Hands Off My Stoner",
+      "detail": "Rescue Oliver from the pirates.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-02T13:11:29Z",
+      "rarityPercent": 31.5
+    },
+    {
+      "id": 13,
+      "name": "Free Fall",
+      "detail": "Freefall more than 100m and live.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-03T17:27:31Z",
+      "rarityPercent": 10.6
+    },
+    {
+      "id": 39,
+      "name": "Never Saw it Coming",
+      "detail": "Kill an enemy with a takedown from above from a glider, zipline or parachute.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-03T17:36:45Z",
+      "rarityPercent": 15.2
+    },
+    {
+      "id": 6,
+      "name": "Retake Wallstreet",
+      "detail": "Rescue Keith from Buck.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-03T17:50:45Z",
+      "rarityPercent": 28.5
+    },
+    {
+      "id": 7,
+      "name": "Have I Told You?",
+      "detail": "Survive the encounter with Vaas and escape.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-03T21:01:59Z",
+      "rarityPercent": 27.6
+    },
+    {
+      "id": 8,
+      "name": "Taken for Granted",
+      "detail": "Kill Vaas.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-03T21:33:02Z",
+      "rarityPercent": 27.1
+    },
+    {
+      "id": 33,
+      "name": "Needle Exchange",
+      "detail": "Craft 25 syringes.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-03T21:57:38Z",
+      "rarityPercent": 25
+    },
+    {
+      "id": 9,
+      "name": "Higher Than a Kite",
+      "detail": "Use your wingsuit to reach the Southern island.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-03T22:16:33Z",
+      "rarityPercent": 26.4
+    },
+    {
+      "id": 37,
+      "name": "Love the Boom",
+      "detail": "Kill 4 enemies simultaneously with one explosion.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-04T01:13:07Z",
+      "rarityPercent": 24.1
+    },
+    {
+      "id": 41,
+      "name": "Toxophilite",
+      "detail": "Kill a target from 70m or more with the bow.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-04T01:24:07Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 40,
+      "name": "Improper Use",
+      "detail": "Kill an enemy with the Repair Tool.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-04T01:36:32Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 19,
+      "name": "Island Liberator",
+      "detail": "Liberate all outposts.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-04T01:42:58Z",
+      "rarityPercent": 14.9
+    },
+    {
+      "id": 36,
+      "name": "Heartless Pyro",
+      "detail": "Kill 50 enemies with the flamethrower.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-05T00:05:28Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 10,
+      "name": "Deep Cover",
+      "detail": "Complete Riley's interrogation.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-05T22:43:28Z",
+      "rarityPercent": 23.3
+    },
+    {
+      "id": 11,
+      "name": "Poker Night",
+      "detail": "Kill Hoyt.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-05T23:30:20Z",
+      "rarityPercent": 21.8
+    },
+    {
+      "id": 12,
+      "name": "What a Trip",
+      "detail": "Attend the final ceremony.",
+      "type": "gold",
+      "earnedDateTime": "2026-10-05T23:51:02Z",
+      "rarityPercent": 20.1
+    },
+    {
+      "id": 26,
+      "name": "Bagged and Tagged",
+      "detail": "Complete a Path of the Hunter quest.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T13:39:11Z",
+      "rarityPercent": 40.4
+    },
+    {
+      "id": 31,
+      "name": "Poacher",
+      "detail": "Hunt and skin a rare animal.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T13:39:11Z",
+      "rarityPercent": 23.7
+    },
+    {
+      "id": 15,
+      "name": "Fully Inked",
+      "detail": "Earn every tattoo by learning all the skills.",
+      "type": "gold",
+      "earnedDateTime": "2026-10-06T13:40:26Z",
+      "rarityPercent": 9.8
+    },
+    {
+      "id": 17,
+      "name": "Aftermarket Junkie",
+      "detail": "Buy all attachments and paint jobs for one weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T13:58:32Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 24,
+      "name": "Memory to Spare",
+      "detail": "Gather all the memory cards.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-06T14:06:10Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 23,
+      "name": "Dead Letters",
+      "detail": "Gather all \"Letters of the Lost\".",
+      "type": "silver",
+      "earnedDateTime": "2026-10-06T14:09:16Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 43,
+      "name": "Fearless or Stupid",
+      "detail": "Dive more than 60m.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T17:25:37Z",
+      "rarityPercent": 10.9
+    },
+    {
+      "id": 22,
+      "name": "Archeology 101",
+      "detail": "Gather a total of 60 relics.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-06T17:56:20Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 29,
+      "name": "Poker Bully",
+      "detail": "Win $1500 playing poker.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-06T18:04:34Z",
+      "rarityPercent": 10.2
+    },
+    {
+      "id": 38,
+      "name": "Rock Always Wins",
+      "detail": "Fully distract 25 enemies with rocks.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T18:16:10Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 34,
+      "name": "The Good Stuff",
+      "detail": "Craft a special syringe.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T18:16:27Z",
+      "rarityPercent": 8.7
+    },
+    {
+      "id": 0,
+      "name": "Mastered the Jungle",
+      "detail": "Obtain all the Trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2026-10-06T18:18:11Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 35,
+      "name": "Say Hi to the Internet",
+      "detail": "Find the lost Hollywood star.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-06T18:18:11Z",
+      "rarityPercent": 7.7
+    }
+  ]
+}

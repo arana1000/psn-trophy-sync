@@ -1,0 +1,45 @@
+{
+  "game": "Assassin's Creed® Mirage",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR29894_00",
+  "progressPercent": 3,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 43,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-06-07T16:28:11Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 60,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 16,
+    "bronze": 42
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Master Thief of Anbar",
+      "detail": "Complete the Prologue",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-07T15:03:48Z",
+      "rarityPercent": 76.3
+    },
+    {
+      "id": 2,
+      "name": "La shay'a waqi'un mutlaq",
+      "detail": "Become an Initiate of the Hidden Ones",
+      "type": "silver",
+      "earnedDateTime": "2026-06-07T16:28:10Z",
+      "rarityPercent": 70.7
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "game": "DAYS GONE",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR17130_00",
+  "progressPercent": 70,
+  "earnedCounts": {
+    "bronze": 28,
+    "silver": 15,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 37,
+    "silver": 19,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-05-14T23:18:29Z",
+  "earnedTotal": 46,
+  "unearnedTotal": 15,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 2,
+    "silver": 4,
+    "bronze": 9
+  },
+  "earned": [
+    {
+      "id": 29,
+      "name": "Finders Keepers",
+      "detail": "Unlock your first collectible",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-03T14:54:01Z",
+      "rarityPercent": 92.9
+    },
+    {
+      "id": 1,
+      "name": "Just a Flesh Wound",
+      "detail": "Get out of Crazy Willie's",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-03T15:21:16Z",
+      "rarityPercent": 79.5
+    },
+    {
+      "id": 33,
+      "name": "Better Living through Chemistry",
+      "detail": "Upgrade either your Health, Stamina, or Focus for the first time",
+      "type": "bronze",
+      "earnedDateTime": "2026-03-23T11:39:20Z",
+      "rarityPercent": 69.2
+    },
+    {
+      "id": 40,
+      "name": "Don't Stop Me Now ",
+      "detail": "Unlock your first skill",
+      "type": "bronze",
+      "earnedDateTime": "2026-03-25T21:02:46Z",
+      "rarityPercent": 60.6
+    },
+    {
+      "id": 3,
+      "name": "The Ends and the Means",
+      "detail": "Discover what happened to NERO",
+      "type": "bronze",
+      "earnedDateTime": "2026-03-30T20:06:31Z",
+      "rarityPercent": 58.2
+    },
+    {
+      "id": 39,
+      "name": "Kitchen Courier",
+      "detail": "Sell Animal Meat or Plants to any Encampment",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-04T21:30:04Z",
+      "rarityPercent": 55.3
+    },
+    {
+      "id": 2,
+      "name": "Special Delivery",
+      "detail": "Make a delivery to Tucker or Copeland",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-04T21:33:34Z",
+      "rarityPercent": 53.7
+    },
+    {
+      "id": 20,
+      "name": "Ghost of Farewell",
+      "detail": "Get 100 stealth kills",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-05T22:14:40Z",
+      "rarityPercent": 21.4
+    },
+    {
+      "id": 38,
+      "name": "Welcome to the Party, Pal",
+      "detail": "Clear all Ambush Camps, Infestations, and NERO Checkpoints in a single region",
+      "type": "silver",
+      "earnedDateTime": "2026-04-05T23:34:42Z",
+      "rarityPercent": 25.5
+    },
+    {
+      "id": 24,
+      "name": "First Time Buyer",
+      "detail": "Upgrade your bike for the first time",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-09T21:48:39Z",
+      "rarityPercent": 50.5
+    },
+    {
+      "id": 4,
+      "name": "Lost and Found",
+      "detail": "Drive south with Boozer",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-17T18:21:40Z",
+      "rarityPercent": 40.2
+    },
+    {
+      "id": 23,
+      "name": "Farewell Original",
+      "detail": "Purchase an upgrade under the Performance, Visual, and Paint Categories for your bike",
+      "type": "silver",
+      "earnedDateTime": "2026-04-19T16:19:44Z",
+      "rarityPercent": 38.9
+    },
+    {
+      "id": 5,
+      "name": "Brothers in Arm",
+      "detail": "Check up on Boozer",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-27T20:22:02Z",
+      "rarityPercent": 36.4
+    },
+    {
+      "id": 41,
+      "name": "I'm Out of Control",
+      "detail": "Unlock 15 skills",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-27T22:16:50Z",
+      "rarityPercent": 34
+    },
+    {
+      "id": 32,
+      "name": "Surviving isn't Living",
+      "detail": "Rescue 10 survivors",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-27T22:52:41Z",
+      "rarityPercent": 31
+    },
+    {
+      "id": 45,
+      "name": "D.I.Y. Oregonian",
+      "detail": "Craft 50 items",
+      "type": "bronze",
+      "earnedDateTime": "2026-04-28T20:23:59Z",
+      "rarityPercent": 42.6
+    },
+    {
+      "id": 6,
+      "name": "Take Back Your Name",
+      "detail": "Return the favour",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-05T14:23:35Z",
+      "rarityPercent": 33.2
+    },
+    {
+      "id": 7,
+      "name": "Riding NOMAD",
+      "detail": "Take to the road alone",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-06T00:47:31Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 8,
+      "name": "Hold on Tight",
+      "detail": "See a familiar face",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-06T14:39:00Z",
+      "rarityPercent": 32.4
+    },
+    {
+      "id": 34,
+      "name": "Performance Enhanced",
+      "detail": "Max out either your Health, Stamina, or Focus ",
+      "type": "silver",
+      "earnedDateTime": "2026-05-07T20:04:30Z",
+      "rarityPercent": 17.7
+    },
+    {
+      "id": 21,
+      "name": "Old Reliable ",
+      "detail": "Kill 200 Enemies with a Crafted Weapon",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-08T01:59:27Z",
+      "rarityPercent": 23.1
+    },
+    {
+      "id": 42,
+      "name": "There's No Stopping Me",
+      "detail": "Unlock 30 skills",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-08T02:30:25Z",
+      "rarityPercent": 27.1
+    },
+    {
+      "id": 9,
+      "name": "It's Getting Cold Outside",
+      "detail": "Reconnect with what you lost",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-08T03:13:56Z",
+      "rarityPercent": 30.8
+    },
+    {
+      "id": 17,
+      "name": "One Down",
+      "detail": "Defeat your first Horde",
+      "type": "silver",
+      "earnedDateTime": "2026-05-08T23:16:26Z",
+      "rarityPercent": 33.6
+    },
+    {
+      "id": 16,
+      "name": "World's End",
+      "detail": "Complete the World's End storyline",
+      "type": "silver",
+      "earnedDateTime": "2026-05-09T23:34:24Z",
+      "rarityPercent": 14.5
+    },
+    {
+      "id": 15,
+      "name": "Marauder Camp Hunter",
+      "detail": "Complete the Marauder Camp Hunter storyline",
+      "type": "silver",
+      "earnedDateTime": "2026-05-11T14:46:56Z",
+      "rarityPercent": 16.3
+    },
+    {
+      "id": 14,
+      "name": "Infestation Exterminator",
+      "detail": "Complete the Infestation Exterminator storyline",
+      "type": "silver",
+      "earnedDateTime": "2026-05-11T15:17:48Z",
+      "rarityPercent": 15.1
+    },
+    {
+      "id": 35,
+      "name": "Best Friends Forever",
+      "detail": "Receive the Allied Trust status with an Encampment",
+      "type": "silver",
+      "earnedDateTime": "2026-05-11T15:22:43Z",
+      "rarityPercent": 25.1
+    },
+    {
+      "id": 10,
+      "name": "Morior Invictus",
+      "detail": "Ride out to take back what's yours",
+      "type": "silver",
+      "earnedDateTime": "2026-05-11T16:04:36Z",
+      "rarityPercent": 28.7
+    },
+    {
+      "id": 28,
+      "name": "Lend Me Your Ears",
+      "detail": "Collect 989 Freaker Ears",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-11T16:18:03Z",
+      "rarityPercent": 30
+    },
+    {
+      "id": 30,
+      "name": "Wannabe Fortune Hunter",
+      "detail": "Unlock over 50% of the collectibles",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-11T17:09:56Z",
+      "rarityPercent": 18.5
+    },
+    {
+      "id": 44,
+      "name": "Go Kick Rocks",
+      "detail": "Knock down 12 Anarchist Cairns",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-11T17:53:33Z",
+      "rarityPercent": 11.3
+    },
+    {
+      "id": 36,
+      "name": "Best Friends Forever (For Life)",
+      "detail": "Gain the Allied Trust status with three different Encampments",
+      "type": "gold",
+      "earnedDateTime": "2026-05-11T17:55:11Z",
+      "rarityPercent": 16.2
+    },
+    {
+      "id": 11,
+      "name": "I've Been Waiting for This",
+      "detail": "Take revenge, once and for all",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-12T02:12:10Z",
+      "rarityPercent": 27.5
+    },
+    {
+      "id": 12,
+      "name": "Days Done",
+      "detail": "Complete the story of Days Gone",
+      "type": "gold",
+      "earnedDateTime": "2026-05-12T02:37:06Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 37,
+      "name": "Make it Rain",
+      "detail": "Spend 20,000 credits at one Encampment",
+      "type": "silver",
+      "earnedDateTime": "2026-05-12T16:54:29Z",
+      "rarityPercent": 30.6
+    },
+    {
+      "id": 43,
+      "name": "Mr. Fahrenheit",
+      "detail": "Unlock 45 skills",
+      "type": "silver",
+      "earnedDateTime": "2026-05-12T17:00:56Z",
+      "rarityPercent": 11.9
+    },
+    {
+      "id": 13,
+      "name": "Ambush Camp Hunter",
+      "detail": "Complete the Ambush Camp Hunter storyline",
+      "type": "silver",
+      "earnedDateTime": "2026-05-12T21:56:22Z",
+      "rarityPercent": 9.6
+    },
+    {
+      "id": 18,
+      "name": "Farewell Drift",
+      "detail": "Accumulate 10 minutes of drifting while on your bike",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-12T22:21:16Z",
+      "rarityPercent": 10.9
+    },
+    {
+      "id": 22,
+      "name": "Variety is the Spice of Life",
+      "detail": "Kill an enemy with every type of crossbow bolt",
+      "type": "silver",
+      "earnedDateTime": "2026-05-12T22:44:09Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 19,
+      "name": "This is a Knife",
+      "detail": "Kill a Breaker, Reacher, or Rager with a knife",
+      "type": "silver",
+      "earnedDateTime": "2026-05-14T21:41:46Z",
+      "rarityPercent": 20.4
+    },
+    {
+      "id": 31,
+      "name": "The Broken Roadshow",
+      "detail": "Unlock over 75% of collectibles",
+      "type": "silver",
+      "earnedDateTime": "2026-05-14T21:47:30Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 25,
+      "name": "Burnout Apocalypse",
+      "detail": "Use nitro and drift at the same time on your bike for at least 5 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-14T22:00:09Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 26,
+      "name": "The Art of Bike Repair",
+      "detail": "Apply 100 scrap to your bike",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-14T22:55:27Z",
+      "rarityPercent": 28.6
+    },
+    {
+      "id": 0,
+      "name": "One Percenter",
+      "detail": "Go above and BEYOND, unlocking every trophy in Days Gone",
+      "type": "platinum",
+      "earnedDateTime": "2026-05-14T23:18:27Z",
+      "rarityPercent": 4.2
+    },
+    {
+      "id": 27,
+      "name": "You've Got Red on You",
+      "detail": "Collect 541 Items from corpses",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-14T23:18:27Z",
+      "rarityPercent": 20.7
+    }
+  ]
+}

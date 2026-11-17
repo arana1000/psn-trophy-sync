@@ -1,0 +1,109 @@
+{
+  "game": "Stick Fight: The Game",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR15473_00",
+  "progressPercent": 18,
+  "earnedCounts": {
+    "bronze": 8,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 10,
+    "silver": 12,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-02-05T21:47:45Z",
+  "earnedTotal": 10,
+  "unearnedTotal": 18,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 10,
+    "bronze": 2
+  },
+  "earned": [
+    {
+      "id": 19,
+      "name": "Your kung fu is strong",
+      "detail": "Kill an opponent with a mid-air kick\n\n",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-25T19:29:25Z",
+      "rarityPercent": 80.6
+    },
+    {
+      "id": 15,
+      "name": "Snake",
+      "detail": "Get killed by a snake\n",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-25T19:35:13Z",
+      "rarityPercent": 75.8
+    },
+    {
+      "id": 24,
+      "name": "Walkover",
+      "detail": "Win a round by every opponent falling off the map",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-25T19:48:09Z",
+      "rarityPercent": 83.9
+    },
+    {
+      "id": 16,
+      "name": "Stick Irwin",
+      "detail": "Become the target of a snake and survive the round\n",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-25T20:45:06Z",
+      "rarityPercent": 79.4
+    },
+    {
+      "id": 21,
+      "name": "Headshot",
+      "detail": "Headshot\n",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-25T20:58:50Z",
+      "rarityPercent": 76.4
+    },
+    {
+      "id": 20,
+      "name": "Bzuhzzzzzzzuhzzzzzuhzzzz",
+      "detail": "Pick up an energy-sword\n",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-27T19:04:13Z",
+      "rarityPercent": 31.4
+    },
+    {
+      "id": 5,
+      "name": "4D Stickmen",
+      "detail": "Win a match where a black hole appears",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-29T19:21:11Z",
+      "rarityPercent": 37.2
+    },
+    {
+      "id": 25,
+      "name": "Ice Age",
+      "detail": "Win the round after all ice is destroyed on an ice level",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-29T19:38:37Z",
+      "rarityPercent": 28.5
+    },
+    {
+      "id": 3,
+      "name": "Explorer",
+      "detail": "Finish a round on each map of the game",
+      "type": "silver",
+      "earnedDateTime": "2025-01-03T18:11:11Z",
+      "rarityPercent": 33.5
+    },
+    {
+      "id": 26,
+      "name": "Davai",
+      "detail": "Win a round by killing 3 opponents using the blink dagger",
+      "type": "silver",
+      "earnedDateTime": "2026-02-05T21:47:43Z",
+      "rarityPercent": 2.3
+    }
+  ]
+}

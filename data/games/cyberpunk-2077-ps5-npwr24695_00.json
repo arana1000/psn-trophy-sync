@@ -1,0 +1,389 @@
+{
+  "game": "Cyberpunk 2077",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR24695_00",
+  "progressPercent": 83,
+  "earnedCounts": {
+    "bronze": 26,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 39,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-09-30T23:14:55Z",
+  "earnedTotal": 45,
+  "unearnedTotal": 13,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 13
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Fool",
+      "detail": "Become a mercenary.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-12T20:01:33Z",
+      "rarityPercent": 79.7
+    },
+    {
+      "id": 2,
+      "name": "The Lovers",
+      "detail": "Steal the Relic.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-20T21:58:45Z",
+      "rarityPercent": 50.5
+    },
+    {
+      "id": 41,
+      "name": "Right Back At Ya",
+      "detail": "Kill or incapacitate an enemy who threw a grenade at you.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-10T15:06:20Z",
+      "rarityPercent": 50.2
+    },
+    {
+      "id": 26,
+      "name": "Gun Fu",
+      "detail": "Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-10T15:31:42Z",
+      "rarityPercent": 29.6
+    },
+    {
+      "id": 4,
+      "name": "The Wheel of Fortune",
+      "detail": "Interrogate Anders Hellman.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-13T11:36:44Z",
+      "rarityPercent": 39.2
+    },
+    {
+      "id": 32,
+      "name": "Stanislavski's Method",
+      "detail": "Use a dialogue option related to V's life path 10 times.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-13T17:25:25Z",
+      "rarityPercent": 37.1
+    },
+    {
+      "id": 14,
+      "name": "Life of the Road",
+      "detail": "Complete Panam Palmer's storyline.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-14T20:12:18Z",
+      "rarityPercent": 29.5
+    },
+    {
+      "id": 44,
+      "name": "Legend of The Afterlife",
+      "detail": "Reach max Street Cred.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-17T13:05:32Z",
+      "rarityPercent": 28.8
+    },
+    {
+      "id": 39,
+      "name": "True Soldier",
+      "detail": "Kill or incapacitate 300 enemies using ranged weapons.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-18T18:03:32Z",
+      "rarityPercent": 35.5
+    },
+    {
+      "id": 3,
+      "name": "The Hermit",
+      "detail": "Find Alt Cunningham.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-18T18:46:18Z",
+      "rarityPercent": 36.8
+    },
+    {
+      "id": 37,
+      "name": "Must Be Rats",
+      "detail": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-21T22:15:49Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 18,
+      "name": "I Am The Law",
+      "detail": "Complete all Cyberpsycho Sightings.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-21T23:20:44Z",
+      "rarityPercent": 19.3
+    },
+    {
+      "id": 33,
+      "name": "Autojock",
+      "detail": "Buy all vehicles available for purchase.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-25T14:46:02Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 11,
+      "name": "To Protect and Serve",
+      "detail": "Complete River Ward's storyline.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-25T19:13:56Z",
+      "rarityPercent": 19.8
+    },
+    {
+      "id": 5,
+      "name": "The High Priestess",
+      "detail": "Talk with Hanako Arasaka.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-27T01:34:58Z",
+      "rarityPercent": 33.3
+    },
+    {
+      "id": 16,
+      "name": "Breathtaking",
+      "detail": "Collect all items that once belonged to Johnny Silverhand.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-27T11:58:40Z",
+      "rarityPercent": 13.2
+    },
+    {
+      "id": 15,
+      "name": "Bushido and Chill",
+      "detail": "Watch Bushido X with Rogue.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-27T12:21:31Z",
+      "rarityPercent": 24
+    },
+    {
+      "id": 13,
+      "name": "Judy vs Night City",
+      "detail": "Complete Judy Alvarez's storyline.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-27T18:36:49Z",
+      "rarityPercent": 21.5
+    },
+    {
+      "id": 12,
+      "name": "To Bad Decisions!",
+      "detail": "Complete Kerry Eurodyne's storyline.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-27T21:15:01Z",
+      "rarityPercent": 12.6
+    },
+    {
+      "id": 40,
+      "name": "True Warrior",
+      "detail": "Kill or incapacitate 100 enemies using melee weapons.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-27T22:12:28Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 42,
+      "name": "The Wandering Fool",
+      "detail": "Find all the tarot graffiti for the job Fool on the Hill.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-27T22:32:16Z",
+      "rarityPercent": 15
+    },
+    {
+      "id": 6,
+      "name": "The World",
+      "detail": "Complete the main storyline.",
+      "type": "gold",
+      "earnedDateTime": "2026-09-28T13:00:53Z",
+      "rarityPercent": 26.2
+    },
+    {
+      "id": 8,
+      "name": "The Star",
+      "detail": "Leave Night City with the Aldecaldos.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-28T13:00:53Z",
+      "rarityPercent": 13.7
+    },
+    {
+      "id": 10,
+      "name": "Temperance",
+      "detail": "Let Johnny Silverhand keep your body.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-28T13:35:44Z",
+      "rarityPercent": 9.2
+    },
+    {
+      "id": 7,
+      "name": "The Devil",
+      "detail": "Help Takemura avenge the death of Saburo Arasaka.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-28T20:41:00Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 9,
+      "name": "The Sun",
+      "detail": "Become a legend of the Afterlife.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-28T22:59:04Z",
+      "rarityPercent": 11.3
+    },
+    {
+      "id": 17,
+      "name": "It's Elementary",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in Watson.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-28T23:46:28Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 24,
+      "name": "City Lights",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in City Center.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-29T21:43:52Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 22,
+      "name": "Mean Streets",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in Heywood.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-29T21:45:23Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 23,
+      "name": "The Jungle",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in Santo Domingo.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-29T21:47:57Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 21,
+      "name": "Little Tokyo",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in Westbrook.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-29T21:55:36Z",
+      "rarityPercent": 5.7
+    },
+    {
+      "id": 20,
+      "name": "The Wasteland",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in the Badlands.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-29T22:18:45Z",
+      "rarityPercent": 5.3
+    },
+    {
+      "id": 19,
+      "name": "Greetings from Pacifica!",
+      "detail": "Complete all gigs and NCPD Scanner Hustles in Pacifica.",
+      "type": "silver",
+      "earnedDateTime": "2026-09-29T22:23:11Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 43,
+      "name": "Frequent Flyer",
+      "detail": "Find all fast travel dataterms.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T22:58:16Z",
+      "rarityPercent": 3
+    },
+    {
+      "id": 25,
+      "name": "Full Body Conversion",
+      "detail": "Install at least one implant in each system and body part.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:06:17Z",
+      "rarityPercent": 31
+    },
+    {
+      "id": 27,
+      "name": "Christmas Tree Attack",
+      "detail": "Complete a Breach Protocol with a minimum of 3 daemons uploaded.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:10:56Z",
+      "rarityPercent": 33.3
+    },
+    {
+      "id": 34,
+      "name": "Master Crafter",
+      "detail": "Craft three Tier 5 items.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:12:22Z",
+      "rarityPercent": 20
+    },
+    {
+      "id": 29,
+      "name": "Gunslinger",
+      "detail": "Shoot an enemy grenade in midair with a revolver.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:20:21Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 30,
+      "name": "Two Heads, One Bullet",
+      "detail": "Kill or incapacitate 2 enemies with the same sniper rifle shot.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:24:11Z",
+      "rarityPercent": 14.2
+    },
+    {
+      "id": 36,
+      "name": "The Quick and the Dead",
+      "detail": "Kill or incapacitate 50 enemies while time is slowed.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:34:13Z",
+      "rarityPercent": 16.5
+    },
+    {
+      "id": 31,
+      "name": "Rough Landing",
+      "detail": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-29T23:49:42Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 35,
+      "name": "Daemon In The Shell",
+      "detail": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-30T00:02:57Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 38,
+      "name": "V for Vendetta",
+      "detail": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-30T00:07:42Z",
+      "rarityPercent": 12.6
+    },
+    {
+      "id": 0,
+      "name": "Never Fade Away",
+      "detail": "Unlock all Trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2026-09-30T23:14:55Z",
+      "rarityPercent": 2.3
+    },
+    {
+      "id": 28,
+      "name": "Ten out of Ten",
+      "detail": "Reach the max level in any skill.",
+      "type": "bronze",
+      "earnedDateTime": "2026-09-30T23:14:55Z",
+      "rarityPercent": 10.4
+    }
+  ]
+}

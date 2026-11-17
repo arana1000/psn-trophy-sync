@@ -1,0 +1,413 @@
+{
+  "game": "Mafia II: Definitive Edition",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR19105_00",
+  "progressPercent": 73,
+  "earnedCounts": {
+    "bronze": 35,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 51,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-10-25T16:56:22Z",
+  "earnedTotal": 48,
+  "unearnedTotal": 20,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 4,
+    "bronze": 16
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Viva la Resistenza!",
+      "detail": "Complete Chapter 1.",
+      "type": "bronze",
+      "earnedDateTime": "2020-11-28T01:33:34Z",
+      "rarityPercent": 87.4
+    },
+    {
+      "id": 4,
+      "name": "Big Brother",
+      "detail": "Protect Francesca.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-19T23:27:20Z",
+      "rarityPercent": 76.3
+    },
+    {
+      "id": 5,
+      "name": "A Real Gentleman",
+      "detail": "Help the woman fix her car in Home Sweet Home.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-21T14:32:38Z",
+      "rarityPercent": 7.4
+    },
+    {
+      "id": 35,
+      "name": "Tuned Ride",
+      "detail": "Upgrade one of your cars one level.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-21T15:04:50Z",
+      "rarityPercent": 54.4
+    },
+    {
+      "id": 3,
+      "name": "Back in Business",
+      "detail": "Do your first job for Mike Bruski.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-21T15:40:06Z",
+      "rarityPercent": 68
+    },
+    {
+      "id": 2,
+      "name": "Home Sweet Home",
+      "detail": "Complete Chapter 2.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-21T15:45:56Z",
+      "rarityPercent": 66.3
+    },
+    {
+      "id": 42,
+      "name": "He Who Pays the Barber",
+      "detail": "Improve the dockworkers' haircuts.",
+      "type": "silver",
+      "earnedDateTime": "2026-05-23T17:01:18Z",
+      "rarityPercent": 62.7
+    },
+    {
+      "id": 38,
+      "name": "Collector's Item",
+      "detail": "Find at least one collectible in the game.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T17:32:28Z",
+      "rarityPercent": 60
+    },
+    {
+      "id": 7,
+      "name": "The Professional",
+      "detail": "Obtain ration stamps without raising the alarm.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T17:36:17Z",
+      "rarityPercent": 10
+    },
+    {
+      "id": 8,
+      "name": "Mail Man",
+      "detail": "Sell all the gas stamps before the time runs out.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T17:49:58Z",
+      "rarityPercent": 43.5
+    },
+    {
+      "id": 6,
+      "name": "The Price of Oil",
+      "detail": "Complete chapter 3.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T17:53:05Z",
+      "rarityPercent": 56.5
+    },
+    {
+      "id": 33,
+      "name": "The Enforcer",
+      "detail": "Kill fifty enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T18:05:01Z",
+      "rarityPercent": 52.5
+    },
+    {
+      "id": 9,
+      "name": "Night Shift",
+      "detail": "Complete Chapter 4.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T18:40:21Z",
+      "rarityPercent": 53.8
+    },
+    {
+      "id": 43,
+      "name": "A Lesson in Manners",
+      "detail": "Show that you know how to treat a lady.",
+      "type": "silver",
+      "earnedDateTime": "2026-05-23T18:42:52Z",
+      "rarityPercent": 50.7
+    },
+    {
+      "id": 26,
+      "name": "One Careful Owner",
+      "detail": "Travel a total of fifty miles in one vehicle.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T21:28:16Z",
+      "rarityPercent": 2.2
+    },
+    {
+      "id": 24,
+      "name": "Get Rich or Die Flyin'",
+      "detail": "Get all wheels of your car into the air for at least twenty meters and then touch the ground again.",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-23T21:47:34Z",
+      "rarityPercent": 49.1
+    },
+    {
+      "id": 10,
+      "name": "Good spirits",
+      "detail": "Complete Chapter 5.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-09T17:27:11Z",
+      "rarityPercent": 51.1
+    },
+    {
+      "id": 11,
+      "name": "Time Well Spent",
+      "detail": "Complete Chapter 6.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-09T18:06:54Z",
+      "rarityPercent": 50.1
+    },
+    {
+      "id": 12,
+      "name": "Last Respects",
+      "detail": "Complete Chapter 7.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-16T02:00:28Z",
+      "rarityPercent": 48.9
+    },
+    {
+      "id": 13,
+      "name": "The Wild Ones",
+      "detail": "Complete Chapter 8.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-16T18:54:03Z",
+      "rarityPercent": 47
+    },
+    {
+      "id": 14,
+      "name": "Man of Honor",
+      "detail": "Complete Chapter 9.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-16T19:37:03Z",
+      "rarityPercent": 45
+    },
+    {
+      "id": 44,
+      "name": "Hey Joe",
+      "detail": "Clean up after Joe.",
+      "type": "silver",
+      "earnedDateTime": "2026-06-18T21:23:55Z",
+      "rarityPercent": 43.4
+    },
+    {
+      "id": 15,
+      "name": "Checking Out",
+      "detail": "Complete Chapter 10.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-18T21:26:53Z",
+      "rarityPercent": 43.3
+    },
+    {
+      "id": 17,
+      "name": "Wake Up Call",
+      "detail": "Help Leo out of a tricky situation without getting caught.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-08T21:28:18Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 45,
+      "name": "End of the Rainbow",
+      "detail": "Settle the score with the Irish once and for all.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T14:01:09Z",
+      "rarityPercent": 33.8
+    },
+    {
+      "id": 16,
+      "name": "Our Good Friend",
+      "detail": "Complete Chapter 11.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T14:06:35Z",
+      "rarityPercent": 41.4
+    },
+    {
+      "id": 18,
+      "name": "Chasing the Dragon",
+      "detail": "Complete Chapter 12.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T14:45:11Z",
+      "rarityPercent": 40.5
+    },
+    {
+      "id": 30,
+      "name": "Hairdresser",
+      "detail": "Kill five enemies in rapid succession with a headshot.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T14:57:17Z",
+      "rarityPercent": 13.5
+    },
+    {
+      "id": 19,
+      "name": "Chop Chop!",
+      "detail": "Complete Chapter 13.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T15:15:14Z",
+      "rarityPercent": 39.9
+    },
+    {
+      "id": 46,
+      "name": "The Mafia Never Forgets",
+      "detail": "Pay a visit to an old friend.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T15:24:18Z",
+      "rarityPercent": 39.6
+    },
+    {
+      "id": 47,
+      "name": "Out for Justice",
+      "detail": "Learn what it means to be a Scaletta.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T18:57:52Z",
+      "rarityPercent": 38
+    },
+    {
+      "id": 27,
+      "name": "Proper Scrapper",
+      "detail": "Sell five vehicles to Mike Bruski at the scrapyard.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T19:20:13Z",
+      "rarityPercent": 27.4
+    },
+    {
+      "id": 36,
+      "name": "Dream Handling",
+      "detail": "Upgrade one of your cars to the maximum level.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T19:23:08Z",
+      "rarityPercent": 21.5
+    },
+    {
+      "id": 25,
+      "name": "Pedal to the Metal",
+      "detail": "Travel at 125 mph.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T19:30:10Z",
+      "rarityPercent": 18.7
+    },
+    {
+      "id": 29,
+      "name": "Cruise Control",
+      "detail": "Keep any vehicle at thirty mph or over for five more minutes.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T19:36:01Z",
+      "rarityPercent": 2.6
+    },
+    {
+      "id": 34,
+      "name": "Sharp Suiter",
+      "detail": "Buy your first luxury suit.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T19:43:34Z",
+      "rarityPercent": 28.1
+    },
+    {
+      "id": 39,
+      "name": "Petrol Head",
+      "detail": "Drive at least thirty different vehicles.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T19:57:50Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 37,
+      "name": "Hard to Kill",
+      "detail": "The police want you dead. Survive for ten minutes!",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T20:10:44Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 31,
+      "name": "Knucklehead",
+      "detail": "Kill a total of thirty enemies using melee attacks.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-09T20:40:10Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 20,
+      "name": "Men at Work",
+      "detail": "Complete Chapter 14.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T21:49:34Z",
+      "rarityPercent": 35.3
+    },
+    {
+      "id": 21,
+      "name": "Finish Him",
+      "detail": "Finish What you started.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-09T22:27:20Z",
+      "rarityPercent": 34.5
+    },
+    {
+      "id": 22,
+      "name": "Made Man",
+      "detail": "Finish the story on medium difficulty or higher.",
+      "type": "gold",
+      "earnedDateTime": "2026-10-09T22:27:20Z",
+      "rarityPercent": 26.2
+    },
+    {
+      "id": 23,
+      "name": "Tough Nut",
+      "detail": "Finish the story on hard difficulty level.",
+      "type": "gold",
+      "earnedDateTime": "2026-10-09T22:27:20Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 28,
+      "name": "Exporter",
+      "detail": "Sell five vehicles to Derek at the dock.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T02:14:01Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 32,
+      "name": "Stuck Up",
+      "detail": "Rob five stores in under five minutes.",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-10T02:25:43Z",
+      "rarityPercent": 7.2
+    },
+    {
+      "id": 40,
+      "name": "Ladies' Man",
+      "detail": "Find all of the Playboy magazines.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-24T23:13:32Z",
+      "rarityPercent": 2.8
+    },
+    {
+      "id": 0,
+      "name": "Platinum Trophy",
+      "detail": "Unlocked when all trophies collected.",
+      "type": "platinum",
+      "earnedDateTime": "2026-10-25T16:56:19Z",
+      "rarityPercent": 1.7
+    },
+    {
+      "id": 41,
+      "name": "Card Sharp",
+      "detail": "Find all of the Wanted posters.",
+      "type": "silver",
+      "earnedDateTime": "2026-10-25T16:56:19Z",
+      "rarityPercent": 1.8
+    }
+  ]
+}

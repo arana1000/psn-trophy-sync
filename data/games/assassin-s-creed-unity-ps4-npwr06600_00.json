@@ -1,0 +1,221 @@
+{
+  "game": "Assassin's Creed® Unity",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR06600_00",
+  "progressPercent": 45,
+  "earnedCounts": {
+    "bronze": 15,
+    "silver": 8,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 41,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-07-28T14:26:58Z",
+  "earnedTotal": 24,
+  "unearnedTotal": 34,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 6,
+    "bronze": 26
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "A Long Time Ago",
+      "detail": "Complete the Prologue.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T16:03:59Z",
+      "rarityPercent": 91.5
+    },
+    {
+      "id": 2,
+      "name": "Youth In Versailles",
+      "detail": "Complete Memory Sequence 1.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T17:01:44Z",
+      "rarityPercent": 76.2
+    },
+    {
+      "id": 3,
+      "name": "Rebirth",
+      "detail": "Complete Memory Sequence 2.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T19:33:41Z",
+      "rarityPercent": 69.2
+    },
+    {
+      "id": 45,
+      "name": "Never Say Die",
+      "detail": "Revive a partner in Co-op.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T20:09:48Z",
+      "rarityPercent": 17.6
+    },
+    {
+      "id": 23,
+      "name": "The Baguette Boyband",
+      "detail": "Complete a Co-op mission in Paris.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T20:10:54Z",
+      "rarityPercent": 35.9
+    },
+    {
+      "id": 48,
+      "name": "The Bells! The Bells!",
+      "detail": "Sabotage 5 alarm bells in Paris.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T20:57:35Z",
+      "rarityPercent": 52
+    },
+    {
+      "id": 31,
+      "name": "Help Me!",
+      "detail": "Complete 10 Crowd Events.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-29T21:10:05Z",
+      "rarityPercent": 55.5
+    },
+    {
+      "id": 4,
+      "name": "First Blood",
+      "detail": "Complete Memory Sequence 3.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-30T14:02:19Z",
+      "rarityPercent": 59.5
+    },
+    {
+      "id": 21,
+      "name": "Falling From The Sky",
+      "detail": "Perform 10 air assassinations.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-30T16:01:14Z",
+      "rarityPercent": 53.6
+    },
+    {
+      "id": 17,
+      "name": "Blade In The Crowd",
+      "detail": "Assassinate 100 enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-30T16:17:34Z",
+      "rarityPercent": 52.4
+    },
+    {
+      "id": 19,
+      "name": "Networking",
+      "detail": "Renovate your first Social Club.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-30T18:03:40Z",
+      "rarityPercent": 43.4
+    },
+    {
+      "id": 5,
+      "name": "La Cour des Miracles",
+      "detail": "Complete Memory Sequence 4.",
+      "type": "silver",
+      "earnedDateTime": "2015-01-01T16:59:45Z",
+      "rarityPercent": 50.7
+    },
+    {
+      "id": 49,
+      "name": "Must've Left it Open",
+      "detail": "Lockpick 5 doors.",
+      "type": "bronze",
+      "earnedDateTime": "2015-01-05T19:17:24Z",
+      "rarityPercent": 39.7
+    },
+    {
+      "id": 6,
+      "name": "The Root Of Evil",
+      "detail": "Complete Memory Sequence 5.",
+      "type": "silver",
+      "earnedDateTime": "2015-01-06T17:17:14Z",
+      "rarityPercent": 43.8
+    },
+    {
+      "id": 7,
+      "name": "Secret Meeting",
+      "detail": "Complete Memory Sequence 6.",
+      "type": "silver",
+      "earnedDateTime": "2015-01-17T17:20:57Z",
+      "rarityPercent": 41
+    },
+    {
+      "id": 8,
+      "name": "Mystery Solved",
+      "detail": "Complete Memory Sequence 7.",
+      "type": "silver",
+      "earnedDateTime": "2015-02-07T21:23:10Z",
+      "rarityPercent": 38.9
+    },
+    {
+      "id": 28,
+      "name": "Business and Pleasure",
+      "detail": "Earn a total of 50,000 livres.",
+      "type": "bronze",
+      "earnedDateTime": "2015-02-09T16:49:07Z",
+      "rarityPercent": 38.3
+    },
+    {
+      "id": 44,
+      "name": "Guillotined",
+      "detail": "Kill an enemy with a lift counterweight.",
+      "type": "bronze",
+      "earnedDateTime": "2015-02-09T17:18:58Z",
+      "rarityPercent": 28.1
+    },
+    {
+      "id": 9,
+      "name": "Bloody Trail",
+      "detail": "Complete Memory Sequence 8.",
+      "type": "silver",
+      "earnedDateTime": "2015-07-29T19:40:02Z",
+      "rarityPercent": 37.2
+    },
+    {
+      "id": 10,
+      "name": "Road To Starvation",
+      "detail": "Complete Memory Sequence 9.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-07T15:56:48Z",
+      "rarityPercent": 34.7
+    },
+    {
+      "id": 11,
+      "name": "Love And Duty",
+      "detail": "Complete Memory Sequence 10.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-07T18:10:36Z",
+      "rarityPercent": 31.9
+    },
+    {
+      "id": 12,
+      "name": "Down But Not Out",
+      "detail": "Complete Memory Sequence 11.",
+      "type": "silver",
+      "earnedDateTime": "2017-04-07T18:53:15Z",
+      "rarityPercent": 31.3
+    },
+    {
+      "id": 13,
+      "name": "Curtain Call",
+      "detail": "Complete Memory Sequence 12.",
+      "type": "gold",
+      "earnedDateTime": "2017-04-09T15:32:46Z",
+      "rarityPercent": 27.7
+    },
+    {
+      "id": 15,
+      "name": "Needs More Data",
+      "detail": "Earn Data Bonuses in 3 different Helix Rifts.",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-28T14:26:56Z",
+      "rarityPercent": 8.9
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "game": "Mafia: The Old Country",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR38792_00",
+  "progressPercent": 78,
+  "earnedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 47,
+    "silver": 12,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-10-24T00:07:08Z",
+  "earnedTotal": 51,
+  "unearnedTotal": 12,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 9
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Carusu",
+      "detail": "Enzo escaped the mine",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-21T12:35:43Z",
+      "rarityPercent": 85.7
+    },
+    {
+      "id": 33,
+      "name": "Protected",
+      "detail": "Equipped a Charm",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-21T13:17:24Z",
+      "rarityPercent": 57.6
+    },
+    {
+      "id": 2,
+      "name": "Guest of Honor",
+      "detail": "Enzo found a new home",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-21T13:20:56Z",
+      "rarityPercent": 78.3
+    },
+    {
+      "id": 3,
+      "name": "Forza San Celeste",
+      "detail": "Enzo won the Palio",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T00:37:01Z",
+      "rarityPercent": 74.1
+    },
+    {
+      "id": 22,
+      "name": "Garden Rendezvous ",
+      "detail": "Met Isabella in secret",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T00:41:54Z",
+      "rarityPercent": 53.5
+    },
+    {
+      "id": 44,
+      "name": "Salvatore's Apprentice",
+      "detail": "Cracked a safe without a combination",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T11:39:02Z",
+      "rarityPercent": 21.5
+    },
+    {
+      "id": 29,
+      "name": "Vulpi Misteriusa",
+      "detail": "Found a Mystery Fox",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T12:00:04Z",
+      "rarityPercent": 58.5
+    },
+    {
+      "id": 4,
+      "name": "The Family Business",
+      "detail": "Enzo learned the ropes",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T12:14:50Z",
+      "rarityPercent": 67.8
+    },
+    {
+      "id": 30,
+      "name": "Riding in Style",
+      "detail": "Customized a horse",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T12:20:30Z",
+      "rarityPercent": 24.3
+    },
+    {
+      "id": 34,
+      "name": "Bona Furtuna",
+      "detail": "Found a Trinacria coin",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T12:48:51Z",
+      "rarityPercent": 60.7
+    },
+    {
+      "id": 36,
+      "name": "Read All About It",
+      "detail": "Found a Newspaper",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T13:08:45Z",
+      "rarityPercent": 62.1
+    },
+    {
+      "id": 5,
+      "name": "A Trip to the Coast",
+      "detail": "Enzo saved Isabella",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T13:29:04Z",
+      "rarityPercent": 63.5
+    },
+    {
+      "id": 19,
+      "name": "Fantasma",
+      "detail": "Infiltrated the villa without being seen",
+      "type": "silver",
+      "earnedDateTime": "2026-10-22T13:51:45Z",
+      "rarityPercent": 24.5
+    },
+    {
+      "id": 35,
+      "name": "Man of Honor",
+      "detail": "Enzo refused Tino's order to kill in cold blood",
+      "type": "silver",
+      "earnedDateTime": "2026-10-22T13:58:53Z",
+      "rarityPercent": 17.2
+    },
+    {
+      "id": 6,
+      "name": "This Thing of Ours",
+      "detail": "Enzo got made",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T14:57:22Z",
+      "rarityPercent": 59.8
+    },
+    {
+      "id": 42,
+      "name": "Cold-Blooded",
+      "detail": "Performed 30 headshots",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T15:31:03Z",
+      "rarityPercent": 57.1
+    },
+    {
+      "id": 7,
+      "name": "Lira for Lira",
+      "detail": "Enzo freed the counterfeiter",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T15:38:06Z",
+      "rarityPercent": 56.4
+    },
+    {
+      "id": 31,
+      "name": "Full Steam Ahead",
+      "detail": "Beat the train",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T15:58:55Z",
+      "rarityPercent": 41.9
+    },
+    {
+      "id": 24,
+      "name": "Fastest Man in Sicily",
+      "detail": "Completed the race in under 8 minutes",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T16:10:57Z",
+      "rarityPercent": 44.4
+    },
+    {
+      "id": 8,
+      "name": "Everything’s Golden",
+      "detail": "Enzo won the race",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T16:22:47Z",
+      "rarityPercent": 53.6
+    },
+    {
+      "id": 9,
+      "name": "The Rat",
+      "detail": "Enzo and Cesare killed L'Ombra",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T18:08:37Z",
+      "rarityPercent": 52.7
+    },
+    {
+      "id": 37,
+      "name": "The Old Ways",
+      "detail": "Reached the foreman's office without alerting the enemies",
+      "type": "silver",
+      "earnedDateTime": "2026-10-22T18:41:21Z",
+      "rarityPercent": 21.2
+    },
+    {
+      "id": 10,
+      "name": "Total Shutdown",
+      "detail": "Enzo found the foreman",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T18:50:34Z",
+      "rarityPercent": 50
+    },
+    {
+      "id": 11,
+      "name": "No More Running",
+      "detail": "Enzo killed his nemesis",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-22T19:14:44Z",
+      "rarityPercent": 49.3
+    },
+    {
+      "id": 43,
+      "name": "Rare Weapons Expert: Repeater",
+      "detail": "Killed 20 enemies with a Repeater",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T00:13:54Z",
+      "rarityPercent": 48.6
+    },
+    {
+      "id": 21,
+      "name": "Trail of Destruction",
+      "detail": "Eliminated 10 cars while escaping the Tonnara",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T00:20:46Z",
+      "rarityPercent": 46
+    },
+    {
+      "id": 12,
+      "name": "Neutral Ground",
+      "detail": "Enzo lost his mentor",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T00:24:41Z",
+      "rarityPercent": 48.3
+    },
+    {
+      "id": 13,
+      "name": "Most Dutiful Soldier",
+      "detail": "Enzo exacted revenge",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T01:33:02Z",
+      "rarityPercent": 47.3
+    },
+    {
+      "id": 20,
+      "name": "Silent Hunter",
+      "detail": "Killed Mazzone without alerting his men",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T01:58:33Z",
+      "rarityPercent": 14.1
+    },
+    {
+      "id": 27,
+      "name": "Not So Fast",
+      "detail": "Killed Caccini before he reached the Salt Flats",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T02:03:10Z",
+      "rarityPercent": 14.9
+    },
+    {
+      "id": 14,
+      "name": "Everything you Deserve",
+      "detail": "Enzo killed the Spadaro holdouts",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T02:15:33Z",
+      "rarityPercent": 46.1
+    },
+    {
+      "id": 23,
+      "name": "Worthy Opponent",
+      "detail": "Defeated Don Torrisi without taking a single hit",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T02:54:39Z",
+      "rarityPercent": 3
+    },
+    {
+      "id": 15,
+      "name": "Only One Way Out",
+      "detail": "Enzo and Isabella's story came to an end",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T03:15:48Z",
+      "rarityPercent": 44.5
+    },
+    {
+      "id": 18,
+      "name": "True Soldato",
+      "detail": "Completed the story on Hard difficulty",
+      "type": "gold",
+      "earnedDateTime": "2026-10-23T03:15:48Z",
+      "rarityPercent": 5.4
+    },
+    {
+      "id": 17,
+      "name": "The Old Country",
+      "detail": "Completed the story on any difficulty",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T03:15:49Z",
+      "rarityPercent": 44.5
+    },
+    {
+      "id": 47,
+      "name": "Good as New",
+      "detail": "Fixed a broken vehicle by using the crank",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T12:52:51Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 16,
+      "name": "Rare Weapons Expert: Praecisione",
+      "detail": "Killed 20 enemies with a Praecisione",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:08:46Z",
+      "rarityPercent": 14.4
+    },
+    {
+      "id": 25,
+      "name": "Rare Weapons Expert: Lupara",
+      "detail": "Killed 20 enemies with a Lupara",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:09:35Z",
+      "rarityPercent": 20.1
+    },
+    {
+      "id": 41,
+      "name": "Rare Weapons Expert: Modello",
+      "detail": "Killed 20 enemies with a Modello C96",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:14:55Z",
+      "rarityPercent": 9.3
+    },
+    {
+      "id": 39,
+      "name": "Rare Weapons Expert: Vendetti",
+      "detail": "Killed 20 enemies with a Vendetti",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:17:48Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 32,
+      "name": "Live by the Blade",
+      "detail": "Performed all Special Actions 5 times with each knife",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:34:55Z",
+      "rarityPercent": 3.1
+    },
+    {
+      "id": 26,
+      "name": "Rare Weapons Expert: Pump-Action",
+      "detail": "Killed 20 enemies with a Pump-Action Shotgun",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:35:44Z",
+      "rarityPercent": 43.2
+    },
+    {
+      "id": 38,
+      "name": "Bombas Away!",
+      "detail": "Killed 10 enemies with explosives",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:39:29Z",
+      "rarityPercent": 19.8
+    },
+    {
+      "id": 40,
+      "name": "Secret Assassin",
+      "detail": "Killed 20 enemies with Knife Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:41:25Z",
+      "rarityPercent": 16.1
+    },
+    {
+      "id": 28,
+      "name": "Driving in Style",
+      "detail": "Customized a car",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T13:45:30Z",
+      "rarityPercent": 6.6
+    },
+    {
+      "id": 50,
+      "name": "Getaway Driver",
+      "detail": "Drove at 120 km/h for at least 15 seconds",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T13:55:11Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 48,
+      "name": "Daredevil",
+      "detail": "Jumped a car over 40 meters",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T13:58:40Z",
+      "rarityPercent": 10.1
+    },
+    {
+      "id": 45,
+      "name": "Mystery Fox Domination",
+      "detail": "All Mystery Foxes found",
+      "type": "silver",
+      "earnedDateTime": "2026-10-23T20:56:52Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 49,
+      "name": "The Finer Things",
+      "detail": "Bought all available cars from Pasquale",
+      "type": "bronze",
+      "earnedDateTime": "2026-10-23T20:57:14Z",
+      "rarityPercent": 2.5
+    },
+    {
+      "id": 0,
+      "name": "The Don",
+      "detail": "Completed all Trophies",
+      "type": "platinum",
+      "earnedDateTime": "2026-10-24T00:07:09Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 46,
+      "name": "The Collector",
+      "detail": "Completed the collection",
+      "type": "gold",
+      "earnedDateTime": "2026-10-24T00:07:09Z",
+      "rarityPercent": 1.9
+    }
+  ]
+}

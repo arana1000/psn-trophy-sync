@@ -1,0 +1,277 @@
+{
+  "game": "Batman: Return to Arkham - Arkham City",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR10584_00",
+  "progressPercent": 43,
+  "earnedCounts": {
+    "bronze": 20,
+    "silver": 11,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 48,
+    "silver": 21,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-07-22T10:25:27Z",
+  "earnedTotal": 31,
+  "unearnedTotal": 40,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 10,
+    "bronze": 28
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "I'm Batman",
+      "detail": "Become the Bat",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T03:10:50Z",
+      "rarityPercent": 83.4
+    },
+    {
+      "id": 2,
+      "name": "Acid Bath",
+      "detail": "Save the damsel, but is she in distress?",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T03:15:28Z",
+      "rarityPercent": 79.3
+    },
+    {
+      "id": 3,
+      "name": "Savior",
+      "detail": "Save the medical volunteers",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T03:23:02Z",
+      "rarityPercent": 73.3
+    },
+    {
+      "id": 21,
+      "name": "Ring Ring",
+      "detail": "Answer a ringing phone",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T03:37:28Z",
+      "rarityPercent": 53.8
+    },
+    {
+      "id": 46,
+      "name": "Catch",
+      "detail": "Find someone to play remote Batarang catch with",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-18T22:17:45Z",
+      "rarityPercent": 8.2
+    },
+    {
+      "id": 45,
+      "name": "Storyteller",
+      "detail": "Have 12 murderous dates with Calendar Man",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-18T22:47:31Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 4,
+      "name": "Chimney Sweep",
+      "detail": "There is only one way in",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-18T22:54:32Z",
+      "rarityPercent": 67.1
+    },
+    {
+      "id": 5,
+      "name": "One-Armed Bandit",
+      "detail": "Hammer the point home",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-18T23:16:31Z",
+      "rarityPercent": 62.3
+    },
+    {
+      "id": 52,
+      "name": "Arkham City Sirens",
+      "detail": "Drop in on an old friend",
+      "type": "silver",
+      "earnedDateTime": "2026-07-18T23:35:03Z",
+      "rarityPercent": 60.1
+    },
+    {
+      "id": 19,
+      "name": "Distress Flare",
+      "detail": "Answer the call for help",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-18T23:58:43Z",
+      "rarityPercent": 46.3
+    },
+    {
+      "id": 28,
+      "name": "IQ Test",
+      "detail": "Solve the first riddle",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-19T14:49:04Z",
+      "rarityPercent": 36.1
+    },
+    {
+      "id": 29,
+      "name": "Conundrum",
+      "detail": "Rescue the first hostage from Riddler",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-19T15:06:28Z",
+      "rarityPercent": 26.7
+    },
+    {
+      "id": 6,
+      "name": "Communication Breakdown",
+      "detail": "Clear the airwaves",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-19T15:37:33Z",
+      "rarityPercent": 52
+    },
+    {
+      "id": 7,
+      "name": "Gladiator",
+      "detail": "Last man standing",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-19T16:43:39Z",
+      "rarityPercent": 50.8
+    },
+    {
+      "id": 8,
+      "name": "Wrecking Ball",
+      "detail": "Stop the unstoppable",
+      "type": "silver",
+      "earnedDateTime": "2026-07-19T17:36:17Z",
+      "rarityPercent": 48.7
+    },
+    {
+      "id": 9,
+      "name": "Lost And Found",
+      "detail": "Uncover the secret of Arkham City",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-19T18:21:40Z",
+      "rarityPercent": 46.4
+    },
+    {
+      "id": 47,
+      "name": "50x Combo",
+      "detail": "Complete a combo of 50 moves (any play mode, any character)",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-19T18:54:35Z",
+      "rarityPercent": 14.2
+    },
+    {
+      "id": 10,
+      "name": "Sandstorm",
+      "detail": "We are legion",
+      "type": "silver",
+      "earnedDateTime": "2026-07-19T18:57:22Z",
+      "rarityPercent": 45.8
+    },
+    {
+      "id": 20,
+      "name": "Broken Toys",
+      "detail": "Destroy it all",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T13:22:59Z",
+      "rarityPercent": 24.9
+    },
+    {
+      "id": 25,
+      "name": "AR Knight",
+      "detail": "Complete all augmented reality training exercises",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T13:56:07Z",
+      "rarityPercent": 13.4
+    },
+    {
+      "id": 30,
+      "name": "Mastermind",
+      "detail": "Rescue the second hostage from Riddler",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-21T14:15:06Z",
+      "rarityPercent": 17.8
+    },
+    {
+      "id": 11,
+      "name": "Hide And Seek",
+      "detail": "A deadly game of hide and seek",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T14:34:20Z",
+      "rarityPercent": 43.9
+    },
+    {
+      "id": 15,
+      "name": "Forensic Expert",
+      "detail": "Collect enough evidence to locate the gun for hire",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-21T14:59:31Z",
+      "rarityPercent": 18.4
+    },
+    {
+      "id": 23,
+      "name": "Stop the Clock",
+      "detail": "Time is running out",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-21T15:04:49Z",
+      "rarityPercent": 32.2
+    },
+    {
+      "id": 16,
+      "name": "Contract Terminated",
+      "detail": "Stop the contract operative",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T15:16:53Z",
+      "rarityPercent": 18.1
+    },
+    {
+      "id": 22,
+      "name": "Dial Z For Murder",
+      "detail": "Stop the phone booth killer",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T15:24:32Z",
+      "rarityPercent": 18.7
+    },
+    {
+      "id": 24,
+      "name": "Bargaining Chip",
+      "detail": "Reunite the separated couple",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-21T15:45:35Z",
+      "rarityPercent": 24
+    },
+    {
+      "id": 12,
+      "name": "Ghost Train",
+      "detail": "Fight for survival",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T17:35:58Z",
+      "rarityPercent": 41.6
+    },
+    {
+      "id": 53,
+      "name": "Pick Pocket",
+      "detail": "Steal the score of a lifetime",
+      "type": "silver",
+      "earnedDateTime": "2026-07-21T23:05:04Z",
+      "rarityPercent": 41.2
+    },
+    {
+      "id": 13,
+      "name": "Freefall",
+      "detail": "Don't look down",
+      "type": "bronze",
+      "earnedDateTime": "2026-07-21T23:53:19Z",
+      "rarityPercent": 40.1
+    },
+    {
+      "id": 14,
+      "name": "Exit Stage Right",
+      "detail": "All the world is a stage",
+      "type": "silver",
+      "earnedDateTime": "2026-07-22T10:25:24Z",
+      "rarityPercent": 39.6
+    }
+  ]
+}

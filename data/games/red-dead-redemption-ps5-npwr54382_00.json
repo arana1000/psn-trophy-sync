@@ -1,0 +1,445 @@
+{
+  "game": "Red Dead Redemption",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR54382_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 44,
+    "silver": 4,
+    "gold": 3,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 44,
+    "silver": 4,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-01-19T01:36:06Z",
+  "earnedTotal": 52,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "That Government Boy",
+      "detail": "Complete \"Exodus in America\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-02T22:37:53Z",
+      "rarityPercent": 73.7
+    },
+    {
+      "id": 11,
+      "name": "What About Hand Grenades?",
+      "detail": "Get a ringer in a game of Horseshoes.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-09T22:09:32Z",
+      "rarityPercent": 2.8
+    },
+    {
+      "id": 16,
+      "name": "Strange Things are Afoot",
+      "detail": "Complete a task for a Stranger.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-09T22:49:50Z",
+      "rarityPercent": 25
+    },
+    {
+      "id": 19,
+      "name": "Clemency Pays",
+      "detail": "Capture a bounty alive.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-09T23:07:25Z",
+      "rarityPercent": 13.5
+    },
+    {
+      "id": 33,
+      "name": "Spurred to Victory",
+      "detail": "Complete 20 story missions without switching to a new horse at a hitching post.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-20T18:29:46Z",
+      "rarityPercent": 10
+    },
+    {
+      "id": 2,
+      "name": "Land of Opportunity",
+      "detail": "Complete \"The Assault on Fort Mercer\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-22T13:58:41Z",
+      "rarityPercent": 15.6
+    },
+    {
+      "id": 38,
+      "name": "Bullseye",
+      "detail": "Get 250 headshots in any game mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-22T14:28:37Z",
+      "rarityPercent": 9.8
+    },
+    {
+      "id": 13,
+      "name": "Evil Spirits",
+      "detail": "Complete Tumbleweed and Tesoro Azul Hideouts.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-24T23:59:53Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 3,
+      "name": "Sons of Mexico",
+      "detail": "Complete \"The Gates of El Presidio\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-25T16:16:42Z",
+      "rarityPercent": 10.8
+    },
+    {
+      "id": 4,
+      "name": "No More Fancy Words",
+      "detail": "Complete \"An Appointed Time\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-25T16:41:18Z",
+      "rarityPercent": 10.6
+    },
+    {
+      "id": 21,
+      "name": "Exquisite Taste",
+      "detail": "Purchase a rare weapon from a gunsmith.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-26T13:06:10Z",
+      "rarityPercent": 7.3
+    },
+    {
+      "id": 5,
+      "name": "A Savage Soul",
+      "detail": "Complete \"At Home with Dutch\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-26T13:48:43Z",
+      "rarityPercent": 10.8
+    },
+    {
+      "id": 37,
+      "name": "Long Arm of Marston",
+      "detail": "Kill 500 enemies with any rifle, repeater, or shotgun in any game mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-26T14:02:20Z",
+      "rarityPercent": 10.1
+    },
+    {
+      "id": 6,
+      "name": "The Benefits of Civilization",
+      "detail": "Complete \"And the Truth Will Set You Free\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-26T15:13:57Z",
+      "rarityPercent": 10.1
+    },
+    {
+      "id": 23,
+      "name": "He Cleans Up Well!",
+      "detail": "Obtain the Elegant Suit.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T04:10:35Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 7,
+      "name": "Into the Sunset",
+      "detail": "Complete \"The Last Enemy That Shall Be Destroyed\".",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T04:35:33Z",
+      "rarityPercent": 9
+    },
+    {
+      "id": 8,
+      "name": "Nurture or Nature?",
+      "detail": "Complete \"Remember My Family\".",
+      "type": "gold",
+      "earnedDateTime": "2025-12-28T05:27:00Z",
+      "rarityPercent": 6.8
+    },
+    {
+      "id": 17,
+      "name": "People are Still Strange",
+      "detail": "Complete 15 tasks for Strangers.",
+      "type": "silver",
+      "earnedDateTime": "2025-12-28T05:27:00Z",
+      "rarityPercent": 2.8
+    },
+    {
+      "id": 24,
+      "name": "More than a Fistful",
+      "detail": "Earn $10,000.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T05:27:10Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 30,
+      "name": "On the Trail of de Vaca",
+      "detail": "Uncover every location on the map.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T06:03:19Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 26,
+      "name": "The Gunslinger",
+      "detail": "Score a headshot on any enemy using Expert targeting mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T06:10:38Z",
+      "rarityPercent": 5.2
+    },
+    {
+      "id": 31,
+      "name": "Friends in High Places",
+      "detail": "Use a pardon letter with more than $5000 bounty.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T15:16:56Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 36,
+      "name": "In a Hail of Bullets",
+      "detail": "Kill 500 enemies with any pistol or revolver in any game mode.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T15:39:34Z",
+      "rarityPercent": 1.7
+    },
+    {
+      "id": 34,
+      "name": "Heading South on a White Bronco",
+      "detail": "Evade the US Marshals while riding the Hungarian Half-Bred horse.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T16:06:44Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 20,
+      "name": "Dastardly",
+      "detail": "Place a hogtied woman on the train tracks, and witness her death by train.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T16:18:03Z",
+      "rarityPercent": 1.6
+    },
+    {
+      "id": 29,
+      "name": "Manifest Destiny",
+      "detail": "Kill the last buffalo in the Great Plains.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T16:34:48Z",
+      "rarityPercent": 1.4
+    },
+    {
+      "id": 22,
+      "name": "Bearly Legal",
+      "detail": "Kill and skin 18 grizzly bears.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T17:01:21Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 9,
+      "name": "High Roller",
+      "detail": "Win over 2000 chips in a hand of Poker.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-28T17:49:28Z",
+      "rarityPercent": 3
+    },
+    {
+      "id": 27,
+      "name": "Man of Honor / Chivalry's Dead",
+      "detail": "Attain highest Fame rank and either highest Honor rank or lowest Honor rank.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-30T20:01:22Z",
+      "rarityPercent": 2.1
+    },
+    {
+      "id": 40,
+      "name": "Axe Master",
+      "detail": "Complete all Tomahawk challenges.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-30T20:02:36Z",
+      "rarityPercent": 1.3
+    },
+    {
+      "id": 14,
+      "name": "Instinto Asesino",
+      "detail": "Complete Fort Mercer and Nosalida Hideouts.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-30T20:20:29Z",
+      "rarityPercent": 4
+    },
+    {
+      "id": 12,
+      "name": "Austin Overpowered",
+      "detail": "Complete Twin Rocks,  Pike's Basin, and Gaptooth Breach Hideouts.",
+      "type": "bronze",
+      "earnedDateTime": "2025-12-30T20:36:43Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 25,
+      "name": "Frontiersman",
+      "detail": "Obtain Legendary rank in any Ambient Challenge.",
+      "type": "silver",
+      "earnedDateTime": "2025-12-31T03:11:02Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 41,
+      "name": "Master Exploder",
+      "detail": "Complete the Explosive Rifle Challenge.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-10T17:58:06Z",
+      "rarityPercent": 1.3
+    },
+    {
+      "id": 39,
+      "name": "Unnatural Selection",
+      "detail": "Kill one of every animal species in the game in any game mode.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-11T03:28:03Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 18,
+      "name": "Buckin' Awesome",
+      "detail": "Break the Kentucky Saddler, the American Standardbred, and the Hungarian Half-bred.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-11T03:41:06Z",
+      "rarityPercent": 1.6
+    },
+    {
+      "id": 10,
+      "name": "No Dice",
+      "detail": "Complete a game of Liar's Dice without losing a single die.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-11T04:06:06Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 32,
+      "name": "Redeemed",
+      "detail": "Attain 100% in the Game Completion stat.",
+      "type": "gold",
+      "earnedDateTime": "2026-01-13T00:13:13Z",
+      "rarityPercent": 0.8
+    },
+    {
+      "id": 15,
+      "name": "Fightin' Around the World",
+      "detail": "Knock someone out in melee in every saloon in the game.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-13T00:28:44Z",
+      "rarityPercent": 0.9
+    },
+    {
+      "id": 28,
+      "name": "Gold Medal",
+      "detail": "Earn a Gold Medal Rank for a combat mission.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-13T00:35:37Z",
+      "rarityPercent": 3.9
+    },
+    {
+      "id": 42,
+      "name": "The Downward Spiral",
+      "detail": "Complete \"Curious Tales from Blackwater, USA\" Survivor Mission.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-14T00:00:40Z",
+      "rarityPercent": 8
+    },
+    {
+      "id": 51,
+      "name": "Six Years In The Making",
+      "detail": "Find and kill a sasquatch.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-15T23:36:16Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 43,
+      "name": "Judge A Man By The...",
+      "detail": "Complete \"Cure For Most of What Ails You\" and \"Get Back in that Hole, Partner\" Survivor Missions.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-17T17:03:56Z",
+      "rarityPercent": 2.9
+    },
+    {
+      "id": 46,
+      "name": "Spinning Plates",
+      "detail": "Have every territory saved at the same time during the Undead Nightmare.",
+      "type": "silver",
+      "earnedDateTime": "2026-01-18T15:08:13Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 44,
+      "name": "The Superior Dance",
+      "detail": "Complete \"Mother Superior Blues Survivor Mission\".",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-18T17:35:09Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 45,
+      "name": "All's Right With the World",
+      "detail": "Complete \"On a Pale Horse\".",
+      "type": "silver",
+      "earnedDateTime": "2026-01-18T18:03:53Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 35,
+      "name": "Mowing Them Down",
+      "detail": "Kill 500 enemies with a mounted weapon in any game mode.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-18T23:58:09Z",
+      "rarityPercent": 0.8
+    },
+    {
+      "id": 50,
+      "name": "Chupathingy",
+      "detail": "Find and kill a chupacabra.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-19T01:05:28Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 49,
+      "name": "Fan Service",
+      "detail": "Find and break a unicorn.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-19T01:09:07Z",
+      "rarityPercent": 1
+    },
+    {
+      "id": 0,
+      "name": "Legend of the West",
+      "detail": "You've become a true legend of the West!",
+      "type": "platinum",
+      "earnedDateTime": "2026-01-19T01:36:06Z",
+      "rarityPercent": 0.7
+    },
+    {
+      "id": 47,
+      "name": "Zed's Dead, Baby",
+      "detail": "Attain 100% Game Completion statistic in Undead Nightmare.",
+      "type": "gold",
+      "earnedDateTime": "2026-01-19T01:36:06Z",
+      "rarityPercent": 0.8
+    },
+    {
+      "id": 48,
+      "name": "Mad Marston: The Trail Warrior",
+      "detail": "Attain Rank 5 in all Undead Nightmare Challenges.",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-19T01:36:06Z",
+      "rarityPercent": 0.9
+    }
+  ]
+}

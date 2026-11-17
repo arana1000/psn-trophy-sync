@@ -1,0 +1,237 @@
+{
+  "game": "Escape the Backrooms",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR44211_00",
+  "progressPercent": 55,
+  "earnedCounts": {
+    "bronze": 24,
+    "silver": 0,
+    "gold": 2,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 27,
+    "silver": 1,
+    "gold": 6,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-06-25T23:21:54Z",
+  "earnedTotal": 26,
+  "unearnedTotal": 9,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 1,
+    "bronze": 3
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Escape Level 0",
+      "detail": "Find the exit in Level 0.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-04T18:21:17Z",
+      "rarityPercent": 81.7
+    },
+    {
+      "id": 2,
+      "name": "Escape the Habitable Zone",
+      "detail": "Find the exit in the Habitable Zone.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-06T17:26:31Z",
+      "rarityPercent": 72.6
+    },
+    {
+      "id": 9,
+      "name": "Escape The Hub",
+      "detail": "Enter the hub and activate the outpost power.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-06T17:30:47Z",
+      "rarityPercent": 72.4
+    },
+    {
+      "id": 3,
+      "name": "Escape Pipe Dreams",
+      "detail": "Find the exit door in Pipe Dreams.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-06T18:23:08Z",
+      "rarityPercent": 67.6
+    },
+    {
+      "id": 10,
+      "name": "Escape Level 3",
+      "detail": "Find the exit in the Electrical Station.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-09T21:49:14Z",
+      "rarityPercent": 58.2
+    },
+    {
+      "id": 11,
+      "name": "Escape Level 4",
+      "detail": "Find the exit in the Abandoned Office.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-09T22:05:04Z",
+      "rarityPercent": 58
+    },
+    {
+      "id": 12,
+      "name": "Escape Level 5",
+      "detail": "Find the exit in the Terror Hotel.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-11T22:02:55Z",
+      "rarityPercent": 45.7
+    },
+    {
+      "id": 4,
+      "name": "Escape Level Fun",
+      "detail": "Escape Level Fun.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-11T23:40:24Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 5,
+      "name": "Escape the Poolrooms",
+      "detail": "Find the exit in the Poolrooms.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-11T23:49:32Z",
+      "rarityPercent": 40.3
+    },
+    {
+      "id": 6,
+      "name": "Escape Level !",
+      "detail": "Escape Level Run For Your Life!",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-11T23:50:16Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 7,
+      "name": "Escape The End",
+      "detail": "Escape The End.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-11T23:56:08Z",
+      "rarityPercent": 39.4
+    },
+    {
+      "id": 14,
+      "name": "Escape Level 94",
+      "detail": "Find the exit in Level 94.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-12T02:01:06Z",
+      "rarityPercent": 38.8
+    },
+    {
+      "id": 13,
+      "name": "Escape Level 6",
+      "detail": "Find the exit in Lights Out.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-12T02:10:57Z",
+      "rarityPercent": 37.6
+    },
+    {
+      "id": 15,
+      "name": "Escape Level 7",
+      "detail": "Find the exit in Thalassophobia.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-12T02:28:22Z",
+      "rarityPercent": 36.9
+    },
+    {
+      "id": 16,
+      "name": "Escape Level 8",
+      "detail": "Find the exit in the Cave System.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-12T02:45:01Z",
+      "rarityPercent": 36.1
+    },
+    {
+      "id": 17,
+      "name": "Escape Level 188",
+      "detail": "Find the exit in Level 188.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-13T01:23:47Z",
+      "rarityPercent": 33.4
+    },
+    {
+      "id": 18,
+      "name": "Escape Level 9",
+      "detail": "Find the exit in Level 9.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-13T02:11:05Z",
+      "rarityPercent": 32.9
+    },
+    {
+      "id": 19,
+      "name": "Escape Level 10",
+      "detail": "Find the exit in Level 10.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-21T23:06:31Z",
+      "rarityPercent": 30.1
+    },
+    {
+      "id": 20,
+      "name": "Escape Level 3999",
+      "detail": "Find the exit in Level 3999.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-21T23:09:48Z",
+      "rarityPercent": 31.1
+    },
+    {
+      "id": 21,
+      "name": "Escape Level 0.2",
+      "detail": "Find the exit in Level 0.2.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-21T23:27:09Z",
+      "rarityPercent": 29.5
+    },
+    {
+      "id": 22,
+      "name": "Escape the Snackrooms",
+      "detail": "Find the exit in the Snackrooms.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-21T23:29:15Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 23,
+      "name": "Escape Level !~!",
+      "detail": "Find the exit in Level !~!.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-21T23:36:24Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 24,
+      "name": "Escape Level 52",
+      "detail": "Find the exit in Level 52.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-25T22:48:13Z",
+      "rarityPercent": 25.9
+    },
+    {
+      "id": 25,
+      "name": "Escape Level 55.1",
+      "detail": "Find the exit in Level 55.1.",
+      "type": "gold",
+      "earnedDateTime": "2026-06-25T23:08:13Z",
+      "rarityPercent": 25.1
+    },
+    {
+      "id": 33,
+      "name": "Squad",
+      "detail": "Beat the game in Multiplayer with Normal difficulty.",
+      "type": "gold",
+      "earnedDateTime": "2026-06-25T23:08:14Z",
+      "rarityPercent": 21.1
+    },
+    {
+      "id": 8,
+      "name": "Escape Level 9223372036854775807",
+      "detail": "Find the exit in Level 922.",
+      "type": "bronze",
+      "earnedDateTime": "2026-06-25T23:21:53Z",
+      "rarityPercent": 15.9
+    }
+  ]
+}

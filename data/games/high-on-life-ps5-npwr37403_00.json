@@ -1,0 +1,293 @@
+{
+  "game": "High on Life",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR37403_00",
+  "progressPercent": 84,
+  "earnedCounts": {
+    "bronze": 18,
+    "silver": 8,
+    "gold": 6,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 29,
+    "silver": 9,
+    "gold": 6,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-06-19T21:05:58Z",
+  "earnedTotal": 33,
+  "unearnedTotal": 12,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 11
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Fallout Doesn't Let You Do This",
+      "detail": "Kill Slumsley.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-11T17:25:41Z",
+      "rarityPercent": 63.2
+    },
+    {
+      "id": 2,
+      "name": "Bring A Knife to a Gun Fight",
+      "detail": "Obtain Knifey.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T16:31:26Z",
+      "rarityPercent": 72.9
+    },
+    {
+      "id": 22,
+      "name": "We're All Very Impressed, Trust Me",
+      "detail": "Juggle an enemy in the air with at least 5 shots.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T16:43:10Z",
+      "rarityPercent": 60.1
+    },
+    {
+      "id": 3,
+      "name": "First Bounty Down",
+      "detail": "Defeat 9-Torg.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T16:45:40Z",
+      "rarityPercent": 69.2
+    },
+    {
+      "id": 4,
+      "name": "Don't Knife The Hand That Feeds",
+      "detail": "Take Knifey's advice and stab Gene in the gut.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T16:58:14Z",
+      "rarityPercent": 52
+    },
+    {
+      "id": 5,
+      "name": "G3 Graduation",
+      "detail": "Defeat Douglas.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T18:37:09Z",
+      "rarityPercent": 41.2
+    },
+    {
+      "id": 6,
+      "name": "Sweezy Like Sunday Morning",
+      "detail": "Obtain Sweezy.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T18:37:25Z",
+      "rarityPercent": 41.2
+    },
+    {
+      "id": 23,
+      "name": "Eye Scream, You Scream",
+      "detail": "Pop 20 Grunt eyeballs.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-12T20:04:21Z",
+      "rarityPercent": 39
+    },
+    {
+      "id": 7,
+      "name": "Gunning For Your Job",
+      "detail": "Use Sweezy to boss around the Office Moplets.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-13T13:54:04Z",
+      "rarityPercent": 10.2
+    },
+    {
+      "id": 8,
+      "name": "Cold-Blooded Driller",
+      "detail": "Defeat Krubis.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-15T14:26:32Z",
+      "rarityPercent": 44.4
+    },
+    {
+      "id": 9,
+      "name": "Satisfied Gus-tomer",
+      "detail": "Obtain Gus.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-15T14:26:56Z",
+      "rarityPercent": 44.4
+    },
+    {
+      "id": 10,
+      "name": "Are You Packin'?",
+      "detail": "Obtain the Jetpack.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-15T14:47:33Z",
+      "rarityPercent": 36.5
+    },
+    {
+      "id": 13,
+      "name": "RIP Davey Glutes",
+      "detail": "Obtain the Mag-Boots.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-15T15:14:44Z",
+      "rarityPercent": 30.2
+    },
+    {
+      "id": 14,
+      "name": "Hardest Battle In The Game",
+      "detail": "Defeat Dr. Giblets.",
+      "type": "gold",
+      "earnedDateTime": "2025-06-15T15:34:28Z",
+      "rarityPercent": 28.5
+    },
+    {
+      "id": 11,
+      "name": "Creature Feature",
+      "detail": "Obtain Creature.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-15T16:43:43Z",
+      "rarityPercent": 32.8
+    },
+    {
+      "id": 12,
+      "name": "Who's The Boss?",
+      "detail": "Defeat the Skrendel Brothers.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-15T19:52:47Z",
+      "rarityPercent": 30.7
+    },
+    {
+      "id": 24,
+      "name": "A Starfish is Born",
+      "detail": "Watch Globo's rise to fame.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-15T19:55:55Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 15,
+      "name": "Eatin' Good in the Neighborhood",
+      "detail": "Pay your bill at Applebee's.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-15T20:03:05Z",
+      "rarityPercent": 16.2
+    },
+    {
+      "id": 16,
+      "name": "Spent 15 Hours At The Alien Strip Club",
+      "detail": "Spend 15 hours at the very real in-game alien strip club.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-16T18:16:04Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 17,
+      "name": "Self-Actualization",
+      "detail": "Defeat Nipulon.",
+      "type": "gold",
+      "earnedDateTime": "2025-06-16T18:21:39Z",
+      "rarityPercent": 26
+    },
+    {
+      "id": 18,
+      "name": "Lezduit!",
+      "detail": "Obtain Lezduit.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-16T18:25:45Z",
+      "rarityPercent": 25.6
+    },
+    {
+      "id": 19,
+      "name": "Series Wrap on Suit-O",
+      "detail": "Say goodbye to Suit-O.",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-16T18:32:31Z",
+      "rarityPercent": 25.5
+    },
+    {
+      "id": 21,
+      "name": "Legendary Bounty Hunter",
+      "detail": "Defeat Garmantuous and take down the G3 cartel.",
+      "type": "gold",
+      "earnedDateTime": "2025-06-16T18:48:55Z",
+      "rarityPercent": 25.3
+    },
+    {
+      "id": 20,
+      "name": "Playing Favorites",
+      "detail": "Sacrifice a Gatlian other than Kenny during the fight against Garmantuous.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-16T18:50:11Z",
+      "rarityPercent": 9.4
+    },
+    {
+      "id": 32,
+      "name": "Carried Stan's Load To Completion",
+      "detail": "Complete the game with Stan's product in your inventory.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-16T18:51:02Z",
+      "rarityPercent": 18.1
+    },
+    {
+      "id": 26,
+      "name": "Epic Legendary Prize",
+      "detail": "Sit through the entirety of the really annoying countdown show on TV.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-16T19:47:44Z",
+      "rarityPercent": 4.2
+    },
+    {
+      "id": 27,
+      "name": "Sequel-Bait",
+      "detail": "Discover Dr. Gurgula's hideout in the Human Haven.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-17T16:52:46Z",
+      "rarityPercent": 7.2
+    },
+    {
+      "id": 25,
+      "name": "We Paid For The Rights To Put A Whole Movie In Here",
+      "detail": "Discover the movie theater.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-17T22:54:45Z",
+      "rarityPercent": 11.9
+    },
+    {
+      "id": 31,
+      "name": "Playing Card To Get",
+      "detail": "Collect every trading card in the game.",
+      "type": "gold",
+      "earnedDateTime": "2025-06-18T18:21:08Z",
+      "rarityPercent": 2.5
+    },
+    {
+      "id": 28,
+      "name": "Seeing All The Sights",
+      "detail": "Unlock and explore every collectible warp base.",
+      "type": "silver",
+      "earnedDateTime": "2025-06-18T18:52:55Z",
+      "rarityPercent": 3.5
+    },
+    {
+      "id": 29,
+      "name": "Luglox Genocide",
+      "detail": "Find and open every Luglox chest.",
+      "type": "gold",
+      "earnedDateTime": "2025-06-18T18:53:02Z",
+      "rarityPercent": 2.4
+    },
+    {
+      "id": 0,
+      "name": "Call Your Loved Ones",
+      "detail": "Hey, you got all the trophies. And that’s great. But people have been asking about you. Are you okay?",
+      "type": "platinum",
+      "earnedDateTime": "2025-06-19T21:05:58Z",
+      "rarityPercent": 1.8
+    },
+    {
+      "id": 30,
+      "name": "Mods Please Ban",
+      "detail": "Unlock every post in the Bounty Hunter forums.",
+      "type": "gold",
+      "earnedDateTime": "2025-06-19T21:05:58Z",
+      "rarityPercent": 1.8
+    }
+  ]
+}

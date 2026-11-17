@@ -1,0 +1,293 @@
+{
+  "game": "Mafia: Definitive Edition",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR20879_00",
+  "progressPercent": 69,
+  "earnedCounts": {
+    "bronze": 29,
+    "silver": 2,
+    "gold": 2,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 33,
+    "silver": 7,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-10-26T02:56:39Z",
+  "earnedTotal": 33,
+  "unearnedTotal": 11,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 5,
+    "bronze": 4
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "A Chase through the Night",
+      "detail": "Completed \"An Offer You Can't Refuse\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-15T23:49:02Z",
+      "rarityPercent": 90.2
+    },
+    {
+      "id": 2,
+      "name": "The Back Streets of Little Italy",
+      "detail": "Completed \"Running Man\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T00:08:43Z",
+      "rarityPercent": 84.1
+    },
+    {
+      "id": 36,
+      "name": "Family History",
+      "detail": "Found a 'Gangsters of the United States' cigarette card",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T00:13:39Z",
+      "rarityPercent": 79.3
+    },
+    {
+      "id": 3,
+      "name": "The Way this City Works",
+      "detail": "Completed \"Molotov Party\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T00:32:55Z",
+      "rarityPercent": 80.5
+    },
+    {
+      "id": 32,
+      "name": "Pulp Fiction",
+      "detail": "Found a Pulp Magazine",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T00:36:11Z",
+      "rarityPercent": 75.3
+    },
+    {
+      "id": 4,
+      "name": "Gangs of Lost Heaven",
+      "detail": "Completed \"Ordinary Routine\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T01:00:42Z",
+      "rarityPercent": 75
+    },
+    {
+      "id": 23,
+      "name": "Supercharged",
+      "detail": "Won the race",
+      "type": "silver",
+      "earnedDateTime": "2023-03-17T01:28:57Z",
+      "rarityPercent": 68.9
+    },
+    {
+      "id": 5,
+      "name": "Neighborhood Hero",
+      "detail": "Completed \"Fair Play\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T01:38:05Z",
+      "rarityPercent": 68.3
+    },
+    {
+      "id": 6,
+      "name": "Good Night for a Walk Anyways",
+      "detail": "Completed \"Sarah\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T01:50:21Z",
+      "rarityPercent": 67.4
+    },
+    {
+      "id": 7,
+      "name": "Storm Cloud over Chinatown",
+      "detail": "Completed \"Better Get Used to It\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-17T02:07:30Z",
+      "rarityPercent": 65.7
+    },
+    {
+      "id": 8,
+      "name": "Murder in the House of God",
+      "detail": "Completed \"The Saint and the Sinner\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-18T03:23:14Z",
+      "rarityPercent": 61.4
+    },
+    {
+      "id": 24,
+      "name": "Lined Pockets",
+      "detail": "Paid a fine to the Lost Heaven Police Department",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-21T00:46:38Z",
+      "rarityPercent": 21.6
+    },
+    {
+      "id": 9,
+      "name": "Your Canuck Cousins",
+      "detail": "Completed \"A Trip to the Country\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-21T00:51:00Z",
+      "rarityPercent": 58.3
+    },
+    {
+      "id": 34,
+      "name": "Comic Violence",
+      "detail": "Found a copy of Gangsters Monthly",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-22T01:04:15Z",
+      "rarityPercent": 47.7
+    },
+    {
+      "id": 10,
+      "name": "Rat in the House",
+      "detail": "Completed \"Omerta\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-22T01:06:47Z",
+      "rarityPercent": 56.3
+    },
+    {
+      "id": 11,
+      "name": "Blood on Beech Hill",
+      "detail": "Completed \"Visiting Rich People\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-22T01:27:45Z",
+      "rarityPercent": 54.5
+    },
+    {
+      "id": 12,
+      "name": "Best Laid Plans",
+      "detail": "Completed \"Great Deal\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-22T01:48:06Z",
+      "rarityPercent": 53.3
+    },
+    {
+      "id": 13,
+      "name": "The Day the War Began",
+      "detail": "Completed \"Bon Appétit\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-26T23:32:37Z",
+      "rarityPercent": 52.6
+    },
+    {
+      "id": 14,
+      "name": "Death on the Water",
+      "detail": "Completed \"Happy Birthday\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-26T23:54:35Z",
+      "rarityPercent": 51.8
+    },
+    {
+      "id": 15,
+      "name": "When God Stops Smiling",
+      "detail": "Completed \"You Lucky ...\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-30T00:30:46Z",
+      "rarityPercent": 50.4
+    },
+    {
+      "id": 16,
+      "name": "The Day the War Ended",
+      "detail": "Completed \"Crème de la Crème\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-30T00:49:20Z",
+      "rarityPercent": 49.4
+    },
+    {
+      "id": 26,
+      "name": "Heat from the Cops",
+      "detail": "Lost the cops after accruing a five star police chase",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-01T02:51:05Z",
+      "rarityPercent": 35.4
+    },
+    {
+      "id": 30,
+      "name": "Quite the Collection",
+      "detail": "Collected 15 vehicles in the Garage",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-01T02:53:08Z",
+      "rarityPercent": 41.1
+    },
+    {
+      "id": 17,
+      "name": "A View from the Top",
+      "detail": "Completed \"Election Campaign\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-01T02:55:36Z",
+      "rarityPercent": 48.1
+    },
+    {
+      "id": 18,
+      "name": "Into the Lion's Den",
+      "detail": "Completed \"Just For Relaxation\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-02T21:41:45Z",
+      "rarityPercent": 46.2
+    },
+    {
+      "id": 19,
+      "name": "That Last Big Score",
+      "detail": "Completed \"Moonlighting\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-02T22:02:17Z",
+      "rarityPercent": 46
+    },
+    {
+      "id": 20,
+      "name": "Friends and Family",
+      "detail": "Completed \"The Death of Art\"",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-04T03:02:00Z",
+      "rarityPercent": 45.5
+    },
+    {
+      "id": 21,
+      "name": "A Life of Crime",
+      "detail": "Completed the game on Easy, Medium, or Hard difficulty",
+      "type": "gold",
+      "earnedDateTime": "2023-04-04T03:02:00Z",
+      "rarityPercent": 45.5
+    },
+    {
+      "id": 43,
+      "name": "Not Classy",
+      "detail": "Took Paulie to a Place of Disrepute",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-17T19:55:21Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 25,
+      "name": "Not Taken In",
+      "detail": "Resisted arrest by the Lost Heaven Police Department",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-18T21:46:56Z",
+      "rarityPercent": 18.3
+    },
+    {
+      "id": 22,
+      "name": "Made Man",
+      "detail": "Completed the game on Classic difficulty",
+      "type": "gold",
+      "earnedDateTime": "2026-05-19T15:38:25Z",
+      "rarityPercent": 3.3
+    },
+    {
+      "id": 40,
+      "name": "Mystery Fox Discovered",
+      "detail": "Found a Mystery Fox",
+      "type": "bronze",
+      "earnedDateTime": "2026-05-19T16:23:48Z",
+      "rarityPercent": 13.7
+    },
+    {
+      "id": 37,
+      "name": "Full Set",
+      "detail": "Found all 'Gangsters of the United States' cigarette cards",
+      "type": "silver",
+      "earnedDateTime": "2026-10-26T02:56:37Z",
+      "rarityPercent": 2.6
+    }
+  ]
+}

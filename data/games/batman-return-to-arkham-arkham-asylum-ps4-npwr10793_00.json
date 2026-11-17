@@ -1,0 +1,317 @@
+{
+  "game": "Batman: Return to Arkham - Arkham Asylum",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR10793_00",
+  "progressPercent": 68,
+  "earnedCounts": {
+    "bronze": 24,
+    "silver": 12,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 28,
+    "silver": 18,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2026-01-25T20:32:53Z",
+  "earnedTotal": 36,
+  "unearnedTotal": 12,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 6,
+    "bronze": 4
+  },
+  "earned": [
+    {
+      "id": 26,
+      "name": "Freeflow Combo 5",
+      "detail": "Complete a combo of 5 moves (any play mode)",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T03:39:13Z",
+      "rarityPercent": 87.7
+    },
+    {
+      "id": 1,
+      "name": "Shocking Rescue",
+      "detail": "Take down Zsasz in the Patient Pacification Chamber",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T03:45:40Z",
+      "rarityPercent": 84.6
+    },
+    {
+      "id": 2,
+      "name": "Leave No Man Behind",
+      "detail": "Rescue the guards and henchman from the Joker toxin in Decontamination",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T03:50:00Z",
+      "rarityPercent": 76.7
+    },
+    {
+      "id": 3,
+      "name": "Malpractice Needs More Practice",
+      "detail": "Survive the onslaught from the deformed Joker henchman",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T03:52:43Z",
+      "rarityPercent": 80.9
+    },
+    {
+      "id": 27,
+      "name": "Freeflow Combo 10",
+      "detail": "Complete a combo of 10 moves (any play mode)",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T04:02:23Z",
+      "rarityPercent": 62.8
+    },
+    {
+      "id": 20,
+      "name": "Freeflow Combo 20",
+      "detail": "Complete a combo of 20 moves (any play mode)",
+      "type": "silver",
+      "earnedDateTime": "2024-12-19T04:02:35Z",
+      "rarityPercent": 42.3
+    },
+    {
+      "id": 23,
+      "name": "Rope-A-Dope-A-Dope",
+      "detail": "String up one henchman and drop him to surprise a second (any play mode)",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T04:11:31Z",
+      "rarityPercent": 25
+    },
+    {
+      "id": 4,
+      "name": "Born Free",
+      "detail": "Escape from Intensive Treatment to the island surface",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T18:18:36Z",
+      "rarityPercent": 68.3
+    },
+    {
+      "id": 39,
+      "name": "Arkham Analyst",
+      "detail": "Solve 5% of Riddler challenges",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T18:42:23Z",
+      "rarityPercent": 59.8
+    },
+    {
+      "id": 5,
+      "name": "Just What The Doctors Ordered",
+      "detail": "Save all the doctors in Medical",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T18:46:35Z",
+      "rarityPercent": 58.7
+    },
+    {
+      "id": 6,
+      "name": "Daydreamer",
+      "detail": "Survive the nightmare of the Scarecrow's fear gas",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T18:58:10Z",
+      "rarityPercent": 57.1
+    },
+    {
+      "id": 7,
+      "name": "Baneful Payback",
+      "detail": "Defeat Bane",
+      "type": "silver",
+      "earnedDateTime": "2024-12-19T19:29:54Z",
+      "rarityPercent": 55.7
+    },
+    {
+      "id": 40,
+      "name": "Cryptic Investigator",
+      "detail": "Solve 10% of Riddler challenges",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T20:56:17Z",
+      "rarityPercent": 52.9
+    },
+    {
+      "id": 8,
+      "name": "Breaking And Entering",
+      "detail": "Gain access to Arkham Mansion after it is locked down by the Joker",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-19T21:11:41Z",
+      "rarityPercent": 52.4
+    },
+    {
+      "id": 9,
+      "name": "Recurring Nightmare",
+      "detail": "Face your biggest fears and keep your sanity",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-21T01:19:10Z",
+      "rarityPercent": 48.9
+    },
+    {
+      "id": 10,
+      "name": "Zsasz Cut Down To Size",
+      "detail": "Save Dr. Young from being killed by Victor Zsasz",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-21T01:25:38Z",
+      "rarityPercent": 48.7
+    },
+    {
+      "id": 21,
+      "name": "Freeflow Combo 40",
+      "detail": "Complete a combo of 40 moves (any play mode)",
+      "type": "silver",
+      "earnedDateTime": "2024-12-21T01:33:29Z",
+      "rarityPercent": 8.3
+    },
+    {
+      "id": 41,
+      "name": "Lateral Thinker",
+      "detail": "Solve 25% of Riddler challenges",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-21T01:43:01Z",
+      "rarityPercent": 39.4
+    },
+    {
+      "id": 11,
+      "name": "Solitary Confinement",
+      "detail": "Capture and lock up Harley Quinn",
+      "type": "silver",
+      "earnedDateTime": "2024-12-21T04:25:59Z",
+      "rarityPercent": 46.7
+    },
+    {
+      "id": 24,
+      "name": "Mano-A-Mano",
+      "detail": "Defeat Titan henchman without using Batarangs (any play mode)",
+      "type": "silver",
+      "earnedDateTime": "2024-12-21T17:46:00Z",
+      "rarityPercent": 8.1
+    },
+    {
+      "id": 12,
+      "name": "Double Trouble",
+      "detail": "Defeat two Titan Henchmen at once",
+      "type": "silver",
+      "earnedDateTime": "2024-12-21T17:47:34Z",
+      "rarityPercent": 44.5
+    },
+    {
+      "id": 13,
+      "name": "Resist The Fear",
+      "detail": "Conquer the effects of the Scarecrow's fear gas",
+      "type": "silver",
+      "earnedDateTime": "2024-12-22T00:33:53Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 14,
+      "name": "Crocodile Tears",
+      "detail": "Venture into Killer Croc's lair and come out alive",
+      "type": "silver",
+      "earnedDateTime": "2024-12-22T00:55:15Z",
+      "rarityPercent": 41.5
+    },
+    {
+      "id": 42,
+      "name": "Mystery Solver",
+      "detail": "Solve 40% of Riddler challenges",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-22T00:55:33Z",
+      "rarityPercent": 25.7
+    },
+    {
+      "id": 29,
+      "name": "Freakshow Rodeo",
+      "detail": "Ride Titan henchman and knock down 10 thugs (any play mode)",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-22T01:26:26Z",
+      "rarityPercent": 39.9
+    },
+    {
+      "id": 15,
+      "name": "Poisoned Ivy",
+      "detail": "Defeat the giant Titan Ivy plant",
+      "type": "silver",
+      "earnedDateTime": "2024-12-23T00:34:31Z",
+      "rarityPercent": 39.5
+    },
+    {
+      "id": 19,
+      "name": "Party Pooper",
+      "detail": "KO all the henchmen celebrating your arrival at the party",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T00:46:38Z",
+      "rarityPercent": 26.2
+    },
+    {
+      "id": 16,
+      "name": "Big Bang",
+      "detail": "Complete story mode on Easy difficulty",
+      "type": "silver",
+      "earnedDateTime": "2024-12-23T01:09:57Z",
+      "rarityPercent": 38.6
+    },
+    {
+      "id": 17,
+      "name": "Bigger Bang",
+      "detail": "Complete story mode on Normal difficulty",
+      "type": "silver",
+      "earnedDateTime": "2024-12-23T01:09:57Z",
+      "rarityPercent": 32.4
+    },
+    {
+      "id": 18,
+      "name": "Biggest Bang",
+      "detail": "Complete story mode on Hard difficulty",
+      "type": "silver",
+      "earnedDateTime": "2024-12-23T01:09:57Z",
+      "rarityPercent": 7.6
+    },
+    {
+      "id": 25,
+      "name": "Catch!",
+      "detail": "Catch a Batarang (any play mode)",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T01:17:08Z",
+      "rarityPercent": 9.3
+    },
+    {
+      "id": 37,
+      "name": "Flawless Freeflow Fighter",
+      "detail": "Complete one combat challenge without taking damage",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T02:00:08Z",
+      "rarityPercent": 7.2
+    },
+    {
+      "id": 36,
+      "name": "Invisible Predator",
+      "detail": "Complete one predator challenge by using only Silent Takedowns and without being detected",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T02:06:02Z",
+      "rarityPercent": 4.3
+    },
+    {
+      "id": 30,
+      "name": "Freeflow Bronze",
+      "detail": "Achieve 8 medals on combat challenges",
+      "type": "bronze",
+      "earnedDateTime": "2024-12-23T02:35:07Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 43,
+      "name": "Conundrum Cracker",
+      "detail": "Solve 55% of Riddler challenges",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-24T14:43:25Z",
+      "rarityPercent": 17.9
+    },
+    {
+      "id": 44,
+      "name": "Mental Athlete",
+      "detail": "Solve 70% of Riddler challenges",
+      "type": "bronze",
+      "earnedDateTime": "2026-01-24T16:38:40Z",
+      "rarityPercent": 14
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "game": "Assassin's Creed® Revelations",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR11437_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 34,
+    "silver": 14,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 14,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-09-12T00:26:20Z",
+  "earnedTotal": 50,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 2,
+      "name": "Best Served Cold",
+      "detail": "Complete DNA Sequence 1.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-22T22:48:47Z",
+      "rarityPercent": 78.3
+    },
+    {
+      "id": 4,
+      "name": "Istanbul and Constantinople",
+      "detail": "Complete DNA Sequence 2.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-24T13:48:18Z",
+      "rarityPercent": 68.6
+    },
+    {
+      "id": 27,
+      "name": "Overkiller",
+      "detail": "Assassinate 50 guards with the hidden blade.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-24T14:51:19Z",
+      "rarityPercent": 56.2
+    },
+    {
+      "id": 6,
+      "name": "Seal the Deal",
+      "detail": "Complete DNA Sequence 3.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-24T23:51:15Z",
+      "rarityPercent": 54.4
+    },
+    {
+      "id": 34,
+      "name": "My Protégé ",
+      "detail": "Have one trainee reach the rank of Master Assassin.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-24T23:51:15Z",
+      "rarityPercent": 54.5
+    },
+    {
+      "id": 7,
+      "name": "The Prince",
+      "detail": "Complete DNA Sequence 4.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-25T13:31:54Z",
+      "rarityPercent": 50.2
+    },
+    {
+      "id": 20,
+      "name": "Armchair General",
+      "detail": "Control all cities (except Rhodes) simultaneously in the Mediterranean Defense game.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-25T14:19:40Z",
+      "rarityPercent": 14.7
+    },
+    {
+      "id": 21,
+      "name": "Iron Curtain",
+      "detail": "Perform a perfect den defense without using the cannon.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-25T14:51:38Z",
+      "rarityPercent": 16.1
+    },
+    {
+      "id": 39,
+      "name": "Bully",
+      "detail": "Find and beat up Duccio.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-25T14:59:56Z",
+      "rarityPercent": 17
+    },
+    {
+      "id": 8,
+      "name": "The Plot Thickens",
+      "detail": "Complete DNA Sequence 5.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-26T20:51:13Z",
+      "rarityPercent": 47.7
+    },
+    {
+      "id": 9,
+      "name": "Successes and Failures",
+      "detail": "Complete DNA Sequence 6.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-26T22:13:27Z",
+      "rarityPercent": 45.1
+    },
+    {
+      "id": 1,
+      "name": "The Early Years",
+      "detail": "Complete Desmond Sequence 1.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-26T22:31:44Z",
+      "rarityPercent": 26.3
+    },
+    {
+      "id": 3,
+      "name": "The Reluctant Assassin",
+      "detail": "Complete Desmond Sequence 2.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-26T22:40:30Z",
+      "rarityPercent": 18.2
+    },
+    {
+      "id": 5,
+      "name": "Escape To New York",
+      "detail": "Complete Desmond Sequence 3.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-28T21:20:05Z",
+      "rarityPercent": 15.6
+    },
+    {
+      "id": 10,
+      "name": "The Rotten Apple",
+      "detail": "Complete Desmond Sequence 4.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-28T21:29:12Z",
+      "rarityPercent": 14.4
+    },
+    {
+      "id": 13,
+      "name": "Are You Desmond Miles?",
+      "detail": "Complete Desmond Sequence 5.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-28T21:39:00Z",
+      "rarityPercent": 14.5
+    },
+    {
+      "id": 11,
+      "name": "Old Boss, New Boss",
+      "detail": "Complete DNA Sequence 7.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-28T22:44:35Z",
+      "rarityPercent": 44.4
+    },
+    {
+      "id": 12,
+      "name": "Priorities",
+      "detail": "Complete DNA Sequence 8.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-28T23:30:50Z",
+      "rarityPercent": 43.7
+    },
+    {
+      "id": 15,
+      "name": "Fond Memories",
+      "detail": "Achieve 100% Synchronization in all Sequences.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-29T16:22:43Z",
+      "rarityPercent": 7.6
+    },
+    {
+      "id": 14,
+      "name": "Revelations",
+      "detail": "Complete DNA Sequence 9.",
+      "type": "gold",
+      "earnedDateTime": "2025-08-29T16:28:29Z",
+      "rarityPercent": 43.4
+    },
+    {
+      "id": 36,
+      "name": "Silent but deadly",
+      "detail": "Kill three guards simultaneously with only throwing knives.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-30T00:33:28Z",
+      "rarityPercent": 17.6
+    },
+    {
+      "id": 25,
+      "name": "The Mentor",
+      "detail": "Have seven trainees reach the rank of Master Assassin.",
+      "type": "silver",
+      "earnedDateTime": "2025-08-30T01:57:15Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 26,
+      "name": "Lightning Strikes",
+      "detail": "Kill 5 guards in 5 seconds using only your hidden blades.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T00:37:35Z",
+      "rarityPercent": 6.9
+    },
+    {
+      "id": 32,
+      "name": "Mouse Trap",
+      "detail": "Kill 5 guards with a scaffold after they have been stunned by caltrops.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T00:43:26Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 19,
+      "name": "Pyromaniac",
+      "detail": "Complete all Bomb Missions.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T00:45:49Z",
+      "rarityPercent": 9
+    },
+    {
+      "id": 23,
+      "name": "A Friend Indeed",
+      "detail": "Complete all Faction Creed Challenges from a single faction.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T19:31:16Z",
+      "rarityPercent": 9.8
+    },
+    {
+      "id": 47,
+      "name": "Save yourself",
+      "detail": "Land on a block after falling more than 25 meters (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T19:41:21Z",
+      "rarityPercent": 14.9
+    },
+    {
+      "id": 40,
+      "name": "Part of the Creed",
+      "detail": "Take the induction leap of faith (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T20:56:29Z",
+      "rarityPercent": 13
+    },
+    {
+      "id": 41,
+      "name": "Jump they say",
+      "detail": "Reach the Animus memo (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T21:09:14Z",
+      "rarityPercent": 10.6
+    },
+    {
+      "id": 42,
+      "name": "Enter the Animus",
+      "detail": "Enter the Animus simulation (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T21:20:41Z",
+      "rarityPercent": 9.8
+    },
+    {
+      "id": 48,
+      "name": "Impress Warren Vidic",
+      "detail": "Complete the Animus testing sequence without failing (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T22:10:15Z",
+      "rarityPercent": 5
+    },
+    {
+      "id": 30,
+      "name": "Fast Fingers",
+      "detail": "Loot 50 dead guards with thief looting.",
+      "type": "bronze",
+      "earnedDateTime": "2025-08-31T22:50:30Z",
+      "rarityPercent": 6.3
+    },
+    {
+      "id": 43,
+      "name": "Meet your maker",
+      "detail": "Finish memory five (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-06T12:09:52Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 44,
+      "name": "The Loop",
+      "detail": "Experience the loop (The Lost Archive).",
+      "type": "silver",
+      "earnedDateTime": "2025-09-06T12:50:06Z",
+      "rarityPercent": 8.5
+    },
+    {
+      "id": 45,
+      "name": "Find all Pieces",
+      "detail": "Find all of the decipher fragments (The Lost Archive).",
+      "type": "silver",
+      "earnedDateTime": "2025-09-07T13:42:22Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 49,
+      "name": "Cross Styx without dying",
+      "detail": "Make it across the river Styx without failing (The Lost Archive).",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-07T13:49:08Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 46,
+      "name": "Breaking the Loop",
+      "detail": "Break the loop, escape the cycle (The Lost Archive).",
+      "type": "silver",
+      "earnedDateTime": "2025-09-07T13:58:06Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 22,
+      "name": "Spider Assassin",
+      "detail": "Climb Hagia Sofia, from the ground to the pinnacle, in under 25 seconds.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-07T21:16:11Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 28,
+      "name": "Show-Off",
+      "detail": "Parachute onto a zipline.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-07T21:34:56Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 37,
+      "name": "I can see you",
+      "detail": "Kill 5 guards while under the cover of a smoke screen bomb.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-07T22:10:38Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 38,
+      "name": "Monster's dance",
+      "detail": "Have a guard incapacitate 3 civilians while he's poisoned.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-08T19:09:33Z",
+      "rarityPercent": 13
+    },
+    {
+      "id": 29,
+      "name": "Sage",
+      "detail": "Collect all available books.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-08T19:48:01Z",
+      "rarityPercent": 6.6
+    },
+    {
+      "id": 18,
+      "name": "Worth A Thousand Words",
+      "detail": "Collect all of Ishak Pasha's memoir pages.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-08T19:52:12Z",
+      "rarityPercent": 14.1
+    },
+    {
+      "id": 16,
+      "name": "Holy Wisdom",
+      "detail": "Complete the Hagia Sofia challenge level.",
+      "type": "silver",
+      "earnedDateTime": "2025-09-08T20:06:36Z",
+      "rarityPercent": 13.7
+    },
+    {
+      "id": 24,
+      "name": "Tax Evasion",
+      "detail": "Get your money back from a Templar tax collector.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-11T23:40:11Z",
+      "rarityPercent": 23.6
+    },
+    {
+      "id": 31,
+      "name": "Mosh Pit",
+      "detail": "Have 10 guards poisoned at the same time.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-12T00:00:04Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 17,
+      "name": "Capped",
+      "detail": "Collect all Animus data fragments.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-12T00:09:34Z",
+      "rarityPercent": 8
+    },
+    {
+      "id": 33,
+      "name": "Craft Maniac",
+      "detail": "Craft 30 bombs.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-12T00:21:46Z",
+      "rarityPercent": 18.5
+    },
+    {
+      "id": 0,
+      "name": "The Conqueror",
+      "detail": "Get Every Trophy",
+      "type": "platinum",
+      "earnedDateTime": "2025-09-12T00:26:20Z",
+      "rarityPercent": 4.8
+    },
+    {
+      "id": 35,
+      "name": "Almost flying",
+      "detail": "Parachute directly from the top of the Galata Tower to the golden horn.",
+      "type": "bronze",
+      "earnedDateTime": "2025-09-12T00:26:20Z",
+      "rarityPercent": 7.8
+    }
+  ]
+}

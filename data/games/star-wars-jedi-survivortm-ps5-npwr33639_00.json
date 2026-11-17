@@ -1,0 +1,461 @@
+{
+  "game": "STAR WARS Jedi: Survivor™",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR33639_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 44,
+    "silver": 7,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 44,
+    "silver": 7,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2025-06-11T01:17:45Z",
+  "earnedTotal": 54,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Rooftop Duel",
+      "detail": "Defeat an Inquisitor",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-18T16:15:50Z",
+      "rarityPercent": 72.1
+    },
+    {
+      "id": 2,
+      "name": "For Saw Gerrera",
+      "detail": "Break free from the grasp of the Empire",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-18T16:34:50Z",
+      "rarityPercent": 70.8
+    },
+    {
+      "id": 36,
+      "name": "Can You Pet the Bogling?",
+      "detail": "You can pet the bogling",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-20T18:18:31Z",
+      "rarityPercent": 60
+    },
+    {
+      "id": 3,
+      "name": "Grab Some Seat",
+      "detail": "Chat with the owner of the Koboh cantina",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-20T19:36:44Z",
+      "rarityPercent": 63.1
+    },
+    {
+      "id": 4,
+      "name": "The Past Made Present",
+      "detail": "Release the Jedi from the bacta tank",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-22T18:16:59Z",
+      "rarityPercent": 56.9
+    },
+    {
+      "id": 26,
+      "name": "Riposte",
+      "detail": "Parry a Force Pull resisting enemy",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-22T19:22:33Z",
+      "rarityPercent": 33
+    },
+    {
+      "id": 18,
+      "name": "They Never Saw It Coming",
+      "detail": "Strike an unaware enemy 20 times",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-22T21:04:34Z",
+      "rarityPercent": 53.9
+    },
+    {
+      "id": 30,
+      "name": "Now, This Isn't Podracing",
+      "detail": "Travel 500m of distance while riding creatures",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T00:03:52Z",
+      "rarityPercent": 46.4
+    },
+    {
+      "id": 28,
+      "name": "King of the World",
+      "detail": "Reach the highest point of Harvest Ridge",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T13:50:12Z",
+      "rarityPercent": 12.8
+    },
+    {
+      "id": 32,
+      "name": "They're Probably Fine",
+      "detail": "Drop your mount into the great unknown",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T14:11:16Z",
+      "rarityPercent": 30.4
+    },
+    {
+      "id": 31,
+      "name": "Cleaning Up",
+      "detail": "Refresh the Refresher",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T15:01:14Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 5,
+      "name": "Survivors, We Adapt",
+      "detail": "Travel together with a Nightsister",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T16:35:47Z",
+      "rarityPercent": 54.4
+    },
+    {
+      "id": 16,
+      "name": "You've Got A Friend",
+      "detail": "Direct your companions to assist in combat 10 times each",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T16:45:56Z",
+      "rarityPercent": 21.5
+    },
+    {
+      "id": 6,
+      "name": "Among the Masters",
+      "detail": "Meet the Jedi Masters",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-23T17:26:19Z",
+      "rarityPercent": 53.5
+    },
+    {
+      "id": 38,
+      "name": "Who Gives a Puck",
+      "detail": "Obtain your first bounty",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-24T12:52:43Z",
+      "rarityPercent": 51.4
+    },
+    {
+      "id": 44,
+      "name": "Road House",
+      "detail": "Dropkick an enemy while wearing a mullet",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-28T19:25:14Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 23,
+      "name": "Mirror Match",
+      "detail": "A confused enemy defeats an enemy of the same type",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-28T19:42:11Z",
+      "rarityPercent": 48.8
+    },
+    {
+      "id": 7,
+      "name": "For the Path",
+      "detail": "Protect Pilgrim's Sanctuary",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-28T20:13:14Z",
+      "rarityPercent": 47.6
+    },
+    {
+      "id": 33,
+      "name": "Skywalker",
+      "detail": "Keep your feet off the ground and walls for 60 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-30T15:17:02Z",
+      "rarityPercent": 46
+    },
+    {
+      "id": 8,
+      "name": "Out of Bedlam",
+      "detail": "Rescue a friend from the Bedlam Raiders",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-30T21:45:50Z",
+      "rarityPercent": 45.6
+    },
+    {
+      "id": 29,
+      "name": "There Is No Try",
+      "detail": "Help lift a ship out of the tar pits",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-30T23:33:13Z",
+      "rarityPercent": 27.9
+    },
+    {
+      "id": 35,
+      "name": "Max Capacity",
+      "detail": "Have a packed cantina",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-30T23:33:36Z",
+      "rarityPercent": 12.6
+    },
+    {
+      "id": 27,
+      "name": "Star Tours",
+      "detail": "Discover and complete all Jedi Chambers",
+      "type": "silver",
+      "earnedDateTime": "2025-05-31T00:02:59Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 19,
+      "name": "This Is Canon",
+      "detail": "Push an enemy into the Shattered Moon mining cannon",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-31T00:39:49Z",
+      "rarityPercent": 22.6
+    },
+    {
+      "id": 52,
+      "name": "The Jedi Path",
+      "detail": "Fully upgrade 3 skill trees",
+      "type": "bronze",
+      "earnedDateTime": "2025-05-31T19:51:06Z",
+      "rarityPercent": 21.7
+    },
+    {
+      "id": 34,
+      "name": "It's a Trap",
+      "detail": "Explore the Phon'Qi Caverns",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-01T14:10:49Z",
+      "rarityPercent": 20.7
+    },
+    {
+      "id": 40,
+      "name": "Greezy Money",
+      "detail": "Trade 25 collected items",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-01T15:21:36Z",
+      "rarityPercent": 32.7
+    },
+    {
+      "id": 25,
+      "name": "Slam Dunk",
+      "detail": "Slam 5 enemies with a single use of Slam",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-03T12:23:55Z",
+      "rarityPercent": 11.3
+    },
+    {
+      "id": 45,
+      "name": "Kitted Out",
+      "detail": "Customize BD-1, the blaster, and Cal's lightsaber with new parts",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-03T12:39:31Z",
+      "rarityPercent": 37.6
+    },
+    {
+      "id": 20,
+      "name": "I'm a Living Legend",
+      "detail": "Defeat all legendary adversaries",
+      "type": "silver",
+      "earnedDateTime": "2025-06-04T19:39:23Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 9,
+      "name": "Tanalorr Bound",
+      "detail": "Collect the Abyss Compass",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-05T13:24:55Z",
+      "rarityPercent": 42.5
+    },
+    {
+      "id": 48,
+      "name": "Gambler",
+      "detail": "Win all holotactics matches ",
+      "type": "silver",
+      "earnedDateTime": "2025-06-05T13:54:34Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 10,
+      "name": "Tragedy",
+      "detail": "Defend the Archive",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-05T14:54:05Z",
+      "rarityPercent": 41.6
+    },
+    {
+      "id": 11,
+      "name": "At the Precipice",
+      "detail": "Survive Nova Garon",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-06T10:53:37Z",
+      "rarityPercent": 41.1
+    },
+    {
+      "id": 12,
+      "name": "Into the Abyss",
+      "detail": "Discover the route to Tanalorr",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-06T11:08:40Z",
+      "rarityPercent": 40.7
+    },
+    {
+      "id": 13,
+      "name": "A Place You Could Call Home",
+      "detail": "Complete the story",
+      "type": "gold",
+      "earnedDateTime": "2025-06-06T15:03:28Z",
+      "rarityPercent": 39.3
+    },
+    {
+      "id": 15,
+      "name": "So Uncivilized ",
+      "detail": "Defeat 10 enemies with shots using the Point Blank skill",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-07T18:27:43Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 14,
+      "name": "Han Slowlo",
+      "detail": "Defeat 50 enemies under the effect of Slow",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-07T18:30:02Z",
+      "rarityPercent": 32.8
+    },
+    {
+      "id": 21,
+      "name": "Get Down From There",
+      "detail": "Attack 20 Lifted enemies",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-07T18:31:20Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 22,
+      "name": "One With the Force",
+      "detail": "Avoid 50 attacks using Focus Sight",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-07T22:02:27Z",
+      "rarityPercent": 5.1
+    },
+    {
+      "id": 24,
+      "name": "Pinpoint",
+      "detail": "Execute 10 perfectly timed precision releases",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-08T12:06:50Z",
+      "rarityPercent": 4.8
+    },
+    {
+      "id": 39,
+      "name": "Perk of the Job",
+      "detail": "Equip Perks in all slots",
+      "type": "silver",
+      "earnedDateTime": "2025-06-08T12:08:16Z",
+      "rarityPercent": 6.8
+    },
+    {
+      "id": 37,
+      "name": "Caij Match",
+      "detail": "Gain the attention of a mysterious stranger",
+      "type": "silver",
+      "earnedDateTime": "2025-06-10T14:43:33Z",
+      "rarityPercent": 9.7
+    },
+    {
+      "id": 43,
+      "name": "Hey, Luke At Us",
+      "detail": "Equip a new cosmetic in every Cal slot",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-10T14:47:30Z",
+      "rarityPercent": 36
+    },
+    {
+      "id": 42,
+      "name": "A Presence I've Not Felt Since...",
+      "detail": "Wear an old wardrobe staple",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-10T14:47:44Z",
+      "rarityPercent": 12.7
+    },
+    {
+      "id": 53,
+      "name": "Blood, Sweat, and Tears",
+      "detail": "Complete all Force Tears",
+      "type": "gold",
+      "earnedDateTime": "2025-06-10T15:06:09Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 50,
+      "name": "Reconnaissance",
+      "detail": "Use BD-1 to investigate a target in the distance",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-10T15:09:24Z",
+      "rarityPercent": 14.4
+    },
+    {
+      "id": 17,
+      "name": "Catch!",
+      "detail": "Hit 3 enemies with a single roller mine",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-10T15:12:35Z",
+      "rarityPercent": 30.7
+    },
+    {
+      "id": 46,
+      "name": "Skoova Diving",
+      "detail": "Fill the aquarium in the cantina",
+      "type": "silver",
+      "earnedDateTime": "2025-06-10T15:20:52Z",
+      "rarityPercent": 6.9
+    },
+    {
+      "id": 49,
+      "name": "Intergalactic Geographic",
+      "detail": "Scan every type of enemy to fill out the Tactical Guide",
+      "type": "silver",
+      "earnedDateTime": "2025-06-10T15:40:30Z",
+      "rarityPercent": 5.7
+    },
+    {
+      "id": 41,
+      "name": "Cobra Cal",
+      "detail": "Train with your weapons while wearing a headband",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-10T15:43:06Z",
+      "rarityPercent": 6.7
+    },
+    {
+      "id": 51,
+      "name": "Splurgle",
+      "detail": "Purchase all of Doma's merchandise ",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-11T00:38:21Z",
+      "rarityPercent": 4.4
+    },
+    {
+      "id": 0,
+      "name": "The Jedi Survivor",
+      "detail": "Unlock all Trophies",
+      "type": "platinum",
+      "earnedDateTime": "2025-06-11T01:17:45Z",
+      "rarityPercent": 3.6
+    },
+    {
+      "id": 47,
+      "name": "Growth Spurt",
+      "detail": "Find space for a full garden",
+      "type": "bronze",
+      "earnedDateTime": "2025-06-11T01:17:45Z",
+      "rarityPercent": 8.6
+    }
+  ]
+}
