@@ -1,0 +1,37 @@
+{
+  "game": "Crash Bandicoot",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR12476_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 8,
+    "silver": 8,
+    "gold": 8,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-01-13T23:40:38Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 24,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 8,
+    "silver": 8,
+    "bronze": 7
+  },
+  "earned": [
+    {
+      "id": 7,
+      "name": "Spin Doctor",
+      "detail": "In a single level, spin an enemy into another enemy twice.",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-13T23:40:35Z",
+      "rarityPercent": 88.2
+    }
+  ]
+}

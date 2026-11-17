@@ -1,0 +1,45 @@
+{
+  "game": "FIFA 20",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR17768_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 12,
+    "silver": 14,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-03-28T15:18:40Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 30,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 13,
+    "bronze": 11
+  },
+  "earned": [
+    {
+      "id": 21,
+      "name": "Beginner's Luck",
+      "detail": "Win a \"Mystery Ball\" or \"King of the Hill\" match",
+      "type": "silver",
+      "earnedDateTime": "2021-03-26T20:26:51Z",
+      "rarityPercent": 7.8
+    },
+    {
+      "id": 4,
+      "name": "Sharpshooter",
+      "detail": "Score a goal from a Free Kick",
+      "type": "bronze",
+      "earnedDateTime": "2021-03-28T15:18:37Z",
+      "rarityPercent": 35.9
+    }
+  ]
+}

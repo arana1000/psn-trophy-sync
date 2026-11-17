@@ -1,0 +1,37 @@
+{
+  "game": "Friday the 13: The Game",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR12222_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 42,
+    "silver": 6,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-06-10T23:16:10Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 50,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 6,
+    "bronze": 41
+  },
+  "earned": [
+    {
+      "id": 8,
+      "name": "First Blood",
+      "detail": "Kill 1 counselor.",
+      "type": "bronze",
+      "earnedDateTime": "2020-06-10T23:16:03Z",
+      "rarityPercent": 65.4
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "game": "Call of Duty®: Black Ops III",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08801_00",
+  "progressPercent": 18,
+  "earnedCounts": {
+    "bronze": 18,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 72,
+    "silver": 25,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-12-30T02:10:56Z",
+  "earnedTotal": 21,
+  "unearnedTotal": 78,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 22,
+    "bronze": 54
+  },
+  "earned": [
+    {
+      "id": 25,
+      "name": "Can't Hide",
+      "detail": "In Campaign, kill an enemy through a wall or obstruction.  ",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-11T20:37:50Z",
+      "rarityPercent": 47.8
+    },
+    {
+      "id": 47,
+      "name": "Deadly Specialist",
+      "detail": "Get a Specialist-based medal that requires 3 or more rapid kills while using any Specialist Weapon. ",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-12T16:39:24Z",
+      "rarityPercent": 29.6
+    },
+    {
+      "id": 44,
+      "name": "Welcome to the Club",
+      "detail": "Reach Sergeant (Level 10) in Multiplayer while playing online.",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-13T15:51:07Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 29,
+      "name": "Foe To Friend",
+      "detail": "Use an enemy combat robot to kill 10 enemies.",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-15T17:39:05Z",
+      "rarityPercent": 31.7
+    },
+    {
+      "id": 21,
+      "name": "Doing Camo Right",
+      "detail": "In Campaign, unlock all camos for any weapon. ",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-15T17:52:40Z",
+      "rarityPercent": 6.9
+    },
+    {
+      "id": 14,
+      "name": "Hold Still!",
+      "detail": "Kill 6 enemies affected by one Blinding Swarm or Firefly Swarm.",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-15T17:52:51Z",
+      "rarityPercent": 5.2
+    },
+    {
+      "id": 34,
+      "name": "Silverback In Black",
+      "detail": "Hack the Data Vault and brace yourself for Cyber's Avengening in Dead Ops Arcade 2.",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-15T18:11:45Z",
+      "rarityPercent": 20.8
+    },
+    {
+      "id": 32,
+      "name": "Lock, Stock, And Then Some",
+      "detail": "In Campaign, unlock all attachments for any weapon. ",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-17T16:56:17Z",
+      "rarityPercent": 15.9
+    },
+    {
+      "id": 17,
+      "name": "Decimator",
+      "detail": "In Campaign, kill 10 enemies in under 3 seconds. ",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-19T16:47:41Z",
+      "rarityPercent": 30.2
+    },
+    {
+      "id": 13,
+      "name": "Another Side of the Story",
+      "detail": "Complete the Campaign on any difficulty.",
+      "type": "bronze",
+      "earnedDateTime": "2015-11-19T18:38:42Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 35,
+      "name": "The Beginning of the End",
+      "detail": "In Shadows of Evil, complete all Rituals.",
+      "type": "silver",
+      "earnedDateTime": "2016-01-22T21:49:59Z",
+      "rarityPercent": 18.2
+    },
+    {
+      "id": 36,
+      "name": "From the Shadows",
+      "detail": "In Shadows of Evil, spot the Shadowman fives times in one game.",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-22T21:50:11Z",
+      "rarityPercent": 18.2
+    },
+    {
+      "id": 46,
+      "name": "Tactical Specialist",
+      "detail": "Get 5 Medals based on a Specialist Ability in a single game. ",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-10T17:12:10Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 45,
+      "name": "Battle Tested",
+      "detail": "Reach Commander (Level 55) in Multiplayer while playing online.",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-05T19:45:58Z",
+      "rarityPercent": 14
+    },
+    {
+      "id": 1,
+      "name": "Disavowed",
+      "detail": "Complete Black Ops on Hardened, Veteran, or Realistic.",
+      "type": "silver",
+      "earnedDateTime": "2016-03-08T18:06:24Z",
+      "rarityPercent": 10.4
+    },
+    {
+      "id": 2,
+      "name": "A Second Chance",
+      "detail": "Complete New World on Hardened, Veteran, or Realistic.",
+      "type": "silver",
+      "earnedDateTime": "2016-03-09T18:56:42Z",
+      "rarityPercent": 7.2
+    },
+    {
+      "id": 80,
+      "name": "Pack-A-Punch-ectomy",
+      "detail": "In Revelations, recover the Pack-a-Punch machine from its abductor.",
+      "type": "bronze",
+      "earnedDateTime": "2016-09-11T16:24:51Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 43,
+      "name": "Parasite-Seeing",
+      "detail": "In Shadows of Evil, kill 5 Parasites while riding on the train.",
+      "type": "bronze",
+      "earnedDateTime": "2017-05-20T20:15:55Z",
+      "rarityPercent": 5.4
+    },
+    {
+      "id": 96,
+      "name": "I said we’re CLOSED!",
+      "detail": "In Nacht Der Untoten, do not let any zombies enter the building during the first 3 rounds.",
+      "type": "bronze",
+      "earnedDateTime": "2017-07-31T16:26:42Z",
+      "rarityPercent": 2.5
+    },
+    {
+      "id": 55,
+      "name": "That’s a lot of Jigawatts!",
+      "detail": "In Der Eisendrache, electrocute 121 zombies.",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-30T02:00:54Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 57,
+      "name": "Death From Above",
+      "detail": "In Der Eisendrache, kill a zombie while being flung by a Wundersphere.",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-30T02:10:45Z",
+      "rarityPercent": 4.2
+    }
+  ]
+}

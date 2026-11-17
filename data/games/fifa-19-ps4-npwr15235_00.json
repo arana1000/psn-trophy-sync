@@ -1,0 +1,28 @@
+{
+  "game": "FIFA 19",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR15235_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 29,
+    "silver": 8,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2019-08-22T13:24:40Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 42,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 8,
+    "bronze": 29
+  },
+  "earned": []
+}

@@ -1,0 +1,101 @@
+{
+  "game": "Fall Guys",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR19418_00",
+  "progressPercent": 13,
+  "earnedCounts": {
+    "bronze": 9,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 21,
+    "silver": 8,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-08-15T00:26:21Z",
+  "earnedTotal": 9,
+  "unearnedTotal": 26,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 8,
+    "bronze": 12
+  },
+  "earned": [
+    {
+      "id": 3,
+      "name": "Snowflake",
+      "detail": "Equip your first cosmetic item",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-14T23:02:02Z",
+      "rarityPercent": 90.3
+    },
+    {
+      "id": 19,
+      "name": "One small trip",
+      "detail": "Qualify from your first round",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-14T23:11:29Z",
+      "rarityPercent": 91.3
+    },
+    {
+      "id": 34,
+      "name": "Fall Throttle",
+      "detail": "Reach terminal velocity ",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-14T23:23:32Z",
+      "rarityPercent": 76.4
+    },
+    {
+      "id": 33,
+      "name": "Troublemaker",
+      "detail": "Bump into 3 people while rolling on the ground before getting up",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-14T23:28:10Z",
+      "rarityPercent": 88.7
+    },
+    {
+      "id": 32,
+      "name": "Big Bully",
+      "detail": "Knock someone over",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-14T23:47:23Z",
+      "rarityPercent": 88.7
+    },
+    {
+      "id": 25,
+      "name": "Face First",
+      "detail": "Qualify from a racing round despite falling over more than 10 times",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-14T23:58:24Z",
+      "rarityPercent": 71.1
+    },
+    {
+      "id": 28,
+      "name": "Fall Bae",
+      "detail": "Share a hug with a Fall Guy",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-15T00:00:00Z",
+      "rarityPercent": 70.5
+    },
+    {
+      "id": 11,
+      "name": "Flawless Victory",
+      "detail": "Qualify from a round without falling over even once",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-15T00:23:29Z",
+      "rarityPercent": 69.8
+    },
+    {
+      "id": 30,
+      "name": "Stumble Chums",
+      "detail": "Bump into other Fall Guys 1000 times in total",
+      "type": "bronze",
+      "earnedDateTime": "2020-08-15T00:26:18Z",
+      "rarityPercent": 66.8
+    }
+  ]
+}

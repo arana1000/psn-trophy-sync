@@ -1,0 +1,37 @@
+{
+  "game": "STREET FIGHTER V",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07518_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 35,
+    "silver": 5,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-09-02T17:47:48Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 44,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 5,
+    "bronze": 34
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Mastering The Basics",
+      "detail": "Why don't you try finishing up the tutorial? You might've mastered the first step, but nailing down the fundamentals is what's important.",
+      "type": "bronze",
+      "earnedDateTime": "2020-09-02T17:47:44Z",
+      "rarityPercent": 91.4
+    }
+  ]
+}

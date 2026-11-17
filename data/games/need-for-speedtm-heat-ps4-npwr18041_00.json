@@ -1,0 +1,85 @@
+{
+  "game": "Need for Speed™ Heat",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR18041_00",
+  "progressPercent": 10,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 31,
+    "silver": 8,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-04-14T22:16:17Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 36,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 8,
+    "bronze": 24
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Welcome to Palm City",
+      "detail": "Pick your first ride",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-06T22:13:53Z",
+      "rarityPercent": 89.8
+    },
+    {
+      "id": 36,
+      "name": "Humble Beginnings",
+      "detail": "Reach REP Level 2",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-11T20:01:52Z",
+      "rarityPercent": 73.1
+    },
+    {
+      "id": 18,
+      "name": "Wrap It Up!",
+      "detail": "Customize a vehicle with a wrap",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-11T20:04:00Z",
+      "rarityPercent": 57.4
+    },
+    {
+      "id": 19,
+      "name": "Don't Quit Your Day Job",
+      "detail": "Complete your first Daily Challenge",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-11T20:08:20Z",
+      "rarityPercent": 63.2
+    },
+    {
+      "id": 2,
+      "name": "Consider Yourself Noticed",
+      "detail": "Complete Chapter 1",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-12T19:07:12Z",
+      "rarityPercent": 49.2
+    },
+    {
+      "id": 9,
+      "name": "Change My Name",
+      "detail": "Change the text on the License Plate",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-12T20:19:31Z",
+      "rarityPercent": 37.8
+    },
+    {
+      "id": 42,
+      "name": "Hear Me Roar",
+      "detail": "Win a race in a vehicle with tuned exhaust sound",
+      "type": "bronze",
+      "earnedDateTime": "2020-04-14T22:16:13Z",
+      "rarityPercent": 41.7
+    }
+  ]
+}

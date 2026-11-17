@@ -1,0 +1,28 @@
+{
+  "game": "Dead by Daylight 2/3",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR18520_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 86,
+    "silver": 41,
+    "gold": 0,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2020-07-27T15:51:50Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 127,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 41,
+    "bronze": 86
+  },
+  "earned": []
+}

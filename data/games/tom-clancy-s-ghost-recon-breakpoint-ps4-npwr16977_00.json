@@ -1,0 +1,53 @@
+{
+  "game": "Tom Clancy's Ghost Recon® Breakpoint",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR16977_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 39,
+    "silver": 9,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-01-26T23:41:41Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 48,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 9,
+    "bronze": 36
+  },
+  "earned": [
+    {
+      "id": 38,
+      "name": "Synchronized and deadly",
+      "detail": "Kill an enemy shortly after another player in Coop has killed one.",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-26T23:11:43Z",
+      "rarityPercent": 28.7
+    },
+    {
+      "id": 1,
+      "name": "A safe haven",
+      "detail": "Reach the end of Act 1.",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-26T23:27:34Z",
+      "rarityPercent": 69.6
+    },
+    {
+      "id": 37,
+      "name": "Squad Goals",
+      "detail": "Finish 3 missions in Coop.",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-26T23:41:37Z",
+      "rarityPercent": 21.7
+    }
+  ]
+}

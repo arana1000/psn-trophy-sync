@@ -1,0 +1,125 @@
+{
+  "game": "Grand Theft Auto: San Andreas",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08691_00",
+  "progressPercent": 23,
+  "earnedCounts": {
+    "bronze": 9,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 16,
+    "silver": 12,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-05-02T15:08:29Z",
+  "earnedTotal": 12,
+  "unearnedTotal": 21,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 9,
+    "bronze": 7
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Getting Started",
+      "detail": "Complete Big Smoke.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-23T23:05:10Z",
+      "rarityPercent": 57.7
+    },
+    {
+      "id": 7,
+      "name": "Get a Pump",
+      "detail": "Do a barbell curl or benchpress at any gym.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-24T13:54:59Z",
+      "rarityPercent": 27.4
+    },
+    {
+      "id": 16,
+      "name": "Assert Yourself Next Time",
+      "detail": "Fail a mission.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-24T14:41:25Z",
+      "rarityPercent": 50.1
+    },
+    {
+      "id": 8,
+      "name": "Pay 'n' Spray",
+      "detail": "Use a Pay 'n' Spray with wanted level.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-24T15:05:29Z",
+      "rarityPercent": 19.4
+    },
+    {
+      "id": 27,
+      "name": "Assassin",
+      "detail": "Complete a stealth kill.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-25T16:22:35Z",
+      "rarityPercent": 15.7
+    },
+    {
+      "id": 23,
+      "name": "All Dressed Up for San Fierro",
+      "detail": "Complete The Green Sabre.",
+      "type": "silver",
+      "earnedDateTime": "2017-08-27T21:18:49Z",
+      "rarityPercent": 9.2
+    },
+    {
+      "id": 6,
+      "name": "The American Dream",
+      "detail": "Purchase any house.",
+      "type": "bronze",
+      "earnedDateTime": "2017-09-12T16:36:22Z",
+      "rarityPercent": 9.1
+    },
+    {
+      "id": 22,
+      "name": "What happens in Las Venturas...",
+      "detail": "Complete Yay Ka-Boom-Boom.",
+      "type": "silver",
+      "earnedDateTime": "2017-09-19T17:41:28Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 12,
+      "name": "School's Out",
+      "detail": "Complete a vehicle school.",
+      "type": "silver",
+      "earnedDateTime": "2017-09-20T16:32:18Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 24,
+      "name": "Home Run",
+      "detail": "'Go home' with a girlfriend after a date.",
+      "type": "bronze",
+      "earnedDateTime": "2018-10-18T18:35:00Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 15,
+      "name": "Horror of the Santa Maria",
+      "detail": "Drown.",
+      "type": "bronze",
+      "earnedDateTime": "2018-10-18T19:43:06Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 14,
+      "name": "Freight Date",
+      "detail": "Take the train between cities.",
+      "type": "bronze",
+      "earnedDateTime": "2021-05-02T15:08:26Z",
+      "rarityPercent": 3.2
+    }
+  ]
+}

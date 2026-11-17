@@ -1,0 +1,28 @@
+{
+  "game": "Minecraft: PlayStation®4 Edition Set 2",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR20567_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 14,
+    "silver": 5,
+    "gold": 4,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2021-08-13T00:10:05Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 23,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 4,
+    "silver": 5,
+    "bronze": 14
+  },
+  "earned": []
+}

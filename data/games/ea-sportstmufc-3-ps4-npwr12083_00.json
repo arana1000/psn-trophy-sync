@@ -1,0 +1,133 @@
+{
+  "game": "EA SPORTS™UFC®3",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR12083_00",
+  "progressPercent": 26,
+  "earnedCounts": {
+    "bronze": 9,
+    "silver": 4,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 16,
+    "silver": 12,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2019-08-01T17:35:52Z",
+  "earnedTotal": 13,
+  "unearnedTotal": 20,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 8,
+    "bronze": 7
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "UFC 1: The Beginning",
+      "detail": "Complete the UFC 3 Introduction.",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-08T22:18:02Z",
+      "rarityPercent": 54.9
+    },
+    {
+      "id": 17,
+      "name": "UFC 47: It's On!",
+      "detail": "Respond to a social media message during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-20T20:44:57Z",
+      "rarityPercent": 43.4
+    },
+    {
+      "id": 7,
+      "name": "UFC 3: The American Dream",
+      "detail": "Sign a Rookie Contract during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-20T20:53:08Z",
+      "rarityPercent": 42
+    },
+    {
+      "id": 14,
+      "name": "UFC 61: Bitter Rivals",
+      "detail": "Defeat a rival during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-20T22:53:14Z",
+      "rarityPercent": 38
+    },
+    {
+      "id": 8,
+      "name": "UFC 11: The Proving Ground",
+      "detail": "Sign a Prospect Contract during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-20T22:54:15Z",
+      "rarityPercent": 37.8
+    },
+    {
+      "id": 20,
+      "name": "UFC 74: Respect",
+      "detail": "Win a performance of the night bonus during your Career.",
+      "type": "silver",
+      "earnedDateTime": "2019-07-21T22:20:58Z",
+      "rarityPercent": 37.8
+    },
+    {
+      "id": 9,
+      "name": "UFC 88: Breakthrough",
+      "detail": "Sign a Contender Contract during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-21T22:41:28Z",
+      "rarityPercent": 34
+    },
+    {
+      "id": 15,
+      "name": "UFC 12: Judgement Day",
+      "detail": "Win on the main card of a Pay-Per-View during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-22T19:45:37Z",
+      "rarityPercent": 31.8
+    },
+    {
+      "id": 19,
+      "name": "UFC 54: Boiling Point",
+      "detail": "Get very high hype for any fight during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-29T23:23:02Z",
+      "rarityPercent": 27
+    },
+    {
+      "id": 10,
+      "name": "UFC 22: Only One Can be Champion",
+      "detail": "Sign a Superstar Contract during your Career.",
+      "type": "silver",
+      "earnedDateTime": "2019-07-29T23:35:33Z",
+      "rarityPercent": 28.2
+    },
+    {
+      "id": 16,
+      "name": "UFC 78: Validation",
+      "detail": "Successfully defend your title during your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2019-07-30T20:54:02Z",
+      "rarityPercent": 27.2
+    },
+    {
+      "id": 30,
+      "name": "UFC 2: No Way Out",
+      "detail": "Win against a CPU controlled fighter who is set to maximum damage, with your own set to default.",
+      "type": "silver",
+      "earnedDateTime": "2019-08-01T14:07:14Z",
+      "rarityPercent": 0.3
+    },
+    {
+      "id": 11,
+      "name": "UFC 13: The Ultimate Force",
+      "detail": "Sign a Legend Contract during your Career.",
+      "type": "silver",
+      "earnedDateTime": "2019-08-01T17:35:49Z",
+      "rarityPercent": 25.3
+    }
+  ]
+}

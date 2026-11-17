@@ -1,0 +1,53 @@
+{
+  "game": "The Last of Us™ Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR06418_00",
+  "progressPercent": 3,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 22,
+    "silver": 18,
+    "gold": 9,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-06-05T23:23:25Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 47,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 9,
+    "silver": 17,
+    "bronze": 20
+  },
+  "earned": [
+    {
+      "id": 6,
+      "name": "Let's gear up",
+      "detail": "Craft every item",
+      "type": "bronze",
+      "earnedDateTime": "2020-05-30T18:34:10Z",
+      "rarityPercent": 46.9
+    },
+    {
+      "id": 12,
+      "name": "No Matter What - Easy",
+      "detail": "Complete the game on Easy",
+      "type": "bronze",
+      "earnedDateTime": "2020-06-05T23:23:19Z",
+      "rarityPercent": 38.9
+    },
+    {
+      "id": 13,
+      "name": "No Matter What - Normal",
+      "detail": "Complete the game on Normal",
+      "type": "silver",
+      "earnedDateTime": "2020-06-05T23:23:19Z",
+      "rarityPercent": 28.2
+    }
+  ]
+}

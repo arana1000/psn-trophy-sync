@@ -1,0 +1,85 @@
+{
+  "game": "FIFA 18",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR12918_00",
+  "progressPercent": 10,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 32,
+    "silver": 9,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2019-03-02T21:36:26Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 38,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 9,
+    "bronze": 25
+  },
+  "earned": [
+    {
+      "id": 2,
+      "name": "Go low! ",
+      "detail": "Score a goal using a low shot",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-05T03:44:39Z",
+      "rarityPercent": 59.7
+    },
+    {
+      "id": 8,
+      "name": "Get your head in the game",
+      "detail": "Score a goal with a downward header",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-05T03:46:32Z",
+      "rarityPercent": 45.3
+    },
+    {
+      "id": 20,
+      "name": "Objective complete",
+      "detail": "Complete a Daily Objective in FIFA Ultimate Team",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-05T03:54:05Z",
+      "rarityPercent": 30.5
+    },
+    {
+      "id": 35,
+      "name": "My Only Hope",
+      "detail": "Perform a quicksub after you concede a goal",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-05T13:11:22Z",
+      "rarityPercent": 61.2
+    },
+    {
+      "id": 36,
+      "name": "You got skills",
+      "detail": "Complete a multiplayer skill game",
+      "type": "bronze",
+      "earnedDateTime": "2018-10-22T15:41:29Z",
+      "rarityPercent": 38.6
+    },
+    {
+      "id": 9,
+      "name": "Sharp Shooter",
+      "detail": "During open play, score a long-distance goal with a defender (25 yards out)",
+      "type": "bronze",
+      "earnedDateTime": "2019-02-15T21:40:36Z",
+      "rarityPercent": 26.9
+    },
+    {
+      "id": 10,
+      "name": "Build bridges",
+      "detail": "Successfully dribble an opponent by using The Bridge",
+      "type": "bronze",
+      "earnedDateTime": "2019-03-02T21:36:22Z",
+      "rarityPercent": 39
+    }
+  ]
+}

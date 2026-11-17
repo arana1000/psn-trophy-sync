@@ -1,0 +1,28 @@
+{
+  "game": "RESIDENT EVIL 3",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR18248_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 16,
+    "silver": 12,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-10-10T00:42:57Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 33,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 12,
+    "bronze": 16
+  },
+  "earned": []
+}

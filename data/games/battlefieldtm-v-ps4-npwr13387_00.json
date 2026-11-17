@@ -1,0 +1,45 @@
+{
+  "game": "Battlefield™ V",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR13387_00",
+  "progressPercent": 2,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 3,
+    "silver": 11,
+    "gold": 7,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-05-09T22:42:00Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 20,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 7,
+    "silver": 11,
+    "bronze": 1
+  },
+  "earned": [
+    {
+      "id": 20,
+      "name": "Last Man Standing",
+      "detail": "In Multiplayer, have 3 squad members spawn on you",
+      "type": "bronze",
+      "earnedDateTime": "2021-05-09T22:40:41Z",
+      "rarityPercent": 54.8
+    },
+    {
+      "id": 8,
+      "name": "Enemy Attrition",
+      "detail": "In Multiplayer, get 10 kills in a round",
+      "type": "bronze",
+      "earnedDateTime": "2021-05-09T22:41:54Z",
+      "rarityPercent": 42.5
+    }
+  ]
+}

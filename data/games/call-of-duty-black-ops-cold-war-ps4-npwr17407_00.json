@@ -1,0 +1,45 @@
+{
+  "game": "Call of Duty®: Black Ops Cold War",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR17407_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 33,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-05-12T23:25:41Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 46,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 11,
+    "bronze": 32
+  },
+  "earned": [
+    {
+      "id": 40,
+      "name": "The Fixer",
+      "detail": "Get 200 Eliminations in Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-01-16T00:17:51Z",
+      "rarityPercent": 48.4
+    },
+    {
+      "id": 42,
+      "name": "Calling It In",
+      "detail": "Get 50 kills with lethal Scorestreaks in Multiplayer.",
+      "type": "silver",
+      "earnedDateTime": "2021-05-12T23:25:24Z",
+      "rarityPercent": 29.5
+    }
+  ]
+}

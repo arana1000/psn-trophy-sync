@@ -1,6 +1,6 @@
 # Trophy sync: abz_r100
 
-Still filling in: 83 of 203 games not synced yet. They'll be added over the next few hourly runs.
+Still filling in: 43 of 203 games not synced yet. They'll be added over the next few hourly runs.
 
 ## Recently earned
 
@@ -156,46 +156,46 @@ Still filling in: 83 of 203 games not synced yet. They'll be added over the next
 | Tom Clancy’s Rainbow Six® Siege | PS4 | 17% | 11 / 49 | No |
 | The Last of Us™ Part II | PS4 | 33% | 13 / 28 | No |
 | Minecraft: PlayStation®4 Edition | PS4 | 20% | 33 / 127 | No |
-| RESIDENT EVIL 3 | PS4 | 0% | not synced yet | No |
-| Deathloop | PS5 | 5% | not synced yet | No |
-| Far Cry® 6 | PS4 | 1% | not synced yet | No |
-| Splitgate | PS4 | 52% | not synced yet | n/a |
-| Minecraft: PlayStation®4 Edition Set 2 | PS4 | 0% | not synced yet | n/a |
-| Resident Evil Village | PS5 | 0% | not synced yet | No |
-| Call of Duty®: Black Ops Cold War | PS5 | 1% | not synced yet | No |
-| FIFA 21 Trophies | PS5 | 0% | not synced yet | No |
-| Call of Duty®: Black Ops Cold War | PS4 | 4% | not synced yet | No |
-| Battlefield™ V | PS4 | 2% | not synced yet | No |
-| Grand Theft Auto: San Andreas | PS4 | 23% | not synced yet | No |
-| FIFA 20 | PS4 | 4% | not synced yet | No |
-| Tom Clancy's Ghost Recon® Breakpoint | PS4 | 4% | not synced yet | No |
-| Dead by Daylight 1/3 | PS4 | 1% | not synced yet | No |
-| Crash Bandicoot: Warped | PS4 | 0% | not synced yet | No |
-| Crash Bandicoot 2: Cortex Strikes Back | PS4 | 0% | not synced yet | No |
-| Crash Bandicoot | PS4 | 1% | not synced yet | No |
-| Call of Duty®: Black Ops III | PS4 | 18% | not synced yet | No |
-| Assassin's Creed® Valhalla | PS4 | 1% | not synced yet | No |
-| Marvel's Spider-Man: Miles Morales | PS4 | 100% | not synced yet | Yes |
-| KINGDOM HEARTS FINAL MIX | PS4 | 33% | not synced yet | No |
-| STREET FIGHTER V | PS4 | 1% | not synced yet | No |
-| Fall Guys | PS4 | 13% | not synced yet | No |
-| Dead by Daylight 2/3 | PS4 | 0% | not synced yet | n/a |
-| Friday the 13: The Game | PS4 | 1% | not synced yet | No |
-| The Last of Us™ Remastered | PS4 | 3% | not synced yet | No |
-| Need for Speed™ Heat | PS4 | 10% | not synced yet | No |
-| LittleBigPlanet™3 | PS4 | 2% | not synced yet | No |
-| FIFA 19 | PS4 | 0% | not synced yet | No |
-| Trials Fusion | PS4 | 1% | not synced yet | n/a |
-| EA SPORTS™UFC®3 | PS4 | 26% | not synced yet | No |
-| Dishonored® Definitive Edition | PS4 | 1% | not synced yet | No |
-| Gang Beasts | PS4 | 100% | not synced yet | n/a |
-| Tom Clancy’s Ghost Recon® Wildlands | PS4 | 26% | not synced yet | No |
-| Need for Speed™ Rivals | PS4 | 8% | not synced yet | No |
-| Need for Speed™ | PS4 | 94% | not synced yet | Yes |
-| The Grand Tour Game | PS4 | 6% | not synced yet | No |
-| Goat Simulator | PS4 | 57% | not synced yet | No |
-| FIFA 18 | PS4 | 10% | not synced yet | No |
-| UNO® | PS4 | 14% | not synced yet | n/a |
+| RESIDENT EVIL 3 | PS4 | 0% | 0 / 33 | No |
+| Deathloop | PS5 | 5% | 4 / 59 | No |
+| Far Cry® 6 | PS4 | 1% | 1 / 100 | No |
+| Splitgate | PS4 | 52% | 11 / 19 | n/a |
+| Minecraft: PlayStation®4 Edition Set 2 | PS4 | 0% | 0 / 23 | n/a |
+| Resident Evil Village | PS5 | 0% | 0 / 57 | No |
+| Call of Duty®: Black Ops Cold War | PS5 | 1% | 1 / 48 | No |
+| FIFA 21 Trophies | PS5 | 0% | 0 / 37 | No |
+| Call of Duty®: Black Ops Cold War | PS4 | 4% | 2 / 48 | No |
+| Battlefield™ V | PS4 | 2% | 2 / 22 | No |
+| Grand Theft Auto: San Andreas | PS4 | 23% | 12 / 33 | No |
+| FIFA 20 | PS4 | 4% | 2 / 32 | No |
+| Tom Clancy's Ghost Recon® Breakpoint | PS4 | 4% | 3 / 51 | No |
+| Dead by Daylight 1/3 | PS4 | 1% | 2 / 125 | No |
+| Crash Bandicoot: Warped | PS4 | 0% | 0 / 27 | No |
+| Crash Bandicoot 2: Cortex Strikes Back | PS4 | 0% | 0 / 25 | No |
+| Crash Bandicoot | PS4 | 1% | 1 / 25 | No |
+| Call of Duty®: Black Ops III | PS4 | 18% | 21 / 99 | No |
+| Assassin's Creed® Valhalla | PS4 | 1% | 1 / 95 | No |
+| Marvel's Spider-Man: Miles Morales | PS4 | 100% | 50 / 50 | Yes |
+| KINGDOM HEARTS FINAL MIX | PS4 | 33% | 22 / 56 | No |
+| STREET FIGHTER V | PS4 | 1% | 1 / 45 | No |
+| Fall Guys | PS4 | 13% | 9 / 35 | No |
+| Dead by Daylight 2/3 | PS4 | 0% | 0 / 127 | n/a |
+| Friday the 13: The Game | PS4 | 1% | 1 / 51 | No |
+| The Last of Us™ Remastered | PS4 | 3% | 3 / 50 | No |
+| Need for Speed™ Heat | PS4 | 10% | 7 / 43 | No |
+| LittleBigPlanet™3 | PS4 | 2% | 2 / 38 | No |
+| FIFA 19 | PS4 | 0% | 0 / 42 | No |
+| Trials Fusion | PS4 | 1% | 1 / 51 | n/a |
+| EA SPORTS™UFC®3 | PS4 | 26% | 13 / 33 | No |
+| Dishonored® Definitive Edition | PS4 | 1% | 2 / 81 | No |
+| Gang Beasts | PS4 | 100% | 19 / 19 | n/a |
+| Tom Clancy’s Ghost Recon® Wildlands | PS4 | 26% | 18 / 58 | No |
+| Need for Speed™ Rivals | PS4 | 8% | 5 / 26 | No |
+| Need for Speed™ | PS4 | 94% | 42 / 46 | Yes |
+| The Grand Tour Game | PS4 | 6% | 7 / 75 | No |
+| Goat Simulator | PS4 | 57% | 38 / 83 | No |
+| FIFA 18 | PS4 | 10% | 7 / 45 | No |
+| UNO® | PS4 | 14% | 3 / 13 | n/a |
 | STEEP | PS4 | 0% | not synced yet | No |
 | Call of Duty®: Black Ops 4 | PS4 | 5% | not synced yet | No |
 | EA SPORTS™ UFC® 2 | PS4 | 15% | not synced yet | No |

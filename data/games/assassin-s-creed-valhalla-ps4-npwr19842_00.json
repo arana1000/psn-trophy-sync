@@ -1,0 +1,37 @@
+{
+  "game": "Assassin's Creed® Valhalla",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR19842_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 63,
+    "silver": 30,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2020-12-27T23:35:07Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 94,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 30,
+    "bronze": 62
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "The Saga Begins",
+      "detail": "Complete the Prologue",
+      "type": "bronze",
+      "earnedDateTime": "2020-12-27T23:34:44Z",
+      "rarityPercent": 92.4
+    }
+  ]
+}
