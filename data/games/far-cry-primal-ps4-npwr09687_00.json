@@ -1,0 +1,45 @@
+{
+  "game": "Far Cry® Primal",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09687_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-10-18T18:35:13Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 49,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 9,
+    "bronze": 37
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "This Way To Oros",
+      "detail": "Survive the mammoth hunt.",
+      "type": "silver",
+      "earnedDateTime": "2016-12-10T00:16:36Z",
+      "rarityPercent": 93.9
+    },
+    {
+      "id": 7,
+      "name": "Spiritual Advisor",
+      "detail": "Tensay joins the Wenja village.",
+      "type": "bronze",
+      "earnedDateTime": "2018-10-16T19:53:16Z",
+      "rarityPercent": 64.1
+    }
+  ]
+}

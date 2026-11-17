@@ -1,0 +1,205 @@
+{
+  "game": "Uncharted: Drake’s Fortune™ Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09798_00",
+  "progressPercent": 30,
+  "earnedCounts": {
+    "bronze": 19,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 41,
+    "silver": 8,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2017-09-10T13:36:59Z",
+  "earnedTotal": 22,
+  "unearnedTotal": 32,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 5,
+    "bronze": 22
+  },
+  "earned": [
+    {
+      "id": 5,
+      "name": "First Treasure",
+      "detail": "Find 1 Treasure",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T16:00:16Z",
+      "rarityPercent": 79
+    },
+    {
+      "id": 18,
+      "name": "Brutal Brawler",
+      "detail": "Kill 5 Enemies with Brutal Combo",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T16:20:32Z",
+      "rarityPercent": 37.4
+    },
+    {
+      "id": 14,
+      "name": "20 Headshots",
+      "detail": "Kill 20 Enemies with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T16:42:43Z",
+      "rarityPercent": 66.2
+    },
+    {
+      "id": 17,
+      "name": "Headshot Expert",
+      "detail": "Kill 5 Enemies in a Row with Headshots",
+      "type": "silver",
+      "earnedDateTime": "2015-12-30T16:43:11Z",
+      "rarityPercent": 55.5
+    },
+    {
+      "id": 21,
+      "name": "Triple Dyno-Might!",
+      "detail": "Kill 3 Enemies with 1 Explosion",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T17:02:15Z",
+      "rarityPercent": 23.6
+    },
+    {
+      "id": 39,
+      "name": "50 Kills: PM - 9mm",
+      "detail": "Kill 50 Enemies with the PM - 9m",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T17:02:28Z",
+      "rarityPercent": 66
+    },
+    {
+      "id": 41,
+      "name": "50 Kills: AK-47",
+      "detail": "Kill 50 Enemies with the AK-47",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T19:43:27Z",
+      "rarityPercent": 53.1
+    },
+    {
+      "id": 15,
+      "name": "100 Headshots",
+      "detail": "Kill 100 Enemies with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T23:49:49Z",
+      "rarityPercent": 50.8
+    },
+    {
+      "id": 26,
+      "name": "Steel Fist",
+      "detail": "Kill 5 Enemies with a Single Punch After Weakening Them with Gunfire",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-30T23:50:25Z",
+      "rarityPercent": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Novice Fortune Hunter",
+      "detail": "Find 10 Treasures",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T15:38:36Z",
+      "rarityPercent": 48.9
+    },
+    {
+      "id": 7,
+      "name": "Intermediate Fortune Hunter",
+      "detail": "Find 20 Treasures",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T17:08:28Z",
+      "rarityPercent": 26.1
+    },
+    {
+      "id": 34,
+      "name": "50 Kills: 92FS-9mm",
+      "detail": "Kill 50 Enemies with the 92FS - 9mm",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T17:29:25Z",
+      "rarityPercent": 39.8
+    },
+    {
+      "id": 25,
+      "name": "Run-and-Gunner",
+      "detail": "Kill 20 Enemies by Shooting from the Hip (without aiming)",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T17:32:07Z",
+      "rarityPercent": 18.8
+    },
+    {
+      "id": 38,
+      "name": "30 Kills: MP40",
+      "detail": "Kill 30 Enemies with the MP40",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T17:52:33Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 35,
+      "name": "50 Kills: M4",
+      "detail": "Kill 50 Enemies with the M4",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T19:32:26Z",
+      "rarityPercent": 34.8
+    },
+    {
+      "id": 1,
+      "name": "Charted! - Easy",
+      "detail": "Finish the Game on Easy Without Changing the Difficulty",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T19:34:42Z",
+      "rarityPercent": 40.4
+    },
+    {
+      "id": 19,
+      "name": "Brutal Slugger",
+      "detail": "Kill 20 Enemies with Brutal Combo",
+      "type": "bronze",
+      "earnedDateTime": "2017-09-08T16:59:08Z",
+      "rarityPercent": 7.4
+    },
+    {
+      "id": 16,
+      "name": "250 Headshots",
+      "detail": "Defeat 250 Enemies with Headshots",
+      "type": "silver",
+      "earnedDateTime": "2017-09-08T17:19:32Z",
+      "rarityPercent": 17.3
+    },
+    {
+      "id": 12,
+      "name": "Relic Finder",
+      "detail": "Find the Strange Relic",
+      "type": "bronze",
+      "earnedDateTime": "2017-09-08T18:38:24Z",
+      "rarityPercent": 15.5
+    },
+    {
+      "id": 36,
+      "name": "50 Kills: Micro-9mm",
+      "detail": "Kill 50 Enemies with the Micro-9mm",
+      "type": "bronze",
+      "earnedDateTime": "2017-09-10T12:58:21Z",
+      "rarityPercent": 15
+    },
+    {
+      "id": 29,
+      "name": "Survivor",
+      "detail": "Kill 75 Enemies in a Row Without Dying",
+      "type": "silver",
+      "earnedDateTime": "2017-09-10T13:09:32Z",
+      "rarityPercent": 9.5
+    },
+    {
+      "id": 42,
+      "name": "Shoot Some B-Roll For Elena",
+      "detail": "Explore Photo Mode",
+      "type": "bronze",
+      "earnedDateTime": "2017-09-10T13:36:40Z",
+      "rarityPercent": 8.9
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "game": "Call of Duty® Infinite Warfare",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR10788_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 62,
+    "silver": 25,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-10-17T15:34:55Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 87,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 25,
+    "bronze": 60
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Rising Threat",
+      "detail": "Complete Rising Threat.",
+      "type": "bronze",
+      "earnedDateTime": "2018-10-17T15:15:59Z",
+      "rarityPercent": 41.3
+    },
+    {
+      "id": 20,
+      "name": "New Gun Collector",
+      "detail": "Scan your first weapon!",
+      "type": "bronze",
+      "earnedDateTime": "2018-10-17T15:34:50Z",
+      "rarityPercent": 40.1
+    }
+  ]
+}

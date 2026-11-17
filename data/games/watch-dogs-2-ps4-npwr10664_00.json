@@ -1,0 +1,429 @@
+{
+  "game": "WATCH_DOGS® 2",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR10664_00",
+  "progressPercent": 85,
+  "earnedCounts": {
+    "bronze": 34,
+    "silver": 14,
+    "gold": 1,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 20,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-12-13T15:21:14Z",
+  "earnedTotal": 50,
+  "unearnedTotal": 6,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 6,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Who Am I",
+      "detail": "Erase your past identity in the Blume servers",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-15T20:09:32Z",
+      "rarityPercent": 82.2
+    },
+    {
+      "id": 19,
+      "name": "Third Time's the Charm",
+      "detail": "Make 3 jumps in a row aboard a vehicle",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-15T20:23:56Z",
+      "rarityPercent": 73.5
+    },
+    {
+      "id": 2,
+      "name": "Put Your Damn Pants On",
+      "detail": "Buy some pants after the party",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-15T20:27:03Z",
+      "rarityPercent": 75.1
+    },
+    {
+      "id": 25,
+      "name": "Hold My Hand",
+      "detail": "Successfully complete an online Co-op Operation",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-16T16:37:42Z",
+      "rarityPercent": 20.5
+    },
+    {
+      "id": 5,
+      "name": "DedSec-A-Roni",
+      "detail": "Ride a cable car",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-16T17:33:35Z",
+      "rarityPercent": 22
+    },
+    {
+      "id": 31,
+      "name": "App'ing Around",
+      "detail": "Buy all the apps in the App Shop",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-16T17:38:44Z",
+      "rarityPercent": 33.4
+    },
+    {
+      "id": 13,
+      "name": "Smooth Felon",
+      "detail": "Escape a Level 5 felony",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-17T17:42:49Z",
+      "rarityPercent": 29.1
+    },
+    {
+      "id": 9,
+      "name": "A Ride to Remember",
+      "detail": "Drive one of the Unique Vehicles",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-17T17:58:11Z",
+      "rarityPercent": 23.9
+    },
+    {
+      "id": 22,
+      "name": "One of the Gang",
+      "detail": "Complete 5 DedSec Events",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-17T18:24:24Z",
+      "rarityPercent": 21.6
+    },
+    {
+      "id": 15,
+      "name": "Knock You Out",
+      "detail": "Do a stealth takedown on 30 enemies",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-18T16:17:45Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 38,
+      "name": "Knight Ridden",
+      "detail": "Finish Operation: Cyber Driver",
+      "type": "silver",
+      "earnedDateTime": "2016-11-18T18:05:44Z",
+      "rarityPercent": 47.9
+    },
+    {
+      "id": 18,
+      "name": "Roboteer",
+      "detail": "Hack a robot",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-18T18:35:14Z",
+      "rarityPercent": 49.2
+    },
+    {
+      "id": 10,
+      "name": "Bad Boys",
+      "detail": "Hijack a boat",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-19T14:03:00Z",
+      "rarityPercent": 28.3
+    },
+    {
+      "id": 6,
+      "name": "Only God Can Judge Me",
+      "detail": "Buy a shirt in the Nudle vending machine",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-19T14:05:17Z",
+      "rarityPercent": 11.1
+    },
+    {
+      "id": 11,
+      "name": "Something To Ride",
+      "detail": "Hijack a bus",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-19T14:10:49Z",
+      "rarityPercent": 32.4
+    },
+    {
+      "id": 8,
+      "name": "Photobombed!",
+      "detail": "Get photobombed in a selfie",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-19T14:20:43Z",
+      "rarityPercent": 15.4
+    },
+    {
+      "id": 37,
+      "name": "Baby, I Got Your Money",
+      "detail": "Finish Operation: False Profits",
+      "type": "silver",
+      "earnedDateTime": "2016-11-21T13:51:00Z",
+      "rarityPercent": 39.6
+    },
+    {
+      "id": 14,
+      "name": "Miniroadtrip!",
+      "detail": "Drive 4 km in the world while driving the Merengue from Elek Motors",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-21T14:31:57Z",
+      "rarityPercent": 9.3
+    },
+    {
+      "id": 21,
+      "name": "Let Me Ride",
+      "detail": "Travel 200 meters on top of a car by hacking it",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-21T14:34:49Z",
+      "rarityPercent": 10.4
+    },
+    {
+      "id": 39,
+      "name": "No Place Like Haum",
+      "detail": "Finish Operation: Haum Sweet Haum",
+      "type": "silver",
+      "earnedDateTime": "2016-11-21T15:07:53Z",
+      "rarityPercent": 36.2
+    },
+    {
+      "id": 36,
+      "name": "Picking Up the Pieces",
+      "detail": "Finish Operation: Looking Glass",
+      "type": "silver",
+      "earnedDateTime": "2016-11-21T16:12:10Z",
+      "rarityPercent": 33.2
+    },
+    {
+      "id": 40,
+      "name": "Informer",
+      "detail": "Finish Operation: Limp Nudle",
+      "type": "silver",
+      "earnedDateTime": "2016-11-21T16:56:32Z",
+      "rarityPercent": 31.9
+    },
+    {
+      "id": 33,
+      "name": "Ain't No Stopping",
+      "detail": "Do a bike race",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-21T18:44:05Z",
+      "rarityPercent": 19.2
+    },
+    {
+      "id": 26,
+      "name": "Feeding Frenzy",
+      "detail": "Use the \"Call the cops\" hack on the donut-disguised man in Haight-Ashbury",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-22T16:27:57Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 42,
+      "name": "Hypnotize",
+      "detail": "Finish Operation: W4tched",
+      "type": "silver",
+      "earnedDateTime": "2016-11-22T17:58:33Z",
+      "rarityPercent": 25.3
+    },
+    {
+      "id": 7,
+      "name": "Doggyland",
+      "detail": "Pet 10 dogs",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-22T17:59:15Z",
+      "rarityPercent": 20.3
+    },
+    {
+      "id": 44,
+      "name": "Sabotage",
+      "detail": "Finish Operation: Hacker War",
+      "type": "silver",
+      "earnedDateTime": "2016-11-23T13:41:16Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 3,
+      "name": "Menace",
+      "detail": "Buy a two handed weapon at the 3D printer",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-23T13:44:17Z",
+      "rarityPercent": 44.3
+    },
+    {
+      "id": 48,
+      "name": "Leaks and Leaks",
+      "detail": "Finish Operation: Ubistolen",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-23T13:51:24Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 43,
+      "name": "Old School Justice",
+      "detail": "Finish Operation: Eye for An Eye",
+      "type": "silver",
+      "earnedDateTime": "2016-11-23T15:31:18Z",
+      "rarityPercent": 26.7
+    },
+    {
+      "id": 27,
+      "name": "Troll'r",
+      "detail": "Successfully invade another hacker",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-24T17:32:56Z",
+      "rarityPercent": 16.1
+    },
+    {
+      "id": 41,
+      "name": "100% Legit",
+      "detail": "Finish Operation: $911",
+      "type": "silver",
+      "earnedDateTime": "2016-11-24T18:08:49Z",
+      "rarityPercent": 20.9
+    },
+    {
+      "id": 34,
+      "name": "The Fox",
+      "detail": "Finish Operation: Shadow",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-24T18:37:50Z",
+      "rarityPercent": 19.5
+    },
+    {
+      "id": 35,
+      "name": "Joined the Mile High Club",
+      "detail": "Finish Operation: Hack teh World",
+      "type": "silver",
+      "earnedDateTime": "2016-11-28T19:38:13Z",
+      "rarityPercent": 23.4
+    },
+    {
+      "id": 47,
+      "name": "You're On A Boat!",
+      "detail": "Finish Operation: Shanghaied",
+      "type": "silver",
+      "earnedDateTime": "2016-11-29T17:56:38Z",
+      "rarityPercent": 21.6
+    },
+    {
+      "id": 45,
+      "name": "Make Every Voice Count",
+      "detail": "Finish Operation: Power to the Sheeple",
+      "type": "silver",
+      "earnedDateTime": "2016-11-30T16:47:35Z",
+      "rarityPercent": 21.3
+    },
+    {
+      "id": 16,
+      "name": "Jump Around",
+      "detail": "Do a 140 meters long jump while driving a vehicle",
+      "type": "bronze",
+      "earnedDateTime": "2016-11-30T17:16:05Z",
+      "rarityPercent": 7.5
+    },
+    {
+      "id": 30,
+      "name": "Pimp My eKart",
+      "detail": "Get all the eKart upgrades",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-01T18:15:16Z",
+      "rarityPercent": 22.2
+    },
+    {
+      "id": 23,
+      "name": "Natural Born Killer",
+      "detail": "Neutralize 1 Hunter in Bounty Hunter mode",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-01T18:48:16Z",
+      "rarityPercent": 14.6
+    },
+    {
+      "id": 28,
+      "name": "Got The Shutterbug",
+      "detail": "Take 25 ScoutX location pictures",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-02T22:14:50Z",
+      "rarityPercent": 6.1
+    },
+    {
+      "id": 46,
+      "name": "The Itsy Bitsy Spider",
+      "detail": "Finish Operation: Robot Wars",
+      "type": "silver",
+      "earnedDateTime": "2016-12-09T15:44:33Z",
+      "rarityPercent": 21.7
+    },
+    {
+      "id": 49,
+      "name": "Hack the World",
+      "detail": "Trigger the hack of the century",
+      "type": "gold",
+      "earnedDateTime": "2016-12-09T18:17:05Z",
+      "rarityPercent": 19.9
+    },
+    {
+      "id": 20,
+      "name": "Hold My Hair",
+      "detail": "Take a picture of someone vomiting",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-11T17:09:52Z",
+      "rarityPercent": 3.1
+    },
+    {
+      "id": 4,
+      "name": "In Style",
+      "detail": "Buy the Gatorfeet Whine Country footwear",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-11T17:13:29Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 17,
+      "name": "Earn your Sea Legs",
+      "detail": "Do a sailboat race",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-11T17:24:49Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 32,
+      "name": "I Get Around",
+      "detail": "Do a drone race",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-11T17:29:43Z",
+      "rarityPercent": 10.5
+    },
+    {
+      "id": 24,
+      "name": "Please Marcus, Don't Hurt Them",
+      "detail": "Successfully neutralize 5 fugitives in Bounty Hunter",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-11T17:37:04Z",
+      "rarityPercent": 3.7
+    },
+    {
+      "id": 12,
+      "name": "Researcher",
+      "detail": "Collect all the Key Data hidden in the world",
+      "type": "silver",
+      "earnedDateTime": "2016-12-12T16:08:04Z",
+      "rarityPercent": 4.6
+    },
+    {
+      "id": 0,
+      "name": "Graduation Day",
+      "detail": "Win every trophy",
+      "type": "platinum",
+      "earnedDateTime": "2016-12-12T17:23:57Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 29,
+      "name": "One-Man Garage",
+      "detail": "Buy 25 cars in car dealerships",
+      "type": "bronze",
+      "earnedDateTime": "2016-12-12T17:23:57Z",
+      "rarityPercent": 4.6
+    }
+  ]
+}

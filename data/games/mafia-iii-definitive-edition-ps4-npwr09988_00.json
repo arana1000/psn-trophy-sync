@@ -1,0 +1,109 @@
+{
+  "game": "Mafia III: Definitive Edition",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09988_00",
+  "progressPercent": 10,
+  "earnedCounts": {
+    "bronze": 10,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 77,
+    "silver": 7,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-08-17T16:08:34Z",
+  "earnedTotal": 10,
+  "unearnedTotal": 76,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 7,
+    "bronze": 67
+  },
+  "earned": [
+    {
+      "id": 45,
+      "name": "Bon Appétit!",
+      "detail": "Fed a body to an alligator",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-11T17:01:37Z",
+      "rarityPercent": 43.1
+    },
+    {
+      "id": 48,
+      "name": "Code 112",
+      "detail": "Stole a Police car",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-11T18:28:15Z",
+      "rarityPercent": 41.5
+    },
+    {
+      "id": 12,
+      "name": "Somethin' I've Gotta Do",
+      "detail": "You collected your things from Sammy's",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-11T18:43:43Z",
+      "rarityPercent": 65.8
+    },
+    {
+      "id": 13,
+      "name": "For Old Time's Sake",
+      "detail": "Cassandra agreed to help you kill Marcano",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-12T16:47:40Z",
+      "rarityPercent": 64.4
+    },
+    {
+      "id": 36,
+      "name": "One Good Turn",
+      "detail": "Made a 180 degree turn at high speed without hitting anything",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-13T17:02:04Z",
+      "rarityPercent": 38.8
+    },
+    {
+      "id": 41,
+      "name": "Softened 'Em Up",
+      "detail": "Completely weakened a racket by killing all of its Enforcers",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-13T17:05:28Z",
+      "rarityPercent": 56
+    },
+    {
+      "id": 43,
+      "name": "Standard Communication Grid",
+      "detail": "Wiretapped the Delray Hollow Smack Racket",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-13T17:39:29Z",
+      "rarityPercent": 58.5
+    },
+    {
+      "id": 50,
+      "name": "Never Saw it Coming",
+      "detail": "Killed an enemy within 2 seconds of kicking open a door",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-15T23:15:30Z",
+      "rarityPercent": 21.2
+    },
+    {
+      "id": 2,
+      "name": "Pray on the Way Up",
+      "detail": "You hung Ritchie Doucet from a Ferris wheel",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-15T23:18:27Z",
+      "rarityPercent": 52.7
+    },
+    {
+      "id": 14,
+      "name": "Cut & Run",
+      "detail": "Burke agreed to help you kill Marcano",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-17T16:08:30Z",
+      "rarityPercent": 46.8
+    }
+  ]
+}

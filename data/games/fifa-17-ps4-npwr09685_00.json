@@ -1,0 +1,77 @@
+{
+  "game": "FIFA 17",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09685_00",
+  "progressPercent": 13,
+  "earnedCounts": {
+    "bronze": 3,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 32,
+    "silver": 9,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2017-04-02T13:28:12Z",
+  "earnedTotal": 6,
+  "unearnedTotal": 39,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 6,
+    "bronze": 29
+  },
+  "earned": [
+    {
+      "id": 27,
+      "name": "Show me your skills                    ",
+      "detail": "Complete a multiplayer skill game",
+      "type": "bronze",
+      "earnedDateTime": "2017-03-26T19:30:23Z",
+      "rarityPercent": 37.8
+    },
+    {
+      "id": 1,
+      "name": "Telepathic",
+      "detail": "Assist a goal using a threaded through pass",
+      "type": "silver",
+      "earnedDateTime": "2017-03-27T16:06:30Z",
+      "rarityPercent": 61.7
+    },
+    {
+      "id": 2,
+      "name": "Slotted",
+      "detail": "Score a goal using a low shot",
+      "type": "bronze",
+      "earnedDateTime": "2017-03-27T17:04:41Z",
+      "rarityPercent": 58.6
+    },
+    {
+      "id": 41,
+      "name": "Top of the Class",
+      "detail": "Finish all training drills in a week with an A in The Journey (without simulating)",
+      "type": "silver",
+      "earnedDateTime": "2017-03-28T15:54:36Z",
+      "rarityPercent": 32.9
+    },
+    {
+      "id": 43,
+      "name": "Social Media Star",
+      "detail": "Reach 50,000 followers in The Journey",
+      "type": "silver",
+      "earnedDateTime": "2017-03-29T15:59:07Z",
+      "rarityPercent": 31.7
+    },
+    {
+      "id": 8,
+      "name": "Aerial threat",
+      "detail": "Score a goal with a downward header",
+      "type": "bronze",
+      "earnedDateTime": "2017-04-02T13:28:04Z",
+      "rarityPercent": 47.9
+    }
+  ]
+}

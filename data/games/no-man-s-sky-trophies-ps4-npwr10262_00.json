@@ -1,0 +1,28 @@
+{
+  "game": "No Man's Sky Trophies",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR10262_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 10,
+    "silver": 9,
+    "gold": 8,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-08-13T17:32:37Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 28,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 8,
+    "silver": 9,
+    "bronze": 10
+  },
+  "earned": []
+}

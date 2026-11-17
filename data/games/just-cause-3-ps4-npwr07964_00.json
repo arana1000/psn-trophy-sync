@@ -1,0 +1,205 @@
+{
+  "game": "Just Cause 3",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07964_00",
+  "progressPercent": 23,
+  "earnedCounts": {
+    "bronze": 19,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 47,
+    "silver": 14,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-08-19T20:02:42Z",
+  "earnedTotal": 22,
+  "unearnedTotal": 45,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 11,
+    "bronze": 28
+  },
+  "earned": [
+    {
+      "id": 10,
+      "name": "(Just) Causin' Chaos",
+      "detail": "Get 1,000 Chaos.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-02T16:36:15Z",
+      "rarityPercent": 79.5
+    },
+    {
+      "id": 31,
+      "name": "Enjoy Your Homecoming",
+      "detail": "Complete Story Mission: Welcome Home.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-02T16:37:57Z",
+      "rarityPercent": 80.7
+    },
+    {
+      "id": 45,
+      "name": "First Encounter",
+      "detail": "Complete an Encounter.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-02T20:58:11Z",
+      "rarityPercent": 58.5
+    },
+    {
+      "id": 24,
+      "name": "Vive le Revolution",
+      "detail": "Liberate a Province.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-02T21:29:40Z",
+      "rarityPercent": 54.8
+    },
+    {
+      "id": 6,
+      "name": "Getting it in Gear",
+      "detail": "Earn at least 3 Gears in a Challenge.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-02T21:34:57Z",
+      "rarityPercent": 44.9
+    },
+    {
+      "id": 42,
+      "name": "MOD Initiate",
+      "detail": "Unlock your first Gear MOD, and then activate it.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-02T21:39:48Z",
+      "rarityPercent": 44.4
+    },
+    {
+      "id": 7,
+      "name": "You've Got Gear",
+      "detail": "Earn 5 Gears in a Challenge.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-03T17:22:22Z",
+      "rarityPercent": 27.6
+    },
+    {
+      "id": 5,
+      "name": "Bragging Rights",
+      "detail": "Beat another player's score in a Challenge.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-03T17:22:36Z",
+      "rarityPercent": 25
+    },
+    {
+      "id": 4,
+      "name": "You're Outta Here!",
+      "detail": "Plant a Booster Explosive on an enemy soldier. Then send them flying.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-03T18:15:00Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 26,
+      "name": "Baker's Dozen",
+      "detail": "Liberate 13 settlements.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-03T18:51:24Z",
+      "rarityPercent": 42.8
+    },
+    {
+      "id": 47,
+      "name": "Three Holy Hideaways",
+      "detail": "Unlock 3 Heat-Clearing Priests by completing Encounters.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-03T19:34:25Z",
+      "rarityPercent": 38
+    },
+    {
+      "id": 11,
+      "name": "Chaos is My Middle Name",
+      "detail": "Get 100,000 Chaos.",
+      "type": "silver",
+      "earnedDateTime": "2015-12-03T21:54:13Z",
+      "rarityPercent": 41.8
+    },
+    {
+      "id": 21,
+      "name": "Top of the World",
+      "detail": "Stand on foot at the highest point of Medici.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-04T16:52:53Z",
+      "rarityPercent": 13.3
+    },
+    {
+      "id": 32,
+      "name": "What a Disaster",
+      "detail": "Complete Story Mission: A Terrible Reaction.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-05T21:13:18Z",
+      "rarityPercent": 42.4
+    },
+    {
+      "id": 25,
+      "name": "Take That, You Pipeline Jerks",
+      "detail": "Disable the FOW in Insula Fonte.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-06T13:01:16Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 35,
+      "name": "F!#& YOU, MISSILE",
+      "detail": "Complete Story Mission: Missile Cowboy.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-08T15:43:58Z",
+      "rarityPercent": 29.3
+    },
+    {
+      "id": 13,
+      "name": "Earth, Wind and Sea",
+      "detail": "Unlock Rebel Drops for at least one land vehicle, one air vehicle, and one sea vehicle.",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-11T19:04:32Z",
+      "rarityPercent": 39
+    },
+    {
+      "id": 28,
+      "name": "Hope Springs Eternal",
+      "detail": "Completely liberate Insula Fonte.",
+      "type": "silver",
+      "earnedDateTime": "2016-02-11T20:40:09Z",
+      "rarityPercent": 20.8
+    },
+    {
+      "id": 27,
+      "name": "Taming the Dracon",
+      "detail": "Completely liberate Insula Dracon.",
+      "type": "silver",
+      "earnedDateTime": "2016-03-22T19:52:13Z",
+      "rarityPercent": 16.7
+    },
+    {
+      "id": 33,
+      "name": "The Power of Bavarium",
+      "detail": "Complete Story Mission: A Long and Dangerous Road.",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-22T20:19:25Z",
+      "rarityPercent": 24
+    },
+    {
+      "id": 36,
+      "name": "Finally on the Offensive",
+      "detail": "Complete Story Mission: Tangled Up In Blue.",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-18T19:23:20Z",
+      "rarityPercent": 19.6
+    },
+    {
+      "id": 2,
+      "name": "My Little Rocket Man",
+      "detail": "Tether an enemy to a launched gas cannister. Adeo, amico!",
+      "type": "bronze",
+      "earnedDateTime": "2018-08-19T20:02:39Z",
+      "rarityPercent": 13.8
+    }
+  ]
+}

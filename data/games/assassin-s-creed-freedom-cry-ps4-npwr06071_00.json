@@ -1,0 +1,37 @@
+{
+  "game": "Assassin's Creed® Freedom Cry",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR06071_00",
+  "progressPercent": 5,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 9,
+    "silver": 2,
+    "gold": 1,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2017-08-08T14:43:14Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 11,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 8
+  },
+  "earned": [
+    {
+      "id": 0,
+      "name": "Liberation Day",
+      "detail": "Free your first slave.",
+      "type": "bronze",
+      "earnedDateTime": "2017-08-08T14:43:11Z",
+      "rarityPercent": 68.1
+    }
+  ]
+}

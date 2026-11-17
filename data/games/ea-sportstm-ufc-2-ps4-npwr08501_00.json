@@ -1,0 +1,61 @@
+{
+  "game": "EA SPORTS™ UFC® 2",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08501_00",
+  "progressPercent": 15,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 2,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 17,
+    "silver": 11,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-10-20T17:50:18Z",
+  "earnedTotal": 4,
+  "unearnedTotal": 30,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 9,
+    "bronze": 16
+  },
+  "earned": [
+    {
+      "id": 2,
+      "name": "Spin to Win",
+      "detail": "Score a knockout with any spinning attack.",
+      "type": "bronze",
+      "earnedDateTime": "2018-05-26T19:48:41Z",
+      "rarityPercent": 35.2
+    },
+    {
+      "id": 8,
+      "name": "Strike First, Strike Hard",
+      "detail": "Knockout your opponent within the first thirty seconds of a match.",
+      "type": "silver",
+      "earnedDateTime": "2018-08-02T15:11:11Z",
+      "rarityPercent": 52.3
+    },
+    {
+      "id": 9,
+      "name": "Don't Talk the Talk...",
+      "detail": "Knockout your opponent within fifteen seconds of them taunting.",
+      "type": "silver",
+      "earnedDateTime": "2018-08-03T16:12:29Z",
+      "rarityPercent": 44.7
+    },
+    {
+      "id": 5,
+      "name": "Better Late Than Never",
+      "detail": "Knockout or submit your opponent in the last ten seconds of the final round.",
+      "type": "gold",
+      "earnedDateTime": "2018-10-20T17:50:13Z",
+      "rarityPercent": 12.1
+    }
+  ]
+}

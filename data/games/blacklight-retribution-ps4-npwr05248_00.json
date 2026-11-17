@@ -1,0 +1,69 @@
+{
+  "game": "Blacklight: Retribution",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR05248_00",
+  "progressPercent": 20,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 22,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2016-04-22T18:57:08Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 18,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 17
+  },
+  "earned": [
+    {
+      "id": 12,
+      "name": "Biohazard",
+      "detail": "Played 20 Matches of Onslaught",
+      "type": "bronze",
+      "earnedDateTime": "2015-01-05T14:25:23Z",
+      "rarityPercent": 1.3
+    },
+    {
+      "id": 7,
+      "name": "Who Needs Friends?",
+      "detail": "Played 20 Matches of Deathmatch",
+      "type": "bronze",
+      "earnedDateTime": "2015-01-12T16:10:06Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 19,
+      "name": "Big Winner",
+      "detail": "Earn 3500 CP in a single match",
+      "type": "bronze",
+      "earnedDateTime": "2015-01-15T17:22:53Z",
+      "rarityPercent": 11.9
+    },
+    {
+      "id": 4,
+      "name": "Field Agent",
+      "detail": "Reach Level 10",
+      "type": "bronze",
+      "earnedDateTime": "2015-02-06T18:35:37Z",
+      "rarityPercent": 23.4
+    },
+    {
+      "id": 5,
+      "name": "Star Agent",
+      "detail": "Reach Level 34",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-21T18:42:34Z",
+      "rarityPercent": 5.8
+    }
+  ]
+}

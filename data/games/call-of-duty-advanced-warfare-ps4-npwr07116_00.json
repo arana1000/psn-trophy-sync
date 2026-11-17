@@ -1,0 +1,293 @@
+{
+  "game": "Call of Duty®: Advanced Warfare",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07116_00",
+  "progressPercent": 29,
+  "earnedCounts": {
+    "bronze": 32,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 74,
+    "silver": 14,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-07-22T21:37:30Z",
+  "earnedTotal": 33,
+  "unearnedTotal": 58,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 13,
+    "bronze": 42
+  },
+  "earned": [
+    {
+      "id": 9,
+      "name": "Genius",
+      "detail": "Kill 4 enemies with a single smart grenade.",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-14T17:47:08Z",
+      "rarityPercent": 20.7
+    },
+    {
+      "id": 20,
+      "name": "Seoul Mates",
+      "detail": "Complete \"Induction.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-14T18:18:33Z",
+      "rarityPercent": 51
+    },
+    {
+      "id": 24,
+      "name": "Welcome to Atlas",
+      "detail": "Complete \"Atlas.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-14T18:47:36Z",
+      "rarityPercent": 45.9
+    },
+    {
+      "id": 16,
+      "name": "Advanced Soldier",
+      "detail": "Spend your first Exo upgrade point.",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-14T18:48:03Z",
+      "rarityPercent": 46.3
+    },
+    {
+      "id": 26,
+      "name": "Life in the Fast Lane",
+      "detail": "Complete \"Traffic.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-14T21:14:06Z",
+      "rarityPercent": 41.7
+    },
+    {
+      "id": 1,
+      "name": "Carma",
+      "detail": "Kill an enemy by throwing a car door at them.",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-15T10:49:10Z",
+      "rarityPercent": 15.3
+    },
+    {
+      "id": 28,
+      "name": "Radioactive",
+      "detail": "Complete \"Fission.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-15T11:08:38Z",
+      "rarityPercent": 38.7
+    },
+    {
+      "id": 29,
+      "name": "Motor City",
+      "detail": "Complete \"Aftermath.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-15T11:47:30Z",
+      "rarityPercent": 36.1
+    },
+    {
+      "id": 31,
+      "name": "Sitting Ducks",
+      "detail": "Kill 3 enemies with one shot of the Sniper Drone in \"Manhunt.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-15T17:16:12Z",
+      "rarityPercent": 14.2
+    },
+    {
+      "id": 32,
+      "name": "Born To Die",
+      "detail": "Complete \"Manhunt.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-16T14:38:36Z",
+      "rarityPercent": 34.3
+    },
+    {
+      "id": 17,
+      "name": "Second Skin",
+      "detail": "Spend 10 Exo upgrade points.",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-16T14:39:11Z",
+      "rarityPercent": 33.7
+    },
+    {
+      "id": 12,
+      "name": "Where Are You Going?",
+      "detail": "Stop an AST with an EMP grenade.",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-16T14:51:22Z",
+      "rarityPercent": 19.3
+    },
+    {
+      "id": 33,
+      "name": "Betrayal",
+      "detail": "Complete \"Utopia.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-16T14:57:55Z",
+      "rarityPercent": 33.4
+    },
+    {
+      "id": 35,
+      "name": "Crates on a Plane",
+      "detail": "Complete \"Sentinel.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-17T17:25:36Z",
+      "rarityPercent": 32.5
+    },
+    {
+      "id": 36,
+      "name": "The Destroyer Returns",
+      "detail": "Complete \"Crash.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-17T17:48:23Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 38,
+      "name": "Irons in the Fire",
+      "detail": "Complete \"Bio Lab.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-18T17:11:14Z",
+      "rarityPercent": 30.3
+    },
+    {
+      "id": 39,
+      "name": "GG",
+      "detail": "Complete \"Collapse.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-18T17:45:19Z",
+      "rarityPercent": 29.7
+    },
+    {
+      "id": 41,
+      "name": "Wrath of Atlas",
+      "detail": "Complete \"Armada.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-18T17:59:43Z",
+      "rarityPercent": 29.1
+    },
+    {
+      "id": 43,
+      "name": "Manticore Unleashed",
+      "detail": "Complete \"Throttle.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-18T18:19:19Z",
+      "rarityPercent": 28.2
+    },
+    {
+      "id": 45,
+      "name": "The Wheat from the Chaff",
+      "detail": "Complete \"Captured.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-18T18:49:57Z",
+      "rarityPercent": 27.8
+    },
+    {
+      "id": 2,
+      "name": "A New Era",
+      "detail": "Complete the campaign on any difficulty.",
+      "type": "silver",
+      "earnedDateTime": "2014-11-19T16:56:40Z",
+      "rarityPercent": 24.6
+    },
+    {
+      "id": 25,
+      "name": "Look Both Ways",
+      "detail": "Kill all the KVA in the traffic section without damaging a civilian vehicle in \"Traffic.\"",
+      "type": "bronze",
+      "earnedDateTime": "2014-11-20T18:10:53Z",
+      "rarityPercent": 2.7
+    },
+    {
+      "id": 47,
+      "name": "Exo Survivor",
+      "detail": "Successfully complete the Exo Survival Bonus Wave.",
+      "type": "bronze",
+      "earnedDateTime": "2014-12-06T15:54:45Z",
+      "rarityPercent": 3.1
+    },
+    {
+      "id": 27,
+      "name": "Fire and Forget",
+      "detail": "Kill 10 enemies with the Mobile Turret missiles in \"Fission.\"",
+      "type": "bronze",
+      "earnedDateTime": "2015-02-03T21:39:09Z",
+      "rarityPercent": 18.6
+    },
+    {
+      "id": 51,
+      "name": "I'm Alive!",
+      "detail": "Survive until Round 10 in Outbreak.",
+      "type": "bronze",
+      "earnedDateTime": "2015-03-01T13:47:55Z",
+      "rarityPercent": 11.1
+    },
+    {
+      "id": 60,
+      "name": "Do you even Exo?",
+      "detail": "Exo Melee kill 10 zombies in 30 seconds in Outbreak.",
+      "type": "bronze",
+      "earnedDateTime": "2015-03-01T14:09:17Z",
+      "rarityPercent": 5
+    },
+    {
+      "id": 48,
+      "name": "Class Warfare",
+      "detail": "Play 30 minutes with each class online in Exo Survival.",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-06T18:09:03Z",
+      "rarityPercent": 3.1
+    },
+    {
+      "id": 21,
+      "name": "Not on my Watch",
+      "detail": "Prevent the walking tank from being destroyed by the Drone Swarm in \"Induction.\"",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-04T17:58:45Z",
+      "rarityPercent": 38.7
+    },
+    {
+      "id": 15,
+      "name": "Riot Control",
+      "detail": "Kill 20 enemies while linked to the Mobile Cover Drone.",
+      "type": "bronze",
+      "earnedDateTime": "2015-06-05T18:39:10Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 46,
+      "name": "Exo Survival Veteran",
+      "detail": "Play 50 Exo Survival Matches.",
+      "type": "bronze",
+      "earnedDateTime": "2015-09-17T17:06:35Z",
+      "rarityPercent": 2.1
+    },
+    {
+      "id": 59,
+      "name": "PC Load Letter",
+      "detail": "Use the 3D printer 15 times in a single match in Outbreak.",
+      "type": "bronze",
+      "earnedDateTime": "2015-10-28T13:23:03Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 56,
+      "name": "Burgle Burgle Burgle",
+      "detail": "Steal 10 kills from a teammate in Outbreak.",
+      "type": "bronze",
+      "earnedDateTime": "2015-10-28T13:24:14Z",
+      "rarityPercent": 5.4
+    },
+    {
+      "id": 65,
+      "name": "Burgertown Escort Service",
+      "detail": "Rescue 1 survivor in Infection.",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-09T16:31:38Z",
+      "rarityPercent": 4.8
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "game": "Mad Max",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07032_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 41,
+    "silver": 5,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-04-06T14:18:29Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 49,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 5,
+    "bronze": 40
+  },
+  "earned": [
+    {
+      "id": 35,
+      "name": "On the Road to Nowhere",
+      "detail": "Travel 1300 car lengths in a vehicle",
+      "type": "bronze",
+      "earnedDateTime": "2018-04-06T14:18:26Z",
+      "rarityPercent": 82.8
+    }
+  ]
+}

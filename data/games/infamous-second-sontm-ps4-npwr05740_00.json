@@ -1,0 +1,157 @@
+{
+  "game": "inFAMOUS Second Son™",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR05740_00",
+  "progressPercent": 23,
+  "earnedCounts": {
+    "bronze": 16,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-05-06T18:50:24Z",
+  "earnedTotal": 16,
+  "unearnedTotal": 32,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 11,
+    "bronze": 18
+  },
+  "earned": [
+    {
+      "id": 2,
+      "name": "Sacrifice",
+      "detail": "Risk your freedom to protect those you care about",
+      "type": "bronze",
+      "earnedDateTime": "2015-01-31T13:50:22Z",
+      "rarityPercent": 77
+    },
+    {
+      "id": 21,
+      "name": "Walk It Off",
+      "detail": "Heal 10 wounded civilians",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-13T20:38:48Z",
+      "rarityPercent": 54.9
+    },
+    {
+      "id": 39,
+      "name": "Total CARnage",
+      "detail": "Destroy 5 cars in 5 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-27T14:36:02Z",
+      "rarityPercent": 31.8
+    },
+    {
+      "id": 5,
+      "name": "Malice",
+      "detail": "Get them before they get you",
+      "type": "bronze",
+      "earnedDateTime": "2015-04-28T06:58:44Z",
+      "rarityPercent": 22.5
+    },
+    {
+      "id": 46,
+      "name": "Make Fetch Proud",
+      "detail": "Hit 3 weak points with Neon Beam in 6 seconds",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-01T19:30:06Z",
+      "rarityPercent": 46.8
+    },
+    {
+      "id": 22,
+      "name": "Kicking and Screaming",
+      "detail": "Finish off 10 wounded enemies or civilians",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-01T20:05:27Z",
+      "rarityPercent": 38.7
+    },
+    {
+      "id": 7,
+      "name": "Contempt",
+      "detail": "Don't fear the weak",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-01T21:35:29Z",
+      "rarityPercent": 20.5
+    },
+    {
+      "id": 33,
+      "name": "Prank Call",
+      "detail": "Complete a District Showdown",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-22T15:36:24Z",
+      "rarityPercent": 44.8
+    },
+    {
+      "id": 17,
+      "name": "Just Say No",
+      "detail": "Bust 10 drug dealers",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-22T17:44:42Z",
+      "rarityPercent": 38.8
+    },
+    {
+      "id": 44,
+      "name": "Double Smoke Stack Attack",
+      "detail": "Dash through two red air vents without touching the ground and then Comet Drop on an enemy",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-22T18:56:35Z",
+      "rarityPercent": 9.6
+    },
+    {
+      "id": 14,
+      "name": "Everybody Out",
+      "detail": "Rescue 10 suspects from suspicion pens",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-22T19:16:08Z",
+      "rarityPercent": 45.4
+    },
+    {
+      "id": 36,
+      "name": "One Down",
+      "detail": "Clear the D.U.P. completely out of a district",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-22T19:19:23Z",
+      "rarityPercent": 33.2
+    },
+    {
+      "id": 42,
+      "name": "Put That Anywhere",
+      "detail": "Defeat 10 enemies by detonating ammo crates",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-23T11:50:24Z",
+      "rarityPercent": 38.7
+    },
+    {
+      "id": 4,
+      "name": "Temperance",
+      "detail": "Practice self-control",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-23T12:12:21Z",
+      "rarityPercent": 47.3
+    },
+    {
+      "id": 27,
+      "name": "Nothing To See Here",
+      "detail": "Destroy half the D.U.P. security cameras",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-26T17:17:26Z",
+      "rarityPercent": 35.8
+    },
+    {
+      "id": 34,
+      "name": "Hello Operator",
+      "detail": "Complete Showdowns in half of the districts",
+      "type": "bronze",
+      "earnedDateTime": "2016-04-26T18:56:29Z",
+      "rarityPercent": 28.9
+    }
+  ]
+}

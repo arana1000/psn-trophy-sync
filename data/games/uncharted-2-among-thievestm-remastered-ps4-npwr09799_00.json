@@ -1,0 +1,149 @@
+{
+  "game": "Uncharted 2: Among Thieves™ Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09799_00",
+  "progressPercent": 20,
+  "earnedCounts": {
+    "bronze": 13,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-02-26T19:12:31Z",
+  "earnedTotal": 15,
+  "unearnedTotal": 38,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 8,
+    "bronze": 25
+  },
+  "earned": [
+    {
+      "id": 5,
+      "name": "First Treasure",
+      "detail": "Find 1 Treasure",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-31T19:50:34Z",
+      "rarityPercent": 89.7
+    },
+    {
+      "id": 17,
+      "name": "Bare-knuckle Brawler",
+      "detail": "Defeat 20 Enemies with Hand-to-Hand Combat",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-01T14:13:02Z",
+      "rarityPercent": 80.2
+    },
+    {
+      "id": 13,
+      "name": "20 Headshots",
+      "detail": "Kill 20 Enemies with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-01T15:03:35Z",
+      "rarityPercent": 75.4
+    },
+    {
+      "id": 18,
+      "name": "Bare-knuckle Slugger",
+      "detail": "Defeat 50 Enemies with Hand-to-Hand Combat",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-01T15:20:36Z",
+      "rarityPercent": 71.1
+    },
+    {
+      "id": 28,
+      "name": "30 Kills: Mk-NDI",
+      "detail": "Kill 30 Enemies with Mk-NDI Grenades",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-04T15:27:40Z",
+      "rarityPercent": 63.9
+    },
+    {
+      "id": 32,
+      "name": "50 Kills: 92FS-9mm",
+      "detail": "Kill 50 Enemies with the 92FS-9mm",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-04T15:38:26Z",
+      "rarityPercent": 64
+    },
+    {
+      "id": 14,
+      "name": "100 Headshots",
+      "detail": "Kill 100 Enemies with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-05T16:11:51Z",
+      "rarityPercent": 63.1
+    },
+    {
+      "id": 33,
+      "name": "50 Kills: M4",
+      "detail": "Kill 50 Enemies with the M4",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-21T21:41:17Z",
+      "rarityPercent": 63.5
+    },
+    {
+      "id": 21,
+      "name": "Hangman",
+      "detail": "Kill 20 Enemies with Gunfire While Hanging",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-21T21:43:11Z",
+      "rarityPercent": 59.9
+    },
+    {
+      "id": 31,
+      "name": "50 Kills: Dragon Sniper",
+      "detail": "Kill 50 Enemies with the Dragon Sniper",
+      "type": "bronze",
+      "earnedDateTime": "2016-01-21T21:55:38Z",
+      "rarityPercent": 42
+    },
+    {
+      "id": 26,
+      "name": "Master Ninja",
+      "detail": "Kill 50 Enemies by Melee-Attacking from Behind",
+      "type": "silver",
+      "earnedDateTime": "2016-01-22T16:37:12Z",
+      "rarityPercent": 32.8
+    },
+    {
+      "id": 6,
+      "name": "Novice Fortune Hunter",
+      "detail": "Find 20 Treasures",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-26T18:10:02Z",
+      "rarityPercent": 39.5
+    },
+    {
+      "id": 16,
+      "name": "Headshot Expert",
+      "detail": "Kill 5 Enemies in a Row with Headshots",
+      "type": "silver",
+      "earnedDateTime": "2016-02-26T18:30:18Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 1,
+      "name": "Charted! - Easy",
+      "detail": "Finish the Game on Easy Without Changing the Difficulty",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-26T19:11:35Z",
+      "rarityPercent": 56.8
+    },
+    {
+      "id": 2,
+      "name": "Charted! - Normal",
+      "detail": "Finish the Game on Normal Without Changing the Difficulty",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-26T19:11:35Z",
+      "rarityPercent": 40.9
+    }
+  ]
+}

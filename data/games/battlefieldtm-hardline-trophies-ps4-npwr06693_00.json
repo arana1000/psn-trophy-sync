@@ -1,0 +1,85 @@
+{
+  "game": "Battlefield™ Hardline Trophies",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR06693_00",
+  "progressPercent": 6,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 33,
+    "silver": 24,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-06-29T14:29:44Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 56,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 24,
+    "bronze": 26
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "On the Job",
+      "detail": "Complete the Prologue in single-player",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-26T22:14:58Z",
+      "rarityPercent": 83.2
+    },
+    {
+      "id": 22,
+      "name": "Motley Crew",
+      "detail": "Tag all criminals visible from the rooftop in Ep. 1: Back to School",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-28T15:37:40Z",
+      "rarityPercent": 31.5
+    },
+    {
+      "id": 12,
+      "name": "Keep Digging, Detective",
+      "detail": "Complete any case file in single-player",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-28T15:44:15Z",
+      "rarityPercent": 68.9
+    },
+    {
+      "id": 2,
+      "name": "Pressure Applied",
+      "detail": "Complete Ep. 1: Back to School",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-28T15:57:46Z",
+      "rarityPercent": 66.7
+    },
+    {
+      "id": 13,
+      "name": "By the Book",
+      "detail": "Do a Non-Lethal takedown on 10 criminals in single-player",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-28T16:03:27Z",
+      "rarityPercent": 62.8
+    },
+    {
+      "id": 3,
+      "name": "Bumpy Ride",
+      "detail": "Complete Ep. 2: Checking Out",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-28T16:17:21Z",
+      "rarityPercent": 59.2
+    },
+    {
+      "id": 18,
+      "name": "Cape and Ears Not Included",
+      "detail": "Climb a total of 10 meters with the grapple gun in single-player",
+      "type": "bronze",
+      "earnedDateTime": "2016-06-28T16:43:06Z",
+      "rarityPercent": 55.4
+    }
+  ]
+}

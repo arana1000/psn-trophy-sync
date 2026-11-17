@@ -1,0 +1,37 @@
+{
+  "game": "NBA 2K16",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09157_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 42,
+    "silver": 5,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2017-08-05T14:52:58Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 50,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 5,
+    "bronze": 41
+  },
+  "earned": [
+    {
+      "id": 4,
+      "name": "Run 'N' Gun",
+      "detail": "Make a three-pointer off of a fast-break in a non-simulated game.",
+      "type": "bronze",
+      "earnedDateTime": "2017-02-25T16:50:54Z",
+      "rarityPercent": 59.4
+    }
+  ]
+}

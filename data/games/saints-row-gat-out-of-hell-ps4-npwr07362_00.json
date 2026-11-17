@@ -1,0 +1,85 @@
+{
+  "game": "Saints Row: Gat out of Hell",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07362_00",
+  "progressPercent": 10,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 35,
+    "silver": 7,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-07-27T13:15:26Z",
+  "earnedTotal": 7,
+  "unearnedTotal": 39,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 7,
+    "bronze": 28
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Fallen Angel",
+      "detail": "Get your first Supernatural Powers",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-10T17:28:00Z",
+      "rarityPercent": 78.8
+    },
+    {
+      "id": 39,
+      "name": "Cluster Luck",
+      "detail": "Collect at least five Soul Clusters without touching the ground",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-10T17:33:28Z",
+      "rarityPercent": 49.4
+    },
+    {
+      "id": 29,
+      "name": "Extra Crispy",
+      "detail": "Die in the lava",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-10T17:35:20Z",
+      "rarityPercent": 26.2
+    },
+    {
+      "id": 17,
+      "name": "Level One Demon",
+      "detail": "Buy your first Upgrade from the Upgrade Store",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-12T16:16:23Z",
+      "rarityPercent": 60.3
+    },
+    {
+      "id": 5,
+      "name": "The Wings of Angels",
+      "detail": "Be airborne during Supernatural Jumps or Flight for a combined 10 minutes of gameplay",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-12T16:21:01Z",
+      "rarityPercent": 42.6
+    },
+    {
+      "id": 38,
+      "name": "Soft Shoe",
+      "detail": "Stay in contact with the lava for 10 seconds without dying",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-12T16:58:42Z",
+      "rarityPercent": 12.1
+    },
+    {
+      "id": 19,
+      "name": "Soul in One",
+      "detail": "Find 100 Soul Clusters",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-12T17:35:42Z",
+      "rarityPercent": 34.1
+    }
+  ]
+}

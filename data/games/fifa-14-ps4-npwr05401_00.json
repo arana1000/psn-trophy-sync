@@ -1,0 +1,101 @@
+{
+  "game": "FIFA 14",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR05401_00",
+  "progressPercent": 18,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 24,
+    "silver": 15,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-08-17T14:56:13Z",
+  "earnedTotal": 9,
+  "unearnedTotal": 33,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 12,
+    "bronze": 18
+  },
+  "earned": [
+    {
+      "id": 41,
+      "name": "Started From The Bottom…",
+      "detail": "Reach EA SPORTS Football Club Level 15",
+      "type": "silver",
+      "earnedDateTime": "2015-05-30T21:58:43Z",
+      "rarityPercent": 28
+    },
+    {
+      "id": 39,
+      "name": "Skills to Pay the Bills",
+      "detail": "Beat a Friend’s score in Skill Games",
+      "type": "silver",
+      "earnedDateTime": "2015-05-30T22:36:52Z",
+      "rarityPercent": 20.2
+    },
+    {
+      "id": 4,
+      "name": "Seconds, Please",
+      "detail": "Win the ball back with a Second Chance Tackle",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-31T14:18:56Z",
+      "rarityPercent": 66.7
+    },
+    {
+      "id": 5,
+      "name": "Extra Effort",
+      "detail": "Score with a first time Sliding Shot",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-05T15:29:28Z",
+      "rarityPercent": 39.3
+    },
+    {
+      "id": 1,
+      "name": "Power and Movement",
+      "detail": "Score with a Curling Lace Shot",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-05T15:40:19Z",
+      "rarityPercent": 65.8
+    },
+    {
+      "id": 6,
+      "name": "Who Needs a Weak Foot?",
+      "detail": "Score with an Outside of the Foot Shot",
+      "type": "bronze",
+      "earnedDateTime": "2015-07-06T17:42:53Z",
+      "rarityPercent": 51.5
+    },
+    {
+      "id": 3,
+      "name": "Beast Mode",
+      "detail": "Straight Arm a Defender to Protect the Ball",
+      "type": "bronze",
+      "earnedDateTime": "2015-08-14T16:00:14Z",
+      "rarityPercent": 38.8
+    },
+    {
+      "id": 8,
+      "name": "Perfection",
+      "detail": "Score a Perfect Hat Trick (left foot, right foot, header)",
+      "type": "silver",
+      "earnedDateTime": "2015-11-09T21:43:58Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 2,
+      "name": "What a Hit, Son!",
+      "detail": "Score with a Dipping Volley",
+      "type": "bronze",
+      "earnedDateTime": "2016-07-30T12:32:23Z",
+      "rarityPercent": 48.2
+    }
+  ]
+}

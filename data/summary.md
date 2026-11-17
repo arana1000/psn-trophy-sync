@@ -1,6 +1,6 @@
 # Trophy sync: abz_r100
 
-Still filling in: 43 of 203 games not synced yet. They'll be added over the next few hourly runs.
+Still filling in: 3 of 203 games not synced yet. They'll be added over the next few hourly runs.
 
 ## Recently earned
 
@@ -196,46 +196,46 @@ Still filling in: 43 of 203 games not synced yet. They'll be added over the next
 | Goat Simulator | PS4 | 57% | 38 / 83 | No |
 | FIFA 18 | PS4 | 10% | 7 / 45 | No |
 | UNO® | PS4 | 14% | 3 / 13 | n/a |
-| STEEP | PS4 | 0% | not synced yet | No |
-| Call of Duty®: Black Ops 4 | PS4 | 5% | not synced yet | No |
-| EA SPORTS™ UFC® 2 | PS4 | 15% | not synced yet | No |
-| Far Cry® Primal | PS4 | 4% | not synced yet | No |
-| Call of Duty® Infinite Warfare | PS4 | 1% | not synced yet | No |
-| Just Cause 3 | PS4 | 23% | not synced yet | No |
-| Mafia III: Definitive Edition | PS4 | 10% | not synced yet | No |
-| No Man's Sky Trophies | PS4 | 0% | not synced yet | No |
-| Trackmania Turbo | PS4 | 8% | not synced yet | No |
-| Mad Max | PS4 | 1% | not synced yet | No |
-| Batman: Arkham City™ | PS3 | 16% | not synced yet | No |
-| Red Dead Redemption | PS3 | 0% | not synced yet | No |
-| KNACK™ | PS4 | 8% | not synced yet | No |
-| Super Meat Boy | PSVITA,PS4 | 2% | not synced yet | No |
-| Need for Speed™ Payback | PS4 | 21% | not synced yet | No |
-| Fortnite | PS4 | 0% | not synced yet | No |
-| METAL GEAR SOLID V: THE PHANTOM PAIN | PS4 | 1% | not synced yet | No |
-| Uncharted: Drake’s Fortune™ Remastered | PS4 | 30% | not synced yet | No |
-| Assassin's Creed® Freedom Cry | PS4 | 5% | not synced yet | n/a |
-| NBA 2K16 | PS4 | 1% | not synced yet | No |
-| Until Dawn | PS4 | 10% | not synced yet | No |
-| Ratchet & Clank™ | PS4 | 21% | not synced yet | No |
-| Minecraft: Story Mode | PS4 | 0% | not synced yet | No |
-| FIFA 17 | PS4 | 13% | not synced yet | No |
-| FIFA 15 | PS4 | 39% | not synced yet | No |
-| WATCH_DOGS® 2 | PS4 | 85% | not synced yet | Yes |
-| Resident Evil | PS3,PS4 | 0% | not synced yet | No |
-| Uncharted 4: A Thief’s End™ | PS4 | 43% | not synced yet | No |
-| Fallout 4 | PS4 | 4% | not synced yet | No |
-| FIFA 14 | PS4 | 18% | not synced yet | No |
-| Saints Row: Gat out of Hell | PS4 | 10% | not synced yet | No |
-| Call of Duty®: Advanced Warfare | PS4 | 29% | not synced yet | No |
-| Battlefield™ Hardline Trophies | PS4 | 6% | not synced yet | No |
-| WATCH_DOGS™ | PS4 | 12% | not synced yet | No |
-| inFAMOUS Second Son™ | PS4 | 23% | not synced yet | No |
-| Blacklight: Retribution | PS4 | 20% | not synced yet | n/a |
-| Uncharted 3: Drake’s Deception™ Remastered | PS4 | 27% | not synced yet | No |
-| Uncharted 2: Among Thieves™ Remastered | PS4 | 20% | not synced yet | No |
-| Injustice: Gods Among Us Ultimate Edition | PS4 | 17% | not synced yet | No |
-| DRIVECLUB™ | PS4 | 2% | not synced yet | No |
+| STEEP | PS4 | 0% | 0 / 48 | No |
+| Call of Duty®: Black Ops 4 | PS4 | 5% | 6 / 103 | No |
+| EA SPORTS™ UFC® 2 | PS4 | 15% | 4 / 34 | No |
+| Far Cry® Primal | PS4 | 4% | 2 / 51 | No |
+| Call of Duty® Infinite Warfare | PS4 | 1% | 2 / 89 | No |
+| Just Cause 3 | PS4 | 23% | 22 / 67 | No |
+| Mafia III: Definitive Edition | PS4 | 10% | 10 / 86 | No |
+| No Man's Sky Trophies | PS4 | 0% | 0 / 28 | No |
+| Trackmania Turbo | PS4 | 8% | 6 / 49 | No |
+| Mad Max | PS4 | 1% | 1 / 50 | No |
+| Batman: Arkham City™ | PS3 | 16% | 13 / 71 | No |
+| Red Dead Redemption | PS3 | 0% | 0 / 91 | No |
+| KNACK™ | PS4 | 8% | 6 / 42 | No |
+| Super Meat Boy | PSVITA,PS4 | 2% | 2 / 24 | No |
+| Need for Speed™ Payback | PS4 | 21% | 16 / 58 | No |
+| Fortnite | PS4 | 0% | 0 / 46 | No |
+| METAL GEAR SOLID V: THE PHANTOM PAIN | PS4 | 1% | 1 / 43 | No |
+| Uncharted: Drake’s Fortune™ Remastered | PS4 | 30% | 22 / 54 | No |
+| Assassin's Creed® Freedom Cry | PS4 | 5% | 1 / 12 | n/a |
+| NBA 2K16 | PS4 | 1% | 1 / 51 | No |
+| Until Dawn | PS4 | 10% | 4 / 19 | No |
+| Ratchet & Clank™ | PS4 | 21% | 15 / 47 | No |
+| Minecraft: Story Mode | PS4 | 0% | 0 / 51 | No |
+| FIFA 17 | PS4 | 13% | 6 / 45 | No |
+| FIFA 15 | PS4 | 39% | 14 / 46 | No |
+| WATCH_DOGS® 2 | PS4 | 85% | 50 / 56 | Yes |
+| Resident Evil | PS3,PS4 | 0% | 0 / 45 | No |
+| Uncharted 4: A Thief’s End™ | PS4 | 43% | 30 / 68 | No |
+| Fallout 4 | PS4 | 4% | 5 / 85 | No |
+| FIFA 14 | PS4 | 18% | 9 / 42 | No |
+| Saints Row: Gat out of Hell | PS4 | 10% | 7 / 46 | No |
+| Call of Duty®: Advanced Warfare | PS4 | 29% | 33 / 91 | No |
+| Battlefield™ Hardline Trophies | PS4 | 6% | 7 / 63 | No |
+| WATCH_DOGS™ | PS4 | 12% | 7 / 50 | No |
+| inFAMOUS Second Son™ | PS4 | 23% | 16 / 48 | No |
+| Blacklight: Retribution | PS4 | 20% | 5 / 23 | n/a |
+| Uncharted 3: Drake’s Deception™ Remastered | PS4 | 27% | 23 / 59 | No |
+| Uncharted 2: Among Thieves™ Remastered | PS4 | 20% | 15 / 53 | No |
+| Injustice: Gods Among Us Ultimate Edition | PS4 | 17% | 12 / 51 | No |
+| DRIVECLUB™ | PS4 | 2% | 6 / 128 | No |
 | inFAMOUS First Light™ | PS4 | 21% | not synced yet | No |
 | The Crew™ | PS4 | 1% | not synced yet | No |
 | THE PLAYROOM | PS4 | 0% | not synced yet | n/a |

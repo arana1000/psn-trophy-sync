@@ -1,0 +1,77 @@
+{
+  "game": "Call of Duty®: Black Ops 4",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR16409_00",
+  "progressPercent": 5,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 89,
+    "silver": 12,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-12-21T17:46:25Z",
+  "earnedTotal": 6,
+  "unearnedTotal": 97,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 12,
+    "bronze": 83
+  },
+  "earned": [
+    {
+      "id": 46,
+      "name": "Welcome to the Club",
+      "detail": "Reach Sergeant (Level 10) in Multiplayer while playing online",
+      "type": "bronze",
+      "earnedDateTime": "2018-11-24T23:14:33Z",
+      "rarityPercent": 37.6
+    },
+    {
+      "id": 3,
+      "name": "Skilled Adversary",
+      "detail": "In IX have a Challenge banner with all 9 medallions",
+      "type": "bronze",
+      "earnedDateTime": "2018-12-15T19:04:13Z",
+      "rarityPercent": 2
+    },
+    {
+      "id": 7,
+      "name": "Here Kitty, Kitty",
+      "detail": "In IX, Kill a Zombie Tiger with a Brain Rotted Tiger",
+      "type": "bronze",
+      "earnedDateTime": "2018-12-15T19:48:54Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 4,
+      "name": "The Slaughterhouse",
+      "detail": "In IX, dismember 13 limbs in a single game while in The Pit",
+      "type": "bronze",
+      "earnedDateTime": "2018-12-16T15:53:27Z",
+      "rarityPercent": 9.6
+    },
+    {
+      "id": 6,
+      "name": "Gift of Serket",
+      "detail": "In IX, acquire Serket's Kiss",
+      "type": "bronze",
+      "earnedDateTime": "2018-12-16T16:33:16Z",
+      "rarityPercent": 7.1
+    },
+    {
+      "id": 1,
+      "name": "My Home is the Arena",
+      "detail": "In IX, survive to Round 20 without opening a gate",
+      "type": "bronze",
+      "earnedDateTime": "2018-12-21T17:45:59Z",
+      "rarityPercent": 0.8
+    }
+  ]
+}

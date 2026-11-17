@@ -1,0 +1,69 @@
+{
+  "game": "Fallout 4",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08997_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 66,
+    "silver": 17,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-09-04T14:45:48Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 80,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 17,
+    "bronze": 61
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "War Never Changes",
+      "detail": "Enter The Wasteland",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-26T15:46:44Z",
+      "rarityPercent": 86.6
+    },
+    {
+      "id": 2,
+      "name": "When Freedom Calls",
+      "detail": "Complete \"When Freedom Calls\"",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-26T17:20:26Z",
+      "rarityPercent": 65.2
+    },
+    {
+      "id": 46,
+      "name": "Born Survivor",
+      "detail": "Reach Level 5",
+      "type": "bronze",
+      "earnedDateTime": "2015-12-27T17:38:47Z",
+      "rarityPercent": 61.3
+    },
+    {
+      "id": 43,
+      "name": "Touchdown!",
+      "detail": "Get a Touchdown",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-22T19:38:46Z",
+      "rarityPercent": 46.9
+    },
+    {
+      "id": 35,
+      "name": "Future Retro",
+      "detail": "Play a Holotape Game",
+      "type": "bronze",
+      "earnedDateTime": "2016-08-21T18:17:42Z",
+      "rarityPercent": 52.3
+    }
+  ]
+}

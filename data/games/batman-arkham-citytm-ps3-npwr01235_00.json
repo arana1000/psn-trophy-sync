@@ -1,0 +1,133 @@
+{
+  "game": "Batman: Arkham City™",
+  "platform": "PS3",
+  "npCommunicationId": "NPWR01235_00",
+  "progressPercent": 16,
+  "earnedCounts": {
+    "bronze": 10,
+    "silver": 3,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 48,
+    "silver": 21,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2018-03-20T18:26:39Z",
+  "earnedTotal": 13,
+  "unearnedTotal": 58,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 18,
+    "bronze": 38
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "I'm Batman",
+      "detail": "Become the Bat",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-16T16:17:30Z",
+      "rarityPercent": 90.9
+    },
+    {
+      "id": 2,
+      "name": "Acid Bath",
+      "detail": "Save the damsel, but is she in distress?",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-16T16:26:25Z",
+      "rarityPercent": 87.8
+    },
+    {
+      "id": 3,
+      "name": "Savior",
+      "detail": "Save the medical volunteers",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-16T16:35:03Z",
+      "rarityPercent": 81.6
+    },
+    {
+      "id": 4,
+      "name": "Chimney Sweep",
+      "detail": "There is only one way in",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-18T15:59:10Z",
+      "rarityPercent": 74.8
+    },
+    {
+      "id": 5,
+      "name": "One-Armed Bandit",
+      "detail": "Hammer the point home",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-18T16:18:26Z",
+      "rarityPercent": 68.2
+    },
+    {
+      "id": 52,
+      "name": "Arkham City Sirens ",
+      "detail": "Drop in on an old friend",
+      "type": "silver",
+      "earnedDateTime": "2018-03-18T16:32:45Z",
+      "rarityPercent": 37.5
+    },
+    {
+      "id": 21,
+      "name": "Ring Ring",
+      "detail": "Answer a ringing phone",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-18T16:42:23Z",
+      "rarityPercent": 64.1
+    },
+    {
+      "id": 28,
+      "name": "IQ Test",
+      "detail": "Solve the first riddle",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-19T16:41:09Z",
+      "rarityPercent": 43
+    },
+    {
+      "id": 6,
+      "name": "Communication Breakdown",
+      "detail": "Clear the airwaves",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-19T17:09:11Z",
+      "rarityPercent": 55.9
+    },
+    {
+      "id": 7,
+      "name": "Gladiator",
+      "detail": "Last man standing",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-19T17:43:39Z",
+      "rarityPercent": 54.8
+    },
+    {
+      "id": 8,
+      "name": "Wrecking Ball",
+      "detail": "Stop the unstoppable",
+      "type": "silver",
+      "earnedDateTime": "2018-03-19T18:51:54Z",
+      "rarityPercent": 52.1
+    },
+    {
+      "id": 9,
+      "name": "Lost And Found",
+      "detail": "Uncover the secret of Arkham City",
+      "type": "bronze",
+      "earnedDateTime": "2018-03-20T17:41:16Z",
+      "rarityPercent": 49.4
+    },
+    {
+      "id": 10,
+      "name": "Sandstorm",
+      "detail": "We are legion",
+      "type": "silver",
+      "earnedDateTime": "2018-03-20T18:06:53Z",
+      "rarityPercent": 48.8
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "game": "Uncharted 3: Drake’s Deception™ Remastered",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09801_00",
+  "progressPercent": 27,
+  "earnedCounts": {
+    "bronze": 23,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 49,
+    "silver": 5,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2016-03-10T18:30:00Z",
+  "earnedTotal": 23,
+  "unearnedTotal": 36,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 5,
+    "bronze": 26
+  },
+  "earned": [
+    {
+      "id": 5,
+      "name": "First Treasure",
+      "detail": "Find 1 Treasure",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-26T22:04:19Z",
+      "rarityPercent": 88.3
+    },
+    {
+      "id": 16,
+      "name": "Bare-knuckle Brawler",
+      "detail": "Defeat 20 Enemies with Hand-to-Hand Combat",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-26T22:53:59Z",
+      "rarityPercent": 76.6
+    },
+    {
+      "id": 13,
+      "name": "20 Headshots",
+      "detail": "Kill 20 Enemies with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-27T12:12:37Z",
+      "rarityPercent": 70
+    },
+    {
+      "id": 17,
+      "name": "Bare-knuckle Slugger",
+      "detail": "Defeat 50 Enemies with Hand-to-Hand Combat",
+      "type": "bronze",
+      "earnedDateTime": "2016-02-29T18:31:27Z",
+      "rarityPercent": 66
+    },
+    {
+      "id": 40,
+      "name": "30 Kills: Arm Micro",
+      "detail": "Kill 30 Enemies with the Arm Micro",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-04T18:40:50Z",
+      "rarityPercent": 42
+    },
+    {
+      "id": 33,
+      "name": "Brute Beater",
+      "detail": "Successfully Counter all of a Brute's Damage-Giving Attacks",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-06T17:45:28Z",
+      "rarityPercent": 57.6
+    },
+    {
+      "id": 27,
+      "name": "Blindfire Marksman",
+      "detail": "Defeat 20 Enemies by Blind-Firing While in Cover (without aiming)",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-06T17:46:34Z",
+      "rarityPercent": 36.8
+    },
+    {
+      "id": 42,
+      "name": "30 Kills: KAL-7",
+      "detail": "Kill 30 Enemies with the KAL-7",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-08T18:29:53Z",
+      "rarityPercent": 56.7
+    },
+    {
+      "id": 14,
+      "name": "100 Headshots",
+      "detail": "Kill 100 Enemies with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-08T18:32:26Z",
+      "rarityPercent": 51.8
+    },
+    {
+      "id": 19,
+      "name": "Hangman",
+      "detail": "Kill 20 Enemies with Gunfire While Hanging",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-08T18:50:50Z",
+      "rarityPercent": 51.8
+    },
+    {
+      "id": 34,
+      "name": "Marco Solo",
+      "detail": "Play in the Swimming Pool on the Cruise Ship",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-08T19:15:07Z",
+      "rarityPercent": 24.4
+    },
+    {
+      "id": 15,
+      "name": "Headshot Expert",
+      "detail": "Kill 5 Enemies in a Row with Headshots",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-08T20:00:04Z",
+      "rarityPercent": 42.7
+    },
+    {
+      "id": 35,
+      "name": "30 Kills: Mk-NDI",
+      "detail": "Kill 30 Enemies with the Mk-NDI",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-09T16:13:31Z",
+      "rarityPercent": 54.5
+    },
+    {
+      "id": 28,
+      "name": "Throwback",
+      "detail": "Defeat 10 Enemies with Thrown-Back Grenades",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-09T16:13:32Z",
+      "rarityPercent": 9.6
+    },
+    {
+      "id": 37,
+      "name": "30 Kills: M9",
+      "detail": "Kill 30 Enemies with the M9",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-09T16:20:32Z",
+      "rarityPercent": 51.7
+    },
+    {
+      "id": 6,
+      "name": "Apprentice Fortune Hunter",
+      "detail": "Find 20 Treasures",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-09T16:48:07Z",
+      "rarityPercent": 52.9
+    },
+    {
+      "id": 41,
+      "name": "30 Kills: G-MAL",
+      "detail": "Kill 30 Enemies with the G-MAL",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-09T17:36:48Z",
+      "rarityPercent": 48.3
+    },
+    {
+      "id": 29,
+      "name": "Throwback Master",
+      "detail": "Throw Back a Grenade and Defeat 2 Enemies at Once",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-10T17:56:09Z",
+      "rarityPercent": 15.1
+    },
+    {
+      "id": 1,
+      "name": "Charted! - Easy",
+      "detail": "Finish the Game on Easy Without Changing the Difficulty",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-10T18:07:16Z",
+      "rarityPercent": 51.9
+    },
+    {
+      "id": 2,
+      "name": "Charted! - Normal",
+      "detail": "Finish the Game on Normal Without Changing the Difficulty",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-10T18:07:16Z",
+      "rarityPercent": 38
+    },
+    {
+      "id": 56,
+      "name": "Leader of the Pack",
+      "detail": "Compare Statistics with Friends",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-10T18:15:26Z",
+      "rarityPercent": 5.3
+    },
+    {
+      "id": 58,
+      "name": "Cheaters Gonna Cheat",
+      "detail": "Activate a Tweak",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-10T18:17:59Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 30,
+      "name": "He's Gonna Need a Sturgeon",
+      "detail": "Hit 3 Enemies with Fish in the Market",
+      "type": "bronze",
+      "earnedDateTime": "2016-03-10T18:29:49Z",
+      "rarityPercent": 4.9
+    }
+  ]
+}
