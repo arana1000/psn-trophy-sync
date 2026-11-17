@@ -1,0 +1,45 @@
+{
+  "game": "Call of Duty® Vanguard®",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR21870_00",
+  "progressPercent": 12,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 1,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 32,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-04-30T01:50:34Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 43,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 9,
+    "bronze": 32
+  },
+  "earned": [
+    {
+      "id": 32,
+      "name": "Leet Skills",
+      "detail": "Reach level 55 in Multiplayer",
+      "type": "gold",
+      "earnedDateTime": "2022-04-30T01:50:33Z",
+      "rarityPercent": 39.1
+    },
+    {
+      "id": 34,
+      "name": "Bling Pro 2.0",
+      "detail": "Reach max level with a weapon (base game weapons only)",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:50:33Z",
+      "rarityPercent": 35.4
+    }
+  ]
+}

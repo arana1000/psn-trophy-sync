@@ -1,0 +1,77 @@
+{
+  "game": "Surgeon Simulator",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07035_00",
+  "progressPercent": 8,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 48,
+    "silver": 5,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-12-31T01:17:19Z",
+  "earnedTotal": 6,
+  "unearnedTotal": 50,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 5,
+    "bronze": 42
+  },
+  "earned": [
+    {
+      "id": 42,
+      "name": "Doctor Doctor, Give Me The News",
+      "detail": "Answer the phone.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-27T02:02:25Z",
+      "rarityPercent": 66.3
+    },
+    {
+      "id": 40,
+      "name": "Vworrrp Vworrrp ",
+      "detail": "Create a Time Lord.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-27T02:08:45Z",
+      "rarityPercent": 32.2
+    },
+    {
+      "id": 43,
+      "name": "Nigel The Secretary",
+      "detail": "Go about your secretarial duties.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-27T02:18:49Z",
+      "rarityPercent": 12
+    },
+    {
+      "id": 1,
+      "name": "I Think I Got This",
+      "detail": "Perform a heart transplant.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-30T22:46:01Z",
+      "rarityPercent": 27.7
+    },
+    {
+      "id": 32,
+      "name": "Heterochromia",
+      "detail": "Give the patient heterochromia.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-31T01:01:30Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 7,
+      "name": "Like a hotdog down a hallway.",
+      "detail": "Perform a corridor heart transplant.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-31T01:17:17Z",
+      "rarityPercent": 6.2
+    }
+  ]
+}

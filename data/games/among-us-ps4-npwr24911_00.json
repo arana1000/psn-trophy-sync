@@ -1,0 +1,197 @@
+{
+  "game": "Among Us",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR24911_00",
+  "progressPercent": 71,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 10,
+    "gold": 5,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 12,
+    "silver": 15,
+    "gold": 6,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-02-05T22:38:31Z",
+  "earnedTotal": 21,
+  "unearnedTotal": 13,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 5,
+    "bronze": 6
+  },
+  "earned": [
+    {
+      "id": 16,
+      "name": "SURVIVOR",
+      "detail": "Survive and win a game as a crewmate",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-25T00:22:06Z",
+      "rarityPercent": 66.9
+    },
+    {
+      "id": 23,
+      "name": "SHERLOCK",
+      "detail": "Win a game as crew with your only votes being for the Impostor",
+      "type": "gold",
+      "earnedDateTime": "2021-12-25T00:22:06Z",
+      "rarityPercent": 54.7
+    },
+    {
+      "id": 1,
+      "name": "A TASTE FOR IT",
+      "detail": "Get your first kill",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-25T00:26:01Z",
+      "rarityPercent": 61.1
+    },
+    {
+      "id": 12,
+      "name": "NEVER SUSPECT A THING",
+      "detail": "Win a 2 Impostor game with both Impostors alive at the end of the game.",
+      "type": "gold",
+      "earnedDateTime": "2021-12-25T00:33:44Z",
+      "rarityPercent": 31.9
+    },
+    {
+      "id": 14,
+      "name": "SABOTEUR",
+      "detail": "Win a game by sabotaging a critical system as Impostor.",
+      "type": "silver",
+      "earnedDateTime": "2021-12-25T00:33:44Z",
+      "rarityPercent": 16
+    },
+    {
+      "id": 8,
+      "name": "A SHIP ADRIFT",
+      "detail": "Win 3 games on Skeld",
+      "type": "silver",
+      "earnedDateTime": "2021-12-25T00:41:44Z",
+      "rarityPercent": 56.2
+    },
+    {
+      "id": 21,
+      "name": "CREWPOSTOR",
+      "detail": "Fix a sabotage that you called",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-25T00:46:34Z",
+      "rarityPercent": 29.2
+    },
+    {
+      "id": 19,
+      "name": "LIGHTS OUT",
+      "detail": "Get a kill during a lights sabotage",
+      "type": "silver",
+      "earnedDateTime": "2021-12-25T00:53:28Z",
+      "rarityPercent": 33.2
+    },
+    {
+      "id": 2,
+      "name": "KILLER",
+      "detail": "Get 5 total kills",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-25T00:53:30Z",
+      "rarityPercent": 40.5
+    },
+    {
+      "id": 15,
+      "name": "SLASHER",
+      "detail": "Win a game by killing all crewmates as Impostor.",
+      "type": "silver",
+      "earnedDateTime": "2021-12-25T01:02:24Z",
+      "rarityPercent": 44
+    },
+    {
+      "id": 5,
+      "name": "INTERN",
+      "detail": "Complete 10 total tasks",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-25T01:08:13Z",
+      "rarityPercent": 53.8
+    },
+    {
+      "id": 18,
+      "name": "IMPOSSIBLE TASK",
+      "detail": "Complete the card swipe task on your first try",
+      "type": "silver",
+      "earnedDateTime": "2021-12-31T02:57:38Z",
+      "rarityPercent": 40.4
+    },
+    {
+      "id": 17,
+      "name": "SMOOTH TALKER",
+      "detail": "Win a game by vote as Impostor",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-31T05:54:11Z",
+      "rarityPercent": 32.7
+    },
+    {
+      "id": 24,
+      "name": "CIRCUMVENTER",
+      "detail": "Win a game without using vents as Impostor.",
+      "type": "gold",
+      "earnedDateTime": "2022-01-01T01:23:49Z",
+      "rarityPercent": 38.3
+    },
+    {
+      "id": 6,
+      "name": "MANAGER",
+      "detail": "Complete 100 total tasks",
+      "type": "silver",
+      "earnedDateTime": "2022-01-01T03:18:33Z",
+      "rarityPercent": 18.1
+    },
+    {
+      "id": 13,
+      "name": "A WELL-OILED MACHINE",
+      "detail": "Win a game by completing all tasks as a crewmate",
+      "type": "silver",
+      "earnedDateTime": "2022-01-02T03:30:53Z",
+      "rarityPercent": 28.5
+    },
+    {
+      "id": 22,
+      "name": "H U N G E R",
+      "detail": "Get 3 kills before a meeting is called",
+      "type": "gold",
+      "earnedDateTime": "2022-01-02T05:25:34Z",
+      "rarityPercent": 5.4
+    },
+    {
+      "id": 3,
+      "name": "ASSASSIN",
+      "detail": "Get 50 total kills",
+      "type": "silver",
+      "earnedDateTime": "2022-01-04T02:21:22Z",
+      "rarityPercent": 5.5
+    },
+    {
+      "id": 7,
+      "name": "TASKMASTER",
+      "detail": "Complete 500 total tasks",
+      "type": "gold",
+      "earnedDateTime": "2022-01-21T22:27:44Z",
+      "rarityPercent": 2.8
+    },
+    {
+      "id": 10,
+      "name": "UNEARTHED",
+      "detail": "Win 3 games on Polus",
+      "type": "silver",
+      "earnedDateTime": "2022-01-29T02:16:04Z",
+      "rarityPercent": 13.2
+    },
+    {
+      "id": 20,
+      "name": "WATCH ME SCAN",
+      "detail": "Get killed during a medbay scan",
+      "type": "silver",
+      "earnedDateTime": "2022-02-05T22:38:26Z",
+      "rarityPercent": 9.1
+    }
+  ]
+}

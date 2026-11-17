@@ -1,0 +1,45 @@
+{
+  "game": "Battlefield 2042 Trophies",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR24635_00",
+  "progressPercent": 4,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 20,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-12-11T19:15:46Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 33,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 9,
+    "bronze": 19
+  },
+  "earned": [
+    {
+      "id": 32,
+      "name": "Good Company",
+      "detail": "Earn first place as a squad",
+      "type": "silver",
+      "earnedDateTime": "2021-11-24T17:44:59Z",
+      "rarityPercent": 41.2
+    },
+    {
+      "id": 1,
+      "name": "Adapt and Overcome",
+      "detail": "Reach Player Level 5",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T19:15:39Z",
+      "rarityPercent": 62.1
+    }
+  ]
+}

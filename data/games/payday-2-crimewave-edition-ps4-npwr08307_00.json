@@ -1,0 +1,53 @@
+{
+  "game": "PAYDAY 2: CRIMEWAVE EDITION",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08307_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 3,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 55,
+    "silver": 33,
+    "gold": 22,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2023-03-16T01:33:30Z",
+  "earnedTotal": 3,
+  "unearnedTotal": 108,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 22,
+    "silver": 33,
+    "bronze": 52
+  },
+  "earned": [
+    {
+      "id": 8,
+      "name": "No One Cared Who I Was...",
+      "detail": "Until I put on the mask.",
+      "type": "bronze",
+      "earnedDateTime": "2020-03-28T20:39:12Z",
+      "rarityPercent": 91.3
+    },
+    {
+      "id": 10,
+      "name": "Going Places",
+      "detail": "Gain $1.000.000 in total spendable cash.",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-14T01:30:36Z",
+      "rarityPercent": 23.9
+    },
+    {
+      "id": 18,
+      "name": "Yeah He's a Gold Digger",
+      "detail": "In the Four Stores job, find a gold bar in the safe.",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-16T01:33:28Z",
+      "rarityPercent": 10
+    }
+  ]
+}

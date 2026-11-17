@@ -1,0 +1,333 @@
+{
+  "game": "Bully",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR09515_00",
+  "progressPercent": 100,
+  "earnedCounts": {
+    "bronze": 23,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 23,
+    "silver": 10,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-09-22T14:41:24Z",
+  "earnedTotal": 38,
+  "unearnedTotal": 0,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0
+  },
+  "earned": [
+    {
+      "id": 13,
+      "name": "Keener",
+      "detail": "Complete three classes.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-01T01:31:51Z",
+      "rarityPercent": 53.7
+    },
+    {
+      "id": 14,
+      "name": "Teacher's Pet",
+      "detail": "Complete six classes.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-02T00:41:34Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 20,
+      "name": "Freshman",
+      "detail": "Complete Chapter 1.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-03T03:23:18Z",
+      "rarityPercent": 41.1
+    },
+    {
+      "id": 6,
+      "name": "Watch Your Step",
+      "detail": "Trip 25 people with marbles.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-03T18:50:46Z",
+      "rarityPercent": 7.7
+    },
+    {
+      "id": 11,
+      "name": "Helping Hand",
+      "detail": "Complete 10 Errand missions.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-03T19:59:04Z",
+      "rarityPercent": 16
+    },
+    {
+      "id": 1,
+      "name": "After Hours",
+      "detail": "Spend 5 hours out after curfew.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-03T20:17:42Z",
+      "rarityPercent": 38.9
+    },
+    {
+      "id": 21,
+      "name": "Sophomore",
+      "detail": "Complete Chapter 2.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-05T01:39:10Z",
+      "rarityPercent": 27.9
+    },
+    {
+      "id": 15,
+      "name": "Popularity Contest",
+      "detail": "Gain 100% respect from 2 cliques simultaneously.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-05T01:39:37Z",
+      "rarityPercent": 27.9
+    },
+    {
+      "id": 26,
+      "name": "Smell Ya Later",
+      "detail": "Hit people with stink bombs 50 times.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-05T01:42:40Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 19,
+      "name": "Rich Kid Blues",
+      "detail": "Have $1,000 in pocket change.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-06T02:32:06Z",
+      "rarityPercent": 12
+    },
+    {
+      "id": 12,
+      "name": "Little Angel",
+      "detail": "Complete 20 Errand missions.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-06T03:03:32Z",
+      "rarityPercent": 8.1
+    },
+    {
+      "id": 3,
+      "name": "Casanova",
+      "detail": "Receive 25 kisses.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-06T03:16:18Z",
+      "rarityPercent": 14
+    },
+    {
+      "id": 22,
+      "name": "Junior",
+      "detail": "Complete Chapter 3.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-06T03:44:17Z",
+      "rarityPercent": 21.2
+    },
+    {
+      "id": 37,
+      "name": "Boy Genius",
+      "detail": "Complete all 5 classes for every subject.",
+      "type": "gold",
+      "earnedDateTime": "2022-09-06T04:26:23Z",
+      "rarityPercent": 8.6
+    },
+    {
+      "id": 8,
+      "name": "Down for the Count",
+      "detail": "Knock out 200 opponents.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-06T05:08:36Z",
+      "rarityPercent": 20.5
+    },
+    {
+      "id": 18,
+      "name": "Green Thumb",
+      "detail": "Mow the lawn 10 times.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-07T02:25:38Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 25,
+      "name": "Smart Mouth",
+      "detail": "Say 100 taunts.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-07T23:29:12Z",
+      "rarityPercent": 10.4
+    },
+    {
+      "id": 23,
+      "name": "Senior",
+      "detail": "Complete Chapter 4.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-08T00:50:50Z",
+      "rarityPercent": 17.1
+    },
+    {
+      "id": 34,
+      "name": "Graduate",
+      "detail": "Complete Chapter 5.",
+      "type": "gold",
+      "earnedDateTime": "2022-09-09T18:58:54Z",
+      "rarityPercent": 14.3
+    },
+    {
+      "id": 4,
+      "name": "Eggsellent!",
+      "detail": "Egg 25 cars.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-10T17:28:11Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 7,
+      "name": "Dual Nebula",
+      "detail": "Achieve a high score on Consumo, Nut Shots, and Monkey Fling arcade games.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-13T16:15:17Z",
+      "rarityPercent": 3.5
+    },
+    {
+      "id": 10,
+      "name": "Speed Freak",
+      "detail": "Complete Carnival Go Kart Races.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-13T16:36:13Z",
+      "rarityPercent": 8.5
+    },
+    {
+      "id": 17,
+      "name": "Pole Position",
+      "detail": "Complete all go kart street races.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-13T21:21:27Z",
+      "rarityPercent": 6.2
+    },
+    {
+      "id": 27,
+      "name": "Skidmark",
+      "detail": "Give 50 wedgies.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-13T22:17:22Z",
+      "rarityPercent": 4.6
+    },
+    {
+      "id": 5,
+      "name": "Kickin' the Balls",
+      "detail": "Kick 100 soccer balls.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-13T23:07:45Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 28,
+      "name": "Glass Dismissed",
+      "detail": "Break 300 bottles of the shooting gallery.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-21T17:02:52Z",
+      "rarityPercent": 3.7
+    },
+    {
+      "id": 16,
+      "name": "The (Expert) Bicycle Thief",
+      "detail": "Jack 20 bicycles.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-21T17:15:04Z",
+      "rarityPercent": 5.6
+    },
+    {
+      "id": 29,
+      "name": "Momma's Boy",
+      "detail": "Complete 30 Errand missions.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-21T17:27:01Z",
+      "rarityPercent": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Soda 'Licious",
+      "detail": "Buy 100 sodas.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-21T17:30:17Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 31,
+      "name": "The Wheel Deal",
+      "detail": "Perform 200 wheelies on the bike.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-21T17:34:42Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 30,
+      "name": "Marathon",
+      "detail": "Travel 100,000 meters on foot.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-21T23:36:10Z",
+      "rarityPercent": 8.8
+    },
+    {
+      "id": 36,
+      "name": "Kleptomania",
+      "detail": "Acquire all room trophies.",
+      "type": "gold",
+      "earnedDateTime": "2022-09-21T23:54:42Z",
+      "rarityPercent": 3.3
+    },
+    {
+      "id": 24,
+      "name": "Skate Pro",
+      "detail": "Travel 50,000 meters on the skateboard.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-22T00:36:32Z",
+      "rarityPercent": 5.2
+    },
+    {
+      "id": 32,
+      "name": "Sharp Dressed Man",
+      "detail": "Purchase 250 clothing items.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-22T01:04:12Z",
+      "rarityPercent": 3.4
+    },
+    {
+      "id": 35,
+      "name": "Problem Child",
+      "detail": "Amass 160,000 trouble points.",
+      "type": "gold",
+      "earnedDateTime": "2022-09-22T01:33:05Z",
+      "rarityPercent": 6.9
+    },
+    {
+      "id": 2,
+      "name": "Green Thumbs Up",
+      "detail": "Pick 50 flowers.",
+      "type": "bronze",
+      "earnedDateTime": "2022-09-22T14:07:13Z",
+      "rarityPercent": 4.3
+    },
+    {
+      "id": 0,
+      "name": "Valedictorian",
+      "detail": "Unlock every trophy.",
+      "type": "platinum",
+      "earnedDateTime": "2022-09-22T14:41:21Z",
+      "rarityPercent": 3
+    },
+    {
+      "id": 33,
+      "name": "Tour de Bullworth",
+      "detail": "Travel 100 km on the bike.",
+      "type": "silver",
+      "earnedDateTime": "2022-09-22T14:41:21Z",
+      "rarityPercent": 4.3
+    }
+  ]
+}

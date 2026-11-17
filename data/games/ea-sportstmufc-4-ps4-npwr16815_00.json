@@ -1,0 +1,101 @@
+{
+  "game": "EA SPORTS™UFC®4",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR16815_00",
+  "progressPercent": 21,
+  "earnedCounts": {
+    "bronze": 4,
+    "silver": 5,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 8,
+    "silver": 14,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2023-01-01T22:11:26Z",
+  "earnedTotal": 9,
+  "unearnedTotal": 19,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 5,
+    "silver": 9,
+    "bronze": 4
+  },
+  "earned": [
+    {
+      "id": 1,
+      "name": "Thrown to the Wolves",
+      "detail": "Make your amateur debut in the Opening Experience.",
+      "type": "bronze",
+      "earnedDateTime": "2022-03-03T16:52:15Z",
+      "rarityPercent": 59.9
+    },
+    {
+      "id": 3,
+      "name": "The Pro",
+      "detail": "Finish your training and sign your first Career contract.",
+      "type": "silver",
+      "earnedDateTime": "2022-03-03T16:55:30Z",
+      "rarityPercent": 37.1
+    },
+    {
+      "id": 13,
+      "name": "The Apprentice",
+      "detail": "Upgrade a move during a fight or training in your Career.",
+      "type": "bronze",
+      "earnedDateTime": "2022-03-03T16:59:47Z",
+      "rarityPercent": 52.8
+    },
+    {
+      "id": 10,
+      "name": "Overachiever",
+      "detail": "Complete all optional challenges from a sparring session in your Career.",
+      "type": "silver",
+      "earnedDateTime": "2022-03-03T17:00:06Z",
+      "rarityPercent": 34.7
+    },
+    {
+      "id": 16,
+      "name": "Facebreaker",
+      "detail": "Finish a fight by ground & pound.",
+      "type": "bronze",
+      "earnedDateTime": "2022-03-03T17:20:40Z",
+      "rarityPercent": 63.9
+    },
+    {
+      "id": 5,
+      "name": "Employee of the Month",
+      "detail": "Complete an optional Contract Bonus in your Career.",
+      "type": "silver",
+      "earnedDateTime": "2022-03-05T15:53:53Z",
+      "rarityPercent": 30.2
+    },
+    {
+      "id": 4,
+      "name": "Unleashed on Cam",
+      "detail": "Knockout your training partner during a streamed session in your Career.",
+      "type": "silver",
+      "earnedDateTime": "2022-03-05T16:00:38Z",
+      "rarityPercent": 20.2
+    },
+    {
+      "id": 7,
+      "name": "I'm Back!",
+      "detail": "Use Evolution Points to recover a lost attribute point in your Career.",
+      "type": "silver",
+      "earnedDateTime": "2022-03-05T16:59:03Z",
+      "rarityPercent": 28
+    },
+    {
+      "id": 17,
+      "name": "Sleepy Time",
+      "detail": "Finish a fight by choke submission.",
+      "type": "bronze",
+      "earnedDateTime": "2023-01-01T12:34:53Z",
+      "rarityPercent": 42.7
+    }
+  ]
+}

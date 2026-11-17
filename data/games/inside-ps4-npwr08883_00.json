@@ -1,0 +1,37 @@
+{
+  "game": "INSIDE",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08883_00",
+  "progressPercent": 5,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 13,
+    "silver": 0,
+    "gold": 1,
+    "platinum": 0
+  },
+  "psnLastUpdated": "2022-11-08T21:26:42Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 13,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 1,
+    "silver": 0,
+    "bronze": 12
+  },
+  "earned": [
+    {
+      "id": 3,
+      "name": "Left Behind",
+      "detail": "Safe falling and hard landings",
+      "type": "bronze",
+      "earnedDateTime": "2022-11-08T21:26:38Z",
+      "rarityPercent": 77
+    }
+  ]
+}

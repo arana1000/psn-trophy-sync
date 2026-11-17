@@ -1,0 +1,37 @@
+{
+  "game": "FIFA 22 Trophies",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR25179_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 17,
+    "silver": 17,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-07-07T20:48:41Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 37,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 17,
+    "bronze": 16
+  },
+  "earned": [
+    {
+      "id": 36,
+      "name": "Winner Stays",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2022-07-03T10:41:42Z",
+      "rarityPercent": 19.7
+    }
+  ]
+}

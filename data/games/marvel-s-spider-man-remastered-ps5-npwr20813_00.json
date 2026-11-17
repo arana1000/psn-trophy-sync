@@ -1,0 +1,525 @@
+{
+  "game": "Marvel's Spider-Man Remastered",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR20813_00",
+  "progressPercent": 70,
+  "earnedCounts": {
+    "bronze": 44,
+    "silver": 15,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 54,
+    "silver": 19,
+    "gold": 5,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-06-17T22:42:50Z",
+  "earnedTotal": 62,
+  "unearnedTotal": 17,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 3,
+    "silver": 4,
+    "bronze": 10
+  },
+  "earned": [
+    {
+      "id": 24,
+      "name": "Knocking Down Kingpin",
+      "detail": "Defeat Fisk",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T18:03:31Z",
+      "rarityPercent": 79.1
+    },
+    {
+      "id": 46,
+      "name": "Lost and Found",
+      "detail": "Collect 5 Backpacks",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T20:27:17Z",
+      "rarityPercent": 54.2
+    },
+    {
+      "id": 50,
+      "name": "Ace the Base",
+      "detail": "Complete all objectives in a base",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T20:57:08Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 37,
+      "name": "Spider-Sensible",
+      "detail": "Perfect Dodge 10 attacks",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T21:20:55Z",
+      "rarityPercent": 54.9
+    },
+    {
+      "id": 77,
+      "name": "So Many Hits...",
+      "detail": "Achieve a combo of 100",
+      "type": "silver",
+      "earnedDateTime": "2022-05-27T22:44:08Z",
+      "rarityPercent": 24.3
+    },
+    {
+      "id": 30,
+      "name": "Wing It",
+      "detail": "Traverse across the city rooftops",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T22:59:05Z",
+      "rarityPercent": 57
+    },
+    {
+      "id": 31,
+      "name": "King of Swing",
+      "detail": "Complete a level 1 Traversal Benchmark",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T23:10:46Z",
+      "rarityPercent": 57.5
+    },
+    {
+      "id": 29,
+      "name": "Shock and Awe",
+      "detail": "Defeat Shocker",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-27T23:22:36Z",
+      "rarityPercent": 55.8
+    },
+    {
+      "id": 48,
+      "name": "Cat's Out of the Bag",
+      "detail": "Collect a Black Cat collectible",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T00:16:30Z",
+      "rarityPercent": 52.9
+    },
+    {
+      "id": 20,
+      "name": "Demons Emerge",
+      "detail": "Complete Act 1",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T01:41:37Z",
+      "rarityPercent": 51.1
+    },
+    {
+      "id": 32,
+      "name": "And Stay Down!",
+      "detail": "Complete a level 1 Combat Benchmark",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T01:58:16Z",
+      "rarityPercent": 52.3
+    },
+    {
+      "id": 45,
+      "name": "Arachnophobia",
+      "detail": "Perform 75 Stealth Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T02:21:25Z",
+      "rarityPercent": 45.9
+    },
+    {
+      "id": 43,
+      "name": "Sticky and Tricky",
+      "detail": "Chain 4 unique tricks before landing",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T02:51:08Z",
+      "rarityPercent": 30.4
+    },
+    {
+      "id": 36,
+      "name": "The Scientific Method",
+      "detail": "Craft your first Upgrade",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T13:39:01Z",
+      "rarityPercent": 47.5
+    },
+    {
+      "id": 47,
+      "name": "Spider-Man About Town",
+      "detail": "Greet 10 citizens",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T13:46:23Z",
+      "rarityPercent": 32
+    },
+    {
+      "id": 14,
+      "name": "Short Fuse",
+      "detail": "Get Spectacular or better in a Taskmaster Bomb Challenge",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T13:59:30Z",
+      "rarityPercent": 35.1
+    },
+    {
+      "id": 76,
+      "name": "Master's Education",
+      "detail": "Achieve Ultimate on a Taskmaster Challenge",
+      "type": "silver",
+      "earnedDateTime": "2022-05-28T14:00:31Z",
+      "rarityPercent": 26.2
+    },
+    {
+      "id": 44,
+      "name": "Snappy Dresser",
+      "detail": "Wear 5 new Spider-Suits",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T15:14:20Z",
+      "rarityPercent": 43.8
+    },
+    {
+      "id": 42,
+      "name": "Born to Ride",
+      "detail": "Ride the Subway 5 times",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T16:21:36Z",
+      "rarityPercent": 32.6
+    },
+    {
+      "id": 21,
+      "name": "The Six Assemble",
+      "detail": "Complete Act 2",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-28T16:48:16Z",
+      "rarityPercent": 43.4
+    },
+    {
+      "id": 40,
+      "name": "Hero for Higher",
+      "detail": "Perch atop Avengers Tower",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-30T00:29:33Z",
+      "rarityPercent": 27.2
+    },
+    {
+      "id": 13,
+      "name": "Amazing Coverage",
+      "detail": "All Surveillance Towers activated",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-30T00:30:35Z",
+      "rarityPercent": 38.1
+    },
+    {
+      "id": 17,
+      "name": "Spy Hunter",
+      "detail": "Get Spectacular or better in a Taskmaster Drone Challenge",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-30T12:02:18Z",
+      "rarityPercent": 29.9
+    },
+    {
+      "id": 74,
+      "name": "Grinding All the Way",
+      "detail": "Max out one Benchmark type",
+      "type": "silver",
+      "earnedDateTime": "2022-05-30T12:17:03Z",
+      "rarityPercent": 36.4
+    },
+    {
+      "id": 26,
+      "name": "Grounded",
+      "detail": "Defeat Electro and Vulture",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-31T21:29:18Z",
+      "rarityPercent": 41.6
+    },
+    {
+      "id": 5,
+      "name": "Cat Prints",
+      "detail": "Track down Black Cat",
+      "type": "silver",
+      "earnedDateTime": "2022-05-31T22:27:44Z",
+      "rarityPercent": 29.2
+    },
+    {
+      "id": 16,
+      "name": "Ninja",
+      "detail": "Get Spectacular or better in a Taskmaster Stealth Challenge",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-31T22:40:55Z",
+      "rarityPercent": 25.2
+    },
+    {
+      "id": 15,
+      "name": "Fists of Fury",
+      "detail": "Get Spectacular or better in a Taskmaster Combat Challenge",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-31T23:00:50Z",
+      "rarityPercent": 30.4
+    },
+    {
+      "id": 27,
+      "name": "Sting and Smash",
+      "detail": "Defeat Scorpion and Rhino",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-01T15:51:56Z",
+      "rarityPercent": 40.4
+    },
+    {
+      "id": 25,
+      "name": "Staying Positive",
+      "detail": "Defeat Li",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-01T17:23:20Z",
+      "rarityPercent": 39.5
+    },
+    {
+      "id": 34,
+      "name": "Hug It Out",
+      "detail": "Knock together 10 pairs of enemies with Trip Mines",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-01T17:40:41Z",
+      "rarityPercent": 23.3
+    },
+    {
+      "id": 8,
+      "name": "Mercenary Tactics",
+      "detail": "Take down each Sable Outpost",
+      "type": "silver",
+      "earnedDateTime": "2022-06-01T17:45:15Z",
+      "rarityPercent": 20.5
+    },
+    {
+      "id": 22,
+      "name": "End Game",
+      "detail": "Complete Act 3",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-01T18:15:30Z",
+      "rarityPercent": 38.4
+    },
+    {
+      "id": 10,
+      "name": "Neighbourhood Watch",
+      "detail": "Complete all Faction Crimes in a district",
+      "type": "silver",
+      "earnedDateTime": "2022-06-01T22:39:42Z",
+      "rarityPercent": 23.3
+    },
+    {
+      "id": 6,
+      "name": "Inner Sanctuary",
+      "detail": "Take down each Demon Warehouse",
+      "type": "silver",
+      "earnedDateTime": "2022-06-01T23:40:54Z",
+      "rarityPercent": 23.6
+    },
+    {
+      "id": 38,
+      "name": "Overdrive",
+      "detail": "Complete 10 Vehicle Takedowns",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-01T23:42:45Z",
+      "rarityPercent": 30.9
+    },
+    {
+      "id": 28,
+      "name": "Tombstone Takedown",
+      "detail": "Defeat Tombstone",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-02T00:20:59Z",
+      "rarityPercent": 25.2
+    },
+    {
+      "id": 7,
+      "name": "All the King's Men",
+      "detail": "Take down each Fisk Hideout",
+      "type": "silver",
+      "earnedDateTime": "2022-06-02T22:28:09Z",
+      "rarityPercent": 25.6
+    },
+    {
+      "id": 33,
+      "name": "Pigeon Hunter",
+      "detail": "Catch all of Howard's Pigeons",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T22:34:16Z",
+      "rarityPercent": 23.8
+    },
+    {
+      "id": 9,
+      "name": "Back in the Slammer",
+      "detail": "Take down each Prisoner Camp",
+      "type": "silver",
+      "earnedDateTime": "2022-06-07T22:41:10Z",
+      "rarityPercent": 20.8
+    },
+    {
+      "id": 12,
+      "name": "Schooled",
+      "detail": "Complete all of the Corrupted Student missions",
+      "type": "silver",
+      "earnedDateTime": "2022-06-07T23:01:17Z",
+      "rarityPercent": 21.4
+    },
+    {
+      "id": 35,
+      "name": "Friendly Neighbourhood Spider-Man",
+      "detail": "Complete all Side Missions",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T23:01:17Z",
+      "rarityPercent": 20.6
+    },
+    {
+      "id": 39,
+      "name": "With Great Power...",
+      "detail": "Pay respects at Ben Parker's grave",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T23:04:33Z",
+      "rarityPercent": 13.7
+    },
+    {
+      "id": 19,
+      "name": "R&D",
+      "detail": "Complete all Research Stations",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T23:19:31Z",
+      "rarityPercent": 20
+    },
+    {
+      "id": 41,
+      "name": "Sightseeing",
+      "detail": "Photograph all Landmarks on the Map",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T23:26:10Z",
+      "rarityPercent": 25.2
+    },
+    {
+      "id": 18,
+      "name": "Challenge Finder",
+      "detail": "Complete every Taskmaster Challenge in the city once",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T23:30:13Z",
+      "rarityPercent": 20.1
+    },
+    {
+      "id": 3,
+      "name": "Master of Masters",
+      "detail": "Defeat Taskmaster",
+      "type": "silver",
+      "earnedDateTime": "2022-06-07T23:38:22Z",
+      "rarityPercent": 18.8
+    },
+    {
+      "id": 23,
+      "name": "Science FTW!",
+      "detail": "Craft 15 Upgrades",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-07T23:39:08Z",
+      "rarityPercent": 27.3
+    },
+    {
+      "id": 75,
+      "name": "Full Arsenal",
+      "detail": "Max out all Gadgets",
+      "type": "silver",
+      "earnedDateTime": "2022-06-07T23:39:55Z",
+      "rarityPercent": 14.7
+    },
+    {
+      "id": 4,
+      "name": "Backpacker",
+      "detail": "Collect all Backpacks",
+      "type": "silver",
+      "earnedDateTime": "2022-06-07T23:43:03Z",
+      "rarityPercent": 28.4
+    },
+    {
+      "id": 1,
+      "name": "Superior Spider-Man",
+      "detail": "Unlock all Skills",
+      "type": "gold",
+      "earnedDateTime": "2022-06-07T23:44:59Z",
+      "rarityPercent": 25.7
+    },
+    {
+      "id": 49,
+      "name": "A Bit of a Fixer-Upper",
+      "detail": "Complete all optional projects in the lab",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-08T00:10:24Z",
+      "rarityPercent": 15.9
+    },
+    {
+      "id": 11,
+      "name": "A Suit For All Seasons",
+      "detail": "Purchase all Suits",
+      "type": "silver",
+      "earnedDateTime": "2022-06-08T00:46:44Z",
+      "rarityPercent": 13.9
+    },
+    {
+      "id": 0,
+      "name": "Be Greater",
+      "detail": "Collect all Trophies",
+      "type": "platinum",
+      "earnedDateTime": "2022-06-08T16:19:29Z",
+      "rarityPercent": 10.2
+    },
+    {
+      "id": 2,
+      "name": "I Heart Manhattan",
+      "detail": "100% complete all districts",
+      "type": "gold",
+      "earnedDateTime": "2022-06-08T16:19:29Z",
+      "rarityPercent": 14.7
+    },
+    {
+      "id": 55,
+      "name": "The Cat Came Back",
+      "detail": "Complete \"The Maria\" mission",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-08T16:41:20Z",
+      "rarityPercent": 24
+    },
+    {
+      "id": 56,
+      "name": "Here Kitty-Kitty",
+      "detail": "Complete the Black Cat chase",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-11T15:29:13Z",
+      "rarityPercent": 21.4
+    },
+    {
+      "id": 59,
+      "name": "Disorganised Crime",
+      "detail": "Complete all Crimes in a district",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-11T15:38:21Z",
+      "rarityPercent": 14.8
+    },
+    {
+      "id": 57,
+      "name": "Bye Felicia",
+      "detail": "Complete the \"Follow the Money\" mission",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-15T23:27:53Z",
+      "rarityPercent": 20.6
+    },
+    {
+      "id": 58,
+      "name": "The Long Con",
+      "detail": "Complete the \"Like a Fiddle\" mission",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-17T22:17:55Z",
+      "rarityPercent": 15.2
+    },
+    {
+      "id": 54,
+      "name": "Screwy",
+      "detail": "Get Spectacular or better in all Screwball Challenges",
+      "type": "silver",
+      "earnedDateTime": "2022-06-17T22:23:26Z",
+      "rarityPercent": 8.5
+    },
+    {
+      "id": 62,
+      "name": "Pulling the Trigger",
+      "detail": "Complete the \"Blindsided\" mission",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-17T22:42:50Z",
+      "rarityPercent": 20.1
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "game": "Tom Clancy’s Rainbow Six® Siege",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR08306_00",
+  "progressPercent": 17,
+  "earnedCounts": {
+    "bronze": 10,
+    "silver": 1,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 34,
+    "silver": 12,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-12-11T18:06:01Z",
+  "earnedTotal": 11,
+  "unearnedTotal": 38,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 11,
+    "bronze": 24
+  },
+  "earned": [
+    {
+      "id": 45,
+      "name": "Perimeter Secured",
+      "detail": "Win a match of Secure Area in Quick Match Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-05T16:47:11Z",
+      "rarityPercent": 34.4
+    },
+    {
+      "id": 19,
+      "name": "Speed Round",
+      "detail": "Win a round in Quick Match/Ranked Multiplayer in under 2 minutes.",
+      "type": "silver",
+      "earnedDateTime": "2021-12-05T16:52:04Z",
+      "rarityPercent": 49.9
+    },
+    {
+      "id": 7,
+      "name": "Designer",
+      "detail": "Customize a weapon.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-05T17:03:14Z",
+      "rarityPercent": 68.6
+    },
+    {
+      "id": 27,
+      "name": "Woodworker",
+      "detail": "Place 5 barricades as a Defender in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T17:23:50Z",
+      "rarityPercent": 54.7
+    },
+    {
+      "id": 22,
+      "name": "Drone Destruction",
+      "detail": "Destroy 5 drones in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T17:24:00Z",
+      "rarityPercent": 55.7
+    },
+    {
+      "id": 12,
+      "name": "Coming Through!",
+      "detail": "Breach and rappel through a window in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T17:29:11Z",
+      "rarityPercent": 51.4
+    },
+    {
+      "id": 36,
+      "name": "Full Auto",
+      "detail": "Get 5 kills with an AR.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T17:29:18Z",
+      "rarityPercent": 55.8
+    },
+    {
+      "id": 1,
+      "name": "Back in the Day ATK",
+      "detail": "Play 10 rounds with a Pathfinder Attacker in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T17:58:13Z",
+      "rarityPercent": 59.5
+    },
+    {
+      "id": 37,
+      "name": "Greaser",
+      "detail": "Get 5 kills with an SMG.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T18:04:42Z",
+      "rarityPercent": 47.7
+    },
+    {
+      "id": 2,
+      "name": "First Class Defense",
+      "detail": "Play 10 rounds with a Pathfinder Defender in Quick Match/Ranked Multiplayer.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T18:05:32Z",
+      "rarityPercent": 58.7
+    },
+    {
+      "id": 8,
+      "name": "Collector",
+      "detail": "Collect and save 5000 Renown.",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-11T18:05:57Z",
+      "rarityPercent": 46.1
+    }
+  ]
+}

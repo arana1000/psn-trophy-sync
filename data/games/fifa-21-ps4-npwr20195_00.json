@@ -1,0 +1,69 @@
+{
+  "game": "FIFA 21",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR20195_00",
+  "progressPercent": 10,
+  "earnedCounts": {
+    "bronze": 3,
+    "silver": 2,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 16,
+    "silver": 17,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-03-04T19:37:53Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 32,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 15,
+    "bronze": 13
+  },
+  "earned": [
+    {
+      "id": 24,
+      "name": "The First of Many",
+      "detail": "Complete and win your first Pro Club Seasons league match",
+      "type": "bronze",
+      "earnedDateTime": "2021-06-20T03:30:52Z",
+      "rarityPercent": 10.9
+    },
+    {
+      "id": 26,
+      "name": "Specialist",
+      "detail": "Unlock a Specialty in Pro Clubs",
+      "type": "silver",
+      "earnedDateTime": "2021-06-20T04:24:12Z",
+      "rarityPercent": 12.3
+    },
+    {
+      "id": 23,
+      "name": "Path to Victory",
+      "detail": "Unlock all the traits within a skill-tree in Pro Clubs",
+      "type": "silver",
+      "earnedDateTime": "2021-06-27T16:47:25Z",
+      "rarityPercent": 10
+    },
+    {
+      "id": 6,
+      "name": "Teamwork",
+      "detail": "Win a VOLTA Squads game with 3 other players",
+      "type": "bronze",
+      "earnedDateTime": "2021-09-03T22:52:07Z",
+      "rarityPercent": 1.5
+    },
+    {
+      "id": 35,
+      "name": "Frenemies",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2022-03-04T19:37:49Z",
+      "rarityPercent": 25
+    }
+  ]
+}

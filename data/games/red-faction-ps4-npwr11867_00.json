@@ -1,0 +1,28 @@
+{
+  "game": "Red Faction",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR11867_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 30,
+    "silver": 11,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-07-22T00:01:00Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 44,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 11,
+    "bronze": 30
+  },
+  "earned": []
+}

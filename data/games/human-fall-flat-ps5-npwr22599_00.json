@@ -1,0 +1,28 @@
+{
+  "game": "Human Fall Flat",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR22599_00",
+  "progressPercent": 0,
+  "earnedCounts": {
+    "bronze": 0,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 102,
+    "silver": 14,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-08-21T16:24:54Z",
+  "earnedTotal": 0,
+  "unearnedTotal": 118,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 14,
+    "bronze": 102
+  },
+  "earned": []
+}

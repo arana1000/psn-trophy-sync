@@ -1,0 +1,37 @@
+{
+  "game": "FIFA 22",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR23624_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 24,
+    "silver": 9,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-08-22T17:30:11Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 37,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 4,
+    "silver": 9,
+    "bronze": 23
+  },
+  "earned": [
+    {
+      "id": 36,
+      "name": "Winner Stays",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2022-08-22T17:30:07Z",
+      "rarityPercent": 24.9
+    }
+  ]
+}

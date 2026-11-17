@@ -1,0 +1,37 @@
+{
+  "game": "FIFA 23 Trophies",
+  "platform": "PS5",
+  "npCommunicationId": "NPWR28403_00",
+  "progressPercent": 1,
+  "earnedCounts": {
+    "bronze": 1,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 24,
+    "silver": 12,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-10-02T19:47:44Z",
+  "earnedTotal": 1,
+  "unearnedTotal": 39,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 3,
+    "silver": 12,
+    "bronze": 23
+  },
+  "earned": [
+    {
+      "id": 3,
+      "name": "Fresh Fit",
+      "detail": "Change an item in the \"Outfits\" tab",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-02T19:47:45Z",
+      "rarityPercent": 7.9
+    }
+  ]
+}

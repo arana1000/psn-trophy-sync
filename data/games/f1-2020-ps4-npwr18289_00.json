@@ -1,0 +1,45 @@
+{
+  "game": "F1® 2020",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR18289_00",
+  "progressPercent": 2,
+  "earnedCounts": {
+    "bronze": 2,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 38,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-06-28T11:24:03Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 49,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 10,
+    "bronze": 36
+  },
+  "earned": [
+    {
+      "id": 6,
+      "name": "You Didn't See Anything",
+      "detail": "Activate a Flashback",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-27T17:44:30Z",
+      "rarityPercent": 63.5
+    },
+    {
+      "id": 50,
+      "name": "Dat Reaction Speed (DRS)",
+      "detail": "Activate DRS perfectly on all zones of any track",
+      "type": "bronze",
+      "earnedDateTime": "2022-06-28T11:23:59Z",
+      "rarityPercent": 63.9
+    }
+  ]
+}

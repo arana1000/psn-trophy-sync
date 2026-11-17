@@ -1,0 +1,101 @@
+{
+  "game": "Golf With Your Friends",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR19255_00",
+  "progressPercent": 13,
+  "earnedCounts": {
+    "bronze": 7,
+    "silver": 1,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 24,
+    "silver": 24,
+    "gold": 7,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2023-03-19T23:30:04Z",
+  "earnedTotal": 9,
+  "unearnedTotal": 47,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 6,
+    "silver": 23,
+    "bronze": 17
+  },
+  "earned": [
+    {
+      "id": 5,
+      "name": "The course is that way",
+      "detail": "Go out of bounds",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T22:12:39Z",
+      "rarityPercent": 86.7
+    },
+    {
+      "id": 21,
+      "name": "Hole in one!",
+      "detail": "Get a hole in one!",
+      "type": "gold",
+      "earnedDateTime": "2023-03-19T22:14:08Z",
+      "rarityPercent": 71.3
+    },
+    {
+      "id": 1,
+      "name": "Beginner Putter",
+      "detail": "Take 50 shots",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T22:24:00Z",
+      "rarityPercent": 73.5
+    },
+    {
+      "id": 7,
+      "name": "TIMBER!",
+      "detail": "Play a full game of Forest on Classic",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T22:28:30Z",
+      "rarityPercent": 38.4
+    },
+    {
+      "id": 35,
+      "name": "Golf With Your Friends",
+      "detail": "Play a hotseat or online game",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T22:28:30Z",
+      "rarityPercent": 60.1
+    },
+    {
+      "id": 4,
+      "name": "Not enough time in the day!",
+      "detail": "Out of time",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T22:36:29Z",
+      "rarityPercent": 52
+    },
+    {
+      "id": 8,
+      "name": "Friends With Pharaoh's",
+      "detail": "Play a full game of Oasis on Classic",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T22:58:34Z",
+      "rarityPercent": 17.1
+    },
+    {
+      "id": 6,
+      "name": "Stay on target",
+      "detail": "Go out of bounds 50 times",
+      "type": "silver",
+      "earnedDateTime": "2023-03-19T23:14:52Z",
+      "rarityPercent": 44.3
+    },
+    {
+      "id": 32,
+      "name": "All the bells and whistles",
+      "detail": "Play a full game with a custom game mode",
+      "type": "bronze",
+      "earnedDateTime": "2023-03-19T23:30:03Z",
+      "rarityPercent": 31.5
+    }
+  ]
+}

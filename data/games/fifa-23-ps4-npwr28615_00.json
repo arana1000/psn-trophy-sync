@@ -1,0 +1,189 @@
+{
+  "game": "FIFA 23",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR28615_00",
+  "progressPercent": 45,
+  "earnedCounts": {
+    "bronze": 14,
+    "silver": 5,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 24,
+    "silver": 12,
+    "gold": 3,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2023-04-21T03:32:51Z",
+  "earnedTotal": 20,
+  "unearnedTotal": 20,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 2,
+    "silver": 7,
+    "bronze": 10
+  },
+  "earned": [
+    {
+      "id": 26,
+      "name": "First of Many",
+      "detail": "Complete and win your first Pro Club Seasons league match",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-03T20:52:26Z",
+      "rarityPercent": 9.8
+    },
+    {
+      "id": 11,
+      "name": "Power Shot",
+      "detail": "Score a goal using the power shot mechanic",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-04T16:25:05Z",
+      "rarityPercent": 50.9
+    },
+    {
+      "id": 9,
+      "name": "Intuition and Execution",
+      "detail": "Win a penalty shoot-out without missing",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-04T16:37:10Z",
+      "rarityPercent": 26.6
+    },
+    {
+      "id": 25,
+      "name": "Becoming Unplayable",
+      "detail": "Unlock all the traits within a skill-tree in Pro Clubs",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-06T20:10:19Z",
+      "rarityPercent": 4.9
+    },
+    {
+      "id": 28,
+      "name": "Specialist",
+      "detail": "Unlock an Archetype in Pro Clubs",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-06T20:10:19Z",
+      "rarityPercent": 8
+    },
+    {
+      "id": 3,
+      "name": "Fresh Fit",
+      "detail": "Change an item in the \"Outfits\" tab",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-06T20:11:55Z",
+      "rarityPercent": 11.3
+    },
+    {
+      "id": 2,
+      "name": "Teamwork works",
+      "detail": "Win a VOLTA SQUADS match with 3 friends",
+      "type": "bronze",
+      "earnedDateTime": "2022-10-06T21:04:06Z",
+      "rarityPercent": 5.7
+    },
+    {
+      "id": 6,
+      "name": "On the way up",
+      "detail": "Reach Level 7 in a Season in VOLTA FOOTBALL or Pro Clubs",
+      "type": "silver",
+      "earnedDateTime": "2022-10-08T23:53:39Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 38,
+      "name": "Best of Five",
+      "detail": "Play 5 H2H matches with a friend in Kick Off",
+      "type": "bronze",
+      "earnedDateTime": "2022-12-10T22:07:31Z",
+      "rarityPercent": 28.2
+    },
+    {
+      "id": 5,
+      "name": "Shop till you drop",
+      "detail": "Purchase an item from the VOLTA Shop using VOLTA Coins",
+      "type": "bronze",
+      "earnedDateTime": "2022-12-25T23:46:13Z",
+      "rarityPercent": 4.5
+    },
+    {
+      "id": 7,
+      "name": "Sharing is Caring",
+      "detail": "Purchase a shareable item in the VOLTA Shop",
+      "type": "silver",
+      "earnedDateTime": "2022-12-25T23:46:13Z",
+      "rarityPercent": 3.2
+    },
+    {
+      "id": 8,
+      "name": "Dead-ball specialist",
+      "detail": "Score a goal from a Free Kick",
+      "type": "bronze",
+      "earnedDateTime": "2022-12-26T19:52:26Z",
+      "rarityPercent": 39.9
+    },
+    {
+      "id": 29,
+      "name": "Make the Grade",
+      "detail": "Receive an A grade in a Pro Clubs Skill Game",
+      "type": "silver",
+      "earnedDateTime": "2022-12-28T02:41:17Z",
+      "rarityPercent": 5.8
+    },
+    {
+      "id": 19,
+      "name": "A Moment of Your Time",
+      "detail": "Complete 1 FUT Moment",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-01T23:15:39Z",
+      "rarityPercent": 21.9
+    },
+    {
+      "id": 15,
+      "name": "Tactical Tinkerer",
+      "detail": "Create your own custom tactic in FIFA Ultimate Team",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-02T01:46:53Z",
+      "rarityPercent": 21.1
+    },
+    {
+      "id": 13,
+      "name": "Squad Building Connoisseur",
+      "detail": "Complete 10 Squad Building Challenges in FIFA Ultimate Team",
+      "type": "silver",
+      "earnedDateTime": "2023-04-03T00:30:44Z",
+      "rarityPercent": 22.3
+    },
+    {
+      "id": 14,
+      "name": "The Winning Formula",
+      "detail": "Build a squad with 33 Chemistry Points in FIFA Ultimate Team",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-03T02:24:30Z",
+      "rarityPercent": 21.2
+    },
+    {
+      "id": 16,
+      "name": "Safe House",
+      "detail": "Play a game using any House Rule in FUT Friendlies",
+      "type": "bronze",
+      "earnedDateTime": "2023-04-03T02:43:34Z",
+      "rarityPercent": 13.6
+    },
+    {
+      "id": 22,
+      "name": "Let the Games Begin",
+      "detail": "Earn enough FUT Champions Qualification Points to qualify for FUT Champions Play-Offs",
+      "type": "silver",
+      "earnedDateTime": "2023-04-06T04:40:14Z",
+      "rarityPercent": 23
+    },
+    {
+      "id": 24,
+      "name": "The Chosen One",
+      "detail": "Reach 200 club appearances with a player in FIFA Ultimate Team",
+      "type": "gold",
+      "earnedDateTime": "2023-04-21T03:32:49Z",
+      "rarityPercent": 14.1
+    }
+  ]
+}

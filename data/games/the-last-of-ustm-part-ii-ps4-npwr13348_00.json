@@ -1,0 +1,133 @@
+{
+  "game": "The Last of Us™ Part II",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR13348_00",
+  "progressPercent": 33,
+  "earnedCounts": {
+    "bronze": 6,
+    "silver": 6,
+    "gold": 1,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 11,
+    "silver": 9,
+    "gold": 7,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2021-12-11T02:25:33Z",
+  "earnedTotal": 13,
+  "unearnedTotal": 15,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 6,
+    "silver": 3,
+    "bronze": 5
+  },
+  "earned": [
+    {
+      "id": 17,
+      "name": "Tinkerer",
+      "detail": "Upgrade a weapon",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-06T00:30:14Z",
+      "rarityPercent": 86
+    },
+    {
+      "id": 18,
+      "name": "Apprentice",
+      "detail": "Learn a player upgrade",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-06T20:57:57Z",
+      "rarityPercent": 83
+    },
+    {
+      "id": 19,
+      "name": "Starter Set",
+      "detail": "Find 5 trading cards",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-06T22:22:40Z",
+      "rarityPercent": 78.4
+    },
+    {
+      "id": 9,
+      "name": "Specialist",
+      "detail": "Learn all player upgrades in one branch",
+      "type": "silver",
+      "earnedDateTime": "2021-12-07T14:10:07Z",
+      "rarityPercent": 64.2
+    },
+    {
+      "id": 22,
+      "name": "Sharpshooter",
+      "detail": "Win the marksmanship competition",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-09T14:35:44Z",
+      "rarityPercent": 48.3
+    },
+    {
+      "id": 20,
+      "name": "Mint Condition",
+      "detail": "Find 5 coins",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-09T15:02:45Z",
+      "rarityPercent": 59.5
+    },
+    {
+      "id": 15,
+      "name": "In the Field",
+      "detail": "Find 12 workbenches",
+      "type": "silver",
+      "earnedDateTime": "2021-12-09T17:03:20Z",
+      "rarityPercent": 65
+    },
+    {
+      "id": 23,
+      "name": "Put My Name Up",
+      "detail": "Earn the high score in the archery game",
+      "type": "bronze",
+      "earnedDateTime": "2021-12-09T17:20:40Z",
+      "rarityPercent": 50.6
+    },
+    {
+      "id": 8,
+      "name": "Mechanist",
+      "detail": "Fully upgrade a weapon",
+      "type": "silver",
+      "earnedDateTime": "2021-12-09T17:50:33Z",
+      "rarityPercent": 59.8
+    },
+    {
+      "id": 12,
+      "name": "Journeyman",
+      "detail": "Find all training manuals",
+      "type": "silver",
+      "earnedDateTime": "2021-12-09T21:43:07Z",
+      "rarityPercent": 56.5
+    },
+    {
+      "id": 13,
+      "name": "Survival Training",
+      "detail": "Learn 25 player upgrades",
+      "type": "silver",
+      "earnedDateTime": "2021-12-10T00:31:33Z",
+      "rarityPercent": 51
+    },
+    {
+      "id": 14,
+      "name": "High Calibre",
+      "detail": "Find all weapons",
+      "type": "silver",
+      "earnedDateTime": "2021-12-11T01:09:04Z",
+      "rarityPercent": 59.6
+    },
+    {
+      "id": 1,
+      "name": "What I Had to Do",
+      "detail": "Complete the story",
+      "type": "gold",
+      "earnedDateTime": "2021-12-11T02:25:29Z",
+      "rarityPercent": 55.9
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "game": "Ghost of Tsushima",
+  "platform": "PS5,PSPC",
+  "npCommunicationId": "NPWR22859_00",
+  "progressPercent": 77,
+  "earnedCounts": {
+    "bronze": 52,
+    "silver": 10,
+    "gold": 2,
+    "platinum": 1
+  },
+  "definedCounts": {
+    "bronze": 59,
+    "silver": 13,
+    "gold": 4,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-04-30T01:38:52Z",
+  "earnedTotal": 65,
+  "unearnedTotal": 12,
+  "unearnedByType": {
+    "platinum": 0,
+    "gold": 2,
+    "silver": 3,
+    "bronze": 7
+  },
+  "earned": [
+    {
+      "id": 17,
+      "name": "Teller of Tales",
+      "detail": "Complete all of the Mythic Tales.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 23.5
+    },
+    {
+      "id": 18,
+      "name": "Helping Sword Hand",
+      "detail": "Complete all Tales of Tsushima.",
+      "type": "gold",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 11.7
+    },
+    {
+      "id": 19,
+      "name": "Flash of Steel",
+      "detail": "Defeat 20 enemies with a counterattack after a Perfect Parry.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 40.4
+    },
+    {
+      "id": 20,
+      "name": "Witness Protection",
+      "detail": "Shoot a Terrified enemy with an arrow while they are fleeing.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 40
+    },
+    {
+      "id": 21,
+      "name": "All in the Wrist",
+      "detail": "Defeat the maximum amount of enemies within a single Standoff.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 20.9
+    },
+    {
+      "id": 22,
+      "name": "Open for Business",
+      "detail": "Successfully Stagger enemies 50 times.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 61.3
+    },
+    {
+      "id": 23,
+      "name": "There Can Be Only One",
+      "detail": "Successfully complete every duel.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 18.6
+    },
+    {
+      "id": 24,
+      "name": "Have a Nice Fall",
+      "detail": "Kill an enemy with fall damage by knocking them off a ledge.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 27.9
+    },
+    {
+      "id": 25,
+      "name": "Haunting Precision",
+      "detail": "Kill 20 enemies with Ghost Stance strikes.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 37.8
+    },
+    {
+      "id": 28,
+      "name": "Every Trick in the Book",
+      "detail": "Acquire all the throwable Ghost Weapon techniques.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 33.4
+    },
+    {
+      "id": 30,
+      "name": "A Charming Man",
+      "detail": "Equip a charm in all 6 slots.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 30
+    },
+    {
+      "id": 31,
+      "name": "Gifted",
+      "detail": "Collect 10 gifts.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 42.1
+    },
+    {
+      "id": 32,
+      "name": "Slay",
+      "detail": "Acquire 30 pieces of Vanity Gear.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 44.7
+    },
+    {
+      "id": 33,
+      "name": "Light the Way",
+      "detail": "Rekindle all the lighthouses of Tsushima.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 12.6
+    },
+    {
+      "id": 34,
+      "name": "Den of Thieves",
+      "detail": "Discover Umugi Cove.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 44.2
+    },
+    {
+      "id": 35,
+      "name": "Favour of the Kami",
+      "detail": "Find and honour all of the Shinto Shrines on Tsushima.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 12.7
+    },
+    {
+      "id": 36,
+      "name": "Honour the Unseen",
+      "detail": "Bow to 10 hidden altars across Tsushima.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 9.2
+    },
+    {
+      "id": 37,
+      "name": "Lost and Found",
+      "detail": "Discover a Pillar of Honour and collect its Sword Kit.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 50.4
+    },
+    {
+      "id": 39,
+      "name": "Cooper Clan Cosplayer",
+      "detail": "Dress up as a legendary thief.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 7.8
+    },
+    {
+      "id": 66,
+      "name": "Common Courtesy",
+      "detail": "Discover and complete all unwritten tales on Iki Island.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:48Z",
+      "rarityPercent": 4.2
+    },
+    {
+      "id": 26,
+      "name": "The Ghost of Legend",
+      "detail": "Build your Legend to earn the title Ghost of Tsushima.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 22.9
+    },
+    {
+      "id": 27,
+      "name": "Quick Study",
+      "detail": "Learn the Stone, Water, Wind, and Moon combat stances.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 47.8
+    },
+    {
+      "id": 29,
+      "name": "The Perfect Storm",
+      "detail": "Fully upgrade your sword.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 27.5
+    },
+    {
+      "id": 38,
+      "name": "Monochrome Masters",
+      "detail": "Purchase an item from the Black and White Dye Merchants.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 17.9
+    },
+    {
+      "id": 40,
+      "name": "Dirge of the Fallen Forge",
+      "detail": "Play the \"Lament of the Storm\" at a friend's grave.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 41,
+      "name": "A Moment in Time",
+      "detail": "Personalise a scene in Photo Mode.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 60.7
+    },
+    {
+      "id": 42,
+      "name": "Avid Reader",
+      "detail": "Collect 20 Records.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 13.2
+    },
+    {
+      "id": 43,
+      "name": "Know Your Enemy",
+      "detail": "Collect 20 Mongol artefacts.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 24.8
+    },
+    {
+      "id": 44,
+      "name": "Body, Mind, and Spirit",
+      "detail": "Complete all Hot Springs, Haiku, Inari Shrines, and Bamboo Strikes.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 10.2
+    },
+    {
+      "id": 45,
+      "name": "Hero of the People",
+      "detail": "Liberate 12 occupied areas in Izuhara.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 42.2
+    },
+    {
+      "id": 46,
+      "name": "A Fight For The Isle….",
+      "detail": "Liberate all occupied areas in Izuhara.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 28.3
+    },
+    {
+      "id": 47,
+      "name": "Good Riddance",
+      "detail": "Liberate 8 occupied areas in Toyotama.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 34.4
+    },
+    {
+      "id": 48,
+      "name": "Securing Sanctuary….",
+      "detail": "Liberate all occupied areas in Toyotama.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 24.9
+    },
+    {
+      "id": 49,
+      "name": "Mass Eviction",
+      "detail": "Liberate 7 occupied areas in Kamiagata.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 27.1
+    },
+    {
+      "id": 50,
+      "name": "A New Safe Haven",
+      "detail": "Liberate all occupied areas in Kamiagata.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 21.8
+    },
+    {
+      "id": 51,
+      "name": "Master Liberator",
+      "detail": "Liberate the entirety of Tsushima Island.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 21.4
+    },
+    {
+      "id": 63,
+      "name": "The Butcher Redeemed",
+      "detail": "Liberate Iki Island by defeating the Eagle and driving the invaders from Mongol territory.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 64,
+      "name": "Treasures of the Past",
+      "detail": "Complete all Mythic Tales on Iki Island.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 22.2
+    },
+    {
+      "id": 65,
+      "name": "Elegy for Kazumasa",
+      "detail": "Complete all Memories of Your Father.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 11.5
+    },
+    {
+      "id": 68,
+      "name": "Pride of Ishikawa",
+      "detail": "Achieve bronze or higher on all Archery Challenges.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 6.6
+    },
+    {
+      "id": 69,
+      "name": "Chiyoko's Song",
+      "detail": "Complete all Animal Sanctuaries.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 12
+    },
+    {
+      "id": 70,
+      "name": "A Few Splinters",
+      "detail": "Complete all bokken duels at the Hidden Cove Tournament.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 19
+    },
+    {
+      "id": 71,
+      "name": "Well-Rounded Warrior",
+      "detail": "Complete all Haiku, Onsen, Shinto Shrines, and Bamboo Strikes on Iki Island.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 11.7
+    },
+    {
+      "id": 72,
+      "name": "Blood on Your Hands",
+      "detail": "Purchase an item from the Crimson Dye Merchant and obtain a dye for your Sakai Horse Armour.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:49Z",
+      "rarityPercent": 8.7
+    },
+    {
+      "id": 0,
+      "name": "Living Legend",
+      "detail": "Obtain all trophies.",
+      "type": "platinum",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 7
+    },
+    {
+      "id": 1,
+      "name": "Gathering Storm",
+      "detail": "Recover the katana of clan Sakai.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 85.6
+    },
+    {
+      "id": 2,
+      "name": "Point of No Return",
+      "detail": "Break your code to help a new friend.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 73.2
+    },
+    {
+      "id": 3,
+      "name": "Company of Wolves",
+      "detail": "Recruit the Straw Hat ronin.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 55.6
+    },
+    {
+      "id": 4,
+      "name": "Stoking the Flame",
+      "detail": "Rescue Taka from Mongol captivity.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 57.6
+    },
+    {
+      "id": 5,
+      "name": "Family Reunion",
+      "detail": "Free Lord Shimura from the Khan's clutches.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 51.6
+    },
+    {
+      "id": 6,
+      "name": "Leader of the People",
+      "detail": "Rally the peasants of Yarikawa.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 43
+    },
+    {
+      "id": 7,
+      "name": "Birthright",
+      "detail": "Recover your father's armour.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 43.7
+    },
+    {
+      "id": 8,
+      "name": "Dying Embers",
+      "detail": "Eradicate the traitors in the name of a fallen friend.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 40.6
+    },
+    {
+      "id": 9,
+      "name": "The Ghost",
+      "detail": "Embrace your new identity.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 40.1
+    },
+    {
+      "id": 10,
+      "name": "The Exiled Alliance",
+      "detail": "Reunite with your allies in the frozen north.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 39.1
+    },
+    {
+      "id": 11,
+      "name": "Sovereign End",
+      "detail": "Confront the Khan.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 37.3
+    },
+    {
+      "id": 12,
+      "name": "Mono No Aware",
+      "detail": "Leave the past behind and accept the burden of your new mantle.",
+      "type": "gold",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 36.6
+    },
+    {
+      "id": 13,
+      "name": "The Warrior Monk",
+      "detail": "Complete all of Norio's Tales.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 22.8
+    },
+    {
+      "id": 14,
+      "name": "The Vengeful Warrior",
+      "detail": "Complete all of Masako's Tales.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 25
+    },
+    {
+      "id": 15,
+      "name": "The Unbending Archer",
+      "detail": "Complete all of Ishikawa's Tales.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 25.6
+    },
+    {
+      "id": 16,
+      "name": "The Headstrong Thief",
+      "detail": "Complete all of Yuna's Tales.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 28.9
+    },
+    {
+      "id": 60,
+      "name": "Out of the Past",
+      "detail": "Survive the Eagle's medicine and bid farewell to a new friend.",
+      "type": "silver",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 27
+    },
+    {
+      "id": 62,
+      "name": "The Benefit of All Beings",
+      "detail": "Build your Legend on Iki Island to earn the title Legacy Redeemer.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 23.7
+    },
+    {
+      "id": 67,
+      "name": "Monkey See",
+      "detail": "Embody the spirit of the monkey on Saruiwa.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:50Z",
+      "rarityPercent": 4.1
+    },
+    {
+      "id": 55,
+      "name": "Promising Start",
+      "detail": "Complete a Legends Mode story.",
+      "type": "bronze",
+      "earnedDateTime": "2022-04-30T01:38:51Z",
+      "rarityPercent": 15.1
+    }
+  ]
+}

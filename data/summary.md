@@ -1,6 +1,6 @@
 # Trophy sync: abz_r100
 
-Still filling in: 123 of 203 games not synced yet. They'll be added over the next few hourly runs.
+Still filling in: 83 of 203 games not synced yet. They'll be added over the next few hourly runs.
 
 ## Recently earned
 
@@ -116,46 +116,46 @@ Still filling in: 123 of 203 games not synced yet. They'll be added over the nex
 | KINGDOM HEARTS III | PS4 | 12% | 10 / 52 | No |
 | KINGDOM HEARTS II FINAL MIX | PS4 | 27% | 18 / 51 | No |
 | HITMAN™ | PS4 | 6% | 7 / 69 | n/a |
-| FIFA 23 | PS4 | 45% | not synced yet | No |
-| Golf With Your Friends | PS4 | 13% | not synced yet | No |
-| PAYDAY 2: CRIMEWAVE EDITION | PS4 | 1% | not synced yet | No |
-| Gran Turismo 7 | PS5 | 0% | not synced yet | No |
-| EA SPORTS™UFC®4 | PS4 | 21% | not synced yet | No |
-| Call of Duty® Modern Warfare® II | PS4 | 0% | not synced yet | No |
-| Need for Speed™ Unbound | PS5 | 10% | not synced yet | No |
-| INSIDE | PS4 | 5% | not synced yet | n/a |
-| SUPERHOT | PS4 | 28% | not synced yet | No |
-| Assassin's Creed® Liberation Remastered | PS4 | 0% | not synced yet | No |
-| Grand Theft Auto: Vice City – The Definitive Edition | PS5 | 0% | not synced yet | No |
-| God of War | PS4 | 30% | not synced yet | No |
-| FIFA 23 Trophies | PS5 | 1% | not synced yet | No |
-| Everybody's Golf™ | PS4 | 0% | not synced yet | No |
-| Bully | PS4 | 100% | not synced yet | Yes |
-| Fall Guys | PS4 | 28% | not synced yet | No |
-| FIFA 22 | PS4 | 1% | not synced yet | No |
-| Human Fall Flat | PS5 | 0% | not synced yet | No |
-| LocoRoco™ Remastered | PS4 | 0% | not synced yet | No |
-| Red Faction | PS4 | 0% | not synced yet | No |
-| That's You!™ | PS4 | 65% | not synced yet | No |
-| FIFA 22 Trophies | PS5 | 1% | not synced yet | No |
-| F1® 2020 | PS4 | 2% | not synced yet | No |
-| Ghostrunner | PS5 | 32% | not synced yet | No |
-| Marvel's Spider-Man Remastered | PS5 | 70% | not synced yet | Yes |
-| Marvel's Spider-Man: Miles Morales | PS5 | 100% | not synced yet | Yes |
-| Fortnite: Save the World | PS5 | 0% | not synced yet | No |
-| Mortal Kombat X Trophies | PS4 | 6% | not synced yet | No |
-| Call of Duty® Vanguard® | PS5 | 12% | not synced yet | No |
-| Ghost of Tsushima | PS5,PSPC | 77% | not synced yet | Yes |
-| Ghost of Tsushima | PS4 | 77% | not synced yet | Yes |
-| Call of Duty® Vanguard® | PS4 | 12% | not synced yet | No |
-| FIFA 21 | PS4 | 10% | not synced yet | No |
-| Among Us | PS4 | 71% | not synced yet | No |
-| It Takes Two | PS5 | 22% | not synced yet | No |
-| Surgeon Simulator | PS4 | 8% | not synced yet | No |
-| Battlefield 2042 Trophies | PS4 | 4% | not synced yet | No |
-| Tom Clancy’s Rainbow Six® Siege | PS4 | 17% | not synced yet | No |
-| The Last of Us™ Part II | PS4 | 33% | not synced yet | No |
-| Minecraft: PlayStation®4 Edition | PS4 | 20% | not synced yet | No |
+| FIFA 23 | PS4 | 45% | 20 / 40 | No |
+| Golf With Your Friends | PS4 | 13% | 9 / 56 | No |
+| PAYDAY 2: CRIMEWAVE EDITION | PS4 | 1% | 3 / 111 | No |
+| Gran Turismo 7 | PS5 | 0% | 0 / 54 | No |
+| EA SPORTS™UFC®4 | PS4 | 21% | 9 / 28 | No |
+| Call of Duty® Modern Warfare® II | PS4 | 0% | 0 / 25 | No |
+| Need for Speed™ Unbound | PS5 | 10% | 7 / 42 | No |
+| INSIDE | PS4 | 5% | 1 / 14 | n/a |
+| SUPERHOT | PS4 | 28% | 11 / 27 | No |
+| Assassin's Creed® Liberation Remastered | PS4 | 0% | 0 / 31 | No |
+| Grand Theft Auto: Vice City – The Definitive Edition | PS5 | 0% | 0 / 34 | No |
+| God of War | PS4 | 30% | 16 / 37 | No |
+| FIFA 23 Trophies | PS5 | 1% | 1 / 40 | No |
+| Everybody's Golf™ | PS4 | 0% | 0 / 31 | No |
+| Bully | PS4 | 100% | 38 / 38 | Yes |
+| Fall Guys | PS4 | 28% | 14 / 35 | No |
+| FIFA 22 | PS4 | 1% | 1 / 38 | No |
+| Human Fall Flat | PS5 | 0% | 0 / 118 | No |
+| LocoRoco™ Remastered | PS4 | 0% | 0 / 28 | No |
+| Red Faction | PS4 | 0% | 0 / 44 | No |
+| That's You!™ | PS4 | 65% | 19 / 28 | No |
+| FIFA 22 Trophies | PS5 | 1% | 1 / 38 | No |
+| F1® 2020 | PS4 | 2% | 2 / 51 | No |
+| Ghostrunner | PS5 | 32% | 15 / 45 | No |
+| Marvel's Spider-Man Remastered | PS5 | 70% | 62 / 79 | Yes |
+| Marvel's Spider-Man: Miles Morales | PS5 | 100% | 50 / 50 | Yes |
+| Fortnite: Save the World | PS5 | 0% | 0 / 46 | No |
+| Mortal Kombat X Trophies | PS4 | 6% | 5 / 74 | No |
+| Call of Duty® Vanguard® | PS5 | 12% | 2 / 45 | No |
+| Ghost of Tsushima | PS5,PSPC | 77% | 65 / 77 | Yes |
+| Ghost of Tsushima | PS4 | 77% | 65 / 77 | Yes |
+| Call of Duty® Vanguard® | PS4 | 12% | 2 / 45 | No |
+| FIFA 21 | PS4 | 10% | 5 / 37 | No |
+| Among Us | PS4 | 71% | 21 / 34 | No |
+| It Takes Two | PS5 | 22% | 6 / 21 | No |
+| Surgeon Simulator | PS4 | 8% | 6 / 56 | No |
+| Battlefield 2042 Trophies | PS4 | 4% | 2 / 35 | No |
+| Tom Clancy’s Rainbow Six® Siege | PS4 | 17% | 11 / 49 | No |
+| The Last of Us™ Part II | PS4 | 33% | 13 / 28 | No |
+| Minecraft: PlayStation®4 Edition | PS4 | 20% | 33 / 127 | No |
 | RESIDENT EVIL 3 | PS4 | 0% | not synced yet | No |
 | Deathloop | PS5 | 5% | not synced yet | No |
 | Far Cry® 6 | PS4 | 1% | not synced yet | No |

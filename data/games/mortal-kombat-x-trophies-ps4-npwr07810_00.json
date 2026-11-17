@@ -1,0 +1,69 @@
+{
+  "game": "Mortal Kombat X Trophies",
+  "platform": "PS4",
+  "npCommunicationId": "NPWR07810_00",
+  "progressPercent": 6,
+  "earnedCounts": {
+    "bronze": 5,
+    "silver": 0,
+    "gold": 0,
+    "platinum": 0
+  },
+  "definedCounts": {
+    "bronze": 67,
+    "silver": 5,
+    "gold": 1,
+    "platinum": 1
+  },
+  "psnLastUpdated": "2022-05-02T11:47:10Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 69,
+  "unearnedByType": {
+    "platinum": 1,
+    "gold": 1,
+    "silver": 5,
+    "bronze": 62
+  },
+  "earned": [
+    {
+      "id": 34,
+      "name": "FINISH HIM",
+      "detail": "Perform 1 Fatality in a match",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-27T15:39:46Z",
+      "rarityPercent": 63.1
+    },
+    {
+      "id": 49,
+      "name": "Jumping Bean",
+      "detail": "Jump 30 times in 1 match",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-27T15:39:48Z",
+      "rarityPercent": 75.7
+    },
+    {
+      "id": 44,
+      "name": "Blanche Advantage",
+      "detail": "Hit someone with the old lady Level Interaction",
+      "type": "bronze",
+      "earnedDateTime": "2015-05-27T16:29:03Z",
+      "rarityPercent": 48.6
+    },
+    {
+      "id": 43,
+      "name": "It's a Gusher",
+      "detail": "Spill 1,000 pints of blood",
+      "type": "bronze",
+      "earnedDateTime": "2021-03-28T16:54:10Z",
+      "rarityPercent": 63.5
+    },
+    {
+      "id": 7,
+      "name": "Pledge Yourself",
+      "detail": "Reach level 5 in any faction",
+      "type": "bronze",
+      "earnedDateTime": "2022-05-02T11:47:07Z",
+      "rarityPercent": 58.4
+    }
+  ]
+}
