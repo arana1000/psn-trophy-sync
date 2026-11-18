@@ -2,9 +2,9 @@
   "game": "Mafia: Definitive Edition",
   "platform": "PS4",
   "npCommunicationId": "NPWR20879_00",
-  "progressPercent": 69,
+  "progressPercent": 70,
   "earnedCounts": {
-    "bronze": 29,
+    "bronze": 30,
     "silver": 2,
     "gold": 2,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 3,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-10-26T02:56:39Z",
-  "earnedTotal": 33,
-  "unearnedTotal": 11,
+  "psnLastUpdated": "2026-11-18T01:07:48Z",
+  "earnedTotal": 34,
+  "unearnedTotal": 10,
   "unearnedByType": {
     "platinum": 1,
     "gold": 1,
     "silver": 5,
-    "bronze": 4
+    "bronze": 3
   },
   "earned": [
     {
@@ -31,7 +31,7 @@
       "detail": "Completed \"An Offer You Can't Refuse\"",
       "type": "bronze",
       "earnedDateTime": "2023-03-15T23:49:02Z",
-      "rarityPercent": 90.2
+      "rarityPercent": 90.1
     },
     {
       "id": 2,
@@ -288,6 +288,14 @@
       "type": "silver",
       "earnedDateTime": "2026-10-26T02:56:37Z",
       "rarityPercent": 2.6
+    },
+    {
+      "id": 27,
+      "name": "Car Enthusiast",
+      "detail": "Lockpicked 5 cars on the streets of Lost Heaven and environs",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-18T01:07:46Z",
+      "rarityPercent": 11.9
     }
   ]
 }

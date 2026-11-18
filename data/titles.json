@@ -1,5 +1,10 @@
 [
   {
+    "name": "Mafia: Definitive Edition",
+    "platform": "PS4",
+    "progressPercent": 70
+  },
+  {
     "name": "RV There Yet?",
     "platform": "PS5",
     "progressPercent": 4
@@ -8,11 +13,6 @@
     "name": "PEAK",
     "platform": "PS5",
     "progressPercent": 24
-  },
-  {
-    "name": "Mafia: Definitive Edition",
-    "platform": "PS4",
-    "progressPercent": 69
   },
   {
     "name": "Mafia II: Definitive Edition",

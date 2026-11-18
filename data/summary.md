@@ -4,6 +4,7 @@
 
 | Earned (UTC) | Trophy | Type | Game |
 |---|---|---|---|
+| 2026-11-18T01:07:46Z | Car Enthusiast | bronze | Mafia: Definitive Edition (PS4) |
 | 2026-11-15T03:34:48Z | Not even a scratch! | bronze | RV There Yet? (PS5) |
 | 2026-11-15T03:04:53Z | Can RVs swim? | bronze | RV There Yet? (PS5) |
 | 2026-11-15T02:05:54Z | This is going well! | bronze | RV There Yet? (PS5) |
@@ -28,15 +29,14 @@
 | 2026-10-24T00:07:09Z | The Collector | gold | Mafia: The Old Country (PS5) |
 | 2026-10-23T20:57:14Z | The Finer Things | bronze | Mafia: The Old Country (PS5) |
 | 2026-10-23T20:56:52Z | Mystery Fox Domination | silver | Mafia: The Old Country (PS5) |
-| 2026-10-23T13:58:40Z | Daredevil | silver | Mafia: The Old Country (PS5) |
 
 ## All games
 
 | Game | Platform | Progress | Earned | Platinum |
 |---|---|---|---|---|
+| Mafia: Definitive Edition | PS4 | 70% | 34 / 44 | No |
 | RV There Yet? | PS5 | 4% | 4 / 97 | No |
 | PEAK | PS5 | 24% | 12 / 65 | No |
-| Mafia: Definitive Edition | PS4 | 69% | 33 / 44 | No |
 | Mafia II: Definitive Edition | PS4 | 73% | 48 / 68 | Yes |
 | Mafia: The Old Country | PS5 | 78% | 51 / 63 | Yes |
 | Mafia III: Definitive Edition for PS5® | PS5 | 67% | 57 / 86 | Yes |
