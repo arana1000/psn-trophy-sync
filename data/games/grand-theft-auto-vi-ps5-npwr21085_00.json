@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 1,
+  "progressPercent": 2,
   "earnedCounts": {
-    "bronze": 1,
+    "bronze": 2,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-19T01:05:58Z",
-  "earnedTotal": 1,
-  "unearnedTotal": 54,
+  "psnLastUpdated": "2026-11-19T08:09:27Z",
+  "earnedTotal": 2,
+  "unearnedTotal": 53,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 45
+    "bronze": 44
   },
   "earned": [
     {
@@ -31,7 +31,15 @@
       "detail": "Complete Gone Fishing.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T01:05:57Z",
-      "rarityPercent": 78.9
+      "rarityPercent": 94
+    },
+    {
+      "id": 19,
+      "name": "Baited My Tackle",
+      "detail": "Beat Cal in a fishing challenge.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-19T07:00:21Z",
+      "rarityPercent": 0.6
     }
   ]
 }

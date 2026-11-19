@@ -4,6 +4,7 @@
 
 | Earned (UTC) | Trophy | Type | Game |
 |---|---|---|---|
+| 2026-11-19T07:00:21Z | Baited My Tackle | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-19T01:05:57Z | Just Like Paradise | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-18T01:07:46Z | Car Enthusiast | bronze | Mafia: Definitive Edition (PS4) |
 | 2026-11-15T03:34:48Z | Not even a scratch! | bronze | RV There Yet? (PS5) |
@@ -28,13 +29,12 @@
 | 2026-10-24T23:13:32Z | Ladies' Man | silver | Mafia II: Definitive Edition (PS4) |
 | 2026-10-24T00:07:09Z | The Don | platinum | Mafia: The Old Country (PS5) |
 | 2026-10-24T00:07:09Z | The Collector | gold | Mafia: The Old Country (PS5) |
-| 2026-10-23T20:57:14Z | The Finer Things | bronze | Mafia: The Old Country (PS5) |
 
 ## All games
 
 | Game | Platform | Progress | Earned | Platinum |
 |---|---|---|---|---|
-| Grand Theft Auto VI | PS5 | 1% | 1 / 55 | No |
+| Grand Theft Auto VI | PS5 | 2% | 2 / 55 | No |
 | Mafia: Definitive Edition | PS4 | 70% | 34 / 44 | No |
 | RV There Yet? | PS5 | 4% | 4 / 97 | No |
 | PEAK | PS5 | 24% | 12 / 65 | No |
