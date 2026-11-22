@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 2,
+  "progressPercent": 5,
   "earnedCounts": {
-    "bronze": 2,
+    "bronze": 4,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-21T18:52:34Z",
-  "earnedTotal": 2,
-  "unearnedTotal": 53,
+  "psnLastUpdated": "2026-11-22T06:05:39Z",
+  "earnedTotal": 4,
+  "unearnedTotal": 51,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 44
+    "bronze": 42
   },
   "earned": [
     {
@@ -31,7 +31,7 @@
       "detail": "Complete Gone Fishing.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T01:05:57Z",
-      "rarityPercent": 98.1
+      "rarityPercent": 98.2
     },
     {
       "id": 19,
@@ -39,7 +39,23 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 10.7
+      "rarityPercent": 11.7
+    },
+    {
+      "id": 2,
+      "name": "Paradise Lost",
+      "detail": "Complete Chapter 1.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-22T03:50:14Z",
+      "rarityPercent": 33.8
+    },
+    {
+      "id": 34,
+      "name": "Whip It Good",
+      "detail": "Discover 100 vehicles.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-22T04:56:12Z",
+      "rarityPercent": 10.3
     }
   ]
 }
