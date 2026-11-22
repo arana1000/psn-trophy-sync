@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 5,
+  "progressPercent": 7,
   "earnedCounts": {
-    "bronze": 4,
+    "bronze": 5,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-22T06:05:39Z",
-  "earnedTotal": 4,
-  "unearnedTotal": 51,
+  "psnLastUpdated": "2026-11-22T17:47:04Z",
+  "earnedTotal": 5,
+  "unearnedTotal": 50,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 42
+    "bronze": 41
   },
   "earned": [
     {
@@ -39,7 +39,7 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 11.7
+      "rarityPercent": 12.5
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       "detail": "Complete Chapter 1.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T03:50:14Z",
-      "rarityPercent": 33.8
+      "rarityPercent": 36.5
     },
     {
       "id": 34,
@@ -55,7 +55,15 @@
       "detail": "Discover 100 vehicles.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T04:56:12Z",
-      "rarityPercent": 10.3
+      "rarityPercent": 12.5
+    },
+    {
+      "id": 7,
+      "name": "Trust",
+      "detail": "Complete Breakfast Run.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-22T17:47:03Z",
+      "rarityPercent": 25.6
     }
   ]
 }
