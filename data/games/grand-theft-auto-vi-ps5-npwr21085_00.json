@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 7,
+  "progressPercent": 8,
   "earnedCounts": {
-    "bronze": 5,
+    "bronze": 6,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-22T17:47:04Z",
-  "earnedTotal": 5,
-  "unearnedTotal": 50,
+  "psnLastUpdated": "2026-11-22T23:40:07Z",
+  "earnedTotal": 6,
+  "unearnedTotal": 49,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 41
+    "bronze": 40
   },
   "earned": [
     {
@@ -31,7 +31,7 @@
       "detail": "Complete Gone Fishing.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T01:05:57Z",
-      "rarityPercent": 98.2
+      "rarityPercent": 98.3
     },
     {
       "id": 19,
@@ -39,7 +39,7 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 12.5
+      "rarityPercent": 13.1
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       "detail": "Complete Chapter 1.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T03:50:14Z",
-      "rarityPercent": 36.5
+      "rarityPercent": 39.3
     },
     {
       "id": 34,
@@ -55,7 +55,7 @@
       "detail": "Discover 100 vehicles.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T04:56:12Z",
-      "rarityPercent": 12.5
+      "rarityPercent": 14.8
     },
     {
       "id": 7,
@@ -63,7 +63,15 @@
       "detail": "Complete Breakfast Run.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T17:47:03Z",
-      "rarityPercent": 25.6
+      "rarityPercent": 28.4
+    },
+    {
+      "id": 45,
+      "name": "Let’s Go Bowling",
+      "detail": "Follow-through at the Kolt & Associates' bowling alley.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-22T19:35:11Z",
+      "rarityPercent": 8.7
     }
   ]
 }
