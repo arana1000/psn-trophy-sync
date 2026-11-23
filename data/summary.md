@@ -4,6 +4,7 @@
 
 | Earned (UTC) | Trophy | Type | Game |
 |---|---|---|---|
+| 2026-11-23T04:46:28Z | T**s Ass Drug Money | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-22T19:35:11Z | Let’s Go Bowling | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-22T17:47:03Z | Trust | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-22T04:56:12Z | Whip It Good | bronze | Grand Theft Auto VI (PS5) |
@@ -28,13 +29,12 @@
 | 2026-11-13T22:04:34Z | Beachcomber Badge | bronze | PEAK (PS5) |
 | 2026-11-13T21:52:51Z | Esoterica Badge | bronze | PEAK (PS5) |
 | 2026-10-26T02:56:37Z | Full Set | silver | Mafia: Definitive Edition (PS4) |
-| 2026-10-25T16:56:19Z | Platinum Trophy | platinum | Mafia II: Definitive Edition (PS4) |
 
 ## All games
 
 | Game | Platform | Progress | Earned | Platinum |
 |---|---|---|---|---|
-| Grand Theft Auto VI | PS5 | 8% | 6 / 55 | No |
+| Grand Theft Auto VI | PS5 | 10% | 7 / 55 | No |
 | Mafia: Definitive Edition | PS4 | 70% | 34 / 44 | No |
 | RV There Yet? | PS5 | 4% | 4 / 97 | No |
 | PEAK | PS5 | 24% | 12 / 65 | No |
