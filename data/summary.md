@@ -4,6 +4,9 @@
 
 | Earned (UTC) | Trophy | Type | Game |
 |---|---|---|---|
+| 2026-11-25T00:25:43Z | Spin On This! | bronze | Grand Theft Auto VI (PS5) |
+| 2026-11-24T20:34:37Z | This Was No Boat Accident | bronze | Grand Theft Auto VI (PS5) |
+| 2026-11-24T18:54:55Z | Treat Yo Self | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-24T01:45:17Z | Stick Fiddler | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-23T04:46:28Z | T**s Ass Drug Money | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-22T19:35:11Z | Let’s Go Bowling | bronze | Grand Theft Auto VI (PS5) |
@@ -26,15 +29,12 @@
 | 2026-11-14T00:05:10Z | Plunderer Badge | bronze | PEAK (PS5) |
 | 2026-11-14T00:00:15Z | Forestry Badge | bronze | PEAK (PS5) |
 | 2026-11-13T23:58:11Z | Clutch Badge | bronze | PEAK (PS5) |
-| 2026-11-13T23:38:14Z | Web Security Badge | bronze | PEAK (PS5) |
-| 2026-11-13T22:04:34Z | Beachcomber Badge | bronze | PEAK (PS5) |
-| 2026-11-13T21:52:51Z | Esoterica Badge | bronze | PEAK (PS5) |
 
 ## All games
 
 | Game | Platform | Progress | Earned | Platinum |
 |---|---|---|---|---|
-| Grand Theft Auto VI | PS5 | 11% | 8 / 55 | No |
+| Grand Theft Auto VI | PS5 | 15% | 11 / 55 | No |
 | Mafia: Definitive Edition | PS4 | 70% | 34 / 44 | No |
 | RV There Yet? | PS5 | 4% | 4 / 97 | No |
 | PEAK | PS5 | 24% | 12 / 65 | No |

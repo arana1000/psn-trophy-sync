@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 11,
+  "progressPercent": 15,
   "earnedCounts": {
-    "bronze": 8,
+    "bronze": 11,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-24T03:31:39Z",
-  "earnedTotal": 8,
-  "unearnedTotal": 47,
+  "psnLastUpdated": "2026-11-25T00:34:30Z",
+  "earnedTotal": 11,
+  "unearnedTotal": 44,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 38
+    "bronze": 35
   },
   "earned": [
     {
@@ -31,7 +31,7 @@
       "detail": "Complete Gone Fishing.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T01:05:57Z",
-      "rarityPercent": 98.3
+      "rarityPercent": 98.2
     },
     {
       "id": 19,
@@ -39,7 +39,7 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 14.4
+      "rarityPercent": 15
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       "detail": "Complete Chapter 1.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T03:50:14Z",
-      "rarityPercent": 45.4
+      "rarityPercent": 48.1
     },
     {
       "id": 34,
@@ -55,7 +55,7 @@
       "detail": "Discover 100 vehicles.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T04:56:12Z",
-      "rarityPercent": 20.9
+      "rarityPercent": 24.4
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "detail": "Complete Breakfast Run.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T17:47:03Z",
-      "rarityPercent": 35
+      "rarityPercent": 38.2
     },
     {
       "id": 45,
@@ -71,7 +71,7 @@
       "detail": "Follow-through at the Kolt & Associates' bowling alley.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T19:35:11Z",
-      "rarityPercent": 11.4
+      "rarityPercent": 12.9
     },
     {
       "id": 3,
@@ -79,7 +79,7 @@
       "detail": "Complete Chapter 2.",
       "type": "bronze",
       "earnedDateTime": "2026-11-23T04:46:28Z",
-      "rarityPercent": 26.2
+      "rarityPercent": 29.3
     },
     {
       "id": 20,
@@ -87,7 +87,31 @@
       "detail": "Complete an arcade game.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T01:45:17Z",
-      "rarityPercent": 0.4
+      "rarityPercent": 0.5
+    },
+    {
+      "id": 52,
+      "name": "Treat Yo Self",
+      "detail": "Spend $100,000 across all shops.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-24T18:54:55Z",
+      "rarityPercent": 8.4
+    },
+    {
+      "id": 22,
+      "name": "This Was No Boat Accident",
+      "detail": "Complete the final mission for Kenton.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-24T20:34:37Z",
+      "rarityPercent": 1.9
+    },
+    {
+      "id": 26,
+      "name": "Spin On This!",
+      "detail": "Complete the final mission for Tyrone.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-25T00:25:43Z",
+      "rarityPercent": 0.3
     }
   ]
 }
