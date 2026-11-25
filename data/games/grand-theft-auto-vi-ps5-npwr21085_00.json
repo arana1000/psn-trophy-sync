@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 15,
+  "progressPercent": 18,
   "earnedCounts": {
-    "bronze": 11,
+    "bronze": 13,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-25T00:34:30Z",
-  "earnedTotal": 11,
-  "unearnedTotal": 44,
+  "psnLastUpdated": "2026-11-25T06:56:02Z",
+  "earnedTotal": 13,
+  "unearnedTotal": 42,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 35
+    "bronze": 33
   },
   "earned": [
     {
@@ -39,7 +39,7 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 15
+      "rarityPercent": 15.2
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       "detail": "Complete Chapter 1.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T03:50:14Z",
-      "rarityPercent": 48.1
+      "rarityPercent": 49
     },
     {
       "id": 34,
@@ -55,7 +55,7 @@
       "detail": "Discover 100 vehicles.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T04:56:12Z",
-      "rarityPercent": 24.4
+      "rarityPercent": 25.5
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "detail": "Complete Breakfast Run.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T17:47:03Z",
-      "rarityPercent": 38.2
+      "rarityPercent": 39.3
     },
     {
       "id": 45,
@@ -71,7 +71,7 @@
       "detail": "Follow-through at the Kolt & Associates' bowling alley.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T19:35:11Z",
-      "rarityPercent": 12.9
+      "rarityPercent": 13.4
     },
     {
       "id": 3,
@@ -79,7 +79,7 @@
       "detail": "Complete Chapter 2.",
       "type": "bronze",
       "earnedDateTime": "2026-11-23T04:46:28Z",
-      "rarityPercent": 29.3
+      "rarityPercent": 30.4
     },
     {
       "id": 20,
@@ -95,7 +95,7 @@
       "detail": "Spend $100,000 across all shops.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T18:54:55Z",
-      "rarityPercent": 8.4
+      "rarityPercent": 9.2
     },
     {
       "id": 22,
@@ -103,7 +103,7 @@
       "detail": "Complete the final mission for Kenton.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T20:34:37Z",
-      "rarityPercent": 1.9
+      "rarityPercent": 2.1
     },
     {
       "id": 26,
@@ -111,7 +111,23 @@
       "detail": "Complete the final mission for Tyrone.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T00:25:43Z",
-      "rarityPercent": 0.3
+      "rarityPercent": 0.4
+    },
+    {
+      "id": 46,
+      "name": "Personal Best",
+      "detail": "A partnership with mass appeal.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-25T01:39:28Z",
+      "rarityPercent": 2.1
+    },
+    {
+      "id": 28,
+      "name": "Fair Game",
+      "detail": "Hunt a unique animal for Bret.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-25T03:42:55Z",
+      "rarityPercent": 0.1
     }
   ]
 }
