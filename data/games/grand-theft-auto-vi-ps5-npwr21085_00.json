@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 18,
+  "progressPercent": 20,
   "earnedCounts": {
-    "bronze": 13,
+    "bronze": 14,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-25T19:02:16Z",
-  "earnedTotal": 13,
-  "unearnedTotal": 42,
+  "psnLastUpdated": "2026-11-26T01:46:05Z",
+  "earnedTotal": 14,
+  "unearnedTotal": 41,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 33
+    "bronze": 32
   },
   "earned": [
     {
@@ -31,7 +31,7 @@
       "detail": "Complete Gone Fishing.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T01:05:57Z",
-      "rarityPercent": 98.1
+      "rarityPercent": 98
     },
     {
       "id": 19,
@@ -39,7 +39,7 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 15.5
+      "rarityPercent": 15.7
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       "detail": "Complete Chapter 1.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T03:50:14Z",
-      "rarityPercent": 49.9
+      "rarityPercent": 50.9
     },
     {
       "id": 34,
@@ -55,7 +55,7 @@
       "detail": "Discover 100 vehicles.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T04:56:12Z",
-      "rarityPercent": 27
+      "rarityPercent": 28.3
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "detail": "Complete Breakfast Run.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T17:47:03Z",
-      "rarityPercent": 40.5
+      "rarityPercent": 41.7
     },
     {
       "id": 45,
@@ -71,7 +71,7 @@
       "detail": "Follow-through at the Kolt & Associates' bowling alley.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T19:35:11Z",
-      "rarityPercent": 14.1
+      "rarityPercent": 14.6
     },
     {
       "id": 3,
@@ -79,7 +79,7 @@
       "detail": "Complete Chapter 2.",
       "type": "bronze",
       "earnedDateTime": "2026-11-23T04:46:28Z",
-      "rarityPercent": 31.6
+      "rarityPercent": 32.8
     },
     {
       "id": 20,
@@ -95,7 +95,7 @@
       "detail": "Spend $100,000 across all shops.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T18:54:55Z",
-      "rarityPercent": 10
+      "rarityPercent": 10.9
     },
     {
       "id": 22,
@@ -103,7 +103,7 @@
       "detail": "Complete the final mission for Kenton.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T20:34:37Z",
-      "rarityPercent": 2.3
+      "rarityPercent": 2.5
     },
     {
       "id": 26,
@@ -111,7 +111,7 @@
       "detail": "Complete the final mission for Tyrone.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T00:25:43Z",
-      "rarityPercent": 0.5
+      "rarityPercent": 0.6
     },
     {
       "id": 46,
@@ -119,7 +119,7 @@
       "detail": "A partnership with mass appeal.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T01:39:28Z",
-      "rarityPercent": 2.4
+      "rarityPercent": 2.7
     },
     {
       "id": 28,
@@ -128,6 +128,14 @@
       "type": "bronze",
       "earnedDateTime": "2026-11-25T03:42:55Z",
       "rarityPercent": 0.1
+    },
+    {
+      "id": 53,
+      "name": "Little Boxes",
+      "detail": "Purchase all garage properties.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-25T22:35:37Z",
+      "rarityPercent": 0.7
     }
   ]
 }

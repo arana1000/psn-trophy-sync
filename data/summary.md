@@ -4,6 +4,7 @@
 
 | Earned (UTC) | Trophy | Type | Game |
 |---|---|---|---|
+| 2026-11-25T22:35:37Z | Little Boxes | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-25T03:42:55Z | Fair Game | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-25T01:39:28Z | Personal Best | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-25T00:25:43Z | Spin On This! | bronze | Grand Theft Auto VI (PS5) |
@@ -28,13 +29,12 @@
 | 2026-11-14T23:34:06Z | Alpinist Badge | bronze | PEAK (PS5) |
 | 2026-11-14T23:12:31Z | Trailblazer Badge | bronze | PEAK (PS5) |
 | 2026-11-14T23:12:23Z | Happy Camper Badge | bronze | PEAK (PS5) |
-| 2026-11-14T00:05:10Z | Plunderer Badge | bronze | PEAK (PS5) |
 
 ## All games
 
 | Game | Platform | Progress | Earned | Platinum |
 |---|---|---|---|---|
-| Grand Theft Auto VI | PS5 | 18% | 13 / 55 | No |
+| Grand Theft Auto VI | PS5 | 20% | 14 / 55 | No |
 | Mafia: Definitive Edition | PS4 | 70% | 34 / 44 | No |
 | RV There Yet? | PS5 | 4% | 4 / 97 | No |
 | PEAK | PS5 | 24% | 12 / 65 | No |
