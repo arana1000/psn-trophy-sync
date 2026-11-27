@@ -2,9 +2,9 @@
   "game": "Grand Theft Auto VI",
   "platform": "PS5",
   "npCommunicationId": "NPWR21085_00",
-  "progressPercent": 24,
+  "progressPercent": 28,
   "earnedCounts": {
-    "bronze": 17,
+    "bronze": 20,
     "silver": 0,
     "gold": 0,
     "platinum": 0
@@ -15,14 +15,14 @@
     "gold": 2,
     "platinum": 1
   },
-  "psnLastUpdated": "2026-11-27T15:18:07Z",
-  "earnedTotal": 17,
-  "unearnedTotal": 38,
+  "psnLastUpdated": "2026-11-27T23:12:13Z",
+  "earnedTotal": 20,
+  "unearnedTotal": 35,
   "unearnedByType": {
     "platinum": 1,
     "gold": 2,
     "silver": 6,
-    "bronze": 29
+    "bronze": 26
   },
   "earned": [
     {
@@ -31,7 +31,7 @@
       "detail": "Complete Gone Fishing.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T01:05:57Z",
-      "rarityPercent": 97.8
+      "rarityPercent": 97.7
     },
     {
       "id": 19,
@@ -39,7 +39,7 @@
       "detail": "Beat Cal in a fishing challenge.",
       "type": "bronze",
       "earnedDateTime": "2026-11-19T07:00:21Z",
-      "rarityPercent": 16.4
+      "rarityPercent": 16.6
     },
     {
       "id": 2,
@@ -47,7 +47,7 @@
       "detail": "Complete Chapter 1.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T03:50:14Z",
-      "rarityPercent": 53.5
+      "rarityPercent": 54.2
     },
     {
       "id": 34,
@@ -55,7 +55,7 @@
       "detail": "Discover 100 vehicles.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T04:56:12Z",
-      "rarityPercent": 32.5
+      "rarityPercent": 33.8
     },
     {
       "id": 7,
@@ -63,7 +63,7 @@
       "detail": "Complete Breakfast Run.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T17:47:03Z",
-      "rarityPercent": 45.1
+      "rarityPercent": 46.1
     },
     {
       "id": 45,
@@ -71,7 +71,7 @@
       "detail": "Follow-through at the Kolt & Associates' bowling alley.",
       "type": "bronze",
       "earnedDateTime": "2026-11-22T19:35:11Z",
-      "rarityPercent": 16.5
+      "rarityPercent": 17.1
     },
     {
       "id": 3,
@@ -79,7 +79,7 @@
       "detail": "Complete Chapter 2.",
       "type": "bronze",
       "earnedDateTime": "2026-11-23T04:46:28Z",
-      "rarityPercent": 36.5
+      "rarityPercent": 37.6
     },
     {
       "id": 20,
@@ -95,7 +95,7 @@
       "detail": "Spend $100,000 across all shops.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T18:54:55Z",
-      "rarityPercent": 13.9
+      "rarityPercent": 14.8
     },
     {
       "id": 22,
@@ -103,7 +103,7 @@
       "detail": "Complete the final mission for Kenton.",
       "type": "bronze",
       "earnedDateTime": "2026-11-24T20:34:37Z",
-      "rarityPercent": 3.3
+      "rarityPercent": 3.5
     },
     {
       "id": 26,
@@ -111,7 +111,7 @@
       "detail": "Complete the final mission for Tyrone.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T00:25:43Z",
-      "rarityPercent": 1.1
+      "rarityPercent": 1.2
     },
     {
       "id": 46,
@@ -119,7 +119,7 @@
       "detail": "A partnership with mass appeal.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T01:39:28Z",
-      "rarityPercent": 3.8
+      "rarityPercent": 4.1
     },
     {
       "id": 28,
@@ -127,7 +127,7 @@
       "detail": "Hunt a unique animal for Bret.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T03:42:55Z",
-      "rarityPercent": 0.1
+      "rarityPercent": 0.2
     },
     {
       "id": 53,
@@ -135,7 +135,7 @@
       "detail": "Purchase all garage properties.",
       "type": "bronze",
       "earnedDateTime": "2026-11-25T22:35:37Z",
-      "rarityPercent": 1.2
+      "rarityPercent": 1.4
     },
     {
       "id": 38,
@@ -143,7 +143,7 @@
       "detail": "Rob a jewelry store without being detected.",
       "type": "bronze",
       "earnedDateTime": "2026-11-26T18:41:44Z",
-      "rarityPercent": 2.8
+      "rarityPercent": 3
     },
     {
       "id": 44,
@@ -151,7 +151,7 @@
       "detail": "Smash your way out of a vehicle showroom in classic style.",
       "type": "bronze",
       "earnedDateTime": "2026-11-26T19:58:54Z",
-      "rarityPercent": 2
+      "rarityPercent": 2.2
     },
     {
       "id": 21,
@@ -159,7 +159,31 @@
       "detail": "Complete the final mission for Andy.",
       "type": "bronze",
       "earnedDateTime": "2026-11-26T20:27:57Z",
-      "rarityPercent": 3.2
+      "rarityPercent": 3.5
+    },
+    {
+      "id": 42,
+      "name": "Pest Control",
+      "detail": "Rob an Illegal Operation belonging to each gang.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-27T19:19:29Z",
+      "rarityPercent": 0.6
+    },
+    {
+      "id": 23,
+      "name": "The Lone Rider",
+      "detail": "Complete the final mission for Billy.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-27T22:29:46Z",
+      "rarityPercent": 3.3
+    },
+    {
+      "id": 40,
+      "name": "A Classic Blitz Play",
+      "detail": "Rob an Armored Truck and escape.",
+      "type": "bronze",
+      "earnedDateTime": "2026-11-27T23:12:11Z",
+      "rarityPercent": 1.1
     }
   ]
 }

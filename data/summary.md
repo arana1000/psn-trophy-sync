@@ -4,6 +4,9 @@
 
 | Earned (UTC) | Trophy | Type | Game |
 |---|---|---|---|
+| 2026-11-27T23:12:11Z | A Classic Blitz Play | bronze | Grand Theft Auto VI (PS5) |
+| 2026-11-27T22:29:46Z | The Lone Rider | bronze | Grand Theft Auto VI (PS5) |
+| 2026-11-27T19:19:29Z | Pest Control | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-26T20:27:57Z | Road to Rehabilitation | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-26T19:58:54Z | Capital Offense | bronze | Grand Theft Auto VI (PS5) |
 | 2026-11-26T18:41:44Z | Sneakthief | bronze | Grand Theft Auto VI (PS5) |
@@ -26,15 +29,12 @@
 | 2026-11-15T03:04:53Z | Can RVs swim? | bronze | RV There Yet? (PS5) |
 | 2026-11-15T02:05:54Z | This is going well! | bronze | RV There Yet? (PS5) |
 | 2026-11-15T01:01:14Z | Baby Steps | bronze | RV There Yet? (PS5) |
-| 2026-11-15T00:15:31Z | Peak Badge | gold | PEAK (PS5) |
-| 2026-11-14T23:50:27Z | Volcanology Badge | bronze | PEAK (PS5) |
-| 2026-11-14T23:47:12Z | Foraging Badge | bronze | PEAK (PS5) |
 
 ## All games
 
 | Game | Platform | Progress | Earned | Platinum |
 |---|---|---|---|---|
-| Grand Theft Auto VI | PS5 | 24% | 17 / 55 | No |
+| Grand Theft Auto VI | PS5 | 28% | 20 / 55 | No |
 | Mafia: Definitive Edition | PS4 | 70% | 34 / 44 | No |
 | RV There Yet? | PS5 | 4% | 4 / 97 | No |
 | PEAK | PS5 | 24% | 12 / 65 | No |
